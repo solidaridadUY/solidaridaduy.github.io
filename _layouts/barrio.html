@@ -5,6 +5,6 @@ layout: default
 <ul>
   {% assign filtered_orgs = site.organizaciones | where: 'departamento', page.departamento | where: 'barrio', page.nombre %}
   {% for org in filtered_orgs %}
-    <li><a href="{{ org.url }}">{{ org.title }}</a></li>
+    <li><h2><a href="{{ org.url }}">{{ org.title }}</a></h2></li>
   {% endfor %}
 </ul>
