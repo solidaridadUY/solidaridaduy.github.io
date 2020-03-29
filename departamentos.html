@@ -1,0 +1,13 @@
+---
+title: Departamentos
+layout: default
+---
+<h1>Departamentos</h1>
+
+<ul>
+  {% for departamento in site.departamentos %}
+    <li>
+      <h2><a href="{{ departamento.url }}">{{ departamento.nombre }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
