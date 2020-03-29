@@ -1,7 +1,7 @@
 ---
-nombre: Parque Rodó
+nombre: Cruz de Carrasco
 departamento: Montevideo
 ---
 
-Barrio Parque Rodó
+Barrio Cruz de Carrasco
 Departamento de Montevideo
