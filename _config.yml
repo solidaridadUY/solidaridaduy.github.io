@@ -53,3 +53,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  organizaciones:
+    output: true
+  departamentos:
+    output: true
+  barrios:
+    output: true
