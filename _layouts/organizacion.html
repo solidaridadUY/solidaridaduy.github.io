@@ -35,19 +35,43 @@ layout: default
             <td class="title">Necesidades:</td>
             <td>{{page.necesidades}}</td>
         </tr>
+        {% if page.otros_contactos != blank %}
+        <tr>
+            <td class="title">Otros contactos:</td>
+            <td>{{page.otros_contactos}}</td>
+        </tr>
+        {% endif %}
+        {% if page.horario != blank %}
+        <tr>
+            <td class="title">Horario:</td>
+            <td>{{page.horario}}</td>
+        </tr>
+        {% endif %}
+        {% if page.aclaraciones != blank %}
+        <tr>
+            <td class="title">Aclaraciones:</td>
+            <td>{{page.aclaraciones}}</td>
+        </tr>
+        {% endif %}
+        {% if page.cuenta_bancaria != blank %}
+        <tr>
+            <td class="title">Cuenta bancaria:</td>
+            <td>{{page.cuenta_bancaria}}</td>
+        </tr>
+        {% endif %}
       </tbody>
     </table>
     <div class="post-share-links">
       <i>Compartí esta organización en:</i>
       <div>
           <span><a target="_blank" href="https://www.facebook.com/sharer.php?u={{site.url}}{{ page.url }}">
-            <i class="fab fa-facebook"></i>
+            <svg class="svg-icon"><use xlink:href="/assets/social-media-icons.svg#facebook"></use></svg>
           </a></span>
           <span><a target="_blank" href="https://twitter.com/intent/tweet?url={{site.url}}{{ page.url }}&text={{ page.title }}">
-            <i class="fab fa-twitter"></i>
+            <svg class="svg-icon"><use xlink:href="/assets/social-media-icons.svg#twitter"></use></svg>
           </a></span>
           <span><a target="_blank" href="https://wa.me/?text={{ page.title | url_encode }}%20{{site.url}}{{ page.url | url_encode }}">
-            <i class="fab fa-whatsapp"></i>
+            <svg class="svg-icon"><use xlink:href="/assets/social-media-icons.svg#whatsapp"></use></svg>
           </a></span>
       </div>
     </div>
