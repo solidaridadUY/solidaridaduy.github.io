@@ -1,0 +1,17 @@
+{% if site.data.social-media-links %}
+<div id="social-media-links">
+  <ul class="social">
+    {% assign sm = site.data.social-media-links %}
+    {% for entry in sm %}
+        {% assign key = entry | first %}
+        {% if sm[key].link %}
+            <li>
+              <a href="{{ sm[key].link }}" target="_BLANK" aria-hidden="true">
+                  <svg class="svg-icon"><use xlink:href="/assets/social-media-icons.svg#{{ key }}"></use></svg>
+              </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
