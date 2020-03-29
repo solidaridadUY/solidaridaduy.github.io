@@ -4,11 +4,19 @@
 // VARIABLE: S
 $base-color: #3EC9A7;
 $white: #fff;
-$gray-transparent: #464646bd;
-$gray-solid: #464646;
+$gray-dark: #191919;
+$gray-transparent: #2f2f2fdc;
+$gray-solid: #2f2f2f;
 
 @import "minima";
+@import "fonts";
+@import "header";
 @import "social-media-links";
+
+
+body {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
 
 .site-footer {
   border-top: 0;
