@@ -1,0 +1,17 @@
+---
+---
+
+// VARIABLE: S
+$base-color: #3EC9A7;
+$white: #fff;
+$gray-transparent: #464646bd;
+$gray-solid: #464646;
+
+@import "minima";
+@import "social-media-links";
+
+.site-footer {
+  border-top: 0;
+  padding: 30px 0;
+  background-color: $base-color;
+}
