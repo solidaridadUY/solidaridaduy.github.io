@@ -53,3 +53,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  organizacions:
+    output: true
+  departamentos:
+    output: true
+  barrios:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "departamentos"
+    values:
+      layout: "departamento"
+  - scope:
+      path: ""
+      type: "barrios"
+    values:
+      layout: "barrio"
