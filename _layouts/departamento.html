@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<h1>{{ page.nombre }}</h1>
+<h1>Barrios de {{ page.nombre }}</h1>
 
-<h2>Barrios de {{ page.nombre }}</h2>
 <ul>
   {% assign filtered_barrios = site.barrios | where: 'departamento', page.nombre %}
   {% for barrio in filtered_barrios %}
-    <li><a href="{{ barrio.url }}">{{ barrio.nombre }}</a></li>
+    <li><h2><a href="{{ barrio.url }}">{{ barrio.nombre }}</a></h2></li>
   {% endfor %}
 </ul>
