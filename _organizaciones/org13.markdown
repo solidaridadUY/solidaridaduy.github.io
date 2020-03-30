@@ -13,7 +13,7 @@ direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Son una organización que DISTRIBUYE donaciones. Entiendo que eso es un punto de donación"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---
