@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Ateneo Cerro"
-date: 2020-03-29 20:29:58 -0300
+date: 2020-03-29 21:17:33 -0300
 
 departamento: "Montevideo"
 barrio: "Villa del Cerro"
