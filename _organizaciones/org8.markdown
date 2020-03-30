@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Bar DALE GAUCHO "
+date: 2020-03-29 21:17:33 -0300
+
+departamento: "Montevideo"
+barrio: "La Teja"
+actividades: "Olla"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "094413087"
+direccion: "Emilio Romero 952 esq Heredia"
+
+otros_contactos: ""
+horario: "13 a 15 hs"
+aclaraciones: "Reciben donaciones, de 10 a 18 hs Hablar con Luis Ramos
+Almuerzo de 13 a 15 hs. - llevar vianda Martes y jueves"
+cuenta_bancaria: ""
+
+---
