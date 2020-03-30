@@ -1,8 +1,7 @@
 ---
 layout: organizacion
 
-title: "Merendero
-Los conquistadores Apoya Grupo Misericordia"
+title: "Merendero Los conquistadores Apoya Grupo Misericordia"
 date: 2020-03-29 21:17:33 -0300
 
 departamento: "Canelones"
