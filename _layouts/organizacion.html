@@ -35,25 +35,25 @@ layout: default
             <td class="title">Necesidades:</td>
             <td>{{page.necesidades}}</td>
         </tr>
-        {% if page.otros_contactos != blank %}
+        {% if page.otros_contactos != blank and page.otros_contactos != "" %}
         <tr>
             <td class="title">Otros contactos:</td>
             <td>{{page.otros_contactos}}</td>
         </tr>
         {% endif %}
-        {% if page.horario != blank %}
+        {% if page.horario != blank and page.horario != "" %}
         <tr>
             <td class="title">Horario:</td>
             <td>{{page.horario}}</td>
         </tr>
         {% endif %}
-        {% if page.aclaraciones != blank %}
+        {% if page.aclaraciones != blank and page.aclaraciones != "" %}
         <tr>
             <td class="title">Aclaraciones:</td>
             <td>{{page.aclaraciones}}</td>
         </tr>
         {% endif %}
-        {% if page.cuenta_bancaria != blank %}
+        {% if page.cuenta_bancaria != blank and page.cuenta_bancaria != "" %}
         <tr>
             <td class="title">Cuenta bancaria:</td>
             <td>{{page.cuenta_bancaria}}</td>
