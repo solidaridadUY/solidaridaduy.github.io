@@ -5,7 +5,7 @@ title: "Club Albion."
 date: 2020-03-29 21:17:33 -0300
 
 departamento: "Canelones"
-barrio: "Cuidad de la Costa"
+barrio: "Ciudad de la Costa"
 actividades: "Canasta"
 necesidades: "Alimentos"
 telefono_contacto: "099604054"
