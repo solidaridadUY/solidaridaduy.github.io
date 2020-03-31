@@ -20,11 +20,11 @@ layout: default
   {%- if posts.size > 0 -%}
     <h2 class="post-list-heading">Todas las organizaciones</h2>
 
-  <!-- Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="buscar por nombre, ciudad, barrio o actividad...">
-<ul id="results-container"></ul>
-</div>
+    <!-- Html Elements for Search -->
+    <div id="search-container">
+      <input type="text" id="search-input" placeholder="buscar por nombre, ciudad, barrio o actividad...">
+      <ul id="results-container" class="post-list"></ul>
+    </div>
 
     <ul id="list" class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -73,7 +73,8 @@ layout: default
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<ul class="post-list"><li><span class="post-meta">{barrio}, {departamento}</span><h3><a class="post-link" href="{{ post.url | relative_url }}">{title}</a></h3></li></ul>',
+  searchResultTemplate: '<li><span class="post-meta">{barrio}, {departamento}</span><h3><a class="post-link" href="{{ post.url | relative_url }}">{title}</a></h3></li>',
+  noResultsText: ("¡No se encontraron resultados!"),
   json: '/search.json'
 })
 </script>
