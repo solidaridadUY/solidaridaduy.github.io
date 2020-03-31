@@ -73,7 +73,7 @@ layout: default
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<li><span class="post-meta">{barrio}, {departamento}</span><h3><a class="post-link" href="{{ post.url | relative_url }}">{title}</a></h3></li>',
+  searchResultTemplate: '<li><span class="post-meta">{barrio}, {departamento}</span><h3><a class="post-link" href="{url}">{title}</a></h3></li>',
   noResultsText: ("¡No se encontraron resultados!"),
   json: '/search.json'
 })
