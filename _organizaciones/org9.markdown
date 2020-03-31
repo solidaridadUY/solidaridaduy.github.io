@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Comisión fomento"
-date: 2020-03-29 21:17:33 -0300
+date: 2020-03-31 20:39:23 -0300
 
 departamento: "Montevideo"
 barrio: "Los Bulevares"
@@ -14,9 +14,9 @@ direccion: "Ideario Artiguista y Liga Federal"
 otros_contactos: ""
 horario: ""
 aclaraciones: "Reciben donaciones en:
-Panadería El Oeste (frente al red market); 
-Ferretería El Destino (I. Artiguista 1865)
-Almacén El Nogal (Cimarrones 7655)"
+Panadería "El Oeste" (frente al red market); 
+Ferretería "El Destino (I. Artiguista 1865)
+Almacén "El Nogal" (Cimarrones 7655)"
 cuenta_bancaria: ""
 
 ---

@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Brigada Zapicán"
-date: 2020-03-29 21:17:33 -0300
+date: 2020-03-31 20:39:23 -0300
 
 departamento: "Montevideo"
 barrio: "Punta de Rieles"
@@ -13,7 +13,7 @@ direccion: "Centauro 6845 entre Leo y Virgo."
 
 otros_contactos: ""
 horario: "Todos los días 19:30hs"
-aclaraciones: "No queda claro si es olla"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

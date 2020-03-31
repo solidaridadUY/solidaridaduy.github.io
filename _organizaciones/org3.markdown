@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "La Pascuaj"
-date: 2020-03-29 21:17:33 -0300
+date: 2020-03-31 20:39:23 -0300
 
 departamento: "Montevideo"
 barrio: "Cruz de Carrasco"
