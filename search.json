@@ -1,0 +1,16 @@
+---
+---
+[
+  {% for post in site.organizaciones %}
+    {
+
+      "title"    		: "{{ post.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "departamento"    : "{{ post.departamento }}",
+      "barrio" 			: "{{ post.barrio }}",
+      "actividades"     : "{{ post.actividades }}",
+      "necesidades"		: "{{ post.necesidades }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

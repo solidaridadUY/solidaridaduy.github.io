@@ -19,7 +19,14 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <h2 class="post-list-heading">Todas las organizaciones</h2>
-    <ul class="post-list">
+
+  <!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="buscar por nombre, ciudad, barrio o actividad...">
+<ul id="results-container"></ul>
+</div>
+
+    <ul id="list" class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
@@ -57,3 +64,29 @@ layout: default
   {%- endif -%}
 
 </div>
+
+<!-- Script pointing to search-script.js -->
+<script src="js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<ul class="post-list"><li><span class="post-meta">{barrio}, {departamento}</span><h3><a class="post-link" href="{{ post.url | relative_url }}">{title}</a></h3></li></ul>',
+  json: '/search.json'
+})
+</script>
+
+<script src="js/jquery-3.4.1.min.js"></script>
+
+<script>
+  $(document).ready(function(){
+    $("#search-input").keyup(function() {
+      $("#list").hide();
+      if (!$('#search-input').val()) {
+        $("#list").show();
+      };
+    });
+  });
+</script>
