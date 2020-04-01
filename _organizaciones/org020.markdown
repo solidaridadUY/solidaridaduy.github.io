@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "C.A.Villa Teresa"
+date: 2020-03-31 21:13:31 -0300
+
+departamento: "Montevideo"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: "Reciben donaciones"
+telefono_contacto: "94951553"
+direccion: "Islas Canarias 4978"
+
+otros_contactos: ""
+horario: "A partir de las 13 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

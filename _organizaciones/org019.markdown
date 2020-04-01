@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-03-31 21:13:31 -0300
+
+departamento: "Montevideo"
+barrio: "Piedras Blancas"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "99166428"
+direccion: "Clemente Ruggia y Ma Del Rosario Ramos"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-03-31 21:13:31 -0300
+
+departamento: "Río Negro"
+barrio: "Fray Bentos"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+telefono_contacto: "091 026 159"
+direccion: "Oribe 1935"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Club Albion."
+date: 2020-03-31 21:13:31 -0300
+
+departamento: "Canelones"
+barrio: "Cuidad de la Costa"
+actividades: "Canasta"
+necesidades: "Alimentos"
+telefono_contacto: "99604054"
+direccion: "Interbalneraria y Marquez Castro"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Están armando canastas para entrega a familias del barrio"
+cuenta_bancaria: ""
+
+---
