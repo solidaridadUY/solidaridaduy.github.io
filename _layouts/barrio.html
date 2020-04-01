@@ -3,8 +3,10 @@ layout: default
 ---
 <h1>Organizaciones en {{ page.nombre }} - {{page.departamento}}</h1>
 <ul>
-  {% assign filtered_orgs = site.organizaciones | where: 'departamento', page.departamento | where: 'barrio', page.nombre %}
+  {% assign filtered_orgs = site.organizaciones | where: 'departamento', page.departamento %}
   {% for org in filtered_orgs %}
-    <li><h2><a href="{{ org.url }}">{{ org.title }}</a></h2></li>
+    {% if org.barrio contains page.nombre %}
+      <li><h2><a href="{{ org.url }}">{{ org.title }}</a></h2></li>
+    {% endif %}
   {% endfor %}
 </ul>
