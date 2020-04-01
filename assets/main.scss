@@ -25,10 +25,7 @@ body {
 }
 
 .page-content {
-  display: flex;
-  justify-content: center;
-  align-items: center;  
-  .wrapper {
-    display:inline-block;
-  }
+  .wrapper{
+    max-width: max-content;  
+  }  
 }
