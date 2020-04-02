@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-03-31 21:13:31 -0300
+
+departamento: "Canelones"
+barrio: "Pinamar Norte"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "097 979 372"
+direccion: "Calle 53 y Tropa Vieja"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Reciben donaciones de 9 a 11hs."
+cuenta_bancaria: ""
+
+---
