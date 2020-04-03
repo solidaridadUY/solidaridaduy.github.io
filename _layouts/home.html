@@ -18,30 +18,43 @@ layout: default
 
 
   {%- if posts.size > 0 -%}
-    <h2 class="post-list-heading">Todas las organizaciones</h2>
+    <!--<h2 class="post-list-heading">Todas las organizaciones</h2>-->
 
     <!-- Html Elements for Search -->
-    <div id="search-container">
+    <div id="search-container" class="search">
       <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre, ciudad, barrio o actividad ...">
-      <ul id="results-container" class="post-list"></ul>
+      
     </div>
+    
+    <!-- hay un java script que oculta uno de estos dos divs dependiendo si se muestra todo el listado o solo las búsquedas-->
 
-    <ul id="list" class="post-list">
+    <div id="results-container" class="row flex-grid"></div>
+    
+    <div id="row" class="row flex-grid">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.barrio }}, {{ post.departamento }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <article class="box-item">
+            <div class="box-body">
+              <div class="box-barrio">
+                <span class="post-meta">{{ post.barrio }}, {{ post.departamento }}</span>
+              </div>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              <p>{{ post.actividades }}</p>
+              {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+              {%- endif -%}
+            </div>
+          </article>
+        </a>
       {%- endfor -%}
-    </ul>
+      
+    </div>
 
     {% if site.paginate %}
       <div class="pager">
@@ -73,7 +86,7 @@ layout: default
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<li><span class="post-meta">{barrio}, {departamento}</span><h3><a class="post-link" href="{url}">{title}</a></h3></li>',
+  searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
   noResultsText: ("¡No se encontraron resultados!"),
   json: '/search.json'
 })
@@ -84,9 +97,9 @@ SimpleJekyllSearch({
 <script>
   $(document).ready(function(){
     $("#search-input").keyup(function() {
-      $("#list").hide();
+      $("#row").hide();
       if (!$('#search-input').val()) {
-        $("#list").show();
+        $("#row").show();
       };
     });
   });
