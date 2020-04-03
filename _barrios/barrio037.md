@@ -1,7 +1,7 @@
 ---
-nombre: "Shangrilá"
-departamento: "Canelones"
+nombre: "La Teja"
+departamento: "Montevideo"
 ---
 
-Barrio Shangrilá
-Departamento de Canelones
+Barrio La Teja
+Departamento de Montevideo

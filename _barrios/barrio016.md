@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "Arroyo Seco"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio Arroyo Seco
 Departamento de Montevideo

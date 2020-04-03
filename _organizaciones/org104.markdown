@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comisión Vecinal 26 de Marzo y Comisión 516"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Piedras Blancas"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
+telefono_contacto: "95952219, 095078679"
+direccion: "No Corresponde"
+
+otros_contactos: ""
+horario: "En el día"
+aclaraciones: "Comunicarse vía mobil para concretar"
+cuenta_bancaria: ""
+
+---

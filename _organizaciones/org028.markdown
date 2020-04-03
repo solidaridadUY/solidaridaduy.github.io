@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Albion."
-date: 2020-03-31 21:13:31 -0300
+title: "Docentes de UTU Colinas de Solymar"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Canelones"
-barrio: "Cuidad de la Costa"
-actividades: "Canasta"
-necesidades: "Alimentos"
-telefono_contacto: "99604054"
-direccion: "Interbalneraria y Marquez Castro"
+barrio: "Ciudad de la Costa"
+actividades: "Olla"
+necesidades: "Alimentos para cocinar"
+telefono_contacto: "098 157 893"
+direccion: "Colinas de Solymar"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Están armando canastas para entrega a familias del barrio"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

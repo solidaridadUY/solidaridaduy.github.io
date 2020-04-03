@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo España
+Barrio Casabó
 Departamento de Montevideo

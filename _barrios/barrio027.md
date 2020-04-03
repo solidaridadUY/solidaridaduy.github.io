@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Cerro
 Departamento de Montevideo

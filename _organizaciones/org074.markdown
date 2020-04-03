@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Jóvenes FA"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Aires Puros"
+actividades: "Canasta"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "99144809"
+direccion: "Comité Carlos Quijano, Atahona esq. Celedonio Rojas"
+
+otros_contactos: ""
+horario: "Jueves y sábado de 10 a 12 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

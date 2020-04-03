@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Punto de Donación"
+necesidades: "Retiramos Tu donación"
+telefono_contacto: "098865307-Florencia"
+direccion: "No corresponde"
+
+otros_contactos: "094357002-Hugo"
+horario: "durante el día"
+aclaraciones: "Retiramos tu donación"
+cuenta_bancaria: ""
+
+---

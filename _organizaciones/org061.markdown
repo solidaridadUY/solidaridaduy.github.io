@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Centro Cultural Totó y vecinos/as del barrio"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Nuevo París"
+actividades: "Canasta"
+necesidades: "Reciben donaciones"
+telefono_contacto: "97426604"
+direccion: "No corresponde"
+
+otros_contactos: "98429757"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

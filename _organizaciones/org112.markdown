@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Jóvenes FA"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "092190987"
+direccion: "Austria 2528 bis"
+
+otros_contactos: ""
+horario: "Diario, 20:30 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

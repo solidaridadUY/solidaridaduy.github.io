@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
-departamento: "Montevideo"
+nombre: "Pinamar Norte"
+departamento: "Canelones"
 ---
 
-Barrio Cerrito de la Victoria
-Departamento de Montevideo
+Barrio Pinamar Norte
+Departamento de Canelones

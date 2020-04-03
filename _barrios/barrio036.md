@@ -1,7 +1,7 @@
 ---
-nombre: "Sauce"
-departamento: "Canelones"
+nombre: "Jardines del Hipódromo"
+departamento: "Montevideo"
 ---
 
-Barrio Sauce
-Departamento de Canelones
+Barrio Jardines del Hipódromo
+Departamento de Montevideo

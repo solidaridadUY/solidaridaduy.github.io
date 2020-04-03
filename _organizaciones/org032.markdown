@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Mandalavos"
-date: 2020-03-31 21:13:31 -0300
+title: "Lomas 3 Baby Fútbol"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Canelones"
 barrio: "Lomas de Solymar"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "094 992 782"
-direccion: "Av. Instrucciones del Año XIII (al fondo del comedor estudiantil)."
+necesidades: "Alimentos no perecederos y productos de limpieza"
+telefono_contacto: "098925931
+092725742"
+direccion: "Calle 2 esquina Tiburón"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Coordinación telefónica"
+otros_contactos: "
+"
+horario: "Miércoles y Viernes de 18 a 20 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Jóvenes FA"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Cordón','Palermo','Parque Rodó','La Aguada','La Comercial','Tres Cruces'"
+actividades: "Otros"
+necesidades: "No corresponde"
+telefono_contacto: "99440874"
+direccion: "No corresponde"
+
+otros_contactos: ""
+horario: "No corresponde"
+aclaraciones: "Realización de compras a adultos mayores"
+cuenta_bancaria: ""
+
+---

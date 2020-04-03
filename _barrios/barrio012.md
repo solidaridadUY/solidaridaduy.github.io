@@ -1,7 +1,7 @@
 ---
-nombre: "Cuidad de la Costa"
-departamento: "Canelones"
+nombre: "Ismael Cortinas"
+departamento: "Flores"
 ---
 
-Barrio Cuidad de la Costa
-Departamento de Canelones
+Barrio Ismael Cortinas
+Departamento de Flores

@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Casavalle"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Casavalle
 Departamento de Montevideo

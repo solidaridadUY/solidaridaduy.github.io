@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Cerrito de la Victoria"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Cerrito de la Victoria
 Departamento de Montevideo

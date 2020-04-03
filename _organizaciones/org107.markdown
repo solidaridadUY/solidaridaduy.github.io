@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Cuerpo docente Liceo Número 2"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Canasta"
+necesidades: "Alimentos y productos de limpieza para canastas"
+telefono_contacto: "94955669"
+direccion: "Barrio Rivera Chico"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

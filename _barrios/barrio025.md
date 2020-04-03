@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Centro"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Centro
 Departamento de Montevideo

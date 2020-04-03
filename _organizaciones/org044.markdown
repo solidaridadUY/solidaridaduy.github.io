@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Guaycurú"
-date: 2020-03-31 21:13:31 -0300
+title: "Club Bella Vista"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "099 458 417"
-direccion: "Evaristo Ciganda 1397 BIS"
+barrio: "Bella Vista"
+actividades: "Olla"
+necesidades: "Reciben donaciones"
+telefono_contacto: "099167275 098456226"
+direccion: "Av. Agraciada 3100 Sede Bella Vista"
 
 otros_contactos: ""
-horario: "Todos los días de 10 a 12 y de 17.30 a 19.30"
-aclaraciones: "Pueden ir a buscar donaciones a domicilio"
+horario: "13.00 hs: Martes 31/03 y viernes 03/04"
+aclaraciones: "Llevar tupper. Un sólo representante por familia"
 cuenta_bancaria: ""
 
 ---

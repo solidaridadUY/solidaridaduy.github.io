@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
-departamento: "Montevideo"
+nombre: "Ciudad de la Costa"
+departamento: "Canelones"
 ---
 
-Barrio Bella Italia
-Departamento de Montevideo
+Barrio Ciudad de la Costa
+Departamento de Canelones

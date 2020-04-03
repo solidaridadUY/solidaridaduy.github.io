@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Club Royal"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Merienda"
+necesidades: "recepcionan alimentos y donaciones en la sede"
+telefono_contacto: "93734042"
+direccion: "Yucutuja 1250"
+
+otros_contactos: ""
+horario: "Validar vía celular, 18hrs en la cancha"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

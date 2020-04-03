@@ -1,5 +1,5 @@
 ---
-nombre: Salto
+nombre: "Salto"
 ---
 
 Departamento de Salto

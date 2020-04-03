@@ -1,5 +1,5 @@
 ---
-nombre: Canelones
+nombre: "Canelones"
 ---
 
 Departamento de Canelones

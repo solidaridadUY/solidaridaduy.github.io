@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Mercado Popular de Subsistencia"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
+telefono_contacto: "099281748"
+direccion: "No Corresponde"
+
+otros_contactos: "98825512"
+horario: "Durante el día"
+aclaraciones: "Coordinar via telefónica"
+cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
+
+---

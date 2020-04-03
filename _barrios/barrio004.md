@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
-departamento: "Montevideo"
+nombre: "Las Piedras"
+departamento: "Canelones"
 ---
 
-Barrio Casabó
-Departamento de Montevideo
+Barrio Las Piedras
+Departamento de Canelones

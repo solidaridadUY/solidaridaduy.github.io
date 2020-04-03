@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Sportivo Artigas"
-date: 2020-03-31 21:13:31 -0300
+title: "Comité Guaycurú"
+date: 2020-04-02 21:00:17 -0300
 
-departamento: "Canelones"
-barrio: "Sauce"
-actividades: "Olla"
-necesidades: "Se reciben alimentos y donaciones hasta el 03/04"
-telefono_contacto: "099240201 092487833"
-direccion: "Ruta 6 km 34.500"
+departamento: "Montevideo"
+barrio: "Reducto"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099 458 417"
+direccion: "Evaristo Ciganda 1397 BIS"
 
 otros_contactos: ""
-horario: "Sábado 4 de abril - 19.30 hs"
-aclaraciones: "Llevar tupper"
+horario: "Todos los días de 10 a 12 y de 17.30 a 19.30"
+aclaraciones: "Pueden ir a buscar donaciones a domicilio"
 cuenta_bancaria: ""
 
 ---

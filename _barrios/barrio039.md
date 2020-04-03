@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
+Barrio Los Bulevares
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Ismael Cortinas"
-departamento: "Flores"
+nombre: "Aguada"
+departamento: "Montevideo"
 ---
 
-Barrio Ismael Cortinas
-Departamento de Flores
+Barrio Aguada
+Departamento de Montevideo

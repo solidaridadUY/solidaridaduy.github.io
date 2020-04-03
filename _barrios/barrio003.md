@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
-departamento: "Montevideo"
+nombre: "Lagomar"
+departamento: "Canelones"
 ---
 
-Barrio Buceo
-Departamento de Montevideo
+Barrio Lagomar
+Departamento de Canelones

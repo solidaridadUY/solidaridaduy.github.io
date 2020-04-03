@@ -1,7 +1,7 @@
 ---
-nombre: "Lomas de Solymar"
-departamento: "Canelones"
+nombre: "Bella Vista"
+departamento: "Montevideo"
 ---
 
-Barrio Lomas de Solymar
-Departamento de Canelones
+Barrio Bella Vista
+Departamento de Montevideo

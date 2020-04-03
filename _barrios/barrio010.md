@@ -1,7 +1,7 @@
 ---
-nombre: "Conciliación"
-departamento: "Montevideo"
+nombre: "Tala"
+departamento: "Canelones"
 ---
 
-Barrio Conciliación
-Departamento de Montevideo
+Barrio Tala
+Departamento de Canelones

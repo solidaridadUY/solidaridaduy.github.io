@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero"
-date: 2020-03-31 21:13:31 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-02 21:00:17 -0300
 
-departamento: "Maldonado"
-barrio: "Playa Grande"
-actividades: "Merienda"
-necesidades: "Alimentos no perecederos, 
-leche y pan"
-telefono_contacto: "94254015"
-direccion: "Calle 26 entre 2 y 3"
+departamento: "Río Negro"
+barrio: "Fray Bentos"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+telefono_contacto: "091 026 159"
+direccion: "Oribe 1935"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Almuerzo - sábados y domingos 13 hs.
-Merienda - todos los días 18 hs.
-Cena- todos los días de 19 a 21 hs.
-LLEVAR TAZA, TUPPER Y CUBIERTOS"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---
