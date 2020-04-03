@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "El abrojo"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "98575716"
+direccion: "Soriano 1153"
+
+otros_contactos: ""
+horario: "Lunes a viernes de 9 a 15 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

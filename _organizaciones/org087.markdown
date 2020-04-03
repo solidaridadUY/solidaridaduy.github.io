@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Merendero Estrella de Oro"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Piedras Blancas"
+actividades: "Olla"
+necesidades: "Alimentos, productos de higiene y limpieza"
+telefono_contacto: "096098766 Yessica"
+direccion: "Clemente Ruggia y Ma del Rosario Ramos (salón de la cancha)"
+
+otros_contactos: ""
+horario: "19hs"
+aclaraciones: "Llevar tupper, olla de demanda muy creciente. Solicitan guantes y tapabocas para las personas voluntarias"
+cuenta_bancaria: ""
+
+---

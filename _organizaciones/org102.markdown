@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "El abrojo"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "94992782"
+direccion: "Av. Instrucciones del año XIII (al fondo de comedor estudiantil)"
+
+otros_contactos: ""
+horario: "Lunes a viernes de 11 a 15 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Inter Sindical PIT-CNT"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Canelones"
+barrio: "Santa Lucía"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "098691711        092213138  092249381"
+direccion: "Ramón Irigoyen entre 18 de Julio y Mitre"
+
+otros_contactos: ""
+horario: "Entrega de vianda todos los días. Sábados y domingos también merienda"
+aclaraciones: "Se reciben las donaciones en el horario de 17.00 a 20.00 hs en el local de la Inter Sindical del PIT-CNT"
+cuenta_bancaria: ""
+
+---

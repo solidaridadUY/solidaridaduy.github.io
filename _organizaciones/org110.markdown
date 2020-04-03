@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comité Parque Rodó"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "99440874"
+direccion: "Gonzalo Ramíres y Eduardo Acevedo"
+
+otros_contactos: "99421672"
+horario: "17 a 19"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

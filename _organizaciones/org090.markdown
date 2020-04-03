@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
+telefono_contacto: "093835462 Roberto"
+direccion: "Felisberto Hernandez 3538 BIS"
+
+otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
+horario: "17hs y 20hs"
+aclaraciones: "Funciona Sábados y Domingos / 17hs merienda 20hs cena / Demandan Guantes y tapabocas para voluntarios/as"
+cuenta_bancaria: ""
+
+---

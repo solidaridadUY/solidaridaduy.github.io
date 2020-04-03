@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Parroquia Santisima Trinidad y org vecinal"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Chacarita de los Padres"
+actividades: "Merienda"
+necesidades: "Es merendero y olla popular. Reciben todo tipo de donaciones"
+telefono_contacto: "91997349"
+direccion: "Cont Ovidio Fernandez Rios"
+ubicacion:
+  latitud: -34.82579
+  longitud: -56.11116
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

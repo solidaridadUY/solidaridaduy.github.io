@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "El Abrojo / Mandalavos"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Canelones"
+barrio: "Lomas de Solymar"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+telefono_contacto: "094 992 782"
+direccion: "Av. Instrucciones del Año XIII (al fondo del comedor estudiantil)."
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Coordinación telefónica"
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Centro Salesiano"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Aires Puros"
+actividades: "Canasta"
+necesidades: "Solo dinero"
+telefono_contacto: "2355 5684"
+direccion: "No corresponde"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "BBVA - CC $ 9927 19836
+Centro Salesiano Aires Puros"
+
+---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "iniciativa Vecinal"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: "Donaciones y olla popular, también se reciben tapa bocas y productos de limpieza"
+telefono_contacto: "094068329"
+direccion: "Fernando Menck 5880, 'La quinta'"
+
+otros_contactos: "95798613"
+horario: "18 hrs, contactar telefónicamente"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---
