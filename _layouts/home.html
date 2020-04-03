@@ -31,26 +31,28 @@ layout: default
     <div id="results-container" class="row flex-grid"></div>
     
     <div id="row" class="row flex-grid">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {%- for post in posts -%}
-        
-        <article class="box-item">
-          <div class="box-body">
-            <div class="box-barrio">
-              <span class="post-meta">{{ post.barrio }}, {{ post.departamento }}</span>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <article class="box-item">
+            <div class="box-body">
+              <div class="box-barrio">
+                <span class="post-meta">{{ post.barrio }}, {{ post.departamento }}</span>
+              </div>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              <p>{{ post.actividades }}</p>
+              {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+              {%- endif -%}
             </div>
-            <h3>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-            <p>{{ post.actividades }}</p>
-            {%- if site.show_excerpts -%}
-              {{ post.excerpt }}
-            {%- endif -%}
-          </div>
-        </article>
-        {%- endfor -%}
+          </article>
+        </a>
+      {%- endfor -%}
       
     </div>
 
