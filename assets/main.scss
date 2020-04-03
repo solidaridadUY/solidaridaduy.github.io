@@ -1,17 +1,35 @@
 ---
 ---
 
-// VARIABLE: S
+// VARIABLE: 
 $base-color: #3EC9A7;
 $white: #fff;
 $gray-dark: #191919;
 $gray-transparent: #2f2f2fdc;
 $gray-solid: #2f2f2f;
+$gray-light: #bbb;
 
 @import "minima";
+
+// Pongo max-width de wrapper en 100%
+// saco padding de wrapper
+// saco padding de page-content
+// para permitir tener una Home full-width
+// Lo hago antes de importar los demas sass para que se pueda sobreescribir.
+.page-content {
+  padding-top: 0;
+
+  .wrapper {
+    max-width: 100%;
+    padding: 0;
+  }
+}
+
 @import "fonts";
 @import "header";
 @import "social-media-links";
+@import "home";
+@import "post";
 
 
 body {
