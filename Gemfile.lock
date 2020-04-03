@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/fchavat/jekyll-leaflet
+  revision: 5f01348b8e31b60cd67b02db1210957711a81b06
+  specs:
+    jekyll-leaflet (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -248,6 +254,7 @@ DEPENDENCIES
   github-pages (~> 204)
   jekyll (= 3.8.5)
   jekyll-feed (= 0.13)
+  jekyll-leaflet!
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
