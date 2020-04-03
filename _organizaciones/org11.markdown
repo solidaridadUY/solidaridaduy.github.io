@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc)"
 telefono_contacto: "098141813 094053638"
 direccion: "Pérez Castellano y Sarandí"
+ubicacion:
+  latitud: -34.90917
+  longitud: -56.20982
 
 otros_contactos: ""
 horario: ""

@@ -10,6 +10,9 @@ actividades: "Canasta"
 necesidades: "Alimentos en general para armar canastas."
 telefono_contacto: "099926182"
 direccion: "Santiago Gadea 3537"
+ubicacion:
+  latitud: -34.89116
+  longitud: -56.14251
 
 otros_contactos: ""
 horario: "Lunes 30 a viernes 3, de 10 a 12 y de 17.30 a 19 hs."

@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Reciben Donaciones"
 telefono_contacto: "093819595"
 direccion: "Senegal 3785 esq. Charcas."
+ubicacion:
+  latitud: -34,8863718
+  longitud: -56,2682051
 
 otros_contactos: ""
 horario: ""

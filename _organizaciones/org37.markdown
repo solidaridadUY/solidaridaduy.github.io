@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Reciben donaciones"
 telefono_contacto: "091 471 165"
 direccion: "Av Gilomen 1448"
+ubicacion:
+  latitud: -34.28145
+  longitud: -57.23205
 
 otros_contactos: ""
 horario: "Entrega de viandas 

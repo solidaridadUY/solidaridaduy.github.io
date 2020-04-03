@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos y artículos de limpieza"
 telefono_contacto: "098291299"
 direccion: "Camino Maldonado 5842 y Venecia"
+ubicacion:
+  latitud: -34.83964
+  longitud: -56.12084
 
 otros_contactos: ""
 horario: ""

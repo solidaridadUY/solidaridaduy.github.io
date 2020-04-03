@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Se reciben alimentos y donaciones hasta el 03/04"
 telefono_contacto: "099240201 092487833"
 direccion: "Ruta 6 km 34.500"
+ubicacion:
+  latitud: -34.649
+  longitud: -56.0503
 
 otros_contactos: ""
 horario: "Sábado 4 de abril - 19.30 hs"

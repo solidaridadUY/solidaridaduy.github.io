@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos y artículos de limpieza"
 telefono_contacto: "094204040 099629958 099337003"
 direccion: "Julio César 1466"
+ubicacion:
+  latitud: -34,9001775
+  longitud: -56,1415061
 
 otros_contactos: ""
 horario: "Sábados de 11 a 13 y de 16 a 18hs"

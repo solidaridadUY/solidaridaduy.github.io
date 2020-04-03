@@ -10,6 +10,9 @@ actividades: "Merienda"
 necesidades: "Alimentos y donaciones"
 telefono_contacto: "091292894"
 direccion: "Polideportivo: La Colina R8, km24"
+ubicacion:
+  latitud: -34.75217
+  longitud: -56.0179
 
 otros_contactos: ""
 horario: ""

@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Reciben todo tipo de donaciones"
 telefono_contacto: "097 412 466"
 direccion: "Ombú y Ulises Favaro"
+ubicaion:
+  latitud: -34.8488
+  longitud: -56.1133
 
 otros_contactos: ""
 horario: "Entrega de viandas: lunes a viernes de 19 a 20 hs. Sabado y Domingo de 17 a 18 hs"

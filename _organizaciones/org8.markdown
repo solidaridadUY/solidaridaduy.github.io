@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Alimentos y donaciones"
 telefono_contacto: "094413087"
 direccion: "Emilio Romero 952 esq Heredia"
+ubicacion:
+  latitud: -34.87105
+  longitud: -56.23252
 
 otros_contactos: ""
 horario: "13 a 15 hs"

@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos"
 telefono_contacto: "099699322"
 direccion: "Wilson Ferreira Adunate 712 -"
+ubicacion:
+  latitud: -34.72435
+  longitud: -56.21999
 
 otros_contactos: ""
 horario: ""

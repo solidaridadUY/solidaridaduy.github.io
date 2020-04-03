@@ -11,6 +11,9 @@ actividades: "Olla"
 necesidades: "Alimentos"
 telefono_contacto: "097098032 097474368  094098578"
 direccion: "Manuel Acuña y Del Fuerte"
+ubicacion:
+  latitud: -34.85228
+  longitud: -56.11779
 
 otros_contactos: ""
 horario: "L a V 20:30 hs. S y D 14 hs."

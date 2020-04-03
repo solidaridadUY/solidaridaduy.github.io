@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos y productos de limpieza"
 telefono_contacto: "098925931 092725742"
 direccion: "Calle 2 esquina Tiburón"
+ubicacion:
+  latitud: -34.8139
+  longitud: -55.93222
 
 otros_contactos: "
 "

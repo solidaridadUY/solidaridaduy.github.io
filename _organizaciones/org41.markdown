@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Reciben donaciones"
 telefono_contacto: "099167275 098456226"
 direccion: "Av. Agraciada 3100 Sede Bella Vista"
+ubicacion: 
+  latitud: -34.87417
+  longitud: -56.20066
 
 otros_contactos: ""
 horario: "13.00 hs: Martes 31/03 y viernes 03/04"
