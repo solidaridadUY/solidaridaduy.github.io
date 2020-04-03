@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
-departamento: "Montevideo"
+nombre: "Costa de Oro"
+departamento: "Canelones"
 ---
 
-Barrio Bella Vista
-Departamento de Montevideo
+Barrio Costa de Oro
+Departamento de Canelones

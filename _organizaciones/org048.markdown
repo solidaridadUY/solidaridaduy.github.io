@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-03-31 21:13:31 -0300
+date: 2020-04-02 21:00:17 -0300
 
-departamento: "Montevideo"
-barrio: "Malvín Norte"
+departamento: "Canelones"
+barrio: "Pinamar Norte"
 actividades: "Olla"
-necesidades: "Alimentos para olla y una olla grande"
-telefono_contacto: "095 636 657"
-direccion: "Hipólito e Iguá"
+necesidades: "Alimentos"
+telefono_contacto: "097 979 372"
+direccion: "Calle 53 y Tropa Vieja"
 
 otros_contactos: ""
-horario: "Todos los días 19:30"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Reciben donaciones de 9 a 11hs."
 cuenta_bancaria: ""
 
 ---

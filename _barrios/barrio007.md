@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro"
-departamento: "Montevideo"
+nombre: "Santa Lucía"
+departamento: "Canelones"
 ---
 
-Barrio Cerro
-Departamento de Montevideo
+Barrio Santa Lucía
+Departamento de Canelones

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "MIRAMAR BBC"
-date: 2020-03-31 21:13:31 -0300
+title: "Club Sportivo Artigas"
+date: 2020-04-02 21:00:17 -0300
 
-departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Canasta"
-necesidades: "Alimentos en general para armar canastas."
-telefono_contacto: "099926182"
-direccion: "Santiago Gadea 3537"
+departamento: "Canelones"
+barrio: "Sauce"
+actividades: "Olla"
+necesidades: "Se reciben alimentos y donaciones hasta el 03/04"
+telefono_contacto: "099240201 092487833"
+direccion: "Ruta 6 km 34.500"
 
 otros_contactos: ""
-horario: "Lunes 30 a viernes 3, de 10 a 12 y de 17.30 a 19 hs."
-aclaraciones: ""
+horario: "Sábado 4 de abril - 19.30 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

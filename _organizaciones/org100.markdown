@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "El abrojo"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Paso Carrasco"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "98103973"
+direccion: "Vaz Ferreira 52"
+
+otros_contactos: ""
+horario: "Lunes a viernes de 13 a 18 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

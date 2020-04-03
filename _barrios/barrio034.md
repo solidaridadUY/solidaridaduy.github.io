@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Flor de Maroñas"
+departamento: "Montevideo"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Flor de Maroñas
+Departamento de Montevideo

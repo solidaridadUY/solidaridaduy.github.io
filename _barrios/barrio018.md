@@ -1,7 +1,7 @@
 ---
-nombre: "Las Piedras"
-departamento: "Canelones"
+nombre: "Bella Italia"
+departamento: "Montevideo"
 ---
 
-Barrio Las Piedras
-Departamento de Canelones
+Barrio Bella Italia
+Departamento de Montevideo

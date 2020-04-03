@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Cruz de Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Cruz de Carrasco
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Nueva Helvecia"
-departamento: "Colonia"
+nombre: "Capurro"
+departamento: "Montevideo"
 ---
 
-Barrio Nueva Helvecia
-Departamento de Colonia
+Barrio Capurro
+Departamento de Montevideo

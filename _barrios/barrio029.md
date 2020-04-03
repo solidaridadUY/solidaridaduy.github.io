@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Ciudad Vieja
 Departamento de Montevideo

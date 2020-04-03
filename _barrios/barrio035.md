@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Lucía"
-departamento: "Canelones"
+nombre: "Jacinto Vera"
+departamento: "Montevideo"
 ---
 
-Barrio Santa Lucía
-Departamento de Canelones
+Barrio Jacinto Vera
+Departamento de Montevideo

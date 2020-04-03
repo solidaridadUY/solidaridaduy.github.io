@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-03-31 21:13:31 -0300
+title: "ONG EL ABROJO"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
+barrio: "Centro"
+actividades: "Punto de Donación"
 necesidades: "Reciben Donaciones"
-telefono_contacto: "093819595-"
-direccion: "Senegal 3785 esq. Charcas."
+telefono_contacto: "098575716-"
+direccion: "Soriano 1153"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Entrega de vianda"
+horario: "Coordinar"
+aclaraciones: "Coordinación telefónica de donaciones"
 cuenta_bancaria: ""
 
 ---

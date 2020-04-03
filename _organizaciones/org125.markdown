@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vecinas"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Verdura, carne y pan."
+telefono_contacto: "95410570 (Laura o Natalia)"
+direccion: "Elisa Méndez y Carmelo colman"
+
+otros_contactos: ""
+horario: "Sábados y domingos de 19:30 a 20:30"
+aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
+cuenta_bancaria: ""
+
+---

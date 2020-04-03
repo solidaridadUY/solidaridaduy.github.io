@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+necesidades: "se reciben alimentos"
+telefono_contacto: "ir a la olla directamente"
+direccion: "Garzón y Lanús(Plaza Colón)"
+
+otros_contactos: ""
+horario: "Abre a diario y se sirve a las 18"
+aclaraciones: "Traer Tupper o Vianda"
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Jardines del Hipódromo"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Jardines del Hipódromo
+Barrio Aires Puros
 Departamento de Montevideo

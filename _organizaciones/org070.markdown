@@ -1,0 +1,24 @@
+---
+layout: organizacion
+
+title: "Jóvenes FA"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Bella Vista"
+actividades: "Canasta"
+necesidades: "Se recibe alimentos no
+perecederos, juguetes, ropa,
+apoyo transporte"
+telefono_contacto: "99204370"
+direccion: "Hermanos Gil 1051 esq
+Dufort y Álvarez"
+
+otros_contactos: "99869454"
+horario: " Martes miércoles y viernes
+de 15 a 19 hs"
+aclaraciones: ""
+cuenta_bancaria: "Caja de ahorro
+en pesos (Brou) 000152324-00001"
+
+---

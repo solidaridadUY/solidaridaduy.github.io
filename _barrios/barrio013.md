@@ -1,7 +1,7 @@
 ---
-nombre: "Flor de Maroñas"
-departamento: "Montevideo"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio Flor de Maroñas
-Departamento de Montevideo
+Barrio Playa Grande
+Departamento de Maldonado

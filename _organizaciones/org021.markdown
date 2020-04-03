@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Brigada Zapicán"
-date: 2020-03-31 21:13:31 -0300
+title: "Coop. FUCVAM"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
+barrio: "Bella Italia"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
-telefono_contacto: "098635050 093381094"
-direccion: "Centauro 6845 entre Leo y Virgo."
+necesidades: "Reciben Donaciones"
+telefono_contacto: "098124387-098638765"
+direccion: "SUM Complejo Juana de América"
 
 otros_contactos: ""
-horario: "Todos los días 19:30hs"
+horario: "Lunes a Viernes de 10 a 12 hs y de 17 a 19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

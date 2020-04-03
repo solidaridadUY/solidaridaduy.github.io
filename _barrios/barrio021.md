@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio Buceo
 Departamento de Montevideo

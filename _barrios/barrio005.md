@@ -1,7 +1,7 @@
 ---
-nombre: "CENTRO"
-departamento: "Montevideo"
+nombre: "Lomas de Solymar"
+departamento: "Canelones"
 ---
 
-Barrio CENTRO
-Departamento de Montevideo
+Barrio Lomas de Solymar
+Departamento de Canelones

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Modistas"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Empresa que dona"
+necesidades: "No corresponde"
+telefono_contacto: "www.facebook.com/sonia.rodriguez.900"
+direccion: "Comunicarse por Facebook"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Donan tapabocas hechos por ellas"
+cuenta_bancaria: ""
+
+---

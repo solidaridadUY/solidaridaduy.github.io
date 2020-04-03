@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Brandi"
-date: 2020-03-31 21:13:31 -0300
+title: "Centro Salesiano"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: "Alimentos no percederos, productos de higiene y limpieza"
-telefono_contacto: "098964527 096450004"
-direccion: "Adolfo Rodriguez 6738"
+barrio: "Aires Puros"
+actividades: "Canasta"
+necesidades: "Solo dinero"
+telefono_contacto: "2355 5684"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "BBVA - CC $ 9927 19836
+Centro Salesiano Aires Puros"
 
 ---

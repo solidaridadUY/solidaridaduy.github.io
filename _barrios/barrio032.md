@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Cordón
 Departamento de Montevideo

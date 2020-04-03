@@ -1,7 +1,7 @@
 ---
-nombre: "Lagomar"
-departamento: "Canelones"
+nombre: "Barrio Lavalleja"
+departamento: "Montevideo"
 ---
 
-Barrio Lagomar
-Departamento de Canelones
+Barrio Barrio Lavalleja
+Departamento de Montevideo

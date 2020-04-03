@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio Belvedere
 Departamento de Montevideo

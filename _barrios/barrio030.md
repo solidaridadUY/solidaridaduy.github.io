@@ -1,7 +1,7 @@
 ---
-nombre: "Pinamar Norte"
-departamento: "Canelones"
+nombre: "Colón"
+departamento: "Montevideo"
 ---
 
-Barrio Pinamar Norte
-Departamento de Canelones
+Barrio Colón
+Departamento de Montevideo

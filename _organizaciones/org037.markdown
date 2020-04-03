@@ -1,21 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-03-31 21:13:31 -0300
+title: "Merendero"
+date: 2020-04-02 21:00:17 -0300
 
-departamento: "Flores"
-barrio: "Ismael Cortinas"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098360975
-092010950"
-direccion: "Club Arroyo Grande, En Ismael Cortinas: Mevir 4, Núm 25857
-En Trinidad: Gral. Flores 454"
+departamento: "Maldonado"
+barrio: "Playa Grande"
+actividades: "Merienda"
+necesidades: "Alimentos no perecederos, 
+leche y pan"
+telefono_contacto: "94254015"
+direccion: "Calle 26 entre 2 y 3"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Sábados y Domingo, mediodía y noche"
+aclaraciones: "Almuerzo - sábados y domingos 13 hs.
+Merienda - todos los días 18 hs.
+Cena- todos los días de 19 a 21 hs.
+LLEVAR TAZA, TUPPER Y CUBIERTOS"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Bella Vista"
-date: 2020-03-31 21:13:31 -0300
+title: "iniciativa vecinal"
+date: 2020-04-02 21:00:17 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
+barrio: "Cruz de Carrasco"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "099167275 098456226"
-direccion: "Av. Agraciada 3100 Sede Bella Vista"
+necesidades: "Alimentos no perecederos, verduras, implementos de cocina, sanitarios, garrafa/anafe o similar"
+telefono_contacto: "099 659 422"
+direccion: "Cno. Carrasco y Av. Bolivia"
 
 otros_contactos: ""
-horario: "13.00 hs: Martes 31/03 y viernes 03/04"
-aclaraciones: "Llevar tupper. Un sólo representante por familia"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Lezica
 Departamento de Montevideo

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "se reciben alimentos no perecedero y productos de limpieza"
+telefono_contacto: "96262917"
+direccion: "Carlos Ott 2060 Bis"
+
+otros_contactos: ""
+horario: "20:00 hrs"
+aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
+cuenta_bancaria: ""
+
+---

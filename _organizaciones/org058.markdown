@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "COLECTIVO TRANS"
+date: 2020-04-02 21:00:17 -0300
+
+departamento: "Montevideo"
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+necesidades: "Reciben alimentos no perecederos, verduras, condimentos, etc."
+telefono_contacto: "095206931
+099211688"
+direccion: "manuel melendez 4017 entre leon perez y santiago sierra"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---
