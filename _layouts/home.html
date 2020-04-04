@@ -17,35 +17,7 @@ layout: default
   {% endif %}
 
   <div id="home-map">
-    {%- capture markers -%}
-      {%- for org in site.organizaciones -%}
-        {%- if org.ubicacion and org.ubicacion.latitud and org.ubicacion.longitud -%}
-          {%- capture popupContent -%}
-            {%- include org-popup-content.html content=org -%}
-          {%- endcapture -%}
-          {%- capture processedPopupContent -%}
-            {{ popupContent | strip_newlines }}
-          {%- endcapture -%}
-
-          {%- leaflet_marker 
-            {
-              "latitude": {{ org.ubicacion.latitud }},
-              "longitude": {{ org.ubicacion.longitud }},
-              "popupContent": "{{ processedPopupContent }}",
-            }  
-          -%}
-        {%- endif -%}
-      {%- endfor -%}
-    {%- endcapture -%}
-
-    {%- leaflet_map 
-      {
-        "center": [-33.055, -55.629],
-        "zoom" : 7 
-      } 
-    -%}
-      {{ markers }}
-    {%- endleaflet_map -%}
+    {%- include map.html orgs=site.organizaciones -%}
   </div>
 
   {%- if posts.size > 0 -%}
@@ -53,7 +25,7 @@ layout: default
       <!-- Html Elements for Search -->
       <div class="search-container">
         <svg class="svg-icon"><use xlink:href="/assets/utils-icons.svg#search"></use></svg>
-        <input type="text" id="search-input" placeholder="buscar por nombre, ciudad, barrio o actividad...">
+        <input type="text" id="search-input" placeholder="Buscar por nombre, ciudad, barrio o actividad ...">
       </div>
       <ul id="results-container" class="post-list"></ul>
       <ul id="list" class="post-list">
@@ -65,6 +37,9 @@ layout: default
             <h5>
               {{ post.title | escape }}
             </h5>
+            <span class="post-meta">
+              {{ post.actividades }}
+            </span>
             {%- if site.show_excerpts -%}
             {{ post.excerpt }}
             {%- endif -%}
@@ -115,9 +90,9 @@ this.window.simpleJekyllSearch = SimpleJekyllSearch({
 <script>
   $(document).ready(function(){
     $("#search-input").keyup(function() {
-      $("#row").hide();
+      $("#list").hide();
       if (!$('#search-input').val()) {
-        $("#row").show();
+        $("#list").show();
       };
     });
   });
