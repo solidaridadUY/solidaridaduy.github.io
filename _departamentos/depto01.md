@@ -1,5 +1,5 @@
 ---
-nombre: "Canelones"
+nombre: "Departamento"
 ---
 
-Departamento de Canelones
+Departamento de Departamento

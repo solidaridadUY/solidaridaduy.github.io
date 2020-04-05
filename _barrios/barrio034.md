@@ -1,7 +1,7 @@
 ---
-nombre: "Flor de Maroñas"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio Flor de Maroñas
+Barrio Ciudad Vieja
 Departamento de Montevideo

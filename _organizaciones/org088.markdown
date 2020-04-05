@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Merendero Nuevo Amanecer"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
 actividades: "Olla"
 necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "95286057 Ana"
+telefono_contacto: "095286057 Ana"
 direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
 
 otros_contactos: ""

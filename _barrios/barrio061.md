@@ -1,7 +1,7 @@
 ---
-nombre: "Fray Bentos"
-departamento: "Río Negro"
+nombre: "Piedras Blancas"
+departamento: "Montevideo"
 ---
 
-Barrio Fray Bentos
-Departamento de Río Negro
+Barrio Piedras Blancas
+Departamento de Montevideo

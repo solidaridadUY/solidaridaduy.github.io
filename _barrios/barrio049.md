@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Maroñas
 Departamento de Montevideo

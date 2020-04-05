@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Nuevo España"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Nuevo España
 Departamento de Montevideo

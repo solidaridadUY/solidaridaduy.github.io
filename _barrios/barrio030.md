@@ -1,7 +1,7 @@
 ---
-nombre: "Colón"
+nombre: "Cerrito de la Victoria"
 departamento: "Montevideo"
 ---
 
-Barrio Colón
+Barrio Cerrito de la Victoria
 Departamento de Montevideo

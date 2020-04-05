@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "Nuevo París"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio Nuevo París
 Departamento de Montevideo

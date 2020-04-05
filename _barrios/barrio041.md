@@ -1,7 +1,7 @@
 ---
-nombre: "Maroñas"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio Maroñas
+Barrio Jacinto Vera
 Departamento de Montevideo

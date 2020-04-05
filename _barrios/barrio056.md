@@ -1,7 +1,7 @@
 ---
-nombre: "Unión"
+nombre: "Parque Rodó"
 departamento: "Montevideo"
 ---
 
-Barrio Unión
+Barrio Parque Rodó
 Departamento de Montevideo

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-05 18:22:40 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Sur"
+actividades: "Olla"
+necesidades: "Aimentos"
+telefono_contacto: "098520248"
+direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
+
+otros_contactos: "093524166"
+horario: "Viernes a las 21 hs"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
+cuenta_bancaria: ""
+
+---

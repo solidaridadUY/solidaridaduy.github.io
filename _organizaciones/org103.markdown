@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Liga universitaria, Paysandú"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Paysandú"
 barrio: "Paysandú"
 actividades: "Canasta"
 necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "91401964"
+telefono_contacto: "091401964"
 direccion: "No corresponde, donaciones a coordinar"
 
 otros_contactos: ""

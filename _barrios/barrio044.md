@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio La Teja
 Departamento de Montevideo

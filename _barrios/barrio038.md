@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio Lezica
+Barrio Cordón
 Departamento de Montevideo

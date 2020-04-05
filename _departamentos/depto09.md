@@ -1,5 +1,5 @@
 ---
-nombre: "Tacuarembó"
+nombre: "Salto"
 ---
 
-Departamento de Tacuarembó
+Departamento de Salto

@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "La Comercial"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio La Comercial
 Departamento de Montevideo

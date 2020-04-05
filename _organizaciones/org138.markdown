@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Jóvenes del Municipio B
+Apoyo: Consejo Vecinal 2"
+date: 2020-04-05 18:22:40 -0300
+
+departamento: "Montevideo"
+barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
+actividades: "Realización de compras"
+necesidades: "No corresponde"
+telefono_contacto: "099405205"
+direccion: "No corresponde"
+
+otros_contactos: "areasocialmunicipiob@gmail.com"
+horario: "Se toman pedidos desde las 9 hasta las 15hs."
+aclaraciones: "Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
+cuenta_bancaria: ""
+
+---

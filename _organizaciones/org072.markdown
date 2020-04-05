@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "PIT-CNT"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Canelones"
 barrio: "Santa Lucía"
 actividades: "Otros"
 necesidades: "Alimentos no perecederos."
-telefono_contacto: "098691711-092213138-092249381"
-direccion: "Ramon Irigoyen entre 18 de julio y julio mitre, santa lucia canelones"
+telefono_contacto: "098691711 092213138  092249381"
+direccion: "Ramon Irigoyen entre 18 de Julio y Julio Mitre"
 
 otros_contactos: ""
 horario: "de 17:00 a 20:00 hrs"

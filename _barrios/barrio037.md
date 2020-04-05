@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio Cordón
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Rodó"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Rodó
+Barrio Los Bulevares
 Departamento de Montevideo

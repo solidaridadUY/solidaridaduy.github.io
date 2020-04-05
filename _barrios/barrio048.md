@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Malvín Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Malvín Norte
 Departamento de Montevideo

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-05 18:22:40 -0300
+
+departamento: "Montevideo"
+barrio: "La Teja"
+actividades: "Olla"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Av Carlos Ramirez entre Teller y Agustín Muñoz"
+
+otros_contactos: ""
+horario: "Jueves 20.00 hs"
+aclaraciones: "Llevar tupper"
+cuenta_bancaria: ""
+
+---

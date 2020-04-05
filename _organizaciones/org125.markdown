@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Vecinas"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Montevideo"
 barrio: "Casavalle"
 actividades: "Olla"
 necesidades: "Verdura, carne y pan."
-telefono_contacto: "95410570 (Laura o Natalia)"
+telefono_contacto: "095410570 (Laura o Natalia)"
 direccion: "Elisa Méndez y Carmelo colman"
 
 otros_contactos: ""

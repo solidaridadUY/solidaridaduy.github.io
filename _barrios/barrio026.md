@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
+nombre: "Capurro"
 departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
+Barrio Capurro
 Departamento de Montevideo

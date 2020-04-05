@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio Casavalle
+Barrio Belvedere
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Nuevo Verdisol
 Departamento de Montevideo

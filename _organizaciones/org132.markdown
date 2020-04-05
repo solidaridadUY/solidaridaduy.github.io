@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Sunca"
+date: 2020-04-05 18:22:40 -0300
+
+departamento: "Rocha"
+barrio: "Chuy"
+actividades: "Punto de Donación"
+necesidades: "Se reciben donaciones, alimentos para olla popular"
+telefono_contacto: "091931006"
+direccion: "FCO De Los Santos 526"
+
+otros_contactos: "091500535"
+horario: "Durante el día"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

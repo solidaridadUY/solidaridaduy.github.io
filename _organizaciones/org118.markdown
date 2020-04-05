@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
@@ -11,7 +11,7 @@ necesidades: "Se reciben donaciones de: Leche en polvo, cocoa, Azúcar,Bizcochos
 telefono_contacto: "099834255"
 direccion: "Asentamiento Fortaleza"
 
-otros_contactos: "92728754"
+otros_contactos: "092728754"
 horario: "Consultar vía celular"
 aclaraciones: "Se están realizando meriendas para ayudar a lxs Niñxs del asentamiento Fortaleza brindandoles una merienda diaria."
 cuenta_bancaria: ""

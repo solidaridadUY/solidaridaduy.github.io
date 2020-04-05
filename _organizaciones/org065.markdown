@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Club Estudiantes de la Unión"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Montevideo"
 barrio: "Unión"
 actividades: "Olla"
 necesidades: "Alimentos no perecederos, carne, artículos de limpieza y ropa de abrigo"
-telefono_contacto: "94460660"
+telefono_contacto: "094460660"
 direccion: "Cabrera y Pernas"
 
 otros_contactos: "lalogarmen2@gmail.com"

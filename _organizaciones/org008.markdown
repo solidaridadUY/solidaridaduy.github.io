@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Bar DALE GAUCHO"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 18:22:40 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
 actividades: "Olla"
 necesidades: "Alimentos y donaciones"
-telefono_contacto: "94413087"
+telefono_contacto: "094413087"
 direccion: "Emilio Romero 952 esq Heredia"
 
 otros_contactos: ""

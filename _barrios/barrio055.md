@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Parque Batlle"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Parque Batlle
 Departamento de Montevideo

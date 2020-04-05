@@ -1,7 +1,7 @@
 ---
-nombre: "Rivera"
-departamento: "Rivera"
+nombre: "Pocitos"
+departamento: "Montevideo"
 ---
 
-Barrio Rivera
-Departamento de Rivera
+Barrio Pocitos
+Departamento de Montevideo

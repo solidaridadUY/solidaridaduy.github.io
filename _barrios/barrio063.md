@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Prado"
+departamento: "Montevideo"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Prado
+Departamento de Montevideo

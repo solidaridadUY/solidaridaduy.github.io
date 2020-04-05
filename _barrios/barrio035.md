@@ -1,7 +1,7 @@
 ---
-nombre: "Jacinto Vera"
+nombre: "Colón"
 departamento: "Montevideo"
 ---
 
-Barrio Jacinto Vera
+Barrio Colón
 Departamento de Montevideo

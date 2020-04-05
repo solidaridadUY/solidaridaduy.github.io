@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Grande"
-departamento: "Maldonado"
+nombre: "Barrio/Localidad"
+departamento: "Departamento"
 ---
 
-Barrio Playa Grande
-Departamento de Maldonado
+Barrio Barrio/Localidad
+Departamento de Departamento

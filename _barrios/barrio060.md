@@ -1,7 +1,7 @@
 ---
-nombre: "Paysandú"
-departamento: "Paysandú"
+nombre: "Peñarol"
+departamento: "Montevideo"
 ---
 
-Barrio Paysandú
-Departamento de Paysandú
+Barrio Peñarol
+Departamento de Montevideo

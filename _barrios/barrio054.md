@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Palermo"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Palermo
 Departamento de Montevideo

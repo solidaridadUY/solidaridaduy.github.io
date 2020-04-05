@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
-departamento: "Montevideo"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio Aires Puros
-Departamento de Montevideo
+Barrio Playa Grande
+Departamento de Maldonado

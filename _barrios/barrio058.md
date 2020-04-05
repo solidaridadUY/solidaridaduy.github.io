@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
+nombre: "Paso de la Arena"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
+Barrio Paso de la Arena
 Departamento de Montevideo

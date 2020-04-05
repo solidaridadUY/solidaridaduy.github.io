@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "Punta de Rieles"
+departamento: "Montevideo"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio Punta de Rieles
+Departamento de Montevideo

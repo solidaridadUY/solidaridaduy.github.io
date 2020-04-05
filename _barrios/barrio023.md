@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
+nombre: "Bella Vista"
 departamento: "Montevideo"
 ---
 
-Barrio Casabó
+Barrio Bella Vista
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Buceo
+Barrio Barrio Sur
 Departamento de Montevideo

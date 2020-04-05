@@ -1,7 +1,7 @@
 ---
-nombre: "Chacarita de los Padres"
+nombre: "Casavalle"
 departamento: "Montevideo"
 ---
 
-Barrio Chacarita de los Padres
+Barrio Casavalle
 Departamento de Montevideo

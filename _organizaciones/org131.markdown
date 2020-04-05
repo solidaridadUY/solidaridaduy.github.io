@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Red Solidaria Chuy"
+date: 2020-04-05 18:22:40 -0300
+
+departamento: "Rocha"
+barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
+actividades: "Punto de Donación"
+necesidades: "Se reciben alimentos no perecederos y toda clase de donaciones"
+telefono_contacto: "098823513"
+direccion: "No corresponde"
+
+otros_contactos: "098327339"
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+cuenta_bancaria: ""
+
+---

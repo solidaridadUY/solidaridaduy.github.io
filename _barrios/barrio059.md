@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Española
+Barrio Paso Molino
 Departamento de Montevideo

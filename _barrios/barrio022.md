@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Capurro
+Barrio Bella Italia
 Departamento de Montevideo

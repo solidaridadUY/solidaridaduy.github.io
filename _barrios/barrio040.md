@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "Flor de Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio Flor de Maroñas
 Departamento de Montevideo

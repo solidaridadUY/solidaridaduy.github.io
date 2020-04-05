@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Lezica
 Departamento de Montevideo

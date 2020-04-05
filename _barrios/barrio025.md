@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Centro
+Barrio Buceo
 Departamento de Montevideo

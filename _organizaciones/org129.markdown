@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Club Atlético Cordón"
+date: 2020-04-05 18:22:40 -0300
+
+departamento: "Montevideo"
+barrio: "Cordón"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "091923053"
+direccion: "Galicia 1673"
+
+otros_contactos: ""
+horario: "Olla: Consultar al número de contacto
+Donaciones: 14 a 16 hs"
+aclaraciones: "Se coordinan retiros de donaciones vía telefónica"
+cuenta_bancaria: ""
+
+---

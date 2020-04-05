@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Paso Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Paso Carrasco
 Departamento de Montevideo

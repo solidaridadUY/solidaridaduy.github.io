@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
+nombre: "Jardines del Hipódromo"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo España
+Barrio Jardines del Hipódromo
 Departamento de Montevideo
