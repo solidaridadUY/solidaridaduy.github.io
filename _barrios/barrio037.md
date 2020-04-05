@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Jacinto Vera
 Departamento de Montevideo

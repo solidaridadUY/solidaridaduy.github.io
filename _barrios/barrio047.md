@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín"
+nombre: "Nuevo España"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín
+Barrio Nuevo España
 Departamento de Montevideo

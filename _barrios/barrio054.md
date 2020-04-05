@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Paso de la Arena"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Paso de la Arena
 Departamento de Montevideo

@@ -1,5 +1,5 @@
 ---
-nombre: "Flores"
+nombre: "Maldonado"
 ---
 
-Departamento de Flores
+Departamento de Maldonado

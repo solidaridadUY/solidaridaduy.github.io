@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
+nombre: "Parque Batlle"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo España
+Barrio Parque Batlle
 Departamento de Montevideo

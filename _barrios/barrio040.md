@@ -1,7 +1,7 @@
 ---
-nombre: "Flor de Maroñas"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Flor de Maroñas
+Barrio La Teja
 Departamento de Montevideo

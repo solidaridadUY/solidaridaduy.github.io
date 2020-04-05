@@ -1,7 +1,7 @@
 ---
-nombre: "18 de Julio"
-departamento: "Rocha"
+nombre: "Salto"
+departamento: "Salto"
 ---
 
-Barrio 18 de Julio
-Departamento de Rocha
+Barrio Salto
+Departamento de Salto

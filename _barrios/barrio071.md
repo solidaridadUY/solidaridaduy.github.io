@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
-departamento: "Montevideo"
+nombre: "18 de Julio"
+departamento: "Rocha"
 ---
 
-Barrio Villa Española
-Departamento de Montevideo
+Barrio 18 de Julio
+Departamento de Rocha

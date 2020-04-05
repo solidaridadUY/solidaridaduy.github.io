@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Villa Dolores"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Villa Dolores
 Departamento de Montevideo

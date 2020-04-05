@@ -3,7 +3,7 @@ layout: organizacion
 
 title: "Jóvenes del Municipio B
 Apoyo: Consejo Vecinal 2"
-date: 2020-04-05 18:22:40 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"

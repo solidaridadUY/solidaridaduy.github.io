@@ -1,7 +1,7 @@
 ---
-nombre: "Maroñas"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Maroñas
+Barrio Nuevo Verdisol
 Departamento de Montevideo

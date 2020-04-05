@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
-departamento: "Montevideo"
+nombre: "Rivera"
+departamento: "Rivera"
 ---
 
-Barrio Villa Dolores
-Departamento de Montevideo
+Barrio Rivera
+Departamento de Rivera

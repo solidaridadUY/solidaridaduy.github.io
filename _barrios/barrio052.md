@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Parque Rodó"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Parque Rodó
 Departamento de Montevideo

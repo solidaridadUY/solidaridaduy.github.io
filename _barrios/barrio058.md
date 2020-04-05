@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Pocitos"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Pocitos
 Departamento de Montevideo

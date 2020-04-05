@@ -1,7 +1,7 @@
 ---
-nombre: "Unión"
-departamento: "Montevideo"
+nombre: "Paysandú"
+departamento: "Paysandú"
 ---
 
-Barrio Unión
-Departamento de Montevideo
+Barrio Paysandú
+Departamento de Paysandú

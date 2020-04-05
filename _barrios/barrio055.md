@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Batlle"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Batlle
+Barrio Paso Molino
 Departamento de Montevideo

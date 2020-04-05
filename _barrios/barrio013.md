@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio/Localidad"
-departamento: "Departamento"
+nombre: "Ismael Cortinas"
+departamento: "Flores"
 ---
 
-Barrio Barrio/Localidad
-Departamento de Departamento
+Barrio Ismael Cortinas
+Departamento de Flores

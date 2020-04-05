@@ -1,7 +1,7 @@
 ---
-nombre: "Rivera"
-departamento: "Rivera"
+nombre: "La Coronilla"
+departamento: "Rocha"
 ---
 
-Barrio Rivera
-Departamento de Rivera
+Barrio La Coronilla
+Departamento de Rocha

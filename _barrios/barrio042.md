@@ -1,7 +1,7 @@
 ---
-nombre: "Jardines del Hipódromo"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Jardines del Hipódromo
+Barrio Los Bulevares
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Jardines del Hipódromo"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Jardines del Hipódromo
 Departamento de Montevideo

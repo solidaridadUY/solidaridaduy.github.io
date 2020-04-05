@@ -1,5 +1,5 @@
 ---
-nombre: "Rocha"
+nombre: "Salto"
 ---
 
-Departamento de Rocha
+Departamento de Salto

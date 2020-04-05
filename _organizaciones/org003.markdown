@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "La Pascua"
-date: 2020-04-05 18:22:40 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Cruz de Carrasco"

@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "No corresponde"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio No corresponde
 Departamento de Montevideo

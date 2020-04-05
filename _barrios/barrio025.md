@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Buceo
+Barrio Casabó
 Departamento de Montevideo

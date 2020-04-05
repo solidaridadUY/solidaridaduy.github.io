@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
-date: 2020-04-05 18:22:40 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"

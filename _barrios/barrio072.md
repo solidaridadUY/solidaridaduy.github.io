@@ -1,7 +1,7 @@
 ---
-nombre: "Paysandú"
-departamento: "Paysandú"
+nombre: "Barra del Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Paysandú
-Departamento de Paysandú
+Barrio Barra del Chuy
+Departamento de Rocha

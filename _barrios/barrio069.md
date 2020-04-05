@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
-departamento: "Montevideo"
+nombre: "Fray Bentos"
+departamento: "Río Negro"
 ---
 
-Barrio Villa del Cerro
-Departamento de Montevideo
+Barrio Fray Bentos
+Departamento de Río Negro

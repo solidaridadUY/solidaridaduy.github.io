@@ -1,5 +1,5 @@
 ---
-nombre: "Montevideo"
+nombre: "Paysandú"
 ---
 
-Departamento de Montevideo
+Departamento de Paysandú

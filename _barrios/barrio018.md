@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
+nombre: "Barrio Lavalleja"
 departamento: "Montevideo"
 ---
 
-Barrio Aires Puros
+Barrio Barrio Lavalleja
 Departamento de Montevideo

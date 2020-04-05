@@ -1,5 +1,5 @@
 ---
-nombre: "Paysandú"
+nombre: "Río Negro"
 ---
 
-Departamento de Paysandú
+Departamento de Río Negro

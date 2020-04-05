@@ -1,7 +1,7 @@
 ---
-nombre: "Jacinto Vera"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Jacinto Vera
+Barrio Lezica
 Departamento de Montevideo

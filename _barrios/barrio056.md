@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Rodó"
+nombre: "Peñarol"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Rodó
+Barrio Peñarol
 Departamento de Montevideo

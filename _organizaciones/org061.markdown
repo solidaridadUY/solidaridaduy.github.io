@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Centro Cultural Totó y vecinos/as del barrio"
-date: 2020-04-05 18:22:40 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Nuevo París"

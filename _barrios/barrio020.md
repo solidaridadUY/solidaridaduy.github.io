@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Lavalleja"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Barrio Lavalleja
+Barrio Bella Italia
 Departamento de Montevideo

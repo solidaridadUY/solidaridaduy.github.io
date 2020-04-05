@@ -1,5 +1,5 @@
 ---
-nombre: "Maldonado"
+nombre: "Montevideo"
 ---
 
-Departamento de Maldonado
+Departamento de Montevideo

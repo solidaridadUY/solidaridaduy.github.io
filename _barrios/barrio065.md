@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Villa del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Villa del Cerro
 Departamento de Montevideo

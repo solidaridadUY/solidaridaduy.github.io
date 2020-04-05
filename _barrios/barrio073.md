@@ -1,7 +1,7 @@
 ---
-nombre: "Fray Bentos"
-departamento: "Río Negro"
+nombre: "Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Fray Bentos
-Departamento de Río Negro
+Barrio Chuy
+Departamento de Rocha

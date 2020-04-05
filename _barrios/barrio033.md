@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Conciliación"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Conciliación
 Departamento de Montevideo

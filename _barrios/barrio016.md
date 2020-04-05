@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Aguada
+Barrio Aires Puros
 Departamento de Montevideo

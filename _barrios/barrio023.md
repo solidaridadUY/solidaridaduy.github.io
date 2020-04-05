@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Vista
+Barrio Buceo
 Departamento de Montevideo

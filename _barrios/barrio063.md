@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "Tres Cruces"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio Tres Cruces
 Departamento de Montevideo

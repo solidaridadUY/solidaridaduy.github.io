@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Reducto"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Reducto
 Departamento de Montevideo

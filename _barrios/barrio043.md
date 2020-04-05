@@ -1,7 +1,7 @@
 ---
-nombre: "La Comercial"
+nombre: "Malvín"
 departamento: "Montevideo"
 ---
 
-Barrio La Comercial
+Barrio Malvín
 Departamento de Montevideo

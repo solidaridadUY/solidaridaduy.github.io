@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Lezica
+Barrio Maroñas
 Departamento de Montevideo

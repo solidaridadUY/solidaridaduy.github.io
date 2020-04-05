@@ -1,7 +1,7 @@
 ---
-nombre: "Arroyo Seco"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Arroyo Seco
+Barrio Barrio Sur
 Departamento de Montevideo

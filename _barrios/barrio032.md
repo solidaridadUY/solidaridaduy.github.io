@@ -1,7 +1,7 @@
 ---
-nombre: "Chacarita de los Padres"
+nombre: "Colón"
 departamento: "Montevideo"
 ---
 
-Barrio Chacarita de los Padres
+Barrio Colón
 Departamento de Montevideo
