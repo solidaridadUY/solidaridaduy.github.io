@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio Jacinto Vera
 Departamento de Montevideo

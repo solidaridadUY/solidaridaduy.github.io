@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad de la Costa"
+nombre: "Costa de Oro"
 departamento: "Canelones"
 ---
 
-Barrio Ciudad de la Costa
+Barrio Costa de Oro
 Departamento de Canelones

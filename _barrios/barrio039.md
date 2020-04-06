@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "La Comercial"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio La Comercial
 Departamento de Montevideo

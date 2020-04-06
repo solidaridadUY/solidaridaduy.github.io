@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Coop. FUCVAM"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Bella Italia"
 actividades: "Punto de Donación"
 necesidades: "Reciben Donaciones"
-telefono_contacto: "098124387-098638765"
+telefono_contacto: "098124387  098638765"
 direccion: "SUM Complejo Juana de América"
 
 otros_contactos: ""

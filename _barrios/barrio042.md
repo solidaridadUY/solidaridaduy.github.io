@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo España
+Barrio Los Bulevares
 Departamento de Montevideo

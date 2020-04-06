@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
+nombre: "Jardines del Hipódromo"
 departamento: "Montevideo"
 ---
 
-Barrio Lezica
+Barrio Jardines del Hipódromo
 Departamento de Montevideo

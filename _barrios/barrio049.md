@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Nuevo Verdisol
 Departamento de Montevideo

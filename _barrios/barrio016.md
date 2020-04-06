@@ -1,7 +1,7 @@
 ---
-nombre: "Arroyo Seco"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Arroyo Seco
+Barrio Aires Puros
 Departamento de Montevideo

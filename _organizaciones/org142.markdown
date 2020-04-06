@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-05 20:23:06 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Sur"
+actividades: "Punto de Donación"
+necesidades: "Reciben alimentos"
+telefono_contacto: "099907424"
+direccion: "Zelmar Michelini 993"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "colectate.com.uy - Colecta 10494"
+
+---

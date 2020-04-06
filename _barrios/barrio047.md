@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Nuevo España"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Nuevo España
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Maroñas
 Departamento de Montevideo

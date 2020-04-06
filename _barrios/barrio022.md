@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio Capurro
+Barrio Belvedere
 Departamento de Montevideo

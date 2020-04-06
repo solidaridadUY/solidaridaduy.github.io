@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Parque Batlle"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Parque Batlle
 Departamento de Montevideo

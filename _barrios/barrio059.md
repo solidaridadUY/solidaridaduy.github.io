@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
+nombre: "Prado"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Española
+Barrio Prado
 Departamento de Montevideo
