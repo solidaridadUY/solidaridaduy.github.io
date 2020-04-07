@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
 telefono_contacto: "098635050 093381094"
 direccion: "Centauro 6845 entre Leo y Virgo."
+ubicacion:
+  latitud: -34.82484
+  longitud: -56.09855
 
 otros_contactos: ""
 horario: "Todos los días 19:30hs"

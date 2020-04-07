@@ -10,6 +10,9 @@ actividades: "Merienda"
 necesidades: "Es merendero y olla popular. Reciben todo tipo de donaciones"
 telefono_contacto: "091997349"
 direccion: "Cont Ovidio Fernandez Rios"
+ubicacion:
+  latitud: -34.82579
+  longitud: -56.11116
 
 otros_contactos: ""
 horario: ""

@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Reciben donaciones"
 telefono_contacto: "094951553"
 direccion: "Islas Canarias 4978"
+ubicacion:
+  latitud: -34.84089
+  longitud: -56.2256
 
 otros_contactos: ""
 horario: "A partir de las 13 hs"

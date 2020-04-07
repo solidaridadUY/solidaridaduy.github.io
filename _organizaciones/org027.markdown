@@ -10,6 +10,9 @@ actividades: "Canasta"
 necesidades: "Alimentos"
 telefono_contacto: "099604054"
 direccion: "Interbalneraria y Marquez Castro"
+ubicacion:
+  latitud: -34.81135
+  longitud: -55.9659
 
 otros_contactos: ""
 horario: ""

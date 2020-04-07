@@ -1,0 +1,26 @@
+<div id="leaflet-map"></div>
+
+<script>
+  let mapZoom = screen.width < 800 ? 6 : 7;
+  var map = L.map('leaflet-map').setView([-32.6, -55.629], mapZoom);
+  L.tileLayer('http://{s}.tiles.mapbox.com/v3/{mapId}/{z}/{x}/{y}.png', {
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, Imagery &copy; <a href="http://mapbox.com">Mapbox</a>',
+    mapId: 'ebrelsford.ho06j5h0',
+    maxZoom: 18
+  }).addTo(map);
+
+  {%- for org in site.organizaciones -%}
+    {%- if org.ubicacion and org.ubicacion.latitud and org.ubicacion.longitud -%}
+      {%- capture popupContent -%}
+        {%- include org-popup-content.html content=org -%}
+      {%- endcapture -%}
+      {%- capture processedPopupContent -%}
+        {{ popupContent | strip_newlines }}
+      {%- endcapture -%}
+
+      var marker = L.marker([{{ org.ubicacion.latitud }}, {{ org.ubicacion.longitud }}])
+        .bindPopup("{{ processedPopupContent }}")
+        .addTo(map);
+    {%- endif -%}
+  {%- endfor -%}
+</script>

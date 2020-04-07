@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Reciben Donaciones"
 telefono_contacto: "098124387  098638765"
 direccion: "SUM Complejo Juana de América"
+ubicacion:
+  latitud: -34,8751647
+  longitud: -56,1976999
 
 otros_contactos: ""
 horario: "Lunes a Viernes de 10 a 12 hs y de 17 a 19 hs"

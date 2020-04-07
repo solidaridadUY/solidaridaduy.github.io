@@ -10,6 +10,9 @@ actividades: "Olla"
 necesidades: "Alimentos para cocinar"
 telefono_contacto: "098 157 893"
 direccion: "Colinas de Solymar"
+ubicacion:
+  latitud: -34.803
+  longitud: -55.9579
 
 otros_contactos: ""
 horario: ""
