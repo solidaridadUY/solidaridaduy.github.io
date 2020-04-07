@@ -13,6 +13,9 @@ telefono_contacto: "097 098 032
 097 474 368 
 094 098 578"
 direccion: "Manuel Acuña y Del Fuerte"
+ubicacion:
+  latitud: -34.85228
+  longitud: -56.11779
 
 otros_contactos: ""
 horario: "L a V 20:30 hs.S y D 14 hs.."

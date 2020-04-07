@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos y artículos de limpieza"
 telefono_contacto: "099 458 417"
 direccion: "Evaristo Ciganda 1397 BIS"
+ubicacion:
+  latitud: -34.87591
+  longitud: -56.1884
 
 otros_contactos: ""
 horario: "Todos los días de 10 a 12 y de 17.30 a 19.30"

@@ -12,6 +12,9 @@ telefono_contacto: "097151643
 096671054
 091067740"
 direccion: "Ideario Artiguista y Liga Federal"
+ubicacion:
+  latitud: -34.8216
+  longitud: -56.28288
 
 otros_contactos: ""
 horario: ""

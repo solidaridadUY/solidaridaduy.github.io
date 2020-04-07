@@ -10,6 +10,9 @@ actividades: "Punto de Donación"
 necesidades: "Alimentos y productos de higiene"
 telefono_contacto: "092769462 094762392 098394643"
 direccion: "Islas Canarias 4264 esq. Juan Lavalle"
+ubicacion:
+  latitud: -34.85135
+  longitud: -56.2065
 
 otros_contactos: ""
 horario: ""
