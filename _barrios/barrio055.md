@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Paso Molino
 Departamento de Montevideo

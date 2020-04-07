@@ -1,7 +1,7 @@
 ---
-nombre: "Peñarol"
+nombre: "Palermo"
 departamento: "Montevideo"
 ---
 
-Barrio Peñarol
+Barrio Palermo
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Piedras Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Piedras Blancas
 Departamento de Montevideo

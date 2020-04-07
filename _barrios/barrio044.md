@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "Malvín Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio Malvín Norte
 Departamento de Montevideo

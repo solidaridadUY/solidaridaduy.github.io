@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
+nombre: "Pocitos"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
+Barrio Pocitos
 Departamento de Montevideo

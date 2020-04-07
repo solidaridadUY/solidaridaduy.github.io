@@ -1,7 +1,7 @@
 ---
-nombre: "Ismael Cortinas"
-departamento: "Flores"
+nombre: "Villa la Colina"
+departamento: "Canelones"
 ---
 
-Barrio Ismael Cortinas
-Departamento de Flores
+Barrio Villa la Colina
+Departamento de Canelones

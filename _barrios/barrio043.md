@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Malvín"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Malvín
 Departamento de Montevideo

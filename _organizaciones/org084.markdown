@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "iniciativa vecinal"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
 actividades: "Punto de Donación"
 necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "094097964-095495396-094900817"
+telefono_contacto: "094097964  095495396  094900817"
 direccion: "No corresponde"
 
 otros_contactos: ""

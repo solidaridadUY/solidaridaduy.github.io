@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Tres Cruces"
+departamento: "Montevideo"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Tres Cruces
+Departamento de Montevideo

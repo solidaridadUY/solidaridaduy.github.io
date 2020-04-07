@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Sunca"
+date: 2020-04-05 20:23:06 -0300
+
+departamento: "Rocha"
+barrio: "Chuy"
+actividades: "Olla"
+necesidades: "No corresponde"
+telefono_contacto: "098239063"
+direccion: "FCO De Los Santos 526"
+
+otros_contactos: "091931006"
+horario: "Sábados 20 hs"
+aclaraciones: "Para recibir vianda, anotarse viernes de 10 a 14 hrs."
+cuenta_bancaria: ""
+
+---

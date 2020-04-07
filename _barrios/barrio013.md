@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Grande"
-departamento: "Maldonado"
+nombre: "Ismael Cortinas"
+departamento: "Flores"
 ---
 
-Barrio Playa Grande
-Departamento de Maldonado
+Barrio Ismael Cortinas
+Departamento de Flores

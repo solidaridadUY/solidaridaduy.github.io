@@ -1,7 +1,7 @@
 ---
-nombre: "Unión"
+nombre: "Peñarol"
 departamento: "Montevideo"
 ---
 
-Barrio Unión
+Barrio Peñarol
 Departamento de Montevideo

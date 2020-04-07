@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio La Teja
 Departamento de Montevideo

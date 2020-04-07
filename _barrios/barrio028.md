@@ -1,7 +1,7 @@
 ---
-nombre: "Chacarita de los Padres"
+nombre: "Cerrito de la Victoria"
 departamento: "Montevideo"
 ---
 
-Barrio Chacarita de los Padres
+Barrio Cerrito de la Victoria
 Departamento de Montevideo

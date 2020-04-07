@@ -1,7 +1,7 @@
 ---
-nombre: "Costa de Oro"
+nombre: "Jaureguiberry"
 departamento: "Canelones"
 ---
 
-Barrio Costa de Oro
+Barrio Jaureguiberry
 Departamento de Canelones

@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Paso de la Arena"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Paso de la Arena
 Departamento de Montevideo

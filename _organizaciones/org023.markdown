@@ -2,13 +2,13 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Casabó"
 actividades: "Olla"
 necesidades: "Reciben Donaciones"
-telefono_contacto: "093819595-"
+telefono_contacto: "093819595"
 direccion: "Senegal 3785 esq. Charcas."
 ubicacion:
   latitud: -34,8863718

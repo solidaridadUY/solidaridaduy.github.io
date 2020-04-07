@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Rodó"
+nombre: "No corresponde"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Rodó
+Barrio No corresponde
 Departamento de Montevideo

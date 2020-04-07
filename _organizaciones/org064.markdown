@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Solidario Unido Seis Barrios"
-date: 2020-04-02 21:00:17 -0300
+date: 2020-04-05 20:23:06 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
 actividades: "Olla"
 necesidades: "Alimentos no perecederos y productos para celíacos"
-telefono_contacto: "92927150"
+telefono_contacto: "092927150"
 direccion: "Calle Rafael solar 43 esq Dunant"
 
-otros_contactos: "94360368"
+otros_contactos: "094360368"
 horario: "11 a 19hs"
 aclaraciones: "Además de organizar ollas también organizan canastas y meriendas"
 cuenta_bancaria: ""

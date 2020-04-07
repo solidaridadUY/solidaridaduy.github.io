@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-05 20:23:06 -0300
+
+departamento: "Canelones"
+barrio: "Jaureguiberry"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "099624044"
+direccion: "Se instrumenta en la zona norte de Jaureguiberry"
+
+otros_contactos: "092787480  091049164  091278284"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,5 +1,5 @@
 ---
-nombre: "Río Negro"
+nombre: "Rivera"
 ---
 
-Departamento de Río Negro
+Departamento de Rivera
