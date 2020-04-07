@@ -1,8 +1,8 @@
 #home-map {
   display: inline;
   float: left;
-  width: 65%;
-  height: 500px;
+  width: 600px;
+  height: 600px;
 
   #leaflet-map {
     height: 600px;
@@ -12,7 +12,7 @@
 .home-list {
   display: inline;
   float: left;
-  width: 35%;
+  width: calc(100% - 600px);
   height: 600px;
   overflow: scroll;
 
@@ -56,8 +56,10 @@
     li {
       background-color: rgb(255, 255, 255);
       box-shadow: rgba(0,0,0,0.2) 0px 1px 2px 0px;
+      max-width: 300px;
       margin: 8px 15px;
       padding: 5px 15px;
+      float: left;
       transition-duration: 0.2s;
 
       &:hover {
@@ -80,6 +82,17 @@
   }
 }
 
+@media screen and (max-width: 565px) {
+  .home-list {
+    width: 100%;
+
+    .post-list li {
+      width: auto;
+      max-width: 100%;
+      float: none;
+    }
+  }
+}
 
 @media screen and (max-width: 800px) {
   #home-map {
@@ -98,5 +111,13 @@
     width: 100%;
     display: block;
     height: auto;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .home-list .post-list li {
+    width: auto;
+    max-width: 100%;
+    float: none;
   }
 }
