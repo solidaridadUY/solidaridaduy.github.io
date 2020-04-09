@@ -22,10 +22,23 @@ layout: default
 
     <!-- Html Elements for Search -->
     <div id="search-container" class="search">
-      <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre, ciudad, barrio o actividad ...">
+      <select id="departamento">
+        <option value="" selected disabled hidden>Departamento</option>
+        {%- for post in site.departamentos -%}
+          <option value="{{ post.nombre }}">{{ post.nombre }}</option>
+        {%- endfor -%}
+      </select> 
       
+      <select id="barrio">
+        <option value="" selected disabled hidden>Barrio</option>
+        {%- for post in site.barrios -%}
+          <option value="{{ post.nombre }}">{{ post.nombre }}</option>
+        {%- endfor -%}
+      </select> 
+
+      <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre, ciudad, barrio o actividad ...">
     </div>
-    
+
     <!-- hay un java script que oculta uno de estos dos divs dependiendo si se muestra todo el listado o solo las búsquedas-->
 
     <div id="results-container" class="row flex-grid"></div>
@@ -83,11 +96,18 @@ layout: default
 
 <!-- Configuration -->
 <script>
+var filtersMap = new Map();
+filtersMap.set('departamento', document.getElementById("departamento"));
+filtersMap.set('barrio', document.getElementById("barrio"));
+
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
   noResultsText: ("¡No se encontraron resultados!"),
+  limit: 1000,
+  fuzzy: true,
+  filterSelectTags: filtersMap,
   json: '/search.json'
 })
 </script>
@@ -99,6 +119,24 @@ SimpleJekyllSearch({
     $("#search-input").keyup(function() {
       $("#row").hide();
       if (!$('#search-input').val()) {
+        $("#row").show();
+      };
+    });
+  });
+
+  $(document).ready(function(){
+    $("#departamento").change(function() {
+      $("#row").hide();
+      if (!$('#departamento').val()) {
+        $("#row").show();
+      };
+    });
+  });
+
+  $(document).ready(function(){
+    $("#barrio").change(function() {
+      $("#row").hide();
+      if (!$('#barrio').val()) {
         $("#row").show();
       };
     });
