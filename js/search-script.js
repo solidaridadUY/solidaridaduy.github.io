@@ -12,6 +12,8 @@ var _$Templater_7 = {
   setOptions: setOptions
 }
 
+var filters = new Map();
+
 var options = {}
 options.pattern = /\{(.*?)\}/g
 options.template = ''
@@ -170,12 +172,26 @@ function __setOptions_4 (_opt) {
 function findMatches (data, crit, strategy, opt) {
   var matches = []
   for (var i = 0; i < data.length && matches.length < opt.limit; i++) {
-    var match = findMatchesInObject(data[i], crit, strategy, opt)
-    if (match) {
-      matches.push(match)
+    if (isValid(data[i], filters)) {
+      var match = findMatchesInObject(data[i], crit, strategy, opt)
+      if (match) {
+        matches.push(match)
+      }
     }
   }
   return matches
+}
+
+function isValid (obj, filters) {
+  var valid = true
+  if (!!filters) {
+    for (var key in obj) {
+      if (filters.has(key) && filters.get(key) !== obj[key]) {
+        valid = false
+      }
+    }
+  }
+  return valid
 }
 
 function findMatchesInObject (obj, crit, strategy, opt) {
@@ -296,11 +312,11 @@ function isJSON (json) {
 var _$src_8 = {};
 (function (window) {
   'use strict'
-
   var options = {
     searchInput: null,
     resultsContainer: null,
     json: [],
+    filterSelectTags: null,
     success: Function.prototype,
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
     templateMiddleware: Function.prototype,
@@ -387,6 +403,13 @@ var _$src_8 = {};
         emptyResultsContainer()
         search(e.target.value)
       }
+    })
+    options.filterSelectTags.forEach(function (value, key, map) {
+      value.addEventListener('change', function (e) {
+        filters.set(key, e.target.value)
+        emptyResultsContainer()
+        search(' ')
+      })
     })
   }
 
