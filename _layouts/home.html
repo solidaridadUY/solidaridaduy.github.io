@@ -88,6 +88,7 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
   noResultsText: ("¡No se encontraron resultados!"),
+  limit: 1000,
   json: '/search.json'
 })
 </script>
