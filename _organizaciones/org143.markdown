@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Plaza I"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Jaureguiberry"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "099624044"
-direccion: "Se instrumenta en la zona norte de Jaureguiberry"
+departamento: "Montevideo"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Lindolfo Cuestas y Cerrito"
 
-otros_contactos: "092787480  091049164  091278284"
-horario: ""
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "8 a 22hs"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

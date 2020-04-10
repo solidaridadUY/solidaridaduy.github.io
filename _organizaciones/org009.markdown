@@ -1,24 +1,22 @@
 ---
 layout: organizacion
 
-title: "Comisión fomento"
-date: 2020-04-05 20:23:06 -0300
+title: "El Abrojo
+Paso Joven
+SOCAT"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Los Bulevares"
-actividades: "Merienda"
-necesidades: "Alimentos y donaciones"
-telefono_contacto: "097151643
-096671054
-091067740"
-direccion: "Ideario Artiguista y Liga Federal"
+barrio: "Paso Carrasco"
+actividades: "Punto de Donación"
+necesidades: "Reciben donaciones"
+telefono_contacto: "098 103 973"
+direccion: "Vaz Ferreira 52
+"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Reciben donaciones en:
-Panadería 'El Oeste' (frente al red market); 
-Ferretería 'El Destino' (I. Artiguista 1865)
-Almacén 'El Nogal' (Cimarrones 7655)"
+horario: " L a V de 13 a 18 hs."
+aclaraciones: "Coordinación telefónica."
 cuenta_bancaria: ""
 
 ---

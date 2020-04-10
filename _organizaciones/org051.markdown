@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Brandi"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: "Alimentos no percederos, productos de higiene y limpieza"
-telefono_contacto: "098964527 096450004"
-direccion: "Adolfo Rodriguez 6738"
+barrio: "Jacinto Vera"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos, artículos de higiene personal y para el hogar"
+telefono_contacto: "095588004 (Gastón)  097977933"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
-aclaraciones: ""
+horario: ""
+aclaraciones: "Se coordina por teléfono"
 cuenta_bancaria: ""
 
 ---

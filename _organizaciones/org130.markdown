@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-04-05 20:23:06 -0300
+title: "Intendencia de Canelones"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+departamento: "Canelones"
+barrio: "Todos"
+actividades: "Canasta"
+necesidades: "No aplica"
+telefono_contacto: "Ver aclaraciones adicionales"
+direccion: "A domicilio"
 
-otros_contactos: ""
-horario: "9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
+otros_contactos: "092173550"
+horario: "Durante el día"
+aclaraciones: "092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
 cuenta_bancaria: ""
 
 ---

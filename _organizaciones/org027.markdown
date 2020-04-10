@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Albion."
-date: 2020-04-05 20:23:06 -0300
+title: "El Abrojo / Trampolines"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Canelones"
-barrio: "Ciudad de la Costa"
-actividades: "Canasta"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
 necesidades: "Alimentos"
-telefono_contacto: "099604054"
-direccion: "Interbalneraria y Marquez Castro"
+telefono_contacto: "099 699 322"
+direccion: "Wilson Ferreira Aldunate 712 "
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Están armando canastas para entrega a familias del barrio"
+aclaraciones: "Coordinación telefónica"
 cuenta_bancaria: ""
 
 ---

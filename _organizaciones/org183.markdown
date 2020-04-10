@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Agrupación Hinchas de Racing"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "Alvaro 095536444"
+direccion: "Millán y Eduardo Pondal"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "RED DE MERENDEROS"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Merienda"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "095509142"
+direccion: "Villa La Colina - Rincón esq. 25 de agosto frente al Huracán Siré"
+
+otros_contactos: ""
+horario: "Sábados, con previa coordinación"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

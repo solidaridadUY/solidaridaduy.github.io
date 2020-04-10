@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Rodó"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Rodó
+Barrio Nuevo Verdisol
 Departamento de Montevideo

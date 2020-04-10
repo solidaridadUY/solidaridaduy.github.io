@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "SUAP"
-date: 2020-04-05 20:23:06 -0300
+title: "Nucleo del liceo 74"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
+barrio: "Nuevo Verdisol"
 actividades: "Punto de Donación"
-necesidades: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
-telefono_contacto: "29011982"
-direccion: "Local Fuecys (Río Negro 1210)"
+necesidades: "Aportes a traves de cuenta y alimentos"
+telefono_contacto: "092120727"
+direccion: "La tablada"
 
 otros_contactos: ""
-horario: "Del lunes 31 al jueves 2 de abril, de 10 a 17 hs"
+horario: "Sábado y Domingo sirven a las 20"
 aclaraciones: ""
 cuenta_bancaria: ""
 

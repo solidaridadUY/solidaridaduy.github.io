@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Villa Española"
+actividades: "Olla"
+necesidades: "Difusión de afiche para donaciones de alimentos. Esta semana piden:  papa, boniato, morrón, cebolla y calabacín."
+telefono_contacto: "099527443"
+direccion: "Antel Arena (Larrañaga y Serrato)"
+
+otros_contactos: ""
+horario: "Viernes de 20 a 21:30 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

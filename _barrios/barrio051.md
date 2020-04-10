@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Batlle"
+nombre: "Nuevo París"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Batlle
+Barrio Nuevo París
 Departamento de Montevideo

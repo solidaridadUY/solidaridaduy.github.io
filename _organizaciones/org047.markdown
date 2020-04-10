@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Unidos Centro Educativo"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Olla"
-necesidades: "Alimentos para olla y una olla grande"
-telefono_contacto: "095 636 657"
-direccion: "Hipólito e Iguá"
+barrio: "Villa Española"
+actividades: "Canasta"
+necesidades: "Alimentos, productos de limpieza e higiene, donaciones económicas"
+telefono_contacto: "091203982"
+direccion: "Francisco Vázquez Cores 3247"
 
 otros_contactos: ""
-horario: "Todos los días 19:30"
-aclaraciones: ""
+horario: "Lunes a Viernes"
+aclaraciones: "Tienen nexo con la iniciativa Involucrate"
 cuenta_bancaria: ""
 
 ---

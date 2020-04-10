@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-05 20:23:06 -0300
+title: "Modistas"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Paso Carrasco"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "098103973"
-direccion: "Vaz Ferreira 52"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Empresa que dona"
+necesidades: "No corresponde"
+telefono_contacto: "www.facebook.com/sonia.rodriguez.900"
+direccion: "Comunicarse por Facebook"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 13 a 18 hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Donan tapabocas hechos a mano"
 cuenta_bancaria: ""
 
 ---

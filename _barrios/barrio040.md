@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "La Comercial"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio La Comercial
 Departamento de Montevideo

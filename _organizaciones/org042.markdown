@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Sportivo Artigas"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Sauce"
+departamento: "Montevideo"
+barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: "Se reciben alimentos y donaciones hasta el 03/04"
-telefono_contacto: "099240201 092487833"
-direccion: "Ruta 6 km 34.500"
+necesidades: "Alimentos para olla y una olla grande"
+telefono_contacto: "095 636 657"
+direccion: "Hipólito Yrigoyen e Iguá"
 
 otros_contactos: ""
-horario: "Sábado 4 de abril - 19.30 hs"
-aclaraciones: "Llevar tupper"
+horario: "Todos los días 19:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

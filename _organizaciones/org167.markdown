@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comité Félix Vidarte"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+necesidades: "Alimentos secos, verduras y artículos de limpieza"
+telefono_contacto: "095496658"
+direccion: "República Argentina esq. Pando"
+
+otros_contactos: ""
+horario: "Lunes a Viernes de 19 a 21 hs"
+aclaraciones: "Contactar por Whatsapp"
+cuenta_bancaria: ""
+
+---

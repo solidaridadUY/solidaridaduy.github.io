@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liga universitaria, Paysandú"
-date: 2020-04-05 20:23:06 -0300
+title: "Cuerpo docente Liceo Número 3"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
+departamento: "Rivera"
+barrio: "Rivera"
 actividades: "Canasta"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "091401964"
-direccion: "No corresponde, donaciones a coordinar"
+necesidades: "Alimentos y productos de limpieza para canastas"
+telefono_contacto: "095252930"
+direccion: "Reyles y Tranqueras"
 
 otros_contactos: ""
 horario: ""
 aclaraciones: ""
-cuenta_bancaria: "BROU, CA$ 001409166-00002"
+cuenta_bancaria: ""
 
 ---

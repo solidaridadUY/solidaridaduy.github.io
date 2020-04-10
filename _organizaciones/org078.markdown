@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Salón comunitario "San Antonio""
-date: 2020-04-05 20:23:06 -0300
+title: "iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
+barrio: "La Teja"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "096951220"
-direccion: "Yucutujá 1250 esq. Santos"
+necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+telefono_contacto: "094097964  095495396  094900817"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: ""
+horario: "durante día"
 aclaraciones: ""
 cuenta_bancaria: ""
 

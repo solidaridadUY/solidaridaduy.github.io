@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Asociación Civil Monte de la Francesa"
-date: 2020-04-05 20:23:06 -0300
+title: "iniciativa Vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones, alimentos no perecederos"
-telefono_contacto: "093 753 642"
-direccion: "En el teatro,Iturbe y lanus"
+necesidades: "Donaciones y olla popular, también se reciben tapa bocas y productos de limpieza"
+telefono_contacto: "094068329"
+direccion: "Fernando Menck 5880, "La quinta""
 
-otros_contactos: "2320 8307"
-horario: "De Lunes a Sabádo de 15 a 19 hrs"
+otros_contactos: "095798613"
+horario: "18 hrs, contactar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

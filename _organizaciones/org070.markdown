@@ -2,23 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-05 20:23:06 -0300
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
-actividades: "Canasta"
-necesidades: "Se recibe alimentos no
-perecederos, juguetes, ropa,
-apoyo transporte"
-telefono_contacto: "099204370"
-direccion: "Hermanos Gil 1051 esq
-Dufort y Álvarez"
+barrio: "Conciliación"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "098964527"
+direccion: "Adolfo Rodíguez 6664 (Club Brandi)"
 
-otros_contactos: "099869454"
-horario: " Martes miércoles y viernes
-de 15 a 19 hs"
+otros_contactos: "096450004"
+horario: "Diario, donaciones desde las 13 hs y olla a las 18 hs."
 aclaraciones: ""
-cuenta_bancaria: "Caja de ahorro
-en pesos (Brou) 000152324-00001"
+cuenta_bancaria: "(Brou) 000816328-00002"
 
 ---

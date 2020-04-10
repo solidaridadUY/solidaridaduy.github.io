@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "18 de Julio"
+departamento: "Rocha"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio 18 de Julio
+Departamento de Rocha

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Jóvenes FA"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
-actividades: "Merienda"
-necesidades: "Alimentos como para la merienda"
-telefono_contacto: "095626343"
-direccion: "Esmeralda frente a la vía esq. Emancipación"
+barrio: "Maroñas"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos y artículos de primera necesidad"
+telefono_contacto: "098524292"
+direccion: "Veracierto 3310"
 
-otros_contactos: ""
-horario: "Lunes, Miércoles y viernes a las 17 hs"
+otros_contactos: "098948820"
+horario: "Jueves 2 de 14 a 18 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

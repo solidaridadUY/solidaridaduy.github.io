@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
-departamento: "Montevideo"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio Aguada
-Departamento de Montevideo
+Barrio Playa Grande
+Departamento de Maldonado

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Capurro"
-date: 2020-04-05 20:23:06 -0300
+title: "Cooperativa Tacuabe"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "099202923"
-direccion: "Capurro 922"
+necesidades: "Se brinda alimento "
+telefono_contacto: "099057783"
+direccion: "Clemeceau 937 Esq Cayetano silva"
 
-otros_contactos: "096496373   091802863"
-horario: "De lunea a viernes de 15 a 18 hs
-"
-aclaraciones: "La olla se hace los sábados y domingos de
-11 a 15 hs"
+otros_contactos: "093967875"
+horario: "12 a 17 hrs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

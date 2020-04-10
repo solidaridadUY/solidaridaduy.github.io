@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SERPAJ"
-date: 2020-04-05 20:23:06 -0300
+title: "Complejo Juana de América"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
+barrio: "Bella Italia"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "24085301"
-direccion: "Requena 1642 entre 18 de Julio y Colonia"
+necesidades: "Alimentos y productos de higiene y limpieza para armado de canastas"
+telefono_contacto: "098124387 Natalia"
+direccion: "Complejo Juana de América. Salón comunal"
 
-otros_contactos: ""
-horario: "Jueves 2 de abril de 15 a 18 hs - Viernes 3 de abril de 14 a 17 hs"
-aclaraciones: ""
+otros_contactos: "098638765 Luciana"
+horario: "10 a 12 y 17 a 19hs"
+aclaraciones: "Martes, jueves y sábados. Demandan guantes y tapabocas para voluntarios/as. (Arroz y fideos tienen mucho)"
 cuenta_bancaria: ""
 
 ---

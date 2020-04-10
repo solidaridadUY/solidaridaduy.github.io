@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Barrial"
-date: 2020-04-05 20:23:06 -0300
+title: "Mujeres en Alerta"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc)"
-telefono_contacto: "098141813  094053638"
-direccion: "Pérez Castellano y Sarandí"
+departamento: "Canelones"
+barrio: "Lagomar"
+actividades: "Punto de Donación"
+necesidades: "Alimentos, productos de higiene, juegos/juguetes"
+telefono_contacto: "091786159  094972263"
+direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Distribución de viandas - Sábado y Domingo al mediodía"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

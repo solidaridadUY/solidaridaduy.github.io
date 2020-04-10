@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Pizzeria El Triunfo"
-date: 2020-04-05 20:23:06 -0300
+title: "Brigada 1958"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Empresa que dona"
-necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-telefono_contacto: "098735539"
-direccion: "Himalaya 3148"
+barrio: "Aguada"
+actividades: "Olla"
+necesidades: "Reciben Donaciones"
+telefono_contacto: "091894724"
+direccion: "Cuareim 2301 Esq. Tajes"
 
-otros_contactos: ""
+otros_contactos: "098651506"
 horario: ""
-aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

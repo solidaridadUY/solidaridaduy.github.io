@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Deportivo Celiar"
-date: 2020-04-05 20:23:06 -0300
+title: "Centro Salesiano"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Flor de Maroñas"
-actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "097 412 466"
-direccion: "Ombú y Ulises Favaro"
+barrio: "Aires Puros"
+actividades: "Canasta"
+necesidades: "Solo dinero"
+telefono_contacto: "2355 5684"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Entrega de viandas: lunes a viernes de 19 a 20 hs. Sabado y Domingo de 17 a 18 hs"
-aclaraciones: "Llevar recipiente, se entrega para el núcleo familiar. Se reciben donaciones de lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
-cuenta_bancaria: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "BBVA - CC $ 9927 19836
+Centro Salesiano Aires Puros"
 
 ---

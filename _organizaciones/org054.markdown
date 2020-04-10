@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Aute"
-date: 2020-04-05 20:23:06 -0300
+title: "METELE QUE SON PASTELES"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Punto de Donación"
-necesidades: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
-telefono_contacto: "092040449"
-direccion: "Av. Agraciada 2463"
+barrio: "Cerrito de la Victoria"
+actividades: "Canasta"
+necesidades: "Alimentos para canasta"
+telefono_contacto: "094476451
+091211765
+098000052
+099757609"
+direccion: "Joaquín Artigas 3326 (local de la murga)"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Elaboración y reparto de alimentos para personal de servcioos esenciales o en situación de vulnerabilidad."
+otros_contactos: "1950 int. 7487"
+horario: "15-18 hrs  (Coordinar vía telefónica)"
+aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
 cuenta_bancaria: ""
 
 ---

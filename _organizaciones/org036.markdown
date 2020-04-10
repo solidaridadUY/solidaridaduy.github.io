@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "DJ's y Olimpo"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Flores"
-barrio: "Ismael Cortinas"
-actividades: "Olla"
+departamento: "Tacuarembó"
+barrio: "Tacuarembó"
+actividades: "Canasta"
 necesidades: "Alimentos"
-telefono_contacto: "098360975
-092010950"
-direccion: "Club Arroyo Grande, En Ismael Cortinas: Mevir 4, Núm 25857
-En Trinidad: Gral. Flores 454"
+telefono_contacto: "092838233
+097435635"
+direccion: "Calle 245"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Sábados y Domingo, mediodía y noche"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

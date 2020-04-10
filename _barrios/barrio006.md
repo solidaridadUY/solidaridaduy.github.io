@@ -1,7 +1,7 @@
 ---
-nombre: "Pinamar Norte"
+nombre: "Lomas de Solymar"
 departamento: "Canelones"
 ---
 
-Barrio Pinamar Norte
+Barrio Lomas de Solymar
 Departamento de Canelones

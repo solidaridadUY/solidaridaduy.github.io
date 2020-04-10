@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Solidarios Unidos seis barrios"
-date: 2020-04-05 20:23:06 -0300
+title: "Brigada José Artigas"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
+barrio: "Bella Italia"
 actividades: "Olla"
-necesidades: "Alimentos y donaciones"
-telefono_contacto: "092927150 María"
-direccion: "Rafael y Teniente Galeano (frente a la barraca)"
+necesidades: "Alimentos (carnes y verduras principalmente) Alcohol en gel"
+telefono_contacto: "095775335 Adrián"
+direccion: "Carlomagno esq. Victor Manuel. Mercadito Bella Italia"
 
 otros_contactos: ""
-horario: "Merienda 17 hs.
-Reparten Cena a las 20 hs."
-aclaraciones: "También cubren merienda. Llevar tupper"
-cuenta_bancaria: ""
+horario: "12hs"
+aclaraciones: "Lunes a viernes. Demandan cocineros. Guantes y tapabocas para la gente que cocina"
+cuenta_bancaria: "BROU Caja de ahorro en pesos Nº 110171769-00001"
 
 ---

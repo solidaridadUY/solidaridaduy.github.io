@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Gimnasio Antoniello"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Buceo"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y productos de limpieza e higiene personal"
+telefono_contacto: "099538917 (Eduardo Ballini)"
+direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
+
+otros_contactos: "094625416 (José Gumber)"
+horario: "Martes, jueves y sábados, de 11:00 a 14:00"
+aclaraciones: "Coordinados con club Unión Atlética"
+cuenta_bancaria: ""
+
+---

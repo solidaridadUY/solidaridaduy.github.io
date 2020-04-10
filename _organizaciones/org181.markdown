@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal: Parque de los Fogones"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "094951553"
+direccion: "Parque de los Fogones - Av. Millán y Martin Ximeno"
+
+otros_contactos: ""
+horario: "Sabados y Domingos"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

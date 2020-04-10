@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-05 20:23:06 -0300
+title: "Cuerpo docente Liceo Número 2"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "091269590"
-direccion: "Amandu 5722 esq. Eduardo Raíz"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Canasta"
+necesidades: "Alimentos y productos de limpieza para canastas"
+telefono_contacto: "094955669"
+direccion: "Barrio Rivera Chico"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 11 a 16 hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
+nombre: "Malvín Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo España
+Barrio Malvín Norte
 Departamento de Montevideo

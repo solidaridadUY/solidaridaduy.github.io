@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Vecinas/os Barrio 22 de Mayo"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Merienda"
-necesidades: "Se reciben donaciones de: Leche en polvo, cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta, Articulos de limpieza e Higiene"
-telefono_contacto: "099834255"
-direccion: "Asentamiento Fortaleza"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Reciben todo tipo de donaciones  (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
+telefono_contacto: "097584915"
+direccion: "Guzman Papini esq. Las Piedras."
 
-otros_contactos: "092728754"
-horario: "Consultar vía celular"
-aclaraciones: "Se están realizando meriendas para ayudar a lxs Niñxs del asentamiento Fortaleza brindandoles una merienda diaria."
+otros_contactos: "097287764"
+horario: "Lunes a viernes  reparten a partir de las 20 / 20:30,"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

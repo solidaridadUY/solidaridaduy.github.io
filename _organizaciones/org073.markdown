@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-05 20:23:06 -0300
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Maroñas"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos y artículos de primera necesidad"
-telefono_contacto: "098524292"
-direccion: "Veracierto 3310"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Se brinda alimento en el siguiente horario"
+telefono_contacto: "099709823"
+direccion: "Av de las instrucciones 1200 A, apto 2"
 
-otros_contactos: "098948820"
-horario: "Jueves 2 de 14 a 18 hs"
+otros_contactos: ""
+horario: "12 a 17 hrs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

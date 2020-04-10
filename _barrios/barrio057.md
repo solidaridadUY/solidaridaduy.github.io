@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Paso de la Arena"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Paso de la Arena
 Departamento de Montevideo

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Jóvenes FA-Flores"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Retiro de donaciones"
+necesidades: "Artículos de limpieza"
+telefono_contacto: "091270507"
+direccion: "No corresponde"
+
+otros_contactos: "091397626"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

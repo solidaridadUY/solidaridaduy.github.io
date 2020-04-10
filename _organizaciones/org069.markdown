@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-05 20:23:06 -0300
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "099440874"
-direccion: "No corresponde"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Se brinda alimento "
+telefono_contacto: "098865307 (Florencia)"
+direccion: "Av de las instrucciones Esq Silva, Teatro del Barrio"
 
-otros_contactos: ""
-horario: "No corresponde"
-aclaraciones: "Realización de compras a adultos mayores"
+otros_contactos: "094357002 Hugo"
+horario: "12-14; 17:30 a 19:30, Sábado 16hrs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

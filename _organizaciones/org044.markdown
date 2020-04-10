@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Bella Vista"
-date: 2020-04-05 20:23:06 -0300
+title: "Ollas y Canastas Solidarias"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
+barrio: "Cerrito de la Victoria"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "099167275 098456226"
-direccion: "Av. Agraciada 3100 Sede Bella Vista"
+necesidades: "Alimentos no perecederos, frutas y verduras, Artículos de limpieza, tuppers, cubiertos descartables"
+telefono_contacto: "098422915 099841142 094807175 099927956 091252622"
+direccion: "Gral Flores y Chimborazo (Club Santa Ana)"
 
 otros_contactos: ""
-horario: "13.00 hs: Martes 31/03 y viernes 03/04"
-aclaraciones: "Llevar tupper. Un sólo representante por familia"
+horario: "Martes 31 de marzo. 18 hs."
+aclaraciones: "Llevar tupper. Por más información sobre las ollas que realiza esta organización: En instagram: ollasolidariamunicipiod . En facebook: OllaSolidarias"
 cuenta_bancaria: ""
 
 ---

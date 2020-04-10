@@ -1,19 +1,24 @@
 ---
 layout: organizacion
 
-title: "Solidario Unido Seis Barrios"
-date: 2020-04-05 20:23:06 -0300
+title: "Jóvenes FA"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos y productos para celíacos"
-telefono_contacto: "092927150"
-direccion: "Calle Rafael solar 43 esq Dunant"
+barrio: "Bella Vista"
+actividades: "Canasta"
+necesidades: "Se recibe alimentos no
+perecederos, juguetes, ropa,
+apoyo transporte"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq
+Dufort y Álvarez"
 
-otros_contactos: "094360368"
-horario: "11 a 19hs"
-aclaraciones: "Además de organizar ollas también organizan canastas y meriendas"
-cuenta_bancaria: ""
+otros_contactos: "099869454"
+horario: " Martes miércoles y viernes
+de 15 a 19 hs"
+aclaraciones: ""
+cuenta_bancaria: "Caja de ahorro
+en pesos (Brou) 000152324-00001"
 
 ---

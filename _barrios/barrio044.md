@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio Lezica
 Departamento de Montevideo

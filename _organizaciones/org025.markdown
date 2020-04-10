@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Albion"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Villa Dolores"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "094204040 099629958 099337003"
-direccion: "Julio César 1466"
+departamento: "Canelones"
+barrio: "Ciudad de la Costa"
+actividades: "Canasta"
+necesidades: "Alimentos"
+telefono_contacto: "099604054"
+direccion: "Interbalnearia y Marquez Castro"
 
 otros_contactos: ""
-horario: "Sábados de 11 a 13 y de 16 a 18hs"
-aclaraciones: "Pasan a buscar las donaciones en esos horarios"
+horario: ""
+aclaraciones: "Están armando canastas para entrega a familias del barrio"
 cuenta_bancaria: ""
 
 ---
