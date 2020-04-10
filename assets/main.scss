@@ -27,6 +27,7 @@ body {
 .page-content {
   .wrapper{
     max-width: 100%;  
+    text-align: center;
   }  
 }
 
@@ -135,4 +136,9 @@ body {
  display:inline-block;
  margin:0 0 .313rem;
  z-index:50
+}
+
+.post.h-entry {
+  max-width: max-content;
+  display: inline-block;
 }
