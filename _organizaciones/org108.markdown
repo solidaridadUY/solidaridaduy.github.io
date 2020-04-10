@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Modistas"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Estrella del Norte"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "www.facebook.com/sonia.rodriguez.900"
-direccion: "Comunicarse por Facebook"
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "Se reciben alimentos y productos de limpieza"
+telefono_contacto: "No corresponde"
+direccion: "Padre Pablo Pittini, 12400"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Donan tapabocas hechos por ellas"
+horario: "Todo el día"
+aclaraciones: "Se hace olla y se reciben donaciones"
 cuenta_bancaria: ""
 
 ---

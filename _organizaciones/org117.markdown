@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Vecinas"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "092726853"
-direccion: "Caminos Santa Catalina y los Murallones"
+necesidades: "Verdura, carne y pan."
+telefono_contacto: "095410570 (Laura o Natalia)"
+direccion: "Elisa Menéndez y Cno. Carmelo Colman"
 
 otros_contactos: ""
-horario: "Consultar horario"
-aclaraciones: "Consultar horario vía Celular"
+horario: "Sábados y domingos de 19:30 a 20:30"
+aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
 cuenta_bancaria: ""
 
 ---

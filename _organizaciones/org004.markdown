@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal
-Club Flor de Maroñas"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Flor de Maroñas"
-actividades: "Olla"
+barrio: "La Teja"
+actividades: "Punto de Donación"
 necesidades: "Alimentos"
-telefono_contacto: "097 098 032 
-097 474 368 
-094 098 578"
-direccion: "Manuel Acuña y Del Fuerte"
+telefono_contacto: "098 600 393"
+direccion: "Emilio Romero y Agustín Muñoz"
 
 otros_contactos: ""
-horario: "L a V 20:30 hs.S y D 14 hs.."
-aclaraciones: "Llevar vianda"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

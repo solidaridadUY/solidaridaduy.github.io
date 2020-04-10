@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Bares Finisterre y El Hormiguero"
-date: 2020-04-05 20:23:06 -0300
+title: "CECOED"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Palermo"
+departamento: "Salto"
+barrio: "Salto"
 actividades: "Punto de Donación"
-necesidades: "Acopian donaciones para llevar a diferentes ollas"
-telefono_contacto: "099569017
-095010898"
-direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
+necesidades: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
+telefono_contacto: "092350389
+47327359"
+direccion: "Avda. Luis Batlle Berres esq. Enrique Amorín"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comisión Fomento Estrella del cerro"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene, todo para armado de canastas"
+telefono_contacto: "094641143"
+direccion: "José Cañas 4037 Esq. De los Santos"
+
+otros_contactos: "092297795"
+horario: "de 8 a 12 hrs o coordinar vía celular"
+aclaraciones: "También se puede llamar al 092297795 para coordinar e ir a buscar las donaciones"
+cuenta_bancaria: ""
+
+---

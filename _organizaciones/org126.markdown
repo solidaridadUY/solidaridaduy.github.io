@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 22 de Mayo"
-date: 2020-04-05 20:23:06 -0300
+title: "Pizzería Los Dos Hermanos"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
+barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "097584915"
-direccion: "Guzman Papini esq. Las Piedras."
+necesidades: "Reciben donaciones"
+telefono_contacto: "23071388"
+direccion: "Turubí y Carlos de la Vega"
 
-otros_contactos: "097287764"
-horario: "Lunes a viernes  reparten a partir de las 20 / 20:30,"
+otros_contactos: ""
+horario: "Martes, Jueves y Sábado 13hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "PIT-CNT"
-date: 2020-04-05 20:23:06 -0300
+title: "Salón comunitario "San Antonio""
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Santa Lucía"
-actividades: "Otros"
-necesidades: "Alimentos no perecederos."
-telefono_contacto: "098691711 092213138  092249381"
-direccion: "Ramon Irigoyen entre 18 de Julio y Julio Mitre"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+telefono_contacto: "096951220"
+direccion: "Yucutujá 1250 esq. Santos"
 
 otros_contactos: ""
-horario: "de 17:00 a 20:00 hrs"
-aclaraciones: "coordinar vía telefónica para retirar viandas"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

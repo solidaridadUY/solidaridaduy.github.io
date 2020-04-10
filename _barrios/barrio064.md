@@ -1,7 +1,7 @@
 ---
-nombre: "Unión"
+nombre: "Reducto"
 departamento: "Montevideo"
 ---
 
-Barrio Unión
+Barrio Reducto
 Departamento de Montevideo

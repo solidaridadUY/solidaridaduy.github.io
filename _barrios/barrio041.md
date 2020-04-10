@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Lezica
+Barrio La Teja
 Departamento de Montevideo

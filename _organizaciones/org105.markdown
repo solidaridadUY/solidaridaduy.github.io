@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mides e Intendencia de Rivera"
-date: 2020-04-05 20:23:06 -0300
+title: "SUAP"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "IdR y MIDES Rivera"
-direccion: "Barrios: Rivera Chico, Misiones, La Arenera, Colegio Don Bosco"
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
+telefono_contacto: "29011982"
+direccion: "Local Fuecys (Río Negro 1210)"
 
 otros_contactos: ""
-horario: "Todos los días de 11 a 13"
-aclaraciones: "Comedores departamentales. Llevar cédula y recipiente."
+horario: "Del lunes 31 al jueves 2 de abril, de 10 a 17 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Abayubá"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "Mirtha Gao"
+direccion: "Cno de la Justicia y Abayubá"
+
+otros_contactos: ""
+horario: "Todos los días de tarde"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

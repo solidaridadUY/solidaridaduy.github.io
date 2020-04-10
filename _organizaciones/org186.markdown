@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Club Sayago"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "Beatriz 09680688"
+direccion: "Camino Ariel y la Vía"
+
+otros_contactos: ""
+horario: "Mediodía Todos los días"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "MIRAMAR BBC"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Deportivo Celiar"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Canasta"
-necesidades: "Alimentos en general para armar canastas."
-telefono_contacto: "099926182"
-direccion: "Santiago Gadea 3537"
+barrio: "Flor de Maroñas"
+actividades: "Olla"
+necesidades: "Reciben todo tipo de donaciones"
+telefono_contacto: "097 412 466"
+direccion: "Ombú y Ulises Favaro"
 
 otros_contactos: ""
-horario: "Lunes 30 a viernes 3, de 10 a 12 y de 17.30 a 19 hs."
-aclaraciones: ""
+horario: "Entrega de viandas: lunes a viernes de 19 a 20 hs. Sabado y Domingo de 17 a 18 hs"
+aclaraciones: "Llevar recipiente, se entrega para el núcleo familiar. Se reciben donaciones de lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
 cuenta_bancaria: ""
 
 ---

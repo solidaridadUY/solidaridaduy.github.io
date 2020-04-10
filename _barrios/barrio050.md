@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Nuevo España"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Nuevo España
 Departamento de Montevideo

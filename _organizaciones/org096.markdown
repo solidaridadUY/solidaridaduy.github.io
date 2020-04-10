@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Liga universitaria, Paysandú"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "097113175"
-direccion: "Luis Batlle Berres, Manzana C, Casa 19"
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Canasta"
+necesidades: "Reciben todo tipo de donaciones"
+telefono_contacto: "091401964"
+direccion: "No corresponde, donaciones a coordinar"
 
-otros_contactos: "093846063"
-horario: "Lunes, miércoles y viernes a las 19 hs"
-aclaraciones: "Traer vianda"
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "BROU, CA$ 001409166-00002"
 
 ---

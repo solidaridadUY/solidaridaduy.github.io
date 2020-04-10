@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "DJ's y Olimpo"
-date: 2020-04-05 20:23:06 -0300
+title: "iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
-actividades: "Canasta"
-necesidades: "Alimentos"
-telefono_contacto: "092838233
-097435635"
-direccion: "Calle 245"
+departamento: "Montevideo"
+barrio: "Cruz de Carrasco"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos, verduras, implementos de cocina, sanitarios, garrafa/anafe o similar"
+telefono_contacto: "098238589"
+direccion: "Camino Oncativo 2918 (Casona Covicruz)"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: ""
+otros_contactos: "Donaciones: 099102799 - 099629422"
+horario: "Sábados 12 horas"
+aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
 cuenta_bancaria: ""
 
 ---

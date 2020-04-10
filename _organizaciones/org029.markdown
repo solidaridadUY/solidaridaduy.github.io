@@ -1,21 +1,18 @@
 ---
 layout: organizacion
 
-title: "Resistencias de la Costa"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Canelones"
-barrio: "Costa de Oro"
+barrio: "Shangrilá"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "098 067 805 
-099 301 228"
-direccion: "Supermercado Kabe en El Pinar
-Los Robles entre Coronilla y Av. Del Parque. 
-En las cumbres de Neptunia, Llamando al celulares de contacto.
-"
+necesidades: "Se reciben alimentos."
+telefono_contacto: "09101976"
+direccion: "Perú Manzana 18 Solar 22 entre EEUU y San Francisco."
 
-otros_contactos: ""
+otros_contactos: "
+"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

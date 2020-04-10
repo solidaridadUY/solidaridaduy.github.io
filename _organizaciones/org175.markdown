@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Jóvenes FA-Treinta y Tres"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Treinta y Trés"
+barrio: "No corresponde"
+actividades: "Realización de compras"
+necesidades: "No corresponde"
+telefono_contacto: "092365306  091665164  098864387"
+direccion: "No corresponde"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Realización de compras a población de riesgo"
+cuenta_bancaria: ""
+
+---

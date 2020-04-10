@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Brigada 1958"
-date: 2020-04-05 20:23:06 -0300
+title: "Panadería Futuro Puerto"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Olla"
-necesidades: "Reciben Donaciones"
-telefono_contacto: "091894724"
-direccion: "Cuareim 2301 Esq. Tajes"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Guaraní 1370"
 
-otros_contactos: "098651506"
-horario: ""
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "24hs"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

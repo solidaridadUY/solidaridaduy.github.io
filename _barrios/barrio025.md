@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
+nombre: "Brazo Oriental"
 departamento: "Montevideo"
 ---
 
-Barrio Casabó
+Barrio Brazo Oriental
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-05 20:23:06 -0300
+title: "Comisión Vecinal 26 de Marzo y Comisión 516"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
+barrio: "Piedras Blancas"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "098575716"
-direccion: "Soriano 1153"
+necesidades: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
+telefono_contacto: "095952219 095078679"
+direccion: "No Corresponde"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 9 a 15 hs"
-aclaraciones: ""
+horario: "En el día"
+aclaraciones: "Comunicarse vía mobil para concretar"
 cuenta_bancaria: ""
 
 ---

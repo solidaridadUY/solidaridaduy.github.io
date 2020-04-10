@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Trampolines"
-date: 2020-04-05 20:23:06 -0300
+title: "Merendero
+Los conquistadores Apoya Grupo Misericordia"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "099 699 322"
-direccion: "Wilson Ferreira Adunate 712 -"
+barrio: "Villa la Colina"
+actividades: "Merienda"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "091 292 894"
+direccion: "Polideportivo: "La Colina" R8, km24"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Coordinación telefónica"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

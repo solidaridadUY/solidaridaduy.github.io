@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "El Abrojo
-Paso Joven
-SOCAT"
-date: 2020-04-05 20:23:06 -0300
+title: "Escuela Legado Box"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Montevideo"
-barrio: "Paso Carrasco"
-actividades: "Punto de Donación"
-necesidades: "reciben donaciones"
-telefono_contacto: "098 103 973"
-direccion: "Vaz Ferreira 52
-"
+departamento: "Canelones"
+barrio: "Lagomar"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "093818549  094306437"
+direccion: "Calle 34 Solar 38 Manzana 63"
 
 otros_contactos: ""
-horario: "Coordinación telefónica. L a V de 13 a 18 hs."
-aclaraciones: ""
+horario: ""
+aclaraciones: "Tienen posibilidad de ir a buscar donaciones"
 cuenta_bancaria: ""
 
 ---

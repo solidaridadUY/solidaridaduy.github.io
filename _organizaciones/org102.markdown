@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-05 20:23:06 -0300
+title: "Comité Parque Rodó"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Montevideo"
+barrio: "Parque Rodó"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "094992782"
-direccion: "Av. Instrucciones del año XIII (al fondo de comedor estudiantil)"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "099440874"
+direccion: "Gonzalo Ramíres y Eduardo Acevedo"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 11 a 15 hs"
+otros_contactos: "099421672"
+horario: "17 a 19"
 aclaraciones: ""
 cuenta_bancaria: ""
 

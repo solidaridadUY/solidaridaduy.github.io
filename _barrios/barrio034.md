@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Colón"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Colón
 Departamento de Montevideo

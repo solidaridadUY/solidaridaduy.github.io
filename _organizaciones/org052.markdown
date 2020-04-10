@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Centro Salesiano"
-date: 2020-04-05 20:23:06 -0300
+title: "COLECTIVO TRANS"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros"
-actividades: "Canasta"
-necesidades: "Solo dinero"
-telefono_contacto: "2355 5684"
-direccion: "No corresponde"
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+necesidades: "Reciben alimentos no perecederos, verduras, condimentos, etc."
+telefono_contacto: "095206931
+099211688"
+direccion: "Manuel Meléndez 4017 entre León Pérez y Santiago Sierra"
 
 otros_contactos: ""
 horario: ""
 aclaraciones: ""
-cuenta_bancaria: "BBVA - CC $ 9927 19836
-Centro Salesiano Aires Puros"
+cuenta_bancaria: ""
 
 ---

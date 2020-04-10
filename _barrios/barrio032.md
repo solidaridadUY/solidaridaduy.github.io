@@ -1,7 +1,7 @@
 ---
-nombre: "Colón"
+nombre: "Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Colón
+Barrio Cerro
 Departamento de Montevideo

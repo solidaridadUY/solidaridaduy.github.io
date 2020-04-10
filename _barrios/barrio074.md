@@ -1,7 +1,7 @@
 ---
-nombre: "La Coronilla"
-departamento: "Rocha"
+nombre: "Fray Bentos"
+departamento: "Río Negro"
 ---
 
-Barrio La Coronilla
-Departamento de Rocha
+Barrio Fray Bentos
+Departamento de Río Negro

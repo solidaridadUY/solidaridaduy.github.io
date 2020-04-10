@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Parque Batlle"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Parque Batlle
 Departamento de Montevideo

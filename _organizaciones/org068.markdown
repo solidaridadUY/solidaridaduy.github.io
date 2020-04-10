@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-05 20:23:06 -0300
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja,Barrio Sur,Aguada,Centro"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "093302231"
-direccion: "No corresponde"
+barrio: "Aires Puros"
+actividades: "Canasta"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "099144809"
+direccion: "Comité Carlos Quijano, Atahona esq. Celedonio Rojas"
 
 otros_contactos: ""
-horario: "Se toman pedidos de mandados hasta las 18 hs y se comienza a repartir a partir de las 19 hs."
-aclaraciones: "Realización de compras a población de riesgo"
+horario: "Jueves y sábado de 10 a 12 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Arroyo Seco"
+nombre: "Aguada"
 departamento: "Montevideo"
 ---
 
-Barrio Arroyo Seco
+Barrio Aguada
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Capilla Santo Domingo"
-date: 2020-04-05 20:23:06 -0300
+title: "Comité Peñarol"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
+barrio: "Peñarol"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "098291299"
-direccion: "Camino Maldonado 5842 y Venecia"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "095281659"
+direccion: "Aparicio Saravia y Shakespeare"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "16 a 17 hs"
+aclaraciones: "Reciben donaciones los miércoles y viernes o se puede coordinar para retirar a domicilio."
 cuenta_bancaria: ""
 
 ---

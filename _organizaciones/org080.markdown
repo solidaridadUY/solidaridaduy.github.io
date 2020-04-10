@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Barrio Lavalleja"
-date: 2020-04-05 20:23:06 -0300
+title: "Solidarios Unidos seis barrios"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Punto de Donación"
-necesidades: "Retiramos Tu donación"
-telefono_contacto: "098865307-Florencia"
-direccion: "No corresponde"
+barrio: "Piedras Blancas"
+actividades: "Olla"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "092927150 María"
+direccion: "Rafael y Teniente Galeano (frente a la barraca)"
 
-otros_contactos: "094357002  Hugo"
-horario: "durante el día"
-aclaraciones: "Retiramos tu donación"
+otros_contactos: ""
+horario: "Merienda 17 hs.
+Reparten Cena a las 20 hs."
+aclaraciones: "También cubren merienda. Llevar tupper"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
+Barrio Casabó
 Departamento de Montevideo

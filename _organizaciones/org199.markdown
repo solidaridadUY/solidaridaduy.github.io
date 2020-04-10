@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Brazo Oriental"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "098409665, 099091891, 099073492"
+direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
+
+otros_contactos: ""
+horario: "Domingos 20 hs. Coordinar para donaciones."
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Chuy"
-date: 2020-04-05 20:23:06 -0300
+title: "Ándale taquería"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Rocha"
-barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos y toda clase de donaciones"
-telefono_contacto: "098823513"
-direccion: "No corresponde"
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Olla"
+necesidades: "No corresponde"
+telefono_contacto: "099456647"
+direccion: "Salto 1200"
 
-otros_contactos: "098327339"
-horario: "Durante el día"
-aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+otros_contactos: ""
+horario: "L a V 12:00 hs"
+aclaraciones: "Entregan comida"
 cuenta_bancaria: ""
 
 ---

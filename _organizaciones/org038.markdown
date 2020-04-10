@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Comité Guaycurú"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Río Negro"
-barrio: "Fray Bentos"
+departamento: "Montevideo"
+barrio: "Reducto"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "091 026 159"
-direccion: "Oribe 1935"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099 458 417"
+direccion: "Evaristo Ciganda 1397 BIS"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "Todos los días de 10 a 12 y de 17.30 a 19.30"
+aclaraciones: "Pueden ir a buscar donaciones a domicilio"
 cuenta_bancaria: ""
 
 ---

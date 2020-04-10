@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-05 20:23:06 -0300
+title: "Merendero Estrella de Oro"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Punto de Donación"
-necesidades: "Recaudación de alimentos no perecederos"
-telefono_contacto: "092929791"
-direccion: "8 de octubre y Villagrán 4173"
+barrio: "Piedras Blancas"
+actividades: "Olla"
+necesidades: "Alimentos, productos de higiene y limpieza"
+telefono_contacto: "096098766 Yessica"
+direccion: "Clemente Ruggia y Ma del Rosario Ramos (salón de la cancha)"
 
 otros_contactos: ""
-horario: "Lunes y viernes de 16 a 18 hs"
-aclaraciones: ""
+horario: "19hs"
+aclaraciones: "Llevar tupper, olla de demanda muy creciente. Solicitan guantes y tapabocas para las personas voluntarias"
 cuenta_bancaria: ""
 
 ---

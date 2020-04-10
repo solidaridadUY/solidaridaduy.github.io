@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Nucleo del liceo 74"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Atlético Cordón"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo Verdisol"
-actividades: "Punto de Donación"
-necesidades: "A portes a traves de cuenta y alimentos"
-telefono_contacto: "092120727"
-direccion: "La tablada"
+barrio: "Cordón"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "091923053"
+direccion: "Galicia 1673"
 
 otros_contactos: ""
-horario: "Sábado y Domingo sirven a las 20"
-aclaraciones: ""
+horario: "Olla: Consultar al número de contacto
+Donaciones: 14 a 16 hs"
+aclaraciones: "Se coordinan retiros de donaciones vía telefónica"
 cuenta_bancaria: ""
 
 ---

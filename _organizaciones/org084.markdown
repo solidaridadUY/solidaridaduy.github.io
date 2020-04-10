@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "094097964  095495396  094900817"
-direccion: "No corresponde"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
+telefono_contacto: "093835462 Roberto"
+direccion: "Felisberto Hernandez 3538 BIS"
 
-otros_contactos: ""
-horario: "durante día"
-aclaraciones: ""
+otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
+horario: "17hs y 20hs"
+aclaraciones: "Funciona Sábados y Domingos / 17hs merienda 20hs cena / Demandan Guantes y tapabocas para voluntarios/as"
 cuenta_bancaria: ""
 
 ---

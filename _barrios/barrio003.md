@@ -1,7 +1,7 @@
 ---
-nombre: "Lagomar"
+nombre: "Jaureguiberry"
 departamento: "Canelones"
 ---
 
-Barrio Lagomar
+Barrio Jaureguiberry
 Departamento de Canelones

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Inter Sindical PIT-CNT"
-date: 2020-04-05 20:23:06 -0300
+title: "Adeom"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Santa Lucía"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098691711        092213138  092249381"
-direccion: "Ramón Irigoyen entre 18 de Julio y Mitre"
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Campaña del Kilo para familias vulnerables."
+telefono_contacto: "099759758"
+direccion: "Canelones 1330"
 
 otros_contactos: ""
-horario: "Entrega de vianda todos los días. Sábados y domingos también merienda"
-aclaraciones: "Se reciben las donaciones en el horario de 17.00 a 20.00 hs en el local de la Inter Sindical del PIT-CNT"
+horario: ""
+aclaraciones: "Reciben solo donaciones para canastas, no están haciendo ollas"
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Vecinos de La Tablada"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Conciliación"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "Augusto 099894189
+"
+direccion: "Lecocq 934 esq Millán
+"
+
+otros_contactos: ""
+horario: "Lunes y Miercoles 13 hs."
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---
