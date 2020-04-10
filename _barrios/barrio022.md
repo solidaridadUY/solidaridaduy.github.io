@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Belvedere
+Barrio Bella Italia
 Departamento de Montevideo

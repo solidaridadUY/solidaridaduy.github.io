@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Alexandra Club Gourmet"
-date: 2020-04-05 20:23:06 -0300
+title: "Salón del Sol"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Olla"
-necesidades: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
-telefono_contacto: "099171766"
-direccion: "Pablo de María 1056"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Cerrito 732"
 
-otros_contactos: ""
-horario: "Lunes, miércoles y viernes de 12.00 a 14.00"
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "9 a 18hs"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

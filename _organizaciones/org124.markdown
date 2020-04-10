@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de madres de la escuela."
-date: 2020-04-05 20:23:06 -0300
+title: "Centro Social y Deportivo Victoria"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Leche, maizena, salsa y carne."
-telefono_contacto: "096138220 (Leticia)"
-direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
+barrio: "Jacinto Vera"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "091773513"
+direccion: "Requena 2716"
 
 otros_contactos: ""
-horario: "Lunes a domingo a las 18:00."
-aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
+horario: "Jueves, sábado y lunes a las 20 hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
-date: 2020-04-05 20:23:06 -0300
+title: "Pizzeria El Triunfo"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "093368150 (Sandra)"
-direccion: "Salón 1° de Mayo, Calle las Piedras."
+barrio: "Villa Española"
+actividades: "Empresa que dona"
+necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
+telefono_contacto: "098735539"
+direccion: "Himalaya 3148"
 
 otros_contactos: ""
-horario: "Sábados y domingos (mediodía). Están intentando hacer algo para la merienda de los domingos."
-aclaraciones: "Habitualmente atienden a 70 niñes, el último fin de semana  fueron 130 niñes y 2 adultos. Se da una vianda, botella de leche y pan. Las familias deben llevar un tupper. De recibir alguna donación, harían una merienda entre semana."
+horario: ""
+aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
 cuenta_bancaria: ""
 
 ---

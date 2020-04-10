@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Comité Bile Martínez"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal - Villa Sarandí"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Prado"
+barrio: "Paso de la Arena"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de higiene"
-telefono_contacto: "092769462 094762392 098394643"
-direccion: "Islas Canarias 4264 esq. Juan Lavalle"
+necesidades: "Alimentos"
+telefono_contacto: "
+
+091 881 443"
+direccion: "Romeo Gavioli y Dolores Candales S/N "
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Pasan a buscar donaciones, colaboran con La Olla y reparten en zonas vulnerables"
+horario: "Todos los días de 14 a 19 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

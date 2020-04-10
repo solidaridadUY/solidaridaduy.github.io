@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comisión Vecinal 26 de Marzo y Comisión 516"
-date: 2020-04-05 20:23:06 -0300
+title: "Jóvenes FA"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
-telefono_contacto: "095952219 095078679"
-direccion: "No Corresponde"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "092190987"
+direccion: "Austria 2528 bis"
 
 otros_contactos: ""
-horario: "En el día"
-aclaraciones: "Comunicarse vía mobil para concretar"
+horario: "Todos los días a las 20:30 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

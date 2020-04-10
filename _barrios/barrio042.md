@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "La Blanqueada"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio La Blanqueada
 Departamento de Montevideo

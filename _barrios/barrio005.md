@@ -1,7 +1,7 @@
 ---
-nombre: "Lomas de Solymar"
+nombre: "Las Piedras"
 departamento: "Canelones"
 ---
 
-Barrio Lomas de Solymar
+Barrio Las Piedras
 Departamento de Canelones

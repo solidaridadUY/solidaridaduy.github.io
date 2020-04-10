@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Lista 939 FA"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Canasta"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "094345006"
+direccion: "Ruta 8 Km. 25.500 - Calle Las Magnolias entre Caputti y Las Violetas"
+
+otros_contactos: ""
+horario: "Coordinar por teléfono"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

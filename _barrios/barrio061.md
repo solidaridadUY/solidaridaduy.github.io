@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Pocitos"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Pocitos
 Departamento de Montevideo

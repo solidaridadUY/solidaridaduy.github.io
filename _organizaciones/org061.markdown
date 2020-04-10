@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Centro Cultural Totó y vecinos/as del barrio"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Canasta"
-necesidades: "Reciben donaciones"
-telefono_contacto: "097426604"
-direccion: "No corresponde"
+barrio: "Belvedere"
+actividades: "Merienda"
+necesidades: "Alimentos como para la merienda"
+telefono_contacto: "095626343"
+direccion: "Esmeralda frente a la vía esq. Emancipación"
 
-otros_contactos: "98429757"
-horario: ""
+otros_contactos: ""
+horario: "Lunes, Miércoles y viernes a las 17 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

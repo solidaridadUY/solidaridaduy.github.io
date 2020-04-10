@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Brandi"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cruz de Carrasco"
+barrio: "Conciliación"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, verduras, implementos de cocina, sanitarios, garrafa/anafe o similar"
-telefono_contacto: "099 659 422"
-direccion: "Cno. Carrasco y Av. Bolivia"
+necesidades: "Alimentos no percederos, productos de higiene y limpieza"
+telefono_contacto: "098964527 096450004"
+direccion: "Adolfo Rodriguez 6738"
 
 otros_contactos: ""
-horario: ""
+horario: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

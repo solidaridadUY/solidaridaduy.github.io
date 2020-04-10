@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vilardevoz"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Reducto"
+actividades: "Punto de Donación"
+necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
+telefono_contacto: "No corresponde"
+direccion: "Paraguay 1190"
+
+otros_contactos: ""
+horario: " 14 a 18 hrs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

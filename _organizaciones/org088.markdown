@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Nuevo Amanecer"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Layva"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "095286057 Ana"
-direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
+barrio: "Villa Dolores"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "Julio César 1466"
 
-otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar tupper"
+otros_contactos: "099629958  094204040"
+horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
+aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
 cuenta_bancaria: ""
 
 ---

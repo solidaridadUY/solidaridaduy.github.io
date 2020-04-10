@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Mesa intersocial Paysandú"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "098307154"
-direccion: "Levantan a domicilio"
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Olla"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "092726853"
+direccion: "Caminos Santa Catalina y los Murallones"
 
-otros_contactos: "099486640"
-horario: ""
+otros_contactos: ""
+horario: "Consultar horario"
 aclaraciones: ""
 cuenta_bancaria: ""
 

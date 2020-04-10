@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
-date: 2020-04-05 20:23:06 -0300
+title: "Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "se reciben alimentos"
-telefono_contacto: "Ir a la olla directamente"
-direccion: "Garzón y Lanús(Plaza Colón)"
+necesidades: "Reciben todo tipo de donaciones (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
+telefono_contacto: "093368150 (Sandra)"
+direccion: "Salón 1° de Mayo, Calle las Piedras."
 
 otros_contactos: ""
-horario: "Abre a diario y se sirve a las 18"
-aclaraciones: "Traer Tupper o Vianda"
+horario: "Sábados y domingos (mediodía). Están intentando hacer algo para la merienda de los domingos."
+aclaraciones: "Habitualmente atienden a 70 niñes, el último fin de semana  fueron 130 niñes y 2 adultos. Se da una vianda, botella de leche y pan. Las familias deben llevar un tupper. De recibir alguna donación, harían una merienda entre semana."
 cuenta_bancaria: ""
 
 ---

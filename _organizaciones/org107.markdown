@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cuerpo docente Liceo Número 2"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Alimentos y productos de limpieza para canastas"
-telefono_contacto: "094955669"
-direccion: "Barrio Rivera Chico"
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "se reciben alimentos no perecedero y productos de limpieza"
+telefono_contacto: "096262917"
+direccion: "Carlos Ott 2060 Bis"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "20:00 hrs"
+aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
 cuenta_bancaria: ""
 
 ---

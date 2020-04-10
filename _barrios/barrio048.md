@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Maroñas
 Departamento de Montevideo

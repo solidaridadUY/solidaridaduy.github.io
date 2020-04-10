@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Estrella del Norte"
-date: 2020-04-05 20:23:06 -0300
+title: "Grupo de madres de la escuela."
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "Se reciben alimentos y productos de limpieza"
-telefono_contacto: "No corresponde"
-direccion: "Padre Pablo Pittini, 12400"
+barrio: "Casavalle"
+actividades: "Merienda"
+necesidades: "Leche, maizena, salsa y carne."
+telefono_contacto: "096138220 (Leticia)"
+direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
 
 otros_contactos: ""
-horario: "Durante el día"
-aclaraciones: "Se hace olla y se reciben donaciones"
+horario: "Lunes a domingo a las 18:00."
+aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
 cuenta_bancaria: ""
 
 ---

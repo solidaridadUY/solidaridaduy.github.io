@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Palermo"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Palermo
 Departamento de Montevideo

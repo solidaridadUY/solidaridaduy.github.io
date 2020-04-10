@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "CECOED"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Bella Vista"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Salto"
-barrio: "Salto"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
-telefono_contacto: "092350389
-47327359"
-direccion: "Avda. Luis Batlle Berres esq. Enrique Amorim"
+departamento: "Montevideo"
+barrio: "Bella Vista"
+actividades: "Olla"
+necesidades: "Reciben donaciones"
+telefono_contacto: "099167275 098456226"
+direccion: "Av. Agraciada 3100 esquina Ascencio Sede Bella Vista"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "Martes y Viernes 12hs"
+aclaraciones: "Llevar tupper. Un sólo representante por familia"
 cuenta_bancaria: ""
 
 ---

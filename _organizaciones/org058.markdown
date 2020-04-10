@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "COLECTIVO TRANS"
-date: 2020-04-05 20:23:06 -0300
+title: "Solidario Unido Seis Barrios"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
+barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Reciben alimentos no perecederos, verduras, condimentos, etc."
-telefono_contacto: "095206931
-099211688"
-direccion: "manuel melendez 4017 entre leon perez y santiago sierra"
+necesidades: "Alimentos no perecederos y productos para celíacos"
+telefono_contacto: "092927150"
+direccion: "Calle Rafael solar 43 esq Dunant"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: ""
+otros_contactos: "094360368"
+horario: "11 a 19hs"
+aclaraciones: "Además de organizar ollas también organizan canastas y meriendas"
 cuenta_bancaria: ""
 
 ---

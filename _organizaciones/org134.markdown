@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-04-05 20:23:06 -0300
+title: "Librería Diomedes"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
+barrio: "Parque Rodó"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+necesidades: "Alimentos"
+telefono_contacto: "2403 4713"
+direccion: "Bulevar España 2129 esquina Pablo de María"
 
 otros_contactos: ""
-horario: "Jueves, sábado y lunes a las 20 hs"
-aclaraciones: "Llevar recipiente"
+horario: "Martes y jueves a las 20.30 se sirve la comida"
+aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
 cuenta_bancaria: ""
 
 ---

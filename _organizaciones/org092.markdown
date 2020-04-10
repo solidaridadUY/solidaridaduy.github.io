@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Brigada José Artigas"
-date: 2020-04-05 20:23:06 -0300
+title: "El abrojo"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Olla"
-necesidades: "Alimentos (carnes y verduras principalmente) Alcohol en gel"
-telefono_contacto: "095775335 Adrián"
-direccion: "Carlomagno esq. Victor Manuel. Mercadito Bella Italia"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "091269590"
+direccion: "Amandau 5722 esq. Eduardo Raíz"
 
 otros_contactos: ""
-horario: "12hs"
-aclaraciones: "Lunes a viernes. Demandan cocineros. Guantes y tapabocas para la gente que cocina"
-cuenta_bancaria: "BROU Caja de ahorro en pesos Nº 110171769-00001"
+horario: "Lunes a viernes de 11 a 16 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

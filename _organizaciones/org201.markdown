@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Carnicería: Don Delgado"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "22888485"
+direccion: "Ruta 8 km 23.800"
+
+otros_contactos: ""
+horario: "Lunes a sábado, 19 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-05 20:23:06 -0300
+title: "Mesa intersocial Paysandú"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Paysandú"
+barrio: "Paysandú"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "099699322"
-direccion: "Wilson Ferreira Aldunate 712"
+necesidades: "Alimentos"
+telefono_contacto: "098307154"
+direccion: "Levantan a domicilio"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 9 a 15 hs"
+otros_contactos: "099486640"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

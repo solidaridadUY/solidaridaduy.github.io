@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "El abrojo"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Olla"
-necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
-telefono_contacto: "097030441 Gabriela"
-direccion: "Manuel Perez 6129 esq. Curis"
+barrio: "Paso Carrasco"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "098103973"
+direccion: "Vaz Ferreira 52"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Martes y miércoles / 17hs merienda 20hs cena / Demandan principalmente leche en polvo"
+horario: "Lunes a viernes de 13 a 18 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

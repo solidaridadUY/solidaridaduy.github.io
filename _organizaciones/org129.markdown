@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Cordón"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
+barrio: "Barrio Sur"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "091923053"
-direccion: "Galicia 1673"
+necesidades: "Aimentos"
+telefono_contacto: "098520248"
+direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
 
-otros_contactos: ""
-horario: "Olla: Consultar al número de contacto
-Donaciones: 14 a 16 hs"
-aclaraciones: "Se coordinan retiros de donaciones vía telefónica"
+otros_contactos: "093524166"
+horario: "Viernes a las 21 hs"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
 cuenta_bancaria: ""
 
 ---

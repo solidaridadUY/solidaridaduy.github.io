@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Parque Rodó"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y artículos de limpieza"
-telefono_contacto: "099440874"
-direccion: "Gonzalo Ramíres y Eduardo Acevedo"
+barrio: "Cerro"
+actividades: "Merienda"
+necesidades: "Se reciben donaciones de: Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta, Articulos de limpieza e Higiene"
+telefono_contacto: "099834255"
+direccion: "Asentamiento Fortaleza"
 
-otros_contactos: "099421672"
-horario: "17 a 19"
-aclaraciones: ""
+otros_contactos: "092728754"
+horario: "Consultar vía celular"
+aclaraciones: "Se están realizando meriendas para ayudar a lxs Niñxs del asentamiento Fortaleza brindandoles una merienda diaria."
 cuenta_bancaria: ""
 
 ---

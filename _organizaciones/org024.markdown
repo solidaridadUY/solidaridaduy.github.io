@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "ONG EL ABROJO"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Reciben Donaciones"
-telefono_contacto: "098575716"
-direccion: "Soriano 1153"
+barrio: "Cerro"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos y productos de limpieza"
+telefono_contacto: "091944342 098759845 099834255"
+direccion: "Grecia y Viacaba"
 
 otros_contactos: ""
-horario: "Coordinar"
-aclaraciones: "Coordinación telefónica de donaciones"
+horario: "Reciben donaciones en el local lunes, miércoles y viernes de 17 a 19 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

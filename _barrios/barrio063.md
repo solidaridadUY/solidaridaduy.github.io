@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Cruces"
+nombre: "Punta de Rieles"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Cruces
+Barrio Punta de Rieles
 Departamento de Montevideo

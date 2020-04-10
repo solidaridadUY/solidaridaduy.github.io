@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Rivera"
+departamento: "Rivera"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Rivera
+Departamento de Rivera

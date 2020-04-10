@@ -1,21 +1,21 @@
 ---
 layout: organizacion
 
-title: "Lomas 3 Baby Fútbol"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Lomas de Solymar"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y productos de limpieza"
-telefono_contacto: "098925931
-092725742"
-direccion: "Calle 2 esquina Tiburón"
+departamento: "Flores"
+barrio: "Ismael Cortinas"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "098360975
+092010950"
+direccion: "Club Arroyo Grande, En Ismael Cortinas: Mevir 4, Núm 25857
+En Trinidad: Gral. Flores 454"
 
-otros_contactos: "
-"
-horario: "Miércoles y Viernes de 18 a 20 hs."
-aclaraciones: ""
+otros_contactos: ""
+horario: ""
+aclaraciones: "Sábados y Domingo, mediodía y noche"
 cuenta_bancaria: ""
 
 ---

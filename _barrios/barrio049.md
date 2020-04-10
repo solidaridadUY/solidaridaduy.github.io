@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "No corresponde"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio No corresponde
 Departamento de Montevideo

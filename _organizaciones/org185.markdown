@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Repique"
+date: 2020-04-10 00:56:55 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "091269590"
+direccion: "Amandau 5722"
+
+otros_contactos: ""
+horario: "Lunes a Viernes de 11 a 16 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

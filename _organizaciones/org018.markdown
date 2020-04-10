@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Peñarol"
-date: 2020-04-05 20:23:06 -0300
+title: "Brigada Zapicán"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Peñarol"
+barrio: "Punta de Rieles"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "095281659"
-direccion: "Aparicio Saravia y Shakespeare"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
+telefono_contacto: "098635050 093381094"
+direccion: "Centauro 6845 entre Leo y Virgo."
 
 otros_contactos: ""
-horario: "16 a 17 hs"
-aclaraciones: "Reciben Miércoles y viernes ó se coordina para retirar a domicilio."
+horario: "Todos los días 19:30hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Sauce"
+nombre: "Shangrilá"
 departamento: "Canelones"
 ---
 
-Barrio Sauce
+Barrio Shangrilá
 Departamento de Canelones

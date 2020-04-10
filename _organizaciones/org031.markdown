@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Mandalavos"
-date: 2020-04-05 20:23:06 -0300
+title: "Bares Finisterre y El Hormiguero"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Lomas de Solymar"
+departamento: "Montevideo"
+barrio: "Palermo"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "094 992 782"
-direccion: "Av. Instrucciones del Año XIII (al fondo del comedor estudiantil)."
+necesidades: "Acopian donaciones para llevar a diferentes ollas"
+telefono_contacto: "099569017
+095010898"
+direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Coordinación telefónica"
+aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El rancho"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "23051061"
-direccion: "Heredia y Martin Berindague"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
+telefono_contacto: "094368436 Ismael"
+direccion: "Blanco Acevedo 6159 esq. Florencia. Almacén Peladito"
 
-otros_contactos: "094524282"
-horario: "De 11 a 13 se brinda almuerzo, se reciben donaciones durante el día"
-aclaraciones: ""
+otros_contactos: "093867350 Loreley"
+horario: "20:30hs"
+aclaraciones: "Jueves y Viernes. Demandan principalmente Leche en polvo"
 cuenta_bancaria: ""
 
 ---

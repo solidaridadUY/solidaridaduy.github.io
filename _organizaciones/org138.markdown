@@ -1,20 +1,21 @@
 ---
 layout: organizacion
 
-title: "Jóvenes del Municipio B
-Apoyo: Consejo Vecinal 2"
-date: 2020-04-05 20:23:06 -0300
+title: "Cooperativa EKO y Vos Con Voz"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "099405205"
-direccion: "No corresponde"
+barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
+actividades: "Retiro de donaciones"
+necesidades: "Reciben alimentos no perecederos y artículos de limpieza e higiene personal"
+telefono_contacto: "094990652"
+direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) 
+Zona Parque Batlle hasta Malvín: telefónicamente
+Zona Pque Rodó, Cordón, Centro: telefónicamente"
 
-otros_contactos: "areasocialmunicipiob@gmail.com"
-horario: "Se toman pedidos desde las 9 hasta las 15hs."
-aclaraciones: "Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
+otros_contactos: "094566630"
+horario: "Local Vos con Voz: Lunes a Viernes de 9 a 14hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

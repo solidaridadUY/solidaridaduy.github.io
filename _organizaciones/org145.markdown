@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Amigos y vecinos del Parque Rodó"
-date: 2020-04-05 20:23:06 -0300
+title: "Almacén Juan"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
+barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
-necesidades: "Productos no perecederos y de limpieza, frutas, verduras y carne"
-telefono_contacto: "099711537"
-direccion: "Espacio La Uruguaya (Pablo de María 936)"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Reconquista 247"
 
-otros_contactos: ""
-horario: "14.00 a 17.00"
-aclaraciones: "Se pusieron como plazo de recepción el 12 de abril"
+otros_contactos: "094053638"
+horario: "8 a 20:30"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

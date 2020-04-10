@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
+nombre: "Abayubá"
 departamento: "Montevideo"
 ---
 
-Barrio Aires Puros
+Barrio Abayubá
 Departamento de Montevideo

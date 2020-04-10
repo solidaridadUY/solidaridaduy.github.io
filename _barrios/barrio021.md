@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Vista
+Barrio Barrio Sur
 Departamento de Montevideo

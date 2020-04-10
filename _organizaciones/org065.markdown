@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Club Estudiantes de la Unión"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Atlético Capurro"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Unión"
+barrio: "Capurro"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, carne, artículos de limpieza y ropa de abrigo"
-telefono_contacto: "094460660"
-direccion: "Cabrera y Pernas"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "099202923"
+direccion: "Capurro 922"
 
-otros_contactos: "lalogarmen2@gmail.com"
-horario: ""
-aclaraciones: "Cuentan con disponibilidad horaria y locomoción para ir por las donaciones"
+otros_contactos: "096496373   091802863"
+horario: "De lunea a viernes de 15 a 18 hs
+"
+aclaraciones: "La olla se hace los sábados y domingos de
+11 a 15 hs"
 cuenta_bancaria: ""
 
 ---

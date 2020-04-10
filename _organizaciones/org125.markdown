@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinas"
-date: 2020-04-05 20:23:06 -0300
+title: "Iniciativa ciudadana: CANASTAS UY"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Verdura, carne y pan."
-telefono_contacto: "095410570 (Laura o Natalia)"
-direccion: "Elisa Méndez y Carmelo colman"
+barrio: "No corresponde"
+actividades: "Canasta"
+necesidades: "Ofrecer trabajo voluntario en el armado de las canastas."
+telefono_contacto: "No corresponde"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Sábados y domingos de 19:30 a 20:30"
-aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
+otros_contactos: "@CanastasUy en IG"
+horario: ""
+aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco. 
+Audita Guyer&Regules"
 cuenta_bancaria: ""
 
 ---

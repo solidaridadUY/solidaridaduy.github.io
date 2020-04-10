@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "METELE QUE SON PASTELES"
-date: 2020-04-05 20:23:06 -0300
+title: "Club Royal"
+date: 2020-04-10 00:56:55 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Canasta"
-necesidades: "Alimentos para canasta"
-telefono_contacto: "094476451
-091211765
-098000052
-099757609"
-direccion: "joaquin artigas 3326, local de la murga."
+barrio: "Barrio Lavalleja"
+actividades: "Merienda"
+necesidades: "recepcionan alimentos y donaciones en la sede"
+telefono_contacto: "093734042"
+direccion: "Yucutuja 1250"
 
-otros_contactos: "1950 int. 7487"
-horario: "15-18 hrs, coordinar vía telefónica"
-aclaraciones: "se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a traves de los celulares."
+otros_contactos: ""
+horario: "Validar vía celular, 18hrs en la cancha"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

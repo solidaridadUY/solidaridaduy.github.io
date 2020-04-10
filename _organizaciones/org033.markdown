@@ -1,20 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-05 20:23:06 -0300
+title: "Merendero"
+date: 2020-04-10 00:56:55 -0300
 
-departamento: "Canelones"
-barrio: "Shangrilá"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos."
-telefono_contacto: "09101976"
-direccion: "Perú Manzana 18 Solar 22 entre EEUU y San Francisco."
+departamento: "Maldonado"
+barrio: "Playa Grande"
+actividades: "Merienda"
+necesidades: "Alimentos no perecederos, 
+leche y pan"
+telefono_contacto: "094254015"
+direccion: "Calle 26 entre 2 y 3"
 
-otros_contactos: "
-"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Almuerzo - sábados y domingos 13 hs.
+Merienda - todos los días 18 hs.
+Cena- todos los días de 19 a 21 hs.
+LLEVAR TAZA, TUPPER Y CUBIERTOS"
 cuenta_bancaria: ""
 
 ---
