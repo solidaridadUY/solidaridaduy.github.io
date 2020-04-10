@@ -406,7 +406,10 @@ var _$src_8 = {};
     })
     options.filterSelectTags.forEach(function (value, key, map) {
       value.addEventListener('change', function (e) {
-        filters.set(key, e.target.value)
+        if (e.target.value !== "")
+          filters.set(key, e.target.value)
+        else
+          filters.delete(key);
         emptyResultsContainer()
         search(' ')
       })
