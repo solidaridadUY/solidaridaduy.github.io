@@ -31,9 +31,9 @@ layout: default
       
       <select id="barrio">
         <option value="" selected disabled hidden>Barrio</option>
-        {%- for post in site.barrios -%}
+        <!--{%- for post in site.barrios -%}
           <option value="{{ post.nombre }}">{{ post.nombre }}</option>
-        {%- endfor -%}
+        {%- endfor -%}-->
       </select> 
 
       <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre, ciudad, barrio o actividad ...">
@@ -113,6 +113,41 @@ SimpleJekyllSearch({
 </script>
 
 <script src="js/jquery-3.4.1.min.js"></script>
+
+<script>
+  $("#departamento").change(function() {
+
+  var $dropdown = $(this);
+
+  $.getJSON("/search.json", function(data) {
+  
+    var depto = $dropdown.val();
+    var barrioVals = [];
+
+    for (var i = 0; i < data.length; i++) {
+      for (var key in data[i]) {
+        if (key == 'departamento' && data[i][key] == depto) {
+          /*hay barrios separados por comas*/
+          var barrios = [];
+          data[i]['barrio'].split(",")
+          for (var val in barrios) {
+            if (!barrioVals.includes(val)) {
+              barrioVals.push(val)
+            }
+          }
+        }
+      }
+    }
+    
+    var $secondChoice = $("#barrio");
+    $secondChoice.empty();
+    $.each(barrioVals, function(index, value) {
+      $secondChoice.append("<option>" + value + "</option>");
+    });
+
+  });
+});
+</script>
 
 <script>
   $(document).ready(function(){
