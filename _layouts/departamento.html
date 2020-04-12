@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>Barrios de {{ page.nombre }}</h1>
 
-<ul>
+<ul class="colaborar-lists">
   {% assign filtered_barrios = site.barrios | where: 'departamento', page.nombre %}
   {% for barrio in filtered_barrios %}
     <li><h2><a href="{{ barrio.url }}">{{ barrio.nombre }}</a></h2></li>

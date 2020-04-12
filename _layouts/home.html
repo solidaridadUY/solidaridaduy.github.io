@@ -22,10 +22,23 @@ layout: default
 
     <!-- Html Elements for Search -->
     <div id="search-container" class="search">
-      <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre, ciudad, barrio o actividad ...">
+      <select id="departamento" class="filter">
+        <option value="" selected>Departamento</option>
+        {%- for post in site.departamentos -%}
+          <option value="{{ post.nombre }}">{{ post.nombre }}</option>
+        {%- endfor -%}
+      </select> 
       
+      <select id="barrio" class="filter">
+        <option value="" selected>Barrio/Localidad</option>
+      </select>
+
+      <select id="actividad" class="filter">
+      </select>  
+
+      <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre ...">
     </div>
-    
+
     <!-- hay un java script que oculta uno de estos dos divs dependiendo si se muestra todo el listado o solo las búsquedas-->
 
     <div id="results-container" class="row flex-grid"></div>
@@ -78,21 +91,68 @@ layout: default
 
 </div>
 
-<!-- Script pointing to search-script.js -->
-<script src="js/search-script.js" type="text/javascript"></script>
+<script src="js/jquery-3.4.1.min.js"></script>
 
-<!-- Configuration -->
 <script>
-SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
-  noResultsText: ("¡No se encontraron resultados!"),
-  json: '/search.json'
-})
+  $("#departamento").change(function() {
+
+  var $dropdown = $(this);
+
+  $.getJSON("/search.json", function(data) {
+  
+    var depto = $dropdown.val();
+    var barrioVals = [];
+
+    for (var i = 0; i < data.length; i++) {
+      for (var key in data[i]) {
+        if (key == 'departamento' && data[i][key] == depto) {
+          /*hay barrios separados por comas*/
+          var barrios = data[i]['barrio'].split(",")
+          for (var j = 0; j < barrios.length; j++) {
+            if (!barrioVals.includes(barrios[j])) {
+              barrioVals.push(barrios[j])
+            }
+          }
+        }
+      }
+    }
+    barrioVals.sort();
+    var $secondChoice = $("#barrio");
+    $secondChoice.empty();
+    $secondChoice.append("<option value=\"\" selected>" + "Barrio/Localidad" + "</option>");
+    $.each(barrioVals, function(index, value) {
+      $secondChoice.append("<option>" + value + "</option>");
+    });
+
+  });
+});
 </script>
 
-<script src="js/jquery-3.4.1.min.js"></script>
+<script>
+$(document).ready(function(){
+
+  $.getJSON("/search.json", function(data) {
+  
+    var actividadVals = [];
+
+    for (var i = 0; i < data.length; i++) {
+      for (var key in data[i]) {
+        if (key == 'actividades' && !actividadVals.includes(data[i][key])) {
+          actividadVals.push(data[i][key])
+        }
+      }
+    }
+    actividadVals.sort();
+    var $secondChoice = $("#actividad");
+    $secondChoice.empty();
+    $secondChoice.append("<option value=\"\" selected>" + "Tipo de Iniciativa" + "</option>");
+    $.each(actividadVals, function(index, value) {
+      $secondChoice.append("<option>" + value + "</option>");
+    });
+
+  });
+});
+</script>
 
 <script>
   $(document).ready(function(){
@@ -103,4 +163,44 @@ SimpleJekyllSearch({
       };
     });
   });
+
+  $(document).ready(function(){
+    $("#departamento").change(function() {
+      $("#row").hide();
+    });
+  });
+
+  $(document).ready(function(){
+    $("#barrio").change(function() {
+      $("#row").hide();
+    });
+  });
+
+  $(document).ready(function(){
+    $("#actividad").change(function() {
+      $("#row").hide();
+    });
+  });
+</script>
+
+<!-- Script pointing to search-script.js -->
+<script src="js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+var filtersMap = new Map();
+filtersMap.set('departamento', document.getElementById("departamento"));
+filtersMap.set('barrio', document.getElementById("barrio"));
+filtersMap.set('actividades', document.getElementById("actividad"));
+
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
+  noResultsText: ("¡No se encontraron resultados!"),
+  limit: 1000,
+  fuzzy: true,
+  filterSelectTags: filtersMap,
+  json: '/search.json'
+})
 </script>
