@@ -3,12 +3,6 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
 
   {% if site.paginate %}
     {% assign posts = paginator.organizaciones %}
@@ -18,25 +12,30 @@ layout: default
 
 
   {%- if posts.size > 0 -%}
-    <!--<h2 class="post-list-heading">Todas las organizaciones</h2>-->
 
-    <!-- Html Elements for Search -->
-    <div id="search-container" class="search">
-      <select id="departamento" class="filter">
-        <option value="" selected>Departamento</option>
-        {%- for post in site.departamentos -%}
-          <option value="{{ post.nombre }}">{{ post.nombre }}</option>
-        {%- endfor -%}
-      </select> 
-      
-      <select id="barrio" class="filter">
-        <option value="" selected>Barrio/Localidad</option>
-      </select>
+    <div id="title" class="banner">
 
-      <select id="actividad" class="filter">
-      </select>  
+      <h1> Red de Solidaridad </h1>
 
-      <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre ...">
+      <h2> Somos una red de Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h2>
+
+      <div id="search-container" class="search">
+        <select id="departamento" class="filter">
+          <option value="" selected>Departamento</option>
+          {%- for post in site.departamentos -%}
+            <option value="{{ post.nombre }}">{{ post.nombre }}</option>
+          {%- endfor -%}
+        </select> 
+        
+        <select id="barrio" class="filter">
+          <option value="" selected>Barrio/Localidad</option>
+        </select>
+
+        <select id="actividad" class="filter">
+        </select>  
+
+        <input type="text" id="search-input" class="search-field" placeholder="Buscar por nombre ...">
+      </div>
     </div>
 
     <!-- hay un java script que oculta uno de estos dos divs dependiendo si se muestra todo el listado o solo las búsquedas-->
