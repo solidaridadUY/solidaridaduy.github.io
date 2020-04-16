@@ -401,11 +401,19 @@ var _$src_8 = {};
     options.searchInput.addEventListener('keyup', function (e) {
       if (isWhitelistedKey(e.which)) {
         emptyResultsContainer()
-        search(e.target.value)
+        if (e.target.value == "")
+          search(' ')
+        else
+          search(e.target.value)
       }
     })
     options.filterSelectTags.forEach(function (value, key, map) {
       value.addEventListener('change', function (e) {
+        //FIXME
+        //Codigo particular para los filtros de solidaridad
+        //Cada vez que se modifica un filtro de departamento, borro el filtro de barrio
+        if (key == 'departamento')
+          filters.delete('barrio')
         if (e.target.value !== "")
           filters.set(key, e.target.value)
         else

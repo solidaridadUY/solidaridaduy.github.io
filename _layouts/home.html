@@ -155,9 +155,6 @@ $(document).ready(function(){
   $(document).ready(function(){
     $("#search-input").keyup(function() {
       $("#row").hide();
-      if (!$('#search-input').val()) {
-        $("#row").show();
-      };
     });
   });
 
@@ -196,7 +193,7 @@ SimpleJekyllSearch({
   searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
   noResultsText: ("¡No se encontraron resultados!"),
   limit: 1000,
-  fuzzy: true,
+  fuzzy: false,
   filterSelectTags: filtersMap,
   json: '/search.json'
 })
