@@ -5,7 +5,7 @@ permalink: /acerca-de/
 ---
 
 ## Visión general
-Esta plataforma virtual se construye de forma colaborativa, entre varios colectivos y actores sociales insertos en el territorio que aportan a la difusión y comprensión de todas las iniciativas solidarias. Pretendemos disponibilizar una base de datos **confiable y actualizada** sobre tales emprendimientos, curada y moderada por todos los miembros.
+Esta plataforma virtual se construye de forma colaborativa, entre varios colectivos y actores sociales insertos en el territorio que aportan a la difusión y comprensión de todas las iniciativas solidarias. Pretendemos disponibilizar una base de datos **confiable** que se **actualiza diariamente** y **se modera** por todos los miembros.
 
 ## Objetivos
 
