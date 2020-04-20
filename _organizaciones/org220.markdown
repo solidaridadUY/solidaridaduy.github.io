@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "096262971 096021742 "
+direccion: "Colman y Pororó"
+
+otros_contactos: ""
+horario: "20 Hs."
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

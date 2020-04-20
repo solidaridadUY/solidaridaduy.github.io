@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio Casabó
 Departamento de Montevideo

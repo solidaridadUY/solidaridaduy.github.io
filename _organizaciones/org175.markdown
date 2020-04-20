@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA-Treinta y Tres"
-date: 2020-04-10 00:56:55 -0300
+title: "Comité García Lorca"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Treinta y Trés"
-barrio: "No corresponde"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "092365306  091665164  098864387"
-direccion: "No corresponde"
+departamento: "Montevideo"
+barrio: "Jacinto Vera"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y productos de limpieza."
+telefono_contacto: "099 704 126"
+direccion: "Colorado 2212 casi Cufré"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Realización de compras a población de riesgo"
+horario: "Lunes a viernes de 17 a 19 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

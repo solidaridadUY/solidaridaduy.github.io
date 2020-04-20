@@ -1,7 +1,7 @@
 ---
-nombre: "Tala"
+nombre: "Lomas de Solymar"
 departamento: "Canelones"
 ---
 
-Barrio Tala
+Barrio Lomas de Solymar
 Departamento de Canelones

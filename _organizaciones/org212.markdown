@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Calle F 3957"
+
+otros_contactos: ""
+horario: "Sábado y Domingo 17 horas inicia, se reparte 20 horas"
+aclaraciones: "Casa de ICA"
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Todos"
+nombre: "Montes de Solymar"
 departamento: "Canelones"
 ---
 
-Barrio Todos
+Barrio Montes de Solymar
 Departamento de Canelones

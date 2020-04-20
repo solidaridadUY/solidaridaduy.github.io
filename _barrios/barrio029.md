@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
-departamento: "Montevideo"
+nombre: "La Capuera"
+departamento: "Maldonado"
 ---
 
-Barrio Casavalle
-Departamento de Montevideo
+Barrio La Capuera
+Departamento de Maldonado

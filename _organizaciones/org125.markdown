@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa ciudadana: CANASTAS UY"
-date: 2020-04-10 00:56:55 -0300
+title: "Pizzeria El Triunfo"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: "Ofrecer trabajo voluntario en el armado de las canastas."
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+barrio: "Villa Española"
+actividades: "Empresa que dona"
+necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
+telefono_contacto: "098735539"
+direccion: "Himalaya 3148"
 
-otros_contactos: "@CanastasUy en IG"
+otros_contactos: ""
 horario: ""
-aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco. 
-Audita Guyer&Regules"
+aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
 cuenta_bancaria: ""
 
 ---

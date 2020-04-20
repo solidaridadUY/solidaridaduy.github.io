@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Cordón"
-date: 2020-04-10 00:56:55 -0300
+title: "Red Solidaria Chuy"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "091923053"
-direccion: "Galicia 1673"
+departamento: "Rocha"
+barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
+actividades: "Punto de Donación"
+necesidades: "Se reciben alimentos no perecederos y toda clase de donaciones"
+telefono_contacto: "098823513"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Olla: Consultar al número de contacto
-Donaciones: 14 a 16 hs"
-aclaraciones: "Se coordinan retiros de donaciones vía telefónica"
+otros_contactos: "098327339"
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
 cuenta_bancaria: ""
 
 ---

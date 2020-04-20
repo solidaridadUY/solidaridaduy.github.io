@@ -1,5 +1,5 @@
 ---
-nombre: "Salto"
+nombre: "Rivera"
 ---
 
-Departamento de Salto
+Departamento de Rivera

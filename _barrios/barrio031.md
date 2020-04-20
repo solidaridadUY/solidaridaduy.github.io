@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
-departamento: "Montevideo"
+nombre: "San Carlos"
+departamento: "Maldonado"
 ---
 
-Barrio Cerrito de la Victoria
-Departamento de Montevideo
+Barrio San Carlos
+Departamento de Maldonado

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Estrella del Norte"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "Se reciben alimentos y productos de limpieza"
-telefono_contacto: "No corresponde"
-direccion: "Padre Pablo Pittini, 12400"
+barrio: "Cerro"
+actividades: "Merienda"
+necesidades: "Se reciben donaciones de: Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta, Articulos de limpieza e Higiene"
+telefono_contacto: "099834255"
+direccion: "Asentamiento Fortaleza"
 
-otros_contactos: ""
-horario: "Todo el día"
-aclaraciones: "Se hace olla y se reciben donaciones"
+otros_contactos: "092728754"
+horario: "Consultar vía celular"
+aclaraciones: "Se están realizando meriendas para ayudar a lxs Niñxs del asentamiento Fortaleza brindandoles una merienda diaria."
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "Vecinas/os de Instrucciones y Mendoza."
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Abayubá"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Mirtha Gao"
-direccion: "Cno de la Justicia y Abayubá"
+necesidades: "Carne, pan, verduras, frutas."
+telefono_contacto: "092548176 (Sara)"
+direccion: "Club Arapey, Instrucciones y Mendoza"
 
 otros_contactos: ""
-horario: "Todos los días de tarde"
-aclaraciones: ""
+horario: "Todos los días a las 20:00."
+aclaraciones: "Atienden 65 personas aprox. La inciativa es de 2 parejas (vecinas del barrio) y lo realizan con sus ingresos únicamente."
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Ferretería \"El Destino\""
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Los Bulevares"
+actividades: "Punto de Donación"
+necesidades: "Se reciben donaciones para olla del barrio"
+telefono_contacto: "23155207"
+direccion: "Ideario Artiguista 1865"
+
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Consultar telefónicamente"
+cuenta_bancaria: ""
+
+---

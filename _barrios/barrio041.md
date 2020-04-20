@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio Belvedere
 Departamento de Montevideo

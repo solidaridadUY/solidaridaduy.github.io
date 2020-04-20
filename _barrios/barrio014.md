@@ -1,7 +1,7 @@
 ---
-nombre: "Ismael Cortinas"
-departamento: "Flores"
+nombre: "Santa Lucía"
+departamento: "Canelones"
 ---
 
-Barrio Ismael Cortinas
-Departamento de Flores
+Barrio Santa Lucía
+Departamento de Canelones

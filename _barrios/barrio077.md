@@ -1,7 +1,7 @@
 ---
-nombre: "Barra del Chuy"
-departamento: "Rocha"
+nombre: "Palermo"
+departamento: "Montevideo"
 ---
 
-Barrio Barra del Chuy
-Departamento de Rocha
+Barrio Palermo
+Departamento de Montevideo

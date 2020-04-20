@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El Tundra Bar"
-date: 2020-04-10 00:56:55 -0300
+title: "Organización Vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "29091578"
-direccion: "Durazno 902 esq. Convención"
+barrio: "Villa Española"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, donaciones para olla popular de la zona."
+telefono_contacto: "No corresponde"
+direccion: "Av. José Pedro Varela 1461"
 
 otros_contactos: ""
-horario: "Lunes al mediodía"
-aclaraciones: ""
+horario: "Todos los días de 10 a 16 hrs."
+aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
 cuenta_bancaria: ""
 
 ---

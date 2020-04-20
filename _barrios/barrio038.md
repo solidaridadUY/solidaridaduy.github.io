@@ -1,7 +1,7 @@
 ---
-nombre: "Flor de Maroñas"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Flor de Maroñas
+Barrio Barrio Sur
 Departamento de Montevideo

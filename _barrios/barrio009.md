@@ -1,7 +1,7 @@
 ---
-nombre: "Suárez"
+nombre: "Las Piedras"
 departamento: "Canelones"
 ---
 
-Barrio Suárez
+Barrio Las Piedras
 Departamento de Canelones

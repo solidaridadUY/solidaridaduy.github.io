@@ -1,7 +1,7 @@
 ---
-nombre: "Jacinto Vera"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Jacinto Vera
+Barrio Bella Italia
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "Movimiento de Participación Popular"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
-actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "No corresponde"
-direccion: "Av Carlos Ramirez entre Teller y Agustín Muñoz"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
+telefono_contacto: "092999609"
+direccion: "Mercedes 1368"
 
 otros_contactos: ""
-horario: "Jueves 20.00 hs"
-aclaraciones: "Llevar tupper"
+horario: "9 a 18 hs"
+aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
 cuenta_bancaria: ""
 
 ---

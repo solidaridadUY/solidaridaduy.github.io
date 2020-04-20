@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Rotisería El Garrison"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Villa Muñoz"
+actividades: "Merienda"
+necesidades: "Donaciones"
+telefono_contacto: "92310955"
+direccion: "Domingo Aramburú 1840 esquina Democracia"
+
+otros_contactos: ""
+horario: "Todos los días 8:00 a 11:00 y 18:00 a 19:30"
+aclaraciones: "Café con leche y tostadas con manteca"
+cuenta_bancaria: ""
+
+---

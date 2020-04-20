@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
+barrio: "Colón"
 actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "092726853"
-direccion: "Caminos Santa Catalina y los Murallones"
+necesidades: "Se reciben alimentos."
+telefono_contacto: "Gabriel Crause: 093678767"
+direccion: "Garzón y Lanús(Plaza Colón)"
 
 otros_contactos: ""
-horario: "Consultar horario"
-aclaraciones: ""
+horario: "Todos los días 12 y 18 hs"
+aclaraciones: "Traer Tupper o Vianda"
 cuenta_bancaria: ""
 
 ---

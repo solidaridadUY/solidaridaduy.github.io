@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Grande"
-departamento: "Maldonado"
+nombre: "Sauce"
+departamento: "Canelones"
 ---
 
-Barrio Playa Grande
-Departamento de Maldonado
+Barrio Sauce
+Departamento de Canelones

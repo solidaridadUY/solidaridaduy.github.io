@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Carnicería: Don Delgado"
-date: 2020-04-10 00:56:55 -0300
+title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
+date: 2020-04-20 00:01:14 -0300
 
 departamento: "Canelones"
 barrio: "Barros Blancos"
-actividades: "Olla"
+actividades: "Merienda"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "22888485"
-direccion: "Ruta 8 km 23.800"
+telefono_contacto: "094 485 351, 092 876 371"
+direccion: "Ruta 8 km 26.500"
 
 otros_contactos: ""
-horario: "Lunes a sábado, 19 hs"
+horario: "Jueves 17 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

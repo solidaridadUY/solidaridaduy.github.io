@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Librería Diomedes"
-date: 2020-04-10 00:56:55 -0300
+title: "Alexandra Club Gourmet"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Parque Rodó"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "2403 4713"
-direccion: "Bulevar España 2129 esquina Pablo de María"
+necesidades: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
+telefono_contacto: "099171766"
+direccion: "Pablo de María 1056"
 
 otros_contactos: ""
-horario: "Martes y jueves a las 20.30 se sirve la comida"
-aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
+horario: "Lunes, miércoles y viernes de 12.00 a 14.00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

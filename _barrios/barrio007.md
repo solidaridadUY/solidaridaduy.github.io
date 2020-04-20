@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Lucía"
+nombre: "Lagomar"
 departamento: "Canelones"
 ---
 
-Barrio Santa Lucía
+Barrio Lagomar
 Departamento de Canelones

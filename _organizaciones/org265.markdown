@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Centro Juvenil Coop. Tunguele"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Canelones"
+barrio: "Montes de Solymar"
+actividades: "Punto de Donación"
+necesidades: "Reciben alimentos y productos de higiene"
+telefono_contacto: "099 668 862  Majo 091785537"
+direccion: "Coordinar telefónicamente"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Se reciben alimentos y art. de limpieza para familias que los necesiten."
+cuenta_bancaria: ""
+
+---

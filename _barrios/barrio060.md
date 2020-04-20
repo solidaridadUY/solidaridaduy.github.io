@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Jacinto Vera
 Departamento de Montevideo

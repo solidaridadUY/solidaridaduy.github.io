@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio Ciudad Vieja
 Departamento de Montevideo

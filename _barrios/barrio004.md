@@ -1,7 +1,7 @@
 ---
-nombre: "Lagomar"
+nombre: "Ciudad de la Costa"
 departamento: "Canelones"
 ---
 
-Barrio Lagomar
+Barrio Ciudad de la Costa
 Departamento de Canelones

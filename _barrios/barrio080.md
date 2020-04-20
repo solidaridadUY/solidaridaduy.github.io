@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Paso de la Arena"
+departamento: "Montevideo"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Paso de la Arena
+Departamento de Montevideo

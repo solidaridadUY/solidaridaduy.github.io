@@ -1,5 +1,5 @@
 ---
-nombre: "Rivera"
+nombre: "Paysandú"
 ---
 
-Departamento de Rivera
+Departamento de Paysandú

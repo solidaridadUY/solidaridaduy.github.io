@@ -1,7 +1,7 @@
 ---
-nombre: "Peñarol"
+nombre: "Flor de Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Peñarol
+Barrio Flor de Maroñas
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Arroyo Seco"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Arroyo Seco
 Departamento de Montevideo

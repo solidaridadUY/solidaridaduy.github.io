@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "091600910 (Daniela) - 098907825"
+direccion: "Manuel Meléndez 808 esq. Dr. Pouey"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

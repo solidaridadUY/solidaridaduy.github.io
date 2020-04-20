@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Aguada"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Aguada
 Departamento de Montevideo

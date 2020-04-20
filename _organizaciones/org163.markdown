@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Yale"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza."
-telefono_contacto: "091526172"
-direccion: "Dr. Gustavo Gallinal 1989"
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "092933742"
+direccion: "San Martín Esq. B.Mendez"
 
 otros_contactos: ""
 horario: "Durante el día."
-aclaraciones: "Coordinar vía telefónica."
+aclaraciones: "En lo posible coordinar vía telefónica"
 cuenta_bancaria: ""
 
 ---

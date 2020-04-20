@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Club de Niños/as Trampolines (ONG El Abrojo)"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: " 099699322"
+direccion: "Wilson Ferreira Aldunate esq. Espínola"
+
+otros_contactos: ""
+horario: "Lunes a Viernes de 9 a 15hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

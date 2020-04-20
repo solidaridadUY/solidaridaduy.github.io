@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
-departamento: "Montevideo"
+nombre: "Centro"
+departamento: "Maldonado"
 ---
 
-Barrio Casabó
-Departamento de Montevideo
+Barrio Centro
+Departamento de Maldonado

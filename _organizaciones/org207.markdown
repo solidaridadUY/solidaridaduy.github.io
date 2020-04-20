@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "Sindicato de la Química"
+date: 2020-04-20 00:01:14 -0300
 
-departamento: "Canelones"
-barrio: "Suárez"
+departamento: "Montevideo"
+barrio: "Capurro"
 actividades: "Olla"
-necesidades: "Reciben donaciones "
-telefono_contacto: "093 687 106"
-direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
+necesidades: "Dan viandas"
+telefono_contacto: "2309 16 20 - 2304 93 06"
+direccion: "Capurro 928-930"
 
-otros_contactos: ""
-horario: "Coordinar donaciones por mensaje de WhatsApp o llamar"
+otros_contactos: "organizacionquimica@adinet.com.uy"
+horario: "19hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

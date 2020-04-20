@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Sur"
-departamento: "Montevideo"
+nombre: "Juan Lacaze"
+departamento: "Colonia"
 ---
 
-Barrio Barrio Sur
-Departamento de Montevideo
+Barrio Juan Lacaze
+Departamento de Colonia

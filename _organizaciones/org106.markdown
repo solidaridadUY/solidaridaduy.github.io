@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Asociación Civil Monte de la Francesa"
-date: 2020-04-10 00:56:55 -0300
+title: "Club Estrella del Norte"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones, alimentos no perecederos"
-telefono_contacto: "093 753 642"
-direccion: "Iturbe y Lanus (en el teatro)"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "Se reciben alimentos y productos de limpieza"
+telefono_contacto: "No corresponde"
+direccion: "Padre Pablo Pittini, 12400"
 
-otros_contactos: "2320 8307"
-horario: "Lunes a Sabádo de 15 a 19 hrs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "Todo el día"
+aclaraciones: "Se hace olla y se reciben donaciones"
 cuenta_bancaria: ""
 
 ---

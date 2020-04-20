@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Juan Lacaze Deportes"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Colonia"
+barrio: "Juan Lacaze"
+actividades: "Olla"
+necesidades: "Reciben donaciones"
+telefono_contacto: "095314901"
+direccion: "CUOPYC José Pedro Varela y Puerto Sauce"
+
+otros_contactos: "091690041 091685963 099076206 098942914"
+horario: "Sábados"
+aclaraciones: "Entregan vianda, 1 litro de agua jane y 2 jabones"
+cuenta_bancaria: ""
+
+---

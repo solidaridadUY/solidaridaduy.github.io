@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "Paso de las Duranas"
+departamento: "Montevideo"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio Paso de las Duranas
+Departamento de Montevideo

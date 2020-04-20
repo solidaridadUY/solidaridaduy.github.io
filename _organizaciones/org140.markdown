@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "iniciativa vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Palermo"
+barrio: "Cordón"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
+necesidades: "Reciben donaciones en puntos de donacion del barrio"
 telefono_contacto: "-"
-direccion: "Canelones 1552 esquina Salto"
+direccion: "Fernandez Crespo 1780 esquina Paysandú"
 
 otros_contactos: ""
-horario: "Todos los días al mediodía"
+horario: "Lunes a Viernes 12:30 a 14:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

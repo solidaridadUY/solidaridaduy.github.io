@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Rocha"
+barrio: "Barra de Chuy"
+actividades: "Olla"
+necesidades: "Se reciben alimentos no perecederos."
+telefono_contacto: "091 362 750"
+direccion: "No corresponde"
+
+otros_contactos: ""
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para solicitar apoyo."
+cuenta_bancaria: ""
+
+---

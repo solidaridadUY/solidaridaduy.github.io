@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Lista 939 FA"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:14 -0300
 
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Canasta"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "094345006"
-direccion: "Ruta 8 Km. 25.500 - Calle Las Magnolias entre Caputti y Las Violetas"
+departamento: "Montevideo"
+barrio: "Jardines del Hipódromo"
+actividades: "Olla"
+necesidades: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
+telefono_contacto: "096 880 946"
+direccion: "José Piendibene 3642 esq. Lacio"
 
 otros_contactos: ""
-horario: "Coordinar por teléfono"
-aclaraciones: ""
+horario: "sábados y domingos, arranca a las 17 aprox"
+aclaraciones: "Llevar vianda, casa de familia"
 cuenta_bancaria: ""
 
 ---

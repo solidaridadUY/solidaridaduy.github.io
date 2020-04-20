@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-04-10 00:56:55 -0300
+title: "Pizzería Los Dos Hermanos"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
+barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+necesidades: "Reciben donaciones"
+telefono_contacto: "23071388"
+direccion: "Turubí y Carlos de la Vega"
 
 otros_contactos: ""
-horario: "Jueves, sábado y lunes a las 20 hs"
-aclaraciones: "Llevar recipiente"
+horario: "Martes, Jueves y Sábado 13hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

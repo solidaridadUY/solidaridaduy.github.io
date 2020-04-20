@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Super Lupín"
-date: 2020-04-10 00:56:55 -0300
+title: "Almacén La Moni"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
+barrio: "Barrio Sur"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Perez Castellanos y Sarandí"
+direccion: "Gonzalo Ramírez y Carlos Quijano"
 
 otros_contactos: "094053638"
-horario: "8 a 19hs"
+horario: "Lunes a Viernes 10:00 a 14:00, 16:00 a 20:00"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "AEBU"
-date: 2020-04-10 00:56:55 -0300
+title: "Jóvenes FA-Flores"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Olla"
-necesidades: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
-telefono_contacto: "-"
-direccion: "Aebu - Reconquista 570"
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Retiro de donaciones"
+necesidades: "Artículos de limpieza"
+telefono_contacto: "091270507"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Martes y Jueves 12hs"
+otros_contactos: "091397626"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

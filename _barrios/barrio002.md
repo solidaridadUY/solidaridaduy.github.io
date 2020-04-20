@@ -1,7 +1,7 @@
 ---
-nombre: "Costa de Oro"
+nombre: "Barros Blancos"
 departamento: "Canelones"
 ---
 
-Barrio Costa de Oro
+Barrio Barros Blancos
 Departamento de Canelones

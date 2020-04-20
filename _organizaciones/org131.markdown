@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ándale taquería"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Montevideo"
-barrio: "Centro"
+departamento: "Canelones"
+barrio: "Jaureguiberry"
 actividades: "Olla"
-necesidades: "No corresponde"
-telefono_contacto: "099456647"
-direccion: "Salto 1200"
+necesidades: "Alimentos"
+telefono_contacto: "099624044"
+direccion: "Se instrumenta en la zona norte de Jaureguiberry"
 
-otros_contactos: ""
-horario: "L a V 12:00 hs"
-aclaraciones: "Entregan comida"
+otros_contactos: "092787480  091049164  091278284"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

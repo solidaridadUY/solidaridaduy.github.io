@@ -1,7 +1,7 @@
 ---
-nombre: "Jaureguiberry"
+nombre: "Canelones"
 departamento: "Canelones"
 ---
 
-Barrio Jaureguiberry
+Barrio Canelones
 Departamento de Canelones

@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Batlle"
+nombre: "Colón"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Batlle
+Barrio Colón
 Departamento de Montevideo

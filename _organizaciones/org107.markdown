@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
+barrio: "Santa Catalina"
 actividades: "Olla"
-necesidades: "se reciben alimentos no perecedero y productos de limpieza"
-telefono_contacto: "096262917"
-direccion: "Carlos Ott 2060 Bis"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "092726853"
+direccion: "Caminos Santa Catalina y los Murallones"
 
 otros_contactos: ""
-horario: "20:00 hrs"
-aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
+horario: "Consultar horario"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Cruz de Carrasco"
+nombre: "Barrio Lavalleja"
 departamento: "Montevideo"
 ---
 
-Barrio Cruz de Carrasco
+Barrio Barrio Lavalleja
 Departamento de Montevideo

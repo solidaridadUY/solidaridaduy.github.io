@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
-departamento: "Montevideo"
+nombre: "Rosario"
+departamento: "Colonia"
 ---
 
-Barrio Bella Vista
-Departamento de Montevideo
+Barrio Rosario
+Departamento de Colonia

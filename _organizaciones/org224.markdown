@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Boyada"
+actividades: "Merienda"
+necesidades: "Se da Merienda a niñes barrio La Boyada, se reciben toda clase de donaciones"
+telefono_contacto: "092 912 571"
+direccion: "La Boyada"
+
+otros_contactos: ""
+horario: "Lunes a Domingos, de tarde"
+aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
+cuenta_bancaria: ""
+
+---

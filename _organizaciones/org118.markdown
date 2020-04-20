@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 22 de Mayo"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
+barrio: "La Teja"
 actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones  (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
-telefono_contacto: "097584915"
-direccion: "Guzman Papini esq. Las Piedras."
+necesidades: "Se reciben alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Av Carlos Ramirez entre Teller y Agustín Muñoz"
 
-otros_contactos: "097287764"
-horario: "Lunes a viernes  reparten a partir de las 20 / 20:30,"
-aclaraciones: ""
+otros_contactos: ""
+horario: "Jueves 20.00 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes del Municipio B
-Apoyo: Consejo Vecinal 2"
-date: 2020-04-10 00:56:55 -0300
+title: "Intendencia de Canelones"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Montevideo"
-barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "099405205"
-direccion: "No corresponde"
+departamento: "Canelones"
+barrio: "Todos"
+actividades: "Canasta"
+necesidades: "No aplica"
+telefono_contacto: "Ver aclaraciones adicionales"
+direccion: "A domicilio"
 
-otros_contactos: "areasocialmunicipiob@gmail.com"
-horario: "Se toman pedidos desde las 9 hasta las 15hs."
-aclaraciones: "Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
+otros_contactos: "092173550"
+horario: "Durante el día"
+aclaraciones: "092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Complejo Manga Chico km16"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Manga"
+actividades: "Olla"
+necesidades: "Fideos, arroz, verduras, pan, leche, carne"
+telefono_contacto: "098 047 693 Adriana Ferreira"
+direccion: "Pasaje P esquina Justo José Alonso  "
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Se realizan las ollas acorde a donaciones"
+cuenta_bancaria: ""
+
+---

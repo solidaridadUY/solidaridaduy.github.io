@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
-departamento: "Montevideo"
+nombre: "Flores"
+departamento: "Flores"
 ---
 
-Barrio Belvedere
-Departamento de Montevideo
+Barrio Flores
+Departamento de Flores

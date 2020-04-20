@@ -1,7 +1,7 @@
 ---
-nombre: "Brazo Oriental"
-departamento: "Montevideo"
+nombre: "Ismael Cortinas"
+departamento: "Flores"
 ---
 
-Barrio Brazo Oriental
-Departamento de Montevideo
+Barrio Ismael Cortinas
+Departamento de Flores

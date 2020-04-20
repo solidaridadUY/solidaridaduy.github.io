@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "JFA"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "092150814 - 092056943"
+direccion: "Sin espacio físico específico"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

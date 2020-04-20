@@ -2,16 +2,13 @@
 layout: organizacion
 
 title: "METELE QUE SON PASTELES"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Cerrito de la Victoria"
 actividades: "Canasta"
 necesidades: "Alimentos para canasta"
-telefono_contacto: "094476451
-091211765
-098000052
-099757609"
+telefono_contacto: "094476451 091211765 098000052 099757609"
 direccion: "Joaquín Artigas 3326 (local de la murga)"
 
 otros_contactos: "1950 int. 7487"

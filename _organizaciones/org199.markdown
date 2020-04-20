@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "Los Pinos Baby"
+date: 2020-04-20 00:01:14 -0300
 
-departamento: "Montevideo"
-barrio: "Brazo Oriental"
+departamento: "Canelones"
+barrio: "Barros Blancos"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098409665, 099091891, 099073492"
-direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "092 663 361, 099 748 875, 098 557 244"
+direccion: "Ruta 8 km 26 - Cancha Los Pinos"
 
 otros_contactos: ""
-horario: "Domingos 20 hs. Coordinar para donaciones."
+horario: "Miércoles 19 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

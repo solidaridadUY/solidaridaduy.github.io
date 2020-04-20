@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Malvín Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Malvín Norte
 Departamento de Montevideo

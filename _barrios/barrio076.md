@@ -1,7 +1,7 @@
 ---
-nombre: "18 de Julio"
-departamento: "Rocha"
+nombre: "Nuevo Verdisol"
+departamento: "Montevideo"
 ---
 
-Barrio 18 de Julio
-Departamento de Rocha
+Barrio Nuevo Verdisol
+Departamento de Montevideo

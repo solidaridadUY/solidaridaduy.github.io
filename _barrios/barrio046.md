@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín"
+nombre: "Capurro"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín
+Barrio Capurro
 Departamento de Montevideo

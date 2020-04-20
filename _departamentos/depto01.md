@@ -1,5 +1,5 @@
 ---
-nombre: "Flores"
+nombre: "Canelones"
 ---
 
-Departamento de Flores
+Departamento de Canelones

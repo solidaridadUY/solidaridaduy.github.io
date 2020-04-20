@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
-departamento: "Montevideo"
+nombre: "Barrio 14 de febrero"
+departamento: "Maldonado"
 ---
 
-Barrio Capurro
-Departamento de Montevideo
+Barrio Barrio 14 de febrero
+Departamento de Maldonado

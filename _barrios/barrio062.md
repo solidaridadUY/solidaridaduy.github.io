@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "La Comercial"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio La Comercial
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Lomas de Solymar"
+nombre: "Jaureguiberry"
 departamento: "Canelones"
 ---
 
-Barrio Lomas de Solymar
+Barrio Jaureguiberry
 Departamento de Canelones

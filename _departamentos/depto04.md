@@ -1,5 +1,5 @@
 ---
-nombre: "Paysandú"
+nombre: "Maldonado"
 ---
 
-Departamento de Paysandú
+Departamento de Maldonado

@@ -1,20 +1,18 @@
 ---
 layout: organizacion
 
-title: "Cooperativa EKO y Vos Con Voz"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
-actividades: "Retiro de donaciones"
-necesidades: "Reciben alimentos no perecederos y artículos de limpieza e higiene personal"
-telefono_contacto: "094990652"
-direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) 
-Zona Parque Batlle hasta Malvín: telefónicamente
-Zona Pque Rodó, Cordón, Centro: telefónicamente"
+barrio: "Palermo"
+actividades: "Olla"
+necesidades: "Reciben donaciones"
+telefono_contacto: "-"
+direccion: "Canelones 1552 esquina Salto"
 
-otros_contactos: "094566630"
-horario: "Local Vos con Voz: Lunes a Viernes de 9 a 14hs."
+otros_contactos: ""
+horario: "Todos los días al mediodía"
 aclaraciones: ""
 cuenta_bancaria: ""
 

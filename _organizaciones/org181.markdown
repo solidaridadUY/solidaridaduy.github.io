@@ -1,15 +1,15 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Parque de los Fogones"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa Vecinal: Club Cohami"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
+barrio: "Conciliación"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "094951553"
-direccion: "Parque de los Fogones - Av. Millán y Martin Ximeno"
+telefono_contacto: "094624751"
+direccion: "Club cohami - Millan y Lecoq"
 
 otros_contactos: ""
 horario: "Sabados y Domingos"

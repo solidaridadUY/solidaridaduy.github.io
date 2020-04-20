@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Ciudad Vieja
 Departamento de Montevideo

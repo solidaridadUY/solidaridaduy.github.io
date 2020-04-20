@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Pizzeria El Triunfo"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Empresa que dona"
-necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-telefono_contacto: "098735539"
-direccion: "Himalaya 3148"
+barrio: "Barrio Sur"
+actividades: "Olla"
+necesidades: "Aimentos"
+telefono_contacto: "098520248"
+direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
+otros_contactos: "093524166"
+horario: "Viernes a las 21 hs"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
 cuenta_bancaria: ""
 
 ---

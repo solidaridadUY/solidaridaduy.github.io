@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de madres de la escuela."
-date: 2020-04-10 00:56:55 -0300
+title: "Vecinas/os Barrio 22 de Mayo"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Leche, maizena, salsa y carne."
-telefono_contacto: "096138220 (Leticia)"
-direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
+actividades: "Olla"
+necesidades: "Reciben todo tipo de donaciones  (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
+telefono_contacto: "097584915"
+direccion: "Guzman Papini esq. Las Piedras."
 
-otros_contactos: ""
-horario: "Lunes a domingo a las 18:00."
-aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
+otros_contactos: "097287764"
+horario: "Lunes a viernes  reparten a partir de las 20 / 20:30,"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

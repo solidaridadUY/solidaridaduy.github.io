@@ -2,14 +2,13 @@
 layout: organizacion
 
 title: "DJ's y Olimpo"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Tacuarembó"
 barrio: "Tacuarembó"
 actividades: "Canasta"
 necesidades: "Alimentos"
-telefono_contacto: "092838233
-097435635"
+telefono_contacto: "092838233 097435635"
 direccion: "Calle 245"
 
 otros_contactos: ""

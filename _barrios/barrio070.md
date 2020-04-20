@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
+nombre: "Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
+Barrio Manga
 Departamento de Montevideo

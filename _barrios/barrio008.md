@@ -1,7 +1,7 @@
 ---
-nombre: "Shangrilá"
+nombre: "La Paz"
 departamento: "Canelones"
 ---
 
-Barrio Shangrilá
+Barrio La Paz
 Departamento de Canelones

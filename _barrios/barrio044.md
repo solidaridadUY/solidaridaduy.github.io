@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Lezica
+Barrio Buceo
 Departamento de Montevideo

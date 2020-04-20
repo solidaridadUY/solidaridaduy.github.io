@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Repique"
-date: 2020-04-10 00:56:55 -0300
+title: "Vecinos de La Tablada"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Conciliación"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "091269590"
-direccion: "Amandau 5722"
+telefono_contacto: "Augusto 099894189 "
+direccion: "Lecocq 934 esq Millán "
 
 otros_contactos: ""
-horario: "Lunes a Viernes de 11 a 16 hs"
+horario: "Lunes y Miercoles 13 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

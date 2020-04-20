@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-10 00:56:55 -0300
+title: "Liga universitaria, Paysandú"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "099699322"
-direccion: "Wilson Ferreira Aldunate 712"
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Canasta"
+necesidades: "Reciben todo tipo de donaciones"
+telefono_contacto: "091401964"
+direccion: "No corresponde, donaciones a coordinar"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 9 a 15 hs"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "BROU, CA$ 001409166-00002"
 
 ---

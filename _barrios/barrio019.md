@@ -1,7 +1,7 @@
 ---
-nombre: "Arroyo Seco"
-departamento: "Montevideo"
+nombre: "Todos"
+departamento: "Canelones"
 ---
 
-Barrio Arroyo Seco
-Departamento de Montevideo
+Barrio Todos
+Departamento de Canelones

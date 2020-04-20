@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Maestras Feministas"
-date: 2020-04-10 00:56:55 -0300
+title: "Comité Félix Vidarte"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Montevideo"
-barrio: "No corresponde"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Punto de Donación"
-necesidades: "Se reciben pañales, frazadas, toallas higiénicas, productos de limpieza y aseo personal, alimentos no perecederos."
-telefono_contacto: "099951050"
-direccion: "No corresponde"
+necesidades: "Alimentos secos, verduras y artículos de limpieza"
+telefono_contacto: "095496658"
+direccion: "República Argentina esq. Pando"
 
-otros_contactos: "099821950"
-horario: "Durante el día."
-aclaraciones: "Coordinar vía telefónica con Bárbara o Irene."
+otros_contactos: ""
+horario: "Lunes a Viernes de 19 a 21 hs"
+aclaraciones: "Contactar por Whatsapp"
 cuenta_bancaria: ""
 
 ---

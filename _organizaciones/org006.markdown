@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Bar DALE GAUCHO"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
@@ -13,8 +13,7 @@ direccion: "Emilio Romero 952 esq Heredia"
 
 otros_contactos: ""
 horario: "13 a 15 hs"
-aclaraciones: "Reciben donaciones, de 10 a 18 hs (Hablar con Luis Ramos)
-Almuerzo de 13 a 15 hs. - Llevar vianda Martes y jueves"
+aclaraciones: "Reciben donaciones, de 10 a 18 hs (Hablar con Luis Ramos) Almuerzo de 13 a 15 hs. - Llevar vianda Martes y jueves"
 cuenta_bancaria: ""
 
 ---
