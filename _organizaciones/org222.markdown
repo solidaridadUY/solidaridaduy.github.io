@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Cachimba"
+actividades: "Olla"
+necesidades: "Se reciben donaciones, alimentos no perecederos para olla popular"
+telefono_contacto: "094954016"
+direccion: "Gregorio Camino Esq. Heredia"
+
+otros_contactos: ""
+horario: "Lunes a Domingos, durante el día"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

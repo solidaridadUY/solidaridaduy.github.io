@@ -1,8 +1,8 @@
 ---
 layout: organizacion
 
-title: "Salón comunitario "San Antonio""
-date: 2020-04-10 00:56:55 -0300
+title: "Salón comunitario \"San Antonio\""
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"

@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
-departamento: "Montevideo"
+nombre: "Tala"
+departamento: "Canelones"
 ---
 
-Barrio Aires Puros
-Departamento de Montevideo
+Barrio Tala
+Departamento de Canelones

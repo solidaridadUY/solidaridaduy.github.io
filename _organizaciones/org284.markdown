@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Anfiteatro Fortaleza"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "096398305 Juan Carlos"
+direccion: "Holanda y Dinamarca"
+
+otros_contactos: ""
+horario: "Lunes a Domingo 20:30 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

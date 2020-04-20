@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "OLLA POPULAR - Vecines"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Reciben donaciones"
+telefono_contacto: "No corresponde"
+direccion: "Grecia esq. Barcelona"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Cerro
 Departamento de Montevideo

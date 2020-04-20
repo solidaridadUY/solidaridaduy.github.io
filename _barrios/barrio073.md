@@ -1,7 +1,7 @@
 ---
-nombre: "Paysandú"
-departamento: "Paysandú"
+nombre: "No corresponde"
+departamento: "Montevideo"
 ---
 
-Barrio Paysandú
-Departamento de Paysandú
+Barrio No corresponde
+Departamento de Montevideo

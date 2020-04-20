@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Club los Zorzales"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Villa García"
+actividades: "Merienda"
+necesidades: "Merienda y olla popular, se recibe comestibles no perecederos para brindar merienda."
+telefono_contacto: "094649196"
+direccion: "Club los Zorzales, Ruta 8 Brigadier Gral Juan Antonio Lavalleja."
+
+otros_contactos: ""
+horario: "Lunes a viernes a partir de las 17:30 y sábado y domingos a partir de 13:00 hrs"
+aclaraciones: "Olla popular sábado y domingo, merienda de lunes a viernes."
+cuenta_bancaria: ""
+
+---

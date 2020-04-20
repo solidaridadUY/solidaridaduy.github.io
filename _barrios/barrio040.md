@@ -1,7 +1,7 @@
 ---
-nombre: "La Comercial"
+nombre: "Bella Vista"
 departamento: "Montevideo"
 ---
 
-Barrio La Comercial
+Barrio Bella Vista
 Departamento de Montevideo

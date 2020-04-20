@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
-date: 2020-04-10 00:56:55 -0300
+title: "Red Solidaria Arerunguá"
+date: 2020-04-20 00:01:14 -0300
 
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Merienda"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "094 485 351,
-092 876 371"
-direccion: "Ruta 8 km 26.500"
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y ropa"
+telefono_contacto: "092143478"
+direccion: "Soriano 1384"
 
 otros_contactos: ""
-horario: "Jueves 17 hs."
-aclaraciones: ""
+horario: "Lunes a viernes de 10 a 17 hs"
+aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
 cuenta_bancaria: ""
 
 ---

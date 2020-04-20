@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "096806888 (Beatriz)"
+direccion: "Ariel y vía (Frente al club sayago)"
+
+otros_contactos: ""
+horario: "13:00 hrs (Todos los días)"
+aclaraciones: "Llevar vianda. Se reciben donaciones: todos los días frente al Club Sayago"
+cuenta_bancaria: ""
+
+---

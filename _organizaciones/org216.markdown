@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Pasaje 121 1178"
+
+otros_contactos: "Julio"
+horario: ""
+aclaraciones: "Proyecto Tío Julio , Lunes a Domingo "
+cuenta_bancaria: ""
+
+---

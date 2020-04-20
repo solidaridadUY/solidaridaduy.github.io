@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Sindicato COMESA"
-date: 2020-04-10 00:56:55 -0300
+title: "Vecinas/os de la Gruta."
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Claudio Vera: 099584720
-"
-direccion: "Martin Ximeno 875 esq. Millán"
+necesidades: "Granos, verduras."
+telefono_contacto: "095229074 (Angélica)"
+direccion: "Gruta de Lourdes."
 
 otros_contactos: ""
-horario: "Martes, Jueves, Sábado y Domingo 13 Hs."
-aclaraciones: ""
+horario: "Miercoles, sábados y domingos."
+aclaraciones: "Atienden a 70 personas, con porciones de 3 litros."
 cuenta_bancaria: ""
 
 ---

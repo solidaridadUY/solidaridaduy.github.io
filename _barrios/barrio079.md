@@ -1,7 +1,7 @@
 ---
-nombre: "La Coronilla"
-departamento: "Rocha"
+nombre: "Paso Carrasco"
+departamento: "Montevideo"
 ---
 
-Barrio La Coronilla
-Departamento de Rocha
+Barrio Paso Carrasco
+Departamento de Montevideo

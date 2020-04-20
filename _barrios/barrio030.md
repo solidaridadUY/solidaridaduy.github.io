@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
-departamento: "Montevideo"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio Centro
-Departamento de Montevideo
+Barrio Playa Grande
+Departamento de Maldonado

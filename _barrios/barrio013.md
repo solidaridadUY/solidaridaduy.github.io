@@ -1,7 +1,7 @@
 ---
-nombre: "Flores"
-departamento: "Flores"
+nombre: "Progreso"
+departamento: "Canelones"
 ---
 
-Barrio Flores
-Departamento de Flores
+Barrio Progreso
+Departamento de Canelones

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Plaza I"
-date: 2020-04-10 00:56:55 -0300
+title: "Almacén Juan"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Lindolfo Cuestas y Cerrito"
+direccion: "Reconquista 247"
 
 otros_contactos: "094053638"
-horario: "8 a 22hs"
+horario: "8 a 20:30"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

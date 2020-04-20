@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Treinta y Trés"
+nombre: "Paso Molino"
+departamento: "Montevideo"
 ---
 
-Barrio No corresponde
-Departamento de Treinta y Trés
+Barrio Paso Molino
+Departamento de Montevideo

@@ -1,18 +1,15 @@
 ---
 layout: organizacion
 
-title: "El Abrojo
-Paso Joven
-SOCAT"
-date: 2020-04-10 00:56:55 -0300
+title: "El Abrojo Paso Joven SOCAT"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Paso Carrasco"
 actividades: "Punto de Donación"
 necesidades: "Reciben donaciones"
 telefono_contacto: "098 103 973"
-direccion: "Vaz Ferreira 52
-"
+direccion: "Vaz Ferreira 52  "
 
 otros_contactos: ""
 horario: " L a V de 13 a 18 hs."

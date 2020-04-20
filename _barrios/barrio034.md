@@ -1,7 +1,7 @@
 ---
-nombre: "Colón"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Colón
+Barrio Aires Puros
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Cruces"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Cruces
+Barrio Los Bulevares
 Departamento de Montevideo

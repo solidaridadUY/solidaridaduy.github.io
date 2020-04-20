@@ -1,7 +1,7 @@
 ---
-nombre: "Villa la Colina"
+nombre: "Pinamar"
 departamento: "Canelones"
 ---
 
-Barrio Villa la Colina
+Barrio Pinamar
 Departamento de Canelones

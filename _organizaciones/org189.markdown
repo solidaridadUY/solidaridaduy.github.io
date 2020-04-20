@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos de La Tablada"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa Vecinal Todos Juntos"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Augusto 099894189
-"
-direccion: "Lecocq 934 esq Millán
-"
+barrio: "Larrañaga,La Blanqueada"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "098324142"
+direccion: "Emilio Raña 2915 esq. Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: "Lunes y Miercoles 13 hs."
-aclaraciones: ""
+horario: "Martes y jueves de 15 a 18 hs y miércoels de 10 a 13 hs"
+aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto. DIstribullen las donaciones en distintas ollas de Montevideo."
 cuenta_bancaria: ""
 
 ---

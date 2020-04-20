@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Autoservice Mediomundo"
-date: 2020-04-10 00:56:55 -0300
+title: "Super Los Valientes"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "Centro"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Durazno y Zelmar Michellini"
+direccion: "Durazno y Paraguay"
 
 otros_contactos: "094053638"
-horario: "Horario almacen"
+horario: "Horario super"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

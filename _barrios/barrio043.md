@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
+nombre: "Brazo Oriental"
 departamento: "Montevideo"
 ---
 
-Barrio Larrañaga
+Barrio Brazo Oriental
 Departamento de Montevideo

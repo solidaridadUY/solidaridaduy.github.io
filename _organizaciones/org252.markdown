@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Frente Amplio Casa Central"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Maldonado"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "DANIELA: 098995491"
+direccion: "AV. LUIS BATLLE Y ORDOÑEZ 1213"
+
+otros_contactos: ""
+horario: "Lunes a Viernes 10:00 a 12:00 y 16:00 a 18:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

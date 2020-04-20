@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "Vilardevoz"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: "Olla popular de vecinos y vecinas, también se reciben donaciones"
-telefono_contacto: "091705967"
-direccion: "Agaces e Irureta goyena"
+barrio: "Reducto"
+actividades: "Punto de Donación"
+necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
+telefono_contacto: "No corresponde"
+direccion: "Paraguay 1190"
 
-otros_contactos: "098464819"
-horario: "A diario, contactar vía telefónica "
+otros_contactos: ""
+horario: " 14 a 18 hrs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

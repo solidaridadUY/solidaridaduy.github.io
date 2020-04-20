@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Lavalleja"
-departamento: "Montevideo"
+nombre: "Villa la Colina"
+departamento: "Canelones"
 ---
 
-Barrio Barrio Lavalleja
-Departamento de Montevideo
+Barrio Villa la Colina
+Departamento de Canelones

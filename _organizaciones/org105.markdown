@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SUAP"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
-telefono_contacto: "29011982"
-direccion: "Local Fuecys (Río Negro 1210)"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "se reciben alimentos no perecedero y productos de limpieza"
+telefono_contacto: "096262917"
+direccion: "Carlos Ott 2060 Bis"
 
 otros_contactos: ""
-horario: "Del lunes 31 al jueves 2 de abril, de 10 a 17 hs"
-aclaraciones: ""
+horario: "20:00 hrs"
+aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
 cuenta_bancaria: ""
 
 ---

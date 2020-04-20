@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
-departamento: "Montevideo"
+nombre: "Nueva Helvecia"
+departamento: "Colonia"
 ---
 
-Barrio Bella Italia
-Departamento de Montevideo
+Barrio Nueva Helvecia
+Departamento de Colonia

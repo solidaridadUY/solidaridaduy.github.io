@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Asociación Civil Barrio y Cultura"
-date: 2020-04-10 00:56:55 -0300
+title: "La Cretina Casa de Arte"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos, leche en polvo"
-telefono_contacto: "094 804 648"
-direccion: "Anfiteatro Canario Luna. Dámaso A. Larrañaga Esq. José Serrato"
+barrio: "Centro"
+actividades: "Olla"
+necesidades: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
+telefono_contacto: "099228148"
+direccion: "Soriano 1236 esquina Carlos Quijano"
 
-otros_contactos: "098231098"
-horario: "Turismo: Lunes a viernes de 13 a 16hs"
-aclaraciones: "Resto de las semanas: L a S de 10 a 16 hs"
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

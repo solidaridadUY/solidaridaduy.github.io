@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité 26 de Julio"
-date: 2020-04-10 00:56:55 -0300
+title: "La Peña Parrilla"
+date: 2020-04-20 00:01:14 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Cruces"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de alimentos.
-Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
-telefono_contacto: "099440037"
-direccion: "Cufré 1800 esquina Ferrer Serra"
+barrio: "Jacinto Vera"
+actividades: "Olla"
+necesidades: "Se reciben donaciones de alimentos."
+telefono_contacto: "2203 0311"
+direccion: "Pedernal 2151"
 
 otros_contactos: ""
-horario: "Jueves , Viernes y Sábados de 17 a 20hs"
-aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
+horario: "Miércoles, Viernes y Domingo entre 13 y 16hs"
+aclaraciones: "Llevar Vianda"
 cuenta_bancaria: ""
 
 ---

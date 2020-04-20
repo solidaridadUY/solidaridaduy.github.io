@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Sayago
+Barrio Lezica
 Departamento de Montevideo

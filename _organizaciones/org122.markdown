@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-04-10 00:56:55 -0300
+title: "Centro Social y Deportivo Victoria"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+barrio: "Jacinto Vera"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "091773513"
+direccion: "Requena 2716"
 
 otros_contactos: ""
-horario: "9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
+horario: "Jueves, sábado y lunes a las 20 hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

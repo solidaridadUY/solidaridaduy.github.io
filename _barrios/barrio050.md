@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
+nombre: "Cerrito de la Victoria"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo España
+Barrio Cerrito de la Victoria
 Departamento de Montevideo

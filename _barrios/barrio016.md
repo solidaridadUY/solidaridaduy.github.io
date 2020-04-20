@@ -1,7 +1,7 @@
 ---
-nombre: "Abayubá"
-departamento: "Montevideo"
+nombre: "Shangrilá"
+departamento: "Canelones"
 ---
 
-Barrio Abayubá
-Departamento de Montevideo
+Barrio Shangrilá
+Departamento de Canelones

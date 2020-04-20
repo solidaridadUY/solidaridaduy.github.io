@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Profes del liceo de Playa"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "San José"
+barrio: "Playa Pascual"
+actividades: "Punto de Donación"
+necesidades: "Reciben donaciones"
+telefono_contacto: "092 983 301"
+direccion: "Río de la Plata esquina Carlos Reyles (Comisión Vecinal Playa Pascual)"
+
+otros_contactos: ""
+horario: "Lunes, Miércoles y Viernes de 12 a 13.30 hs."
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

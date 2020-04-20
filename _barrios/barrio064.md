@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Larrañaga"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Larrañaga
 Departamento de Montevideo

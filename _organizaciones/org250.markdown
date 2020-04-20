@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Olla"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "096 121 815"
+direccion: "Coordinar telefónicamente"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Llevar tupper"
+cuenta_bancaria: ""
+
+---

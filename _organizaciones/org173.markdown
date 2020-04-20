@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA-Flores"
-date: 2020-04-10 00:56:55 -0300
+title: "Jóvenes FA"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Flores"
-barrio: "Flores"
+departamento: "Montevideo"
+barrio: "Pocitos"
 actividades: "Retiro de donaciones"
-necesidades: "Artículos de limpieza"
-telefono_contacto: "091270507"
+necesidades: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
+telefono_contacto: "098220931"
 direccion: "No corresponde"
 
-otros_contactos: "091397626"
+otros_contactos: ""
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

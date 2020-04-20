@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "RED DE MERENDEROS"
-date: 2020-04-10 00:56:55 -0300
+title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
+date: 2020-04-20 00:01:14 -0300
 
 departamento: "Canelones"
 barrio: "Barros Blancos"
-actividades: "Merienda"
+actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "095509142"
-direccion: "Villa La Colina - Rincón esq. 25 de agosto frente al Huracán Siré"
+telefono_contacto: "094 485 351, 092 876 371"
+direccion: "Ruta 8 km 26.500"
 
 otros_contactos: ""
-horario: "Sábados, con previa coordinación"
+horario: "Sábados 19 hs y Domingos 13.30 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

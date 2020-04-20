@@ -1,5 +1,5 @@
 ---
-nombre: "Maldonado"
+nombre: "Colonia"
 ---
 
-Departamento de Maldonado
+Departamento de Colonia

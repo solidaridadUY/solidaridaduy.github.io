@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Cruz de Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Cruz de Carrasco
 Departamento de Montevideo

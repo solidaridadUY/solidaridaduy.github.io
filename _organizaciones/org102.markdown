@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Comité Parque Rodó"
-date: 2020-04-10 00:56:55 -0300
+title: "Jóvenes FA"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y artículos de limpieza"
-telefono_contacto: "099440874"
-direccion: "Gonzalo Ramíres y Eduardo Acevedo"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "092190987"
+direccion: "Austria 2528 bis"
 
-otros_contactos: "099421672"
-horario: "17 a 19"
+otros_contactos: ""
+horario: "Todos los días a las 20:30 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

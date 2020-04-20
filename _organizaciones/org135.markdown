@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Amigos y vecinos del Parque Rodó"
-date: 2020-04-10 00:56:55 -0300
+title: "Brigada 1958"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Productos no perecederos y de limpieza, frutas, verduras y carne"
-telefono_contacto: "099711537"
-direccion: "Espacio La Uruguaya (Pablo de María 936)"
+barrio: "Aguada"
+actividades: "Olla"
+necesidades: "Reciben Donaciones"
+telefono_contacto: "091894724"
+direccion: "Cuareim 2301 Esq. Tajes"
 
-otros_contactos: ""
-horario: "14.00 a 17.00"
-aclaraciones: "Se pusieron como plazo de recepción el 12 de abril"
+otros_contactos: "098651506"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

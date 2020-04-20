@@ -1,7 +1,7 @@
 ---
-nombre: "Pocitos"
+nombre: "Jardines del Hipódromo"
 departamento: "Montevideo"
 ---
 
-Barrio Pocitos
+Barrio Jardines del Hipódromo
 Departamento de Montevideo

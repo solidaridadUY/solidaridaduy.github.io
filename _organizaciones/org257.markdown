@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "AFUC"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Maldonado"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "094500851"
+direccion: "AFUC SANTA TERESA CASI 3 DE FEBRERO"
+
+otros_contactos: ""
+horario: "Martes a Viernes 13:00 a 16:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

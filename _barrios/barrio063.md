@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Larrañaga"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Larrañaga
 Departamento de Montevideo

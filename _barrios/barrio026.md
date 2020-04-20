@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
-departamento: "Montevideo"
+nombre: "Balneario Buenos Aires"
+departamento: "Maldonado"
 ---
 
-Barrio Buceo
-Departamento de Montevideo
+Barrio Balneario Buenos Aires
+Departamento de Maldonado

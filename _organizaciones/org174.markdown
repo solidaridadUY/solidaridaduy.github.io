@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:13 -0300
 
-departamento: "Paysandú"
-barrio: "No corresponde"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "098247858"
-direccion: "No corresponde"
+departamento: "Montevideo"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "097113175"
+direccion: "Batlle Berres, entre camino las tropas y Yugoslavia"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Realización de compras a población de riesgo"
+otros_contactos: "093846063"
+horario: "Lunes, miércoles y viernes a las 19 hs"
+aclaraciones: "Traer vianda"
 cuenta_bancaria: ""
 
 ---

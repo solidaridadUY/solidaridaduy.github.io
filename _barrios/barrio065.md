@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio La Teja
 Departamento de Montevideo

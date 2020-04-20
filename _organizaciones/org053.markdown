@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Club FiatLux"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Tacuarembó"
 barrio: "Tacuarembó"

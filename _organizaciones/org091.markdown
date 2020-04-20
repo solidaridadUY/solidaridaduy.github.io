@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Paso Molino"
+barrio: "Colón"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "098424814"
-direccion: "Vicente Basagoity 3922"
+telefono_contacto: "091269590"
+direccion: "Amandau 5722 esq. Eduardo Raíz"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 13 a 18 hs"
+horario: "Lunes a viernes de 11 a 16 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

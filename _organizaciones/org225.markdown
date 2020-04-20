@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Seis de Diciembre"
+actividades: "Merienda"
+necesidades: "Se reciben toda clase de donaciones para brindar merienda"
+telefono_contacto: "092085983"
+direccion: "Tomás Gonzalez Padrón 5530"
+
+otros_contactos: ""
+horario: "Lunes a Domingos, de tarde"
+aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
+cuenta_bancaria: ""
+
+---

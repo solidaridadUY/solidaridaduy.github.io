@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Agrupación Hinchas de Racing"
-date: 2020-04-10 00:56:55 -0300
+title: "Sindicato COMESA"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
+barrio: "Conciliación"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "Alvaro 095536444"
-direccion: "Millán y Eduardo Pondal"
+telefono_contacto: "Claudio Vera: 099584720 "
+direccion: "Martin Ximeno 875 esq. Millán"
 
 otros_contactos: ""
-horario: ""
+horario: "Martes, Jueves, Sábado y Domingo 13 Hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
+nombre: "Centro"
 departamento: "Montevideo"
 ---
 
-Barrio No corresponde
+Barrio Centro
 Departamento de Montevideo

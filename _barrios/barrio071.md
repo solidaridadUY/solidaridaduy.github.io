@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Española
+Barrio Maroñas
 Departamento de Montevideo

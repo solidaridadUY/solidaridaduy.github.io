@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Club Cohami"
-date: 2020-04-10 00:56:55 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
+barrio: "Abayubá"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "094624751"
-direccion: "Club cohami - Millan y Lecoq"
+telefono_contacto: "Mirtha Gao"
+direccion: "Cno de la Justicia y Abayubá"
 
 otros_contactos: ""
-horario: "Sabados y Domingos"
+horario: "Todos los días de tarde"
 aclaraciones: ""
 cuenta_bancaria: ""
 

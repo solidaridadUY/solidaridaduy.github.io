@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Centro Salesiano"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Aires Puros"
@@ -14,7 +14,6 @@ direccion: "No corresponde"
 otros_contactos: ""
 horario: ""
 aclaraciones: ""
-cuenta_bancaria: "BBVA - CC $ 9927 19836
-Centro Salesiano Aires Puros"
+cuenta_bancaria: "BBVA - CC $ 9927 19836 Centro Salesiano Aires Puros"
 
 ---

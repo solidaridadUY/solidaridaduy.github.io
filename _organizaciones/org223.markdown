@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Cooperativa Covijave 2"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "No corresponde"
+direccion: "Calle Pública 1153 esq Islas Canarias "
+
+otros_contactos: ""
+horario: "13 Hs."
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

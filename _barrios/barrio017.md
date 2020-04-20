@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
-departamento: "Montevideo"
+nombre: "Suárez"
+departamento: "Canelones"
 ---
 
-Barrio Aguada
-Departamento de Montevideo
+Barrio Suárez
+Departamento de Canelones

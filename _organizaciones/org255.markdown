@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "AUTE"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Maldonado"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "42247611"
+direccion: "ZELMAR MICHELINI 775 "
+
+otros_contactos: ""
+horario: "Lunes a Viernes 09:00 a 17:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

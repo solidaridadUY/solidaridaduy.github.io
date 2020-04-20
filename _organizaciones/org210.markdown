@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Jardines del Hipódromo"
+actividades: "Olla"
+necesidades: "Alimentos en general, pero lo que diariamente más falta es carne, frutas/verduras y pan."
+telefono_contacto: "099734480"
+direccion: "David Chiossoni 3585"
+
+otros_contactos: ""
+horario: "martes y jueves 20hs"
+aclaraciones: "Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
+cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad de la Costa"
+nombre: "Atlántida"
 departamento: "Canelones"
 ---
 
-Barrio Ciudad de la Costa
+Barrio Atlántida
 Departamento de Canelones

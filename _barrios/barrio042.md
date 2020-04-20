@@ -1,7 +1,7 @@
 ---
-nombre: "La Blanqueada"
+nombre: "Boyada"
 departamento: "Montevideo"
 ---
 
-Barrio La Blanqueada
+Barrio Boyada
 Departamento de Montevideo

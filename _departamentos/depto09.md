@@ -1,5 +1,5 @@
 ---
-nombre: "Tacuarembó"
+nombre: "Rocha"
 ---
 
-Departamento de Tacuarembó
+Departamento de Rocha

@@ -1,5 +1,5 @@
 ---
-nombre: "Treinta y Trés"
+nombre: "Salto"
 ---
 
-Departamento de Treinta y Trés
+Departamento de Salto

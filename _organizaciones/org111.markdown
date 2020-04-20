@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
-date: 2020-04-10 00:56:55 -0300
+title: "Nucleo del liceo 74"
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Olla"
-necesidades: "Se reciben alimentos."
-telefono_contacto: "Ir a la olla directamente"
-direccion: "Garzón y Lanús (Plaza Colón)"
+barrio: "Nuevo Verdisol"
+actividades: "Punto de Donación"
+necesidades: "Aportes a traves de cuenta y alimentos"
+telefono_contacto: "092120727"
+direccion: "La tablada"
 
 otros_contactos: ""
-horario: "Abre a diario y se sirve a las 18"
-aclaraciones: "Traer Tupper o Vianda"
+horario: "Sábado y Domingo sirven a las 20"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

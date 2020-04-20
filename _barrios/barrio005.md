@@ -1,7 +1,7 @@
 ---
-nombre: "Las Piedras"
+nombre: "Costa de Oro"
 departamento: "Canelones"
 ---
 
-Barrio Las Piedras
+Barrio Costa de Oro
 Departamento de Canelones

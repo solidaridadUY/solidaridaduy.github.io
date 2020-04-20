@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
+barrio: "Paso Molino"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "098575716"
-direccion: "Soriano 1153"
+telefono_contacto: "098424814"
+direccion: "Vicente Basagoity 3922"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 9 a 15 hs"
+horario: "Lunes a viernes de 13 a 18 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas"
-date: 2020-04-10 00:56:55 -0300
+title: "Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Verdura, carne y pan."
-telefono_contacto: "095410570 (Laura o Natalia)"
-direccion: "Elisa Menéndez y Cno. Carmelo Colman"
+necesidades: "Reciben todo tipo de donaciones (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
+telefono_contacto: "093368150 (Sandra)"
+direccion: "Salón 1° de Mayo, Calle las Piedras."
 
 otros_contactos: ""
-horario: "Sábados y domingos de 19:30 a 20:30"
-aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
+horario: "Sábados y domingos (mediodía). Están intentando hacer algo para la merienda de los domingos."
+aclaraciones: "Habitualmente atienden a 70 niñes, el último fin de semana  fueron 130 niñes y 2 adultos. Se da una vianda, botella de leche y pan. Las familias deben llevar un tupper. De recibir alguna donación, harían una merienda entre semana."
 cuenta_bancaria: ""
 
 ---

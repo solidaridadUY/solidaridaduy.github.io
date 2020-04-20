@@ -2,15 +2,13 @@
 layout: organizacion
 
 title: "Iniciativa vecinal - Villa Sarandí"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Paso de la Arena"
 actividades: "Punto de Donación"
 necesidades: "Alimentos"
-telefono_contacto: "
-
-091 881 443"
+telefono_contacto: "    091 881 443"
 direccion: "Romeo Gavioli y Dolores Candales S/N "
 
 otros_contactos: ""

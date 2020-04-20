@@ -2,10 +2,10 @@
 layout: organizacion
 
 title: "Ateneo Cerro"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
-barrio: "Villa del Cerro"
+barrio: "Cerro"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, productos de higiene"
 telefono_contacto: "099563819"

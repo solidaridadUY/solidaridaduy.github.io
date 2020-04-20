@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Solidarios Unidos seis barrios"
-date: 2020-04-10 00:56:55 -0300
+date: 2020-04-20 00:01:13 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
@@ -12,8 +12,7 @@ telefono_contacto: "092927150 María"
 direccion: "Rafael y Teniente Galeano (frente a la barraca)"
 
 otros_contactos: ""
-horario: "Merienda 17 hs.
-Reparten Cena a las 20 hs."
+horario: "Merienda 17 hs. Reparten Cena a las 20 hs."
 aclaraciones: "También cubren merienda. Llevar tupper"
 cuenta_bancaria: ""
 

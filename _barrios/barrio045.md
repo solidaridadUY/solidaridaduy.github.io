@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "Cachimba"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio Cachimba
 Departamento de Montevideo

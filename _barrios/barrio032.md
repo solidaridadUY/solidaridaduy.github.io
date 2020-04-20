@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro"
+nombre: "Abayubá"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro
+Barrio Abayubá
 Departamento de Montevideo

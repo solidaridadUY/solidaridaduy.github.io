@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Viandas a domicilio"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Colonia"
+barrio: "Rosario"
+actividades: "Canasta"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "099550034"
+direccion: "No aplica"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Comunicarse telefónicamente por viandas a domicilio"
+cuenta_bancaria: ""
+
+---

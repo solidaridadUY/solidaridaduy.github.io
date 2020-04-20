@@ -1,7 +1,7 @@
 ---
-nombre: "Chuy"
-departamento: "Rocha"
+nombre: "Parque Rodó"
+departamento: "Montevideo"
 ---
 
-Barrio Chuy
-Departamento de Rocha
+Barrio Parque Rodó
+Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Cordón
 Departamento de Montevideo

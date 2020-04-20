@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Teatro El Galpón"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Reciben alimentos no perecederos y productos de limpieza"
+telefono_contacto: "24083366"
+direccion: "18 de julio 1618"
+
+otros_contactos: ""
+horario: "10 a 19hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

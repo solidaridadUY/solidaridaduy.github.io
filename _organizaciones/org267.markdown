@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Mujeres en Alerta"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Canelones"
+barrio: "Ciudad de la Costa"
+actividades: "Olla"
+necesidades: "Alimentos, productos de higiene, juegos/juguetes"
+telefono_contacto: "091786159 Sofía - 094972263 Karen"
+direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Comunicarse antes por teléfono para anotarse para comidas"
+cuenta_bancaria: ""
+
+---

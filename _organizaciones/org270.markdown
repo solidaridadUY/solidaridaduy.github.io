@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Maldonado"
+barrio: "Balneario Buenos Aires"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "099080813"
+direccion: "CALLE 34 ESQUINA CALLE 49"
+
+otros_contactos: ""
+horario: "Todos los días 20:00 a 21:00"
+aclaraciones: "LLEVAR RECIPIENTE. PERSONAS MAYORES DE 65 AÑOS PUEDE COMUNICARSE Y SE ENVIA A DOMICILIO"
+cuenta_bancaria: ""
+
+---

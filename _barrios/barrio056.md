@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Cordón
 Departamento de Montevideo

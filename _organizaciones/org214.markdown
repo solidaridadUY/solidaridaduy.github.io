@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-20 00:01:14 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Pasaje F, entre Av. Instrucciones y Gambeta (A 1 cuadra del liceo 60)"
+
+otros_contactos: ""
+horario: "Sábado y Domingo olla 20:30 horas Lunes merienda 18 horas"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---
