@@ -186,7 +186,7 @@ function isValid (obj, filters) {
   var valid = true
   if (!!filters) {
     for (var key in obj) {
-      if (filters.has(key) && filters.get(key) !== obj[key]) {
+      if (filters.has(key) && obj[key].indexOf(filters.get(key)) == -1) {
         valid = false
       }
     }
