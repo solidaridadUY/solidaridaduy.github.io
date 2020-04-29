@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa ciudadana: CANASTAS UY"
-date: 2020-04-20 00:01:13 -0300
+title: "Centro Social y Deportivo Victoria"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: "Ofrecer trabajo voluntario en el armado de las canastas."
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+barrio: "Jacinto Vera"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos"
+direccion: "091773513"
 
-otros_contactos: "@CanastasUy en IG"
+otros_contactos: "091773513"
 horario: ""
-aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
-cuenta_bancaria: ""
+aclaraciones: ""
+cuenta_bancaria: "Jueves, sábado y lunes a las 20 hs"
 
 ---

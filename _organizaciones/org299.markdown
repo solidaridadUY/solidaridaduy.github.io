@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos"
+direccion: "2359 1125"
+
+otros_contactos: "2359 1125"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "13:00 hrs (Todos los días)"
+
+---

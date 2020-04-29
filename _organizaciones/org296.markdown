@@ -1,0 +1,23 @@
+---
+layout: organizacion
+
+title: "Organización vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro Norte"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: ""
+direccion: "094881721
+Antonio
+"
+
+otros_contactos: "094881721
+Antonio
+"
+horario: "095976666 Pablo"
+aclaraciones: "Miércoles Sábado y Domingo"
+cuenta_bancaria: "13.30 hs"
+
+---

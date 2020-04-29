@@ -1,7 +1,7 @@
 ---
 nombre: "Villa la Colina"
-departamento: "Canelones"
+departamento: "Villa la Colina"
 ---
 
 Barrio Villa la Colina
-Departamento de Canelones
+Departamento de Villa la Colina

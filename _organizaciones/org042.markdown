@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
+barrio: "Cruz de Carrasco"
 actividades: "Olla"
-necesidades: "Alimentos para olla y una olla grande"
-telefono_contacto: "095 636 657"
-direccion: "Hipólito Yrigoyen e Iguá"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, verduras, implementos de cocina, sanitarios, garrafa/anafe o similar"
+direccion: "098238589"
 
-otros_contactos: ""
-horario: "Todos los días 19:30"
+otros_contactos: "098238589"
+horario: "Donaciones: 099102799 - 099629422"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Sábados 12 horas"
 
 ---

@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Mujeres en Alerta"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
 barrio: "Lagomar"
 actividades: "Punto de Donación"
-necesidades: "Alimentos, productos de higiene, juegos/juguetes"
-telefono_contacto: "091786159  094972263"
-direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
+necesidades: ""
+telefono_contacto: "Alimentos, productos de higiene, juegos/juguetes"
+direccion: "091786159  094972263"
 
-otros_contactos: ""
+otros_contactos: "091786159  094972263"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

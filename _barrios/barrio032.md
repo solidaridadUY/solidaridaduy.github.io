@@ -1,7 +1,7 @@
 ---
 nombre: "Abayubá"
-departamento: "Montevideo"
+departamento: "Abayubá"
 ---
 
 Barrio Abayubá
-Departamento de Montevideo
+Departamento de Abayubá

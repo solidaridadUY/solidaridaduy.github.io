@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Asociación de Familiares y Víctimas de la Delincuencia"
-date: 2020-04-20 00:01:14 -0300
+title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: "Reciben productos no perecederos y de limpieza"
-telefono_contacto: "098989724"
-direccion: "No aplica"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
+direccion: "097546731"
 
-otros_contactos: "096227593"
+otros_contactos: "097546731"
 horario: ""
-aclaraciones: "Mandar mensaje por whatsapp con: nombre completo, dirección, barrio, donación a realizar, días y horarios a retirar."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
-departamento: "Montevideo"
+nombre: "Punta de Rieles"
+departamento: "Punta de Rieles"
 ---
 
-Barrio Santa Catalina
-Departamento de Montevideo
+Barrio Punta de Rieles
+Departamento de Punta de Rieles

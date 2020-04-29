@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Modistas"
-date: 2020-04-20 00:01:13 -0300
+title: "Mides e Intendencia de Rivera"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Rivera"
 barrio: "Rivera"
 actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "www.facebook.com/sonia.rodriguez.900"
-direccion: "Comunicarse por Facebook"
+necesidades: ""
+telefono_contacto: "No corresponde"
+direccion: "IdR y MIDES Rivera"
 
-otros_contactos: ""
+otros_contactos: "IdR y MIDES Rivera"
 horario: ""
-aclaraciones: "Donan tapabocas hechos a mano"
-cuenta_bancaria: ""
+aclaraciones: ""
+cuenta_bancaria: "Todos los días de 11 a 13"
 
 ---

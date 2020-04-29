@@ -1,7 +1,7 @@
 ---
 nombre: "Pinamar"
-departamento: "Canelones"
+departamento: "Pinamar"
 ---
 
 Barrio Pinamar
-Departamento de Canelones
+Departamento de Pinamar

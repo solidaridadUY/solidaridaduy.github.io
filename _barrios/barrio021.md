@@ -1,7 +1,7 @@
 ---
 nombre: "Juan Lacaze"
-departamento: "Colonia"
+departamento: "Juan Lacaze"
 ---
 
 Barrio Juan Lacaze
-Departamento de Colonia
+Departamento de Juan Lacaze

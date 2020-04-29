@@ -1,7 +1,7 @@
 ---
 nombre: "Barrio 14 de febrero"
-departamento: "Maldonado"
+departamento: "Barrio 14 de febrero"
 ---
 
 Barrio Barrio 14 de febrero
-Departamento de Maldonado
+Departamento de Barrio 14 de febrero

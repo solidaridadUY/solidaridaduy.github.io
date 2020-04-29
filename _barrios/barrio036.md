@@ -1,7 +1,7 @@
 ---
 nombre: "Arroyo Seco"
-departamento: "Montevideo"
+departamento: "Arroyo Seco"
 ---
 
 Barrio Arroyo Seco
-Departamento de Montevideo
+Departamento de Arroyo Seco

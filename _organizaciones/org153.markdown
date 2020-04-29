@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ni todo está perdido"
-date: 2020-04-20 00:01:13 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Pocitos"
 actividades: "Punto de Donación"
-necesidades: "Alimentos, productos de higiene y depósitos a cuenta bancaria"
-telefono_contacto: "091006810 Angie"
-direccion: "Carlos Ma. Maeso 2763"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos no perecederos y artículos de limpieza"
+direccion: "091006810 Angie"
 
-otros_contactos: ""
+otros_contactos: "091006810 Angie"
 horario: ""
-aclaraciones: "Se reciben aportes en esa dirección, se coordinan retiros, depósitos y entregas al celular"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

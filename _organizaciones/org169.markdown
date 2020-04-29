@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "La Cretina Casa de Arte"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
 actividades: "Olla"
-necesidades: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
-telefono_contacto: "099228148"
-direccion: "Soriano 1236 esquina Carlos Quijano"
+necesidades: ""
+telefono_contacto: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
+direccion: "099228148"
 
-otros_contactos: ""
+otros_contactos: "099228148"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

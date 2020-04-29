@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Barrio Lavalleja"
-date: 2020-04-20 00:01:13 -0300
+title: "Jóvenes FA"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: "Se brinda alimento "
-telefono_contacto: "098865307 (Florencia)"
-direccion: "Av de las instrucciones Esq Silva, Teatro del Barrio"
+barrio: "Maroñas"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y artículos de primera necesidad"
+direccion: "098524292"
 
-otros_contactos: "094357002 Hugo"
-horario: "12-14; 17:30 a 19:30, Sábado 16hrs"
+otros_contactos: "098524292"
+horario: "098948820"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Jueves 2 de 14 a 18 hs"
 
 ---

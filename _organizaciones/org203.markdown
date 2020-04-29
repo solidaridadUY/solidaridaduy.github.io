@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
 barrio: "Suárez"
 actividades: "Olla"
-necesidades: "Reciben donaciones "
-telefono_contacto: "093 687 106"
-direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
+necesidades: ""
+telefono_contacto: "Reciben donaciones "
+direccion: "093 687 106"
 
-otros_contactos: ""
-horario: "Coordinar donaciones por mensaje de WhatsApp o llamar"
+otros_contactos: "093 687 106"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Coordinar donaciones por mensaje de WhatsApp o llamar"
 
 ---

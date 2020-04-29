@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Casabó"
 actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "093819595"
-direccion: "Senegal 3785 esq. Charcas."
+necesidades: "Alimentos"
+telefono_contacto: "Alimentos para olla"
+direccion: "092405789 "
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Entrega de vianda"
-cuenta_bancaria: ""
+otros_contactos: "092405789 "
+horario: "096557454 Sonia"
+aclaraciones: "Sábados y Domingos"
+cuenta_bancaria: "13 hs"
 
 ---

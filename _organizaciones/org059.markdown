@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Estudiantes de la Unión"
-date: 2020-04-20 00:01:13 -0300
+title: "SUA (Sociedad Uruguaya de Actores)"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Unión"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos, carne, artículos de limpieza y ropa de abrigo"
-telefono_contacto: "094460660"
-direccion: "Cabrera y Pernas"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de donaciones"
+direccion: "091 381 895"
 
-otros_contactos: "lalogarmen2@gmail.com"
-horario: ""
-aclaraciones: "Cuentan con disponibilidad horaria y locomoción para ir por las donaciones"
-cuenta_bancaria: ""
+otros_contactos: "091 381 895"
+horario: "098 787 582"
+aclaraciones: ""
+cuenta_bancaria: "15 a 19"
 
 ---

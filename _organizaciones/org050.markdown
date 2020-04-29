@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Coordinadora D"
-date: 2020-04-20 00:01:13 -0300
+title: "Aute"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
-actividades: "Canasta"
-necesidades: "Productos de limpieza, alimentos secos, juguetes, ropa en buen estado, transporte"
-telefono_contacto: "099204370  099869454"
-direccion: "Gil 1051 esq. Dufort y Álvarez"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
+direccion: "092040449"
 
-otros_contactos: ""
+otros_contactos: "092040449"
 horario: ""
-aclaraciones: "Es el comité del FA cuaró, en principio recibe solo donaciones para armado de canastas"
-cuenta_bancaria: "$ 00152324-00001 BROU"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

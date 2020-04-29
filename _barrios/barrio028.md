@@ -1,7 +1,7 @@
 ---
 nombre: "Centro"
-departamento: "Maldonado"
+departamento: "Centro"
 ---
 
 Barrio Centro
-Departamento de Maldonado
+Departamento de Centro

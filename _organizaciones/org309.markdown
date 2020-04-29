@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: ""
+direccion: "099242821 Nestor"
+
+otros_contactos: "099242821 Nestor"
+horario: ""
+aclaraciones: "Sábados y Domingos"
+cuenta_bancaria: "12:30hs"
+
+---

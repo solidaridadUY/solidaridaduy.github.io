@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "METELE QUE SON PASTELES"
-date: 2020-04-20 00:01:13 -0300
+title: "COLECTIVO TRANS"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Cerrito de la Victoria"
-actividades: "Canasta"
-necesidades: "Alimentos para canasta"
-telefono_contacto: "094476451 091211765 098000052 099757609"
-direccion: "Joaquín Artigas 3326 (local de la murga)"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben alimentos no perecederos, verduras, condimentos, etc."
+direccion: "095206931 099211688"
 
-otros_contactos: "1950 int. 7487"
-horario: "15-18 hrs  (Coordinar vía telefónica)"
-aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
+otros_contactos: "095206931 099211688"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

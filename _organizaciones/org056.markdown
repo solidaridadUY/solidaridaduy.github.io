@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Manos Ancapeanas Brigada Solidaria"
-date: 2020-04-20 00:01:13 -0300
+title: "METELE QUE SON PASTELES"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Arroyo Seco"
-actividades: "Punto de Donación"
-necesidades: "Reciben todo tipo de alimentos para distribuir a ollas populares"
-telefono_contacto: "0983221514"
-direccion: "Av. Agraciada 2522"
+barrio: "Cerrito de la Victoria"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "Alimentos para canasta"
+direccion: "094476451 091211765 098000052 099757609"
 
-otros_contactos: ""
-horario: ""
+otros_contactos: "094476451 091211765 098000052 099757609"
+horario: "1950 int. 7487"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "15-18 hrs  (Coordinar vía telefónica)"
 
 ---

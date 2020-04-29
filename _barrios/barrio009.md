@@ -1,7 +1,7 @@
 ---
 nombre: "Las Piedras"
-departamento: "Canelones"
+departamento: "Las Piedras"
 ---
 
 Barrio Las Piedras
-Departamento de Canelones
+Departamento de Las Piedras

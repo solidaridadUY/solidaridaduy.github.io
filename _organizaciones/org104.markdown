@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Asociación Civil Monte de la Francesa"
-date: 2020-04-20 00:01:13 -0300
+title: "SUAP"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones, alimentos no perecederos"
-telefono_contacto: "093 753 642"
-direccion: "Iturbe y Lanus (en el teatro)"
+necesidades: ""
+telefono_contacto: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
+direccion: "29011982"
 
-otros_contactos: "2320 8307"
-horario: "Lunes a Sabádo de 15 a 19 hrs"
+otros_contactos: "29011982"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Del lunes 31 al jueves 2 de abril, de 10 a 17 hs"
 
 ---

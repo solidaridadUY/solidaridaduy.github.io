@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Paysandú"
+nombre: "Villa Dolores"
+departamento: "Villa Dolores"
 ---
 
-Barrio No corresponde
-Departamento de Paysandú
+Barrio Villa Dolores
+Departamento de Villa Dolores

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "REDALCO"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "cel: 091950027"
-direccion: "Calle Ancha esq. Monegal"
+departamento: "Montevideo"
+barrio: "No corresponde"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Dinero para entregar canastas de verduras y frutas"
+direccion: "No corresponde"
 
-otros_contactos: ""
+otros_contactos: "No corresponde"
 horario: ""
-aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
-cuenta_bancaria: ""
+aclaraciones: ""
+cuenta_bancaria: "No corresponde"
 
 ---

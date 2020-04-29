@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
-departamento: "Montevideo"
+nombre: "Nuevo España"
+departamento: "Nuevo España"
 ---
 
-Barrio Nuevo Verdisol
-Departamento de Montevideo
+Barrio Nuevo España
+Departamento de Nuevo España

@@ -1,7 +1,7 @@
 ---
 nombre: "Bella Italia"
-departamento: "Montevideo"
+departamento: "Bella Italia"
 ---
 
 Barrio Bella Italia
-Departamento de Montevideo
+Departamento de Bella Italia

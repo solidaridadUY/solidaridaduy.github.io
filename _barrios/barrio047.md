@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
-departamento: "Montevideo"
+nombre: "Casavalle"
+departamento: "Casavalle"
 ---
 
-Barrio Casabó
-Departamento de Montevideo
+Barrio Casavalle
+Departamento de Casavalle

@@ -1,7 +1,7 @@
 ---
 nombre: "Sauce"
-departamento: "Canelones"
+departamento: "Sauce"
 ---
 
 Barrio Sauce
-Departamento de Canelones
+Departamento de Sauce

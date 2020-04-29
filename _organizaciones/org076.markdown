@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liceo de Tala"
-date: 2020-04-20 00:01:13 -0300
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Tala"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "095417092"
-direccion: "Liceo de Tala"
+necesidades: ""
+telefono_contacto: "Retiramos Tu donación"
+direccion: "098865307-Florencia"
 
-otros_contactos: ""
-horario: "Durante el día"
+otros_contactos: "098865307-Florencia"
+horario: "094357002  Hugo"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "durante el día"
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Pascual"
-departamento: "San José"
+nombre: "Fray Bentos"
+departamento: "Fray Bentos"
 ---
 
-Barrio Playa Pascual
-Departamento de San José
+Barrio Fray Bentos
+Departamento de Fray Bentos

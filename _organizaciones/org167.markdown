@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "AEBU"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Olla"
-necesidades: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
-telefono_contacto: "-"
-direccion: "Aebu - Reconquista 570"
+necesidades: ""
+telefono_contacto: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
+direccion: "-"
 
-otros_contactos: ""
-horario: "Martes y Jueves 12hs"
+otros_contactos: "-"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Martes y Jueves 12hs"
 
 ---

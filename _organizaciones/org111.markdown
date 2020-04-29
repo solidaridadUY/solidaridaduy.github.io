@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Nucleo del liceo 74"
-date: 2020-04-20 00:01:13 -0300
+title: "Comunidad Charrúa Jaguar Berá, Gremio estudiantil Liceo 9, Comisión del Castillo"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo Verdisol"
+barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: "Aportes a traves de cuenta y alimentos"
-telefono_contacto: "092120727"
-direccion: "La tablada"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos no perecederos."
+direccion: "099761484"
 
-otros_contactos: ""
-horario: "Sábado y Domingo sirven a las 20"
+otros_contactos: "099761484"
+horario: "@castilloidiarte; @del9gremio"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Coordinar vía redes"
 
 ---

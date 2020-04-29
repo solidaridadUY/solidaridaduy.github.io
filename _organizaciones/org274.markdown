@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "Club Progreso - Estación Atlántida"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "San José"
-barrio: "Playa Pascual"
+departamento: "Canelones"
+barrio: "Atlántida"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "099146941"
-direccion: "Consultar telefónicamente"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "098047394"
 
-otros_contactos: ""
-horario: "Lunes Miércoles y Viernes 12 a 13:30"
+otros_contactos: "098047394"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "12:30 a 14hs"
 
 ---

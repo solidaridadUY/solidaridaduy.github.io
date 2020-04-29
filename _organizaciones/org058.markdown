@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Solidario Unido Seis Barrios"
-date: 2020-04-20 00:01:13 -0300
+title: "Manos Ancapeanas Brigada Solidaria"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos y productos para celíacos"
-telefono_contacto: "092927150"
-direccion: "Calle Rafael solar 43 esq Dunant"
+barrio: "Arroyo Seco"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de alimentos para distribuir a ollas populares"
+direccion: "0983221514"
 
-otros_contactos: "094360368"
-horario: "11 a 19hs"
-aclaraciones: "Además de organizar ollas también organizan canastas y meriendas"
+otros_contactos: "0983221514"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

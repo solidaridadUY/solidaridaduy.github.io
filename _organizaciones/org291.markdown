@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Organización vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Casco del Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: ""
+direccion: "095331455
+Luis Callejas"
+
+otros_contactos: "095331455
+Luis Callejas"
+horario: ""
+aclaraciones: "Lunes y Jueves"
+cuenta_bancaria: "19 hs"
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Pocitos"
-departamento: "Montevideo"
+nombre: "Peñarol"
+departamento: "Peñarol"
 ---
 
-Barrio Pocitos
-Departamento de Montevideo
+Barrio Peñarol
+Departamento de Peñarol

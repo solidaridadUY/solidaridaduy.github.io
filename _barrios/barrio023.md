@@ -1,7 +1,7 @@
 ---
 nombre: "Rosario"
-departamento: "Colonia"
+departamento: "Rosario"
 ---
 
 Barrio Rosario
-Departamento de Colonia
+Departamento de Rosario

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
-actividades: "Canasta"
-necesidades: "Se recibe alimentos no perecederos, juguetes, ropa, apoyo transporte"
-telefono_contacto: "099204370"
-direccion: "Hermanos Gil 1051 esq Dufort y Álvarez"
+barrio: "Ciudad Vieja,Barrio Sur,Aguada,Centro"
+actividades: "Realización de compras"
+necesidades: ""
+telefono_contacto: "No corresponde"
+direccion: "093302231"
 
-otros_contactos: "099869454"
-horario: " Martes miércoles y viernes de 15 a 19 hs"
+otros_contactos: "093302231"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: "Caja de ahorro en pesos (Brou) 000152324-00001"
+cuenta_bancaria: "Se toman pedidos de mandados hasta las 18 hs y se comienza a repartir a partir de las 19 hs."
 
 ---

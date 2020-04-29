@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "C.A. Juventud de Las Piedras."
-date: 2020-04-20 00:01:14 -0300
+title: "Club de Niños/as Trampolines (ONG El Abrojo)"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "098729120"
-direccion: "Sin espacio físico específico"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: " 099699322"
 
-otros_contactos: ""
+otros_contactos: " 099699322"
 horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Lunes a Viernes de 9 a 15hs"
 
 ---

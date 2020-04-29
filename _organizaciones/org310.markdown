@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Parroquia San Alberto Hurtado"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: ""
+direccion: "095683306
+María y José"
+
+otros_contactos: "095683306
+María y José"
+horario: ""
+aclaraciones: "Sábados y Domingos"
+cuenta_bancaria: "18 hs"
+
+---

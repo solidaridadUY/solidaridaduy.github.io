@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular COVIESSU"
-date: 2020-04-20 00:01:14 -0300
+title: "Anfiteatro Fortaleza"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Paso de las Duranas"
+barrio: "Cerro"
 actividades: "Olla"
-necesidades: "Reciben donaciones de 17 a 20hs"
-telefono_contacto: "094259028 (Fátima), 099462986 (Florencio), 093815676 (Leonardo)"
-direccion: "Duque de los Abruzos esquina Domingo Torres (ex Club La Espada)"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: ""
+direccion: "096398305 Juan Carlos"
 
-otros_contactos: ""
-horario: "Sábados y Domingos 19:30hs"
-aclaraciones: "Llevar vianda"
-cuenta_bancaria: ""
+otros_contactos: "096398305 Juan Carlos"
+horario: ""
+aclaraciones: "Todos los días"
+cuenta_bancaria: "20:30 hs"
 
 ---

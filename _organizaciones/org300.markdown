@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vecines de Barrio Sur"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Sur"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Aimentos"
+direccion: "098520248"
+
+otros_contactos: "098520248"
+horario: "093524166"
+aclaraciones: ""
+cuenta_bancaria: "Jueves y viernes a las 21 hs"
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
-date: 2020-04-20 00:01:14 -0300
+title: "Juan Lacaze Deportes"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Punto de Donación"
-necesidades: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
-telefono_contacto: "097546731"
-direccion: "No aplica"
+departamento: "Colonia"
+barrio: "Juan Lacaze"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "095314901"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
-cuenta_bancaria: ""
+otros_contactos: "095314901"
+horario: "091690041 091685963 099076206 098942914"
+aclaraciones: ""
+cuenta_bancaria: "Sábados"
 
 ---

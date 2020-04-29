@@ -1,7 +1,7 @@
 ---
-nombre: "Paysandú"
-departamento: "Paysandú"
+nombre: "Villa Española"
+departamento: "Villa Española"
 ---
 
-Barrio Paysandú
-Departamento de Paysandú
+Barrio Villa Española
+Departamento de Villa Española

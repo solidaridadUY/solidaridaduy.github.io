@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Trampolines"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Albion"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "099 699 322"
-direccion: "Wilson Ferreira Aldunate 712 "
+barrio: "Ciudad de la Costa"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "099604054"
 
-otros_contactos: ""
+otros_contactos: "099604054"
 horario: ""
-aclaraciones: "Coordinación telefónica"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

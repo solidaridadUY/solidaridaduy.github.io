@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Olla Popular Murallones"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "092726853
+Fabián"
+
+otros_contactos: "092726853
+Fabián"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Martes y Jueves 20hs"
+
+---

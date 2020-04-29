@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Merendero Nuevo Amanecer"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
+barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
-telefono_contacto: "093835462 Roberto"
-direccion: "Felisberto Hernandez 3538 BIS"
+necesidades: ""
+telefono_contacto: "Alimentos, productos de higiene y limpieza"
+direccion: "095286057 Ana"
 
-otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
-horario: "17hs y 20hs"
-aclaraciones: "Funciona Sábados y Domingos / 17hs merienda 20hs cena / Demandan Guantes y tapabocas para voluntarios/as"
-cuenta_bancaria: ""
+otros_contactos: "095286057 Ana"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "20hs"
 
 ---

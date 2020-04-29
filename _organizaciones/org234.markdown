@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club de Niños/as Trampolines (ONG El Abrojo)"
-date: 2020-04-20 00:01:14 -0300
+title: "Centro Juvenil Mandalavos (ONG El Abrojo)"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: " 099699322"
-direccion: "Wilson Ferreira Aldunate esq. Espínola"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "094922782"
 
-otros_contactos: ""
-horario: "Lunes a Viernes de 9 a 15hs"
+otros_contactos: "094922782"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Lunes a Viernes de 11 a 15hs"
 
 ---

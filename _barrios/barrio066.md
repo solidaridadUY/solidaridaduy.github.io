@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
-departamento: "Montevideo"
+nombre: "Larrañaga"
+departamento: "Larrañaga"
 ---
 
-Barrio Lezica
-Departamento de Montevideo
+Barrio Larrañaga
+Departamento de Larrañaga

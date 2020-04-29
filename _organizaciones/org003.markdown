@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal Club Flor de Maroñas"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Flor de Maroñas"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "097 098 032  097 474 368  094 098 578"
-direccion: "Manuel Acuña y Del Fuerte"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "097 098 032  097 474 368  094 098 578"
 
-otros_contactos: ""
-horario: "L a V 20:30 hs.S y D 14 hs.."
-aclaraciones: "Llevar vianda"
-cuenta_bancaria: ""
+otros_contactos: "097 098 032  097 474 368  094 098 578"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "L a V 20:30 hs.S y D 14 hs.."
 
 ---

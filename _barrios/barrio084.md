@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
-departamento: "Montevideo"
+nombre: "Paso Molino"
+departamento: "Paso Molino"
 ---
 
-Barrio Piedras Blancas
-Departamento de Montevideo
+Barrio Paso Molino
+Departamento de Paso Molino

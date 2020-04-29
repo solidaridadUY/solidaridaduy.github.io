@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Río Negro"
-barrio: "Fray Bentos"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "091 026 159"
-direccion: "Oribe 1935"
+departamento: "Flores"
+barrio: "Ismael Cortinas"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "098360975 092010950"
 
-otros_contactos: ""
+otros_contactos: "098360975 092010950"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

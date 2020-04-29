@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Casabó"
 actividades: "Merienda"
-necesidades: "Leche, azúcar, cocoa, harina, dulce, manteca, huevos, pan, galletitas, etc."
-telefono_contacto: "092405789 096557454"
-direccion: "Continuación Perú 2540 esq. Pasaje Solano"
+necesidades: "Alimentos"
+telefono_contacto: "Leche, azúcar, cocoa, harina, dulce, manteca, huevos, pan, galletitas, etc."
+direccion: "092405789 "
 
-otros_contactos: ""
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: ""
+otros_contactos: "092405789 "
+horario: "096557454 Sonia"
+aclaraciones: "Lunes a Viernes"
+cuenta_bancaria: "16.30 hs"
 
 ---

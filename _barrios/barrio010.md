@@ -1,7 +1,7 @@
 ---
 nombre: "Lomas de Solymar"
-departamento: "Canelones"
+departamento: "Lomas de Solymar"
 ---
 
 Barrio Lomas de Solymar
-Departamento de Canelones
+Departamento de Lomas de Solymar

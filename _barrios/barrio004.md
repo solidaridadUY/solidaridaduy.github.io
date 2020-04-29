@@ -1,7 +1,7 @@
 ---
 nombre: "Ciudad de la Costa"
-departamento: "Canelones"
+departamento: "Ciudad de la Costa"
 ---
 
 Barrio Ciudad de la Costa
-Departamento de Canelones
+Departamento de Ciudad de la Costa

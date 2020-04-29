@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Sindicato de la Química"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Capurro"
 actividades: "Olla"
-necesidades: "Dan viandas"
-telefono_contacto: "2309 16 20 - 2304 93 06"
-direccion: "Capurro 928-930"
+necesidades: ""
+telefono_contacto: "Dan viandas"
+direccion: "2309 16 20 - 2304 93 06"
 
-otros_contactos: "organizacionquimica@adinet.com.uy"
-horario: "19hs"
+otros_contactos: "2309 16 20 - 2304 93 06"
+horario: "organizacionquimica@adinet.com.uy"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "19hs"
 
 ---

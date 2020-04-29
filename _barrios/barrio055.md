@@ -1,7 +1,7 @@
 ---
-nombre: "Conciliación"
-departamento: "Montevideo"
+nombre: "Ciudad Vieja"
+departamento: "Ciudad Vieja"
 ---
 
-Barrio Conciliación
-Departamento de Montevideo
+Barrio Ciudad Vieja
+Departamento de Ciudad Vieja

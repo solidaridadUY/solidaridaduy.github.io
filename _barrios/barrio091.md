@@ -1,7 +1,7 @@
 ---
-nombre: "Seis de Diciembre"
-departamento: "Montevideo"
+nombre: "Rincón del Cerro"
+departamento: "Rincón del Cerro"
 ---
 
-Barrio Seis de Diciembre
-Departamento de Montevideo
+Barrio Rincón del Cerro
+Departamento de Rincón del Cerro

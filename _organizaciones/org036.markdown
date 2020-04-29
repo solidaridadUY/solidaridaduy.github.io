@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "DJ's y Olimpo"
-date: 2020-04-20 00:01:13 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
-actividades: "Canasta"
-necesidades: "Alimentos"
-telefono_contacto: "092838233 097435635"
-direccion: "Calle 245"
+departamento: "Río Negro"
+barrio: "Fray Bentos"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "091 026 159"
 
-otros_contactos: ""
+otros_contactos: "091 026 159"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Comité Guaycurú"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cruz de Carrasco"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos, verduras, implementos de cocina, sanitarios, garrafa/anafe o similar"
-telefono_contacto: "098238589"
-direccion: "Camino Oncativo 2918 (Casona Covicruz)"
+barrio: "Reducto"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
+direccion: "099 458 417"
 
-otros_contactos: "Donaciones: 099102799 - 099629422"
-horario: "Sábados 12 horas"
-aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
-cuenta_bancaria: ""
+otros_contactos: "099 458 417"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Todos los días de 10 a 12 y de 17.30 a 19.30"
 
 ---

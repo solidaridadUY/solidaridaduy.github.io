@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
-departamento: "Montevideo"
+nombre: "Centro"
+departamento: "Centro"
 ---
 
-Barrio Cerrito de la Victoria
-Departamento de Montevideo
+Barrio Centro
+Departamento de Centro

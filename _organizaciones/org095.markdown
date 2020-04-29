@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Sumando Esfuerzo, Comisión 16 de Marzo."
-date: 2020-04-20 00:01:13 -0300
+title: "El abrojo"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Piedras Blancas"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
-telefono_contacto: "095952219, 095078679"
-direccion: "No Corresponde"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+direccion: "094992782"
 
-otros_contactos: ""
-horario: "En el día"
-aclaraciones: "Comunicarse vía móvil para concretar"
-cuenta_bancaria: ""
+otros_contactos: "094992782"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Lunes a viernes de 11 a 15 hs"
 
 ---

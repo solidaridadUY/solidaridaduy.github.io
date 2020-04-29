@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de las Duranas"
-departamento: "Montevideo"
+nombre: "Paso Carrasco"
+departamento: "Paso Carrasco"
 ---
 
-Barrio Paso de las Duranas
-Departamento de Montevideo
+Barrio Paso Carrasco
+Departamento de Paso Carrasco

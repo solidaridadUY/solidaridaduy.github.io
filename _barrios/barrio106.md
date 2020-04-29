@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "Rivera"
+departamento: "Rivera"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio Rivera
+Departamento de Rivera

@@ -1,7 +1,7 @@
 ---
-nombre: "Cachimba"
-departamento: "Montevideo"
+nombre: "Capurro"
+departamento: "Capurro"
 ---
 
-Barrio Cachimba
-Departamento de Montevideo
+Barrio Capurro
+Departamento de Capurro

@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
-departamento: "Montevideo"
+nombre: "Jardines del Hipódromo"
+departamento: "Jardines del Hipódromo"
 ---
 
-Barrio Larrañaga
-Departamento de Montevideo
+Barrio Jardines del Hipódromo
+Departamento de Jardines del Hipódromo

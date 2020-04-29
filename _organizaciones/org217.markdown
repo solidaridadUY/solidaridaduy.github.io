@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Popular Boix Merino"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "094889164 - 095578924"
-direccion: "Calle 2 2240."
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de donaciones"
+direccion: "094889164 - 095578924"
 
-otros_contactos: ""
+otros_contactos: "094889164 - 095578924"
 horario: ""
-aclaraciones: "Reciben donaciones todos los días de 9:30 a 19:00 en Menorca 1905 y calle 4"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

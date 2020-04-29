@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Inter Sindical PIT-CNT"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Deportivo Celiar"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Santa Lucía"
+departamento: "Montevideo"
+barrio: "Flor de Maroñas"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098691711        092213138  092249381"
-direccion: "Ramón Irigoyen entre 18 de Julio y Mitre"
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de donaciones"
+direccion: "097 412 466"
 
-otros_contactos: ""
-horario: "Entrega de vianda todos los días. Sábados y domingos también merienda"
-aclaraciones: "Se reciben las donaciones en el horario de 17.00 a 20.00 hs en el local de la Inter Sindical del PIT-CNT"
-cuenta_bancaria: ""
+otros_contactos: "097 412 466"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Entrega de viandas: lunes a viernes de 19 a 20 hs. Sabado y Domingo de 17 a 18 hs"
 
 ---

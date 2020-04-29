@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Bares Finisterre y El Hormiguero"
-date: 2020-04-20 00:01:13 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Palermo"
+departamento: "Canelones"
+barrio: "Shangrilá"
 actividades: "Punto de Donación"
-necesidades: "Acopian donaciones para llevar a diferentes ollas"
-telefono_contacto: "099569017 095010898"
-direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos."
+direccion: "09101976"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
+otros_contactos: "09101976"
+horario: " "
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

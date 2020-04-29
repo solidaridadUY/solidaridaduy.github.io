@@ -1,7 +1,7 @@
 ---
-nombre: "La Comercial"
-departamento: "Montevideo"
+nombre: "Jacinto Vera"
+departamento: "Jacinto Vera"
 ---
 
-Barrio La Comercial
-Departamento de Montevideo
+Barrio Jacinto Vera
+Departamento de Jacinto Vera

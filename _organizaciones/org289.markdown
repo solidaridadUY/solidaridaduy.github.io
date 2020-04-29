@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Organización vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Casco del Cerro"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "094555994
+Debora"
+
+otros_contactos: "094555994
+Debora"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Lunes Martes Jueves Viernes y Sábados 20hs"
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-20 00:01:13 -0300
+title: "Comité Parque Rodó"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "092190987"
-direccion: "Austria 2528 bis"
+barrio: "Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos y artículos de limpieza"
+direccion: "099440874"
 
-otros_contactos: ""
-horario: "Todos los días a las 20:30 hs"
+otros_contactos: "099440874"
+horario: "099421672"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "17 a 19"
 
 ---

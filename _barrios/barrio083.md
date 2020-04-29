@@ -1,7 +1,7 @@
 ---
-nombre: "Peñarol"
-departamento: "Montevideo"
+nombre: "Paso de las Duranas"
+departamento: "Paso de las Duranas"
 ---
 
-Barrio Peñarol
-Departamento de Montevideo
+Barrio Paso de las Duranas
+Departamento de Paso de las Duranas

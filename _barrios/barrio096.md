@@ -1,7 +1,7 @@
 ---
-nombre: "Villa García"
-departamento: "Montevideo"
+nombre: "Tres Ombúes"
+departamento: "Tres Ombúes"
 ---
 
-Barrio Villa García
-Departamento de Montevideo
+Barrio Tres Ombúes
+Departamento de Tres Ombúes

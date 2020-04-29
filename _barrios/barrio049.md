@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
-departamento: "Montevideo"
+nombre: "Causeglia"
+departamento: "Causeglia"
 ---
 
-Barrio Centro
-Departamento de Montevideo
+Barrio Causeglia
+Departamento de Causeglia

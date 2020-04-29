@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Asociación Civil Monte de la Francesa"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "se reciben alimentos no perecedero y productos de limpieza"
-telefono_contacto: "096262917"
-direccion: "Carlos Ott 2060 Bis"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones, alimentos no perecederos"
+direccion: "093 753 642"
 
-otros_contactos: ""
-horario: "20:00 hrs"
-aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
-cuenta_bancaria: ""
+otros_contactos: "093 753 642"
+horario: "2320 8307"
+aclaraciones: ""
+cuenta_bancaria: "Lunes a Sabádo de 15 a 19 hrs"
 
 ---

@@ -1,7 +1,7 @@
 ---
 nombre: "Barros Blancos"
-departamento: "Canelones"
+departamento: "Barros Blancos"
 ---
 
 Barrio Barros Blancos
-Departamento de Canelones
+Departamento de Barros Blancos

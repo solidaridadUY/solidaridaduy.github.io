@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "El Tundra Bar"
-date: 2020-04-20 00:01:13 -0300
+title: "El Tundra Bar, Mvd al Sur y Cretina"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
-actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "29091578"
-direccion: "Durazno 902 esq. Convención"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "094410774"
 
-otros_contactos: ""
-horario: "Lunes al mediodía"
+otros_contactos: "094410774"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

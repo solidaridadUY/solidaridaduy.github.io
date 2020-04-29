@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Red Solidaria Arerunguá"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y ropa"
-telefono_contacto: "092143478"
-direccion: "Soriano 1384"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y ropa"
+direccion: "092143478"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 10 a 17 hs"
-aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
-cuenta_bancaria: ""
+otros_contactos: "092143478"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Lunes a viernes de 10 a 17 hs"
 
 ---

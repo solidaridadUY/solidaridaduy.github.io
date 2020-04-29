@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Librería Diomedes"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Parque Rodó"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "2403 4713"
-direccion: "Bulevar España 2129 esquina Pablo de María"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "2403 4713"
 
-otros_contactos: ""
-horario: "Martes y jueves a las 20.30 se sirve la comida"
-aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
-cuenta_bancaria: ""
+otros_contactos: "2403 4713"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Martes y jueves a las 20.30 se sirve la comida"
 
 ---

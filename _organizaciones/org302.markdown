@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Plena Conciencia"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Zona D"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones para ollas, meriendas y canastas"
+direccion: "098121219"
+
+otros_contactos: "098121219"
+horario: "0914656045"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

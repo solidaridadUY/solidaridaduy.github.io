@@ -1,7 +1,7 @@
 ---
 nombre: "Aguada"
-departamento: "Montevideo"
+departamento: "Aguada"
 ---
 
 Barrio Aguada
-Departamento de Montevideo
+Departamento de Aguada

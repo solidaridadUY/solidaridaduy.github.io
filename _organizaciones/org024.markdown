@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Red Solidaria"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos y productos de limpieza"
-telefono_contacto: "091944342 098759845 099834255"
-direccion: "Grecia y Viacaba"
+barrio: "Villa Dolores"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
+direccion: "094204040 099629958 099337003"
 
-otros_contactos: ""
-horario: "Reciben donaciones en el local lunes, miércoles y viernes de 17 a 19 hs"
+otros_contactos: "094204040 099629958 099337003"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Sábados de 11 a 13 y de 16 a 18hs"
 
 ---

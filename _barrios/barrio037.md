@@ -1,7 +1,7 @@
 ---
 nombre: "Barrio Lavalleja"
-departamento: "Montevideo"
+departamento: "Barrio Lavalleja"
 ---
 
 Barrio Barrio Lavalleja
-Departamento de Montevideo
+Departamento de Barrio Lavalleja

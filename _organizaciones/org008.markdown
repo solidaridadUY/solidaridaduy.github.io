@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Nuevo España"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "25119629 "
-direccion: "Servidumbre 705 (Salón comunal)"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "25119629 "
 
-otros_contactos: "095495706"
-horario: ""
-aclaraciones: "Olla popular y merienda"
+otros_contactos: "25119629 "
+horario: "095495706"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Jóvenes FA-Flores"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Flores"
 barrio: "Flores"
 actividades: "Retiro de donaciones"
-necesidades: "Artículos de limpieza"
-telefono_contacto: "091270507"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "Artículos de limpieza"
+direccion: "091270507"
 
-otros_contactos: "091397626"
-horario: ""
+otros_contactos: "091270507"
+horario: "091397626"
 aclaraciones: ""
 cuenta_bancaria: ""
 

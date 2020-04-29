@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ferretería \"El Destino\""
-date: 2020-04-20 00:01:14 -0300
+title: "Frente Amplio Casa Central"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Los Bulevares"
+departamento: "Maldonado"
+barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones para olla del barrio"
-telefono_contacto: "23155207"
-direccion: "Ideario Artiguista 1865"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
+direccion: "DANIELA: 098995491"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Consultar telefónicamente"
-cuenta_bancaria: ""
+otros_contactos: "DANIELA: 098995491"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Lunes a Viernes 10:00 a 12:00 y 16:00 a 18:00"
 
 ---

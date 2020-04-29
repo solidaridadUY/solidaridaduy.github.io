@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
-departamento: "Montevideo"
+nombre: "Nuevo París"
+departamento: "Nuevo París"
 ---
 
-Barrio Palermo
-Departamento de Montevideo
+Barrio Nuevo París
+Departamento de Nuevo París

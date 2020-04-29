@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Nuevo Amanecer"
-date: 2020-04-20 00:01:13 -0300
+title: "Solidarios Unidos seis barrios"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "095286057 Ana"
-direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
+necesidades: ""
+telefono_contacto: "Alimentos y donaciones"
+direccion: "092927150 María"
 
-otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar tupper"
-cuenta_bancaria: ""
+otros_contactos: "092927150 María"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Merienda 17 hs. Reparten Cena a las 20 hs."
 
 ---

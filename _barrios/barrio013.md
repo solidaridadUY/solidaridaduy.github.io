@@ -1,7 +1,7 @@
 ---
 nombre: "Progreso"
-departamento: "Canelones"
+departamento: "Progreso"
 ---
 
 Barrio Progreso
-Departamento de Canelones
+Departamento de Progreso

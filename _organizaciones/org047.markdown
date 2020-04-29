@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Unidos Centro Educativo"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Brandi"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Canasta"
-necesidades: "Alimentos, productos de limpieza e higiene, donaciones económicas"
-telefono_contacto: "091203982"
-direccion: "Francisco Vázquez Cores 3247"
+barrio: "Conciliación"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos no percederos, productos de higiene y limpieza"
+direccion: "098964527 096450004"
 
-otros_contactos: ""
-horario: "Lunes a Viernes"
-aclaraciones: "Tienen nexo con la iniciativa Involucrate"
-cuenta_bancaria: ""
+otros_contactos: "098964527 096450004"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
 
 ---

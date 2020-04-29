@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-20 00:01:13 -0300
+title: "PIT-CNT"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Aires Puros"
-actividades: "Canasta"
-necesidades: "Alimentos y artículos de limpieza"
-telefono_contacto: "099144809"
-direccion: "Comité Carlos Quijano, Atahona esq. Celedonio Rojas"
+departamento: "Canelones"
+barrio: "Santa Lucía"
+actividades: "Otros"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos."
+direccion: "098691711 092213138  092249381"
 
-otros_contactos: ""
-horario: "Jueves y sábado de 10 a 12 hs"
+otros_contactos: "098691711 092213138  092249381"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "de 17:00 a 20:00 hrs"
 
 ---

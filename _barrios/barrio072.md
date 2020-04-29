@@ -1,7 +1,7 @@
 ---
-nombre: "Monarca"
-departamento: "Montevideo"
+nombre: "Manga"
+departamento: "Manga"
 ---
 
-Barrio Monarca
-Departamento de Montevideo
+Barrio Manga
+Departamento de Manga

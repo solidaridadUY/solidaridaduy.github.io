@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Estrella del Norte"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
+barrio: "Lezica"
 actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "092726853"
-direccion: "Caminos Santa Catalina y los Murallones"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos y productos de limpieza"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Consultar horario"
+otros_contactos: "No corresponde"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Todo el día"
 
 ---

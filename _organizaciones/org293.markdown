@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Mujeres del Oeste"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Rincón del Cerro"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "096605650
+Mari"
+
+otros_contactos: "096605650
+Mari"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Sábado y Domingo 13:30hs"
+
+---

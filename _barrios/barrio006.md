@@ -1,7 +1,7 @@
 ---
 nombre: "Jaureguiberry"
-departamento: "Canelones"
+departamento: "Jaureguiberry"
 ---
 
 Barrio Jaureguiberry
-Departamento de Canelones
+Departamento de Jaureguiberry

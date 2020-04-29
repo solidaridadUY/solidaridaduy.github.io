@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Jóvenes del Cerro"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
+direccion: "091794830"
+
+otros_contactos: "091794830"
+horario: "092673044 - 099650642"
+aclaraciones: ""
+cuenta_bancaria: "Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
+
+---

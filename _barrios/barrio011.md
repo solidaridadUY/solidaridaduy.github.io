@@ -1,7 +1,7 @@
 ---
 nombre: "Montes de Solymar"
-departamento: "Canelones"
+departamento: "Montes de Solymar"
 ---
 
 Barrio Montes de Solymar
-Departamento de Canelones
+Departamento de Montes de Solymar

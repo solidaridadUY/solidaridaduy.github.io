@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Solidarios Unidos seis barrios"
-date: 2020-04-20 00:01:13 -0300
+title: "iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos y donaciones"
-telefono_contacto: "092927150 María"
-direccion: "Rafael y Teniente Galeano (frente a la barraca)"
+barrio: "La Teja"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+direccion: "094097964  095495396  094900817"
 
-otros_contactos: ""
-horario: "Merienda 17 hs. Reparten Cena a las 20 hs."
-aclaraciones: "También cubren merienda. Llevar tupper"
-cuenta_bancaria: ""
+otros_contactos: "094097964  095495396  094900817"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "durante día"
 
 ---

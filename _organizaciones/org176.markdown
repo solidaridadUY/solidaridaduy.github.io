@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal: Plaza Inve 17"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Paula 094999829"
-direccion: "Inve 17 y La Quinta"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "Paula 094999829"
 
-otros_contactos: ""
-horario: "Sábados y Domingos"
+otros_contactos: "Paula 094999829"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Sábados y Domingos"
 
 ---

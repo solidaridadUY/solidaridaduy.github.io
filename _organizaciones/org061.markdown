@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Estudiantes de la Unión"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
-actividades: "Merienda"
-necesidades: "Alimentos como para la merienda"
-telefono_contacto: "095626343"
-direccion: "Esmeralda frente a la vía esq. Emancipación"
+barrio: "Unión"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, carne, artículos de limpieza y ropa de abrigo"
+direccion: "094460660"
 
-otros_contactos: ""
-horario: "Lunes, Miércoles y viernes a las 17 hs"
+otros_contactos: "094460660"
+horario: "lalogarmen2@gmail.com"
 aclaraciones: ""
 cuenta_bancaria: ""
 

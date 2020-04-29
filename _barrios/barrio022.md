@@ -1,7 +1,7 @@
 ---
 nombre: "Nueva Helvecia"
-departamento: "Colonia"
+departamento: "Nueva Helvecia"
 ---
 
 Barrio Nueva Helvecia
-Departamento de Colonia
+Departamento de Nueva Helvecia

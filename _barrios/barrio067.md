@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
-departamento: "Montevideo"
+nombre: "Larrañaga"
+departamento: "Larrañaga"
 ---
 
-Barrio Los Bulevares
-Departamento de Montevideo
+Barrio Larrañaga
+Departamento de Larrañaga

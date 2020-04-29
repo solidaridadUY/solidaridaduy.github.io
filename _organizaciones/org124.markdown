@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Pizzería Los Dos Hermanos"
-date: 2020-04-20 00:01:13 -0300
+title: "Iniciativa ciudadana: CANASTAS UY"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "23071388"
-direccion: "Turubí y Carlos de la Vega"
+barrio: "No corresponde"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "Ofrecer trabajo voluntario en el armado de las canastas."
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Martes, Jueves y Sábado 13hs"
+otros_contactos: "No corresponde"
+horario: "@CanastasUy en IG"
 aclaraciones: ""
 cuenta_bancaria: ""
 
