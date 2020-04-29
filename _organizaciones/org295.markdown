@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Organización vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro Norte"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "096539004
+Gladys"
+
+otros_contactos: "096539004
+Gladys"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Sábado y Domingo 12hs"
+
+---

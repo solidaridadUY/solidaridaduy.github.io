@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Paysandú"
 barrio: "No corresponde"
 actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "098247858"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "No corresponde"
+direccion: "098247858"
 
-otros_contactos: ""
+otros_contactos: "098247858"
 horario: ""
-aclaraciones: "Realización de compras a población de riesgo"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

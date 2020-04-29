@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
-departamento: "Montevideo"
+nombre: "Seis de Diciembre"
+departamento: "Seis de Diciembre"
 ---
 
-Barrio Villa Dolores
-Departamento de Montevideo
+Barrio Seis de Diciembre
+Departamento de Seis de Diciembre

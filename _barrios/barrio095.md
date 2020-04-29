@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
-departamento: "Montevideo"
+nombre: "Tres Cruces"
+departamento: "Tres Cruces"
 ---
 
-Barrio Villa Española
-Departamento de Montevideo
+Barrio Tres Cruces
+Departamento de Tres Cruces

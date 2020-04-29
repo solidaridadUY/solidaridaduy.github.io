@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero"
-date: 2020-04-20 00:01:13 -0300
+title: "Bares Finisterre y El Hormiguero"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Maldonado"
-barrio: "Playa Grande"
-actividades: "Merienda"
-necesidades: "Alimentos no perecederos,  leche y pan"
-telefono_contacto: "094254015"
-direccion: "Calle 26 entre 2 y 3"
+departamento: "Montevideo"
+barrio: "Palermo"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Acopian donaciones para llevar a diferentes ollas"
+direccion: "099569017 095010898"
 
-otros_contactos: ""
+otros_contactos: "099569017 095010898"
 horario: ""
-aclaraciones: "Almuerzo - sábados y domingos 13 hs. Merienda - todos los días 18 hs. Cena- todos los días de 19 a 21 hs. LLEVAR TAZA, TUPPER Y CUBIERTOS"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

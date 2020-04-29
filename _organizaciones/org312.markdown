@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Causeglia"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: ""
+direccion: "093665410 María José"
+
+otros_contactos: "093665410 María José"
+horario: ""
+aclaraciones: "Miércoles y Sábado"
+cuenta_bancaria: "17 hs"
+
+---

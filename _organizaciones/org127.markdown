@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Jóvenes del Municipio B Apoyo: Consejo Vecinal 2"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Olla"
-necesidades: "Aimentos"
-telefono_contacto: "098520248"
-direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
+barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
+actividades: "Realización de compras"
+necesidades: ""
+telefono_contacto: "No corresponde"
+direccion: "099405205"
 
-otros_contactos: "093524166"
-horario: "Viernes a las 21 hs"
-aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
-cuenta_bancaria: ""
+otros_contactos: "099405205"
+horario: "areasocialmunicipiob@gmail.com"
+aclaraciones: ""
+cuenta_bancaria: "Se toman pedidos desde las 9 hasta las 15hs."
 
 ---

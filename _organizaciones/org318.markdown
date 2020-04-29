@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Faustino \"Chimango\""
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: ""
+direccion: "099196315  
+Mario Ivo"
+
+otros_contactos: "099196315  
+Mario Ivo"
+horario: ""
+aclaraciones: "Lunes y Jueves"
+cuenta_bancaria: "18 hs"
+
+---

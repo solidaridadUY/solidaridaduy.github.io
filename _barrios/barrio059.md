@@ -1,7 +1,7 @@
 ---
-nombre: "Flor de Maroñas"
-departamento: "Montevideo"
+nombre: "Cordón"
+departamento: "Cordón"
 ---
 
-Barrio Flor de Maroñas
-Departamento de Montevideo
+Barrio Cordón
+Departamento de Cordón

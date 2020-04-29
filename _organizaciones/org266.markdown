@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "Mujeres en Alerta"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Colonia"
-barrio: "Nueva Helvecia"
+departamento: "Canelones"
+barrio: "Ciudad de la Costa"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "091 471 165"
-direccion: "Av Gilomen 1448"
+necesidades: ""
+telefono_contacto: "Alimentos, productos de higiene, juegos/juguetes"
+direccion: "091786159 Sofía - 094972263 Karen"
 
-otros_contactos: ""
-horario: "Entrega de viandas A partir de 21 hs"
+otros_contactos: "091786159 Sofía - 094972263 Karen"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
-departamento: "Montevideo"
+nombre: "Casco del Cerro"
+departamento: "Casco del Cerro"
 ---
 
-Barrio Casavalle
-Departamento de Montevideo
+Barrio Casco del Cerro
+Departamento de Casco del Cerro

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "C.S. y D. La Bomba"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
+barrio: "La Paz"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "095647959"
-direccion: "Sin espacio físico específico"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "098874147 - 097505521"
 
-otros_contactos: ""
+otros_contactos: "098874147 - 097505521"
 horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Se reciben donaciones Lunes y Miercoles 19 hs."
 
 ---

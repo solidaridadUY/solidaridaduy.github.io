@@ -1,7 +1,7 @@
 ---
 nombre: "Todos"
-departamento: "Canelones"
+departamento: "Todos"
 ---
 
 Barrio Todos
-Departamento de Canelones
+Departamento de Todos

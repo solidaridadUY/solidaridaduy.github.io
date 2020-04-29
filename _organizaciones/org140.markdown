@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Cordón"
 actividades: "Olla"
-necesidades: "Reciben donaciones en puntos de donacion del barrio"
-telefono_contacto: "-"
-direccion: "Fernandez Crespo 1780 esquina Paysandú"
+necesidades: ""
+telefono_contacto: "Reciben donaciones en puntos de donacion del barrio"
+direccion: "-"
 
-otros_contactos: ""
-horario: "Lunes a Viernes 12:30 a 14:30"
+otros_contactos: "-"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Lunes a Viernes 12:30 a 14:30"
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Cruces"
-departamento: "Montevideo"
+nombre: "Santa Catalina"
+departamento: "Santa Catalina"
 ---
 
-Barrio Tres Cruces
-Departamento de Montevideo
+Barrio Santa Catalina
+Departamento de Santa Catalina

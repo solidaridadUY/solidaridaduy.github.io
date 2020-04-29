@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AFUTU Regional Colonia"
-date: 2020-04-20 00:01:14 -0300
+title: "Olla Popular COVIESSU"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Colonia"
-barrio: "Juan Lacaze"
-actividades: "Punto de Donación"
-necesidades: "Canasta básica: Arroz, Aceite, Fideos, Azúcar, Cocoa, Salsa de Tomates, Harina, Grasa, Ph, Hipoclorito, Jabón neutro o antibacterial."
-telefono_contacto: "092252890 098942914"
-direccion: "Comunicarse telefónicamente y pasan a retirar la donación"
+departamento: "Montevideo"
+barrio: "Paso de las Duranas"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones de 17 a 20hs"
+direccion: "094259028 (Fátima), 099462986 (Florencio), 093815676 (Leonardo)"
 
-otros_contactos: ""
+otros_contactos: "094259028 (Fátima), 099462986 (Florencio), 093815676 (Leonardo)"
 horario: ""
-aclaraciones: "Donaciones para repartir a las familias de estudiantes en situación más vulnerable."
-cuenta_bancaria: ""
+aclaraciones: ""
+cuenta_bancaria: "Sábados y Domingos 19:30hs"
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Albion"
-date: 2020-04-20 00:01:13 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Ciudad de la Costa"
+departamento: "Montevideo"
+barrio: "Cerro"
 actividades: "Canasta"
-necesidades: "Alimentos"
-telefono_contacto: "099604054"
-direccion: "Interbalnearia y Marquez Castro"
+necesidades: "Alimentos y Artículos de Limpieza"
+telefono_contacto: "En particular, alimentos no perecederos"
+direccion: "091944342 "
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Están armando canastas para entrega a familias del barrio"
-cuenta_bancaria: ""
+otros_contactos: "091944342 "
+horario: "098759845 099834255"
+aclaraciones: "Lunes Miércoles y Viernes"
+cuenta_bancaria: " 17 a 19 hs"
 
 ---

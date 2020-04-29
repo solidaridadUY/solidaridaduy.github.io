@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Merendero Los conquistadores Apoya Grupo Misericordia"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Flores"
-barrio: "Ismael Cortinas"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098360975 092010950"
-direccion: "Club Arroyo Grande, En Ismael Cortinas: Mevir 4, Núm 25857 En Trinidad: Gral. Flores 454"
+departamento: "Canelones"
+barrio: "Villa la Colina"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: "Alimentos y donaciones"
+direccion: "091 292 894"
 
-otros_contactos: ""
+otros_contactos: "091 292 894"
 horario: ""
-aclaraciones: "Sábados y Domingo, mediodía y noche"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

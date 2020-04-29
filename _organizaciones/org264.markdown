@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "OLLA POPULAR - Vecines"
-date: 2020-04-20 00:01:14 -0300
+title: "Centro Juvenil Coop. Tunguele"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "No corresponde"
-direccion: "Grecia esq. Barcelona"
+departamento: "Canelones"
+barrio: "Montes de Solymar"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Reciben alimentos y productos de higiene"
+direccion: "099 668 862  Majo 091785537"
 
-otros_contactos: ""
+otros_contactos: "099 668 862  Majo 091785537"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

@@ -1,7 +1,7 @@
 ---
 nombre: "Balneario Buenos Aires"
-departamento: "Maldonado"
+departamento: "Balneario Buenos Aires"
 ---
 
 Barrio Balneario Buenos Aires
-Departamento de Maldonado
+Departamento de Balneario Buenos Aires

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cooperativa Covijave 2"
-date: 2020-04-20 00:01:14 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "No corresponde"
-direccion: "Calle Pública 1153 esq Islas Canarias "
+barrio: "Boyada"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: "Se da Merienda a niñes barrio La Boyada, se reciben toda clase de donaciones"
+direccion: "092 912 571"
 
-otros_contactos: ""
-horario: "13 Hs."
+otros_contactos: "092 912 571"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Lunes a Domingos, de tarde"
 
 ---

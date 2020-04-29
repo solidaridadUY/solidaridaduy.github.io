@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
-departamento: "Montevideo"
+nombre: "Pocitos"
+departamento: "Pocitos"
 ---
 
-Barrio Punta de Rieles
-Departamento de Montevideo
+Barrio Pocitos
+Departamento de Pocitos

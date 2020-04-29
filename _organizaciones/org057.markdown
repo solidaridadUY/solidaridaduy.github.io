@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SUA (Sociedad Uruguaya de Actores)"
-date: 2020-04-20 00:01:13 -0300
+title: "Centro Cultural Totó y vecinos/as del barrio"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "091 381 895"
-direccion: "Centro Cultural Carlos Brussa (Mercedes 931)"
+barrio: "Nuevo París"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "097426604"
 
-otros_contactos: "098 787 582"
-horario: "15 a 19"
+otros_contactos: "097426604"
+horario: "98429757"
 aclaraciones: ""
-cuenta_bancaria: "Brou de Caja de Socorros de SUA, Cuenta Corriente 001554456-00002 en pesos"
+cuenta_bancaria: ""
 
 ---

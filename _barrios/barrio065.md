@@ -1,7 +1,7 @@
 ---
 nombre: "La Teja"
-departamento: "Montevideo"
+departamento: "La Teja"
 ---
 
 Barrio La Teja
-Departamento de Montevideo
+Departamento de La Teja

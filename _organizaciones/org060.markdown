@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Royal"
-date: 2020-04-20 00:01:13 -0300
+title: "Solidario Unido Seis Barrios"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Merienda"
-necesidades: "recepcionan alimentos y donaciones en la sede"
-telefono_contacto: "093734042"
-direccion: "Yucutuja 1250"
+barrio: "Piedras Blancas"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y productos para celíacos"
+direccion: "092927150"
 
-otros_contactos: ""
-horario: "Validar vía celular, 18hrs en la cancha"
+otros_contactos: "092927150"
+horario: "094360368"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "11 a 19hs"
 
 ---

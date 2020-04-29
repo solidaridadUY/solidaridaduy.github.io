@@ -1,7 +1,7 @@
 ---
 nombre: "Bella Vista"
-departamento: "Montevideo"
+departamento: "Bella Vista"
 ---
 
 Barrio Bella Vista
-Departamento de Montevideo
+Departamento de Bella Vista

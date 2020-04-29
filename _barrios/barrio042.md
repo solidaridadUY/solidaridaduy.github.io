@@ -1,7 +1,7 @@
 ---
 nombre: "Boyada"
-departamento: "Montevideo"
+departamento: "Boyada"
 ---
 
 Barrio Boyada
-Departamento de Montevideo
+Departamento de Boyada

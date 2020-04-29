@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "Cooperativa Covijave 2"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cachimba"
+barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: "Se reciben donaciones, alimentos no perecederos para olla popular"
-telefono_contacto: "094954016"
-direccion: "Gregorio Camino Esq. Heredia"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Lunes a Domingos, durante el día"
+otros_contactos: "No corresponde"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "13 Hs."
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
-departamento: "Montevideo"
+nombre: "Casabó"
+departamento: "Casabó"
 ---
 
-Barrio Capurro
-Departamento de Montevideo
+Barrio Casabó
+Departamento de Casabó

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria"
-date: 2020-04-20 00:01:13 -0300
+title: "ONG EL ABROJO"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Dolores"
+barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "094204040 099629958 099337003"
-direccion: "Julio César 1466"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+direccion: "098575716"
 
-otros_contactos: ""
-horario: "Sábados de 11 a 13 y de 16 a 18hs"
-aclaraciones: "Pasan a buscar las donaciones en esos horarios"
-cuenta_bancaria: ""
+otros_contactos: "098575716"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Lunes a viernes de 9 a 15 hs"
 
 ---

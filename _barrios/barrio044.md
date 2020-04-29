@@ -1,7 +1,7 @@
 ---
 nombre: "Buceo"
-departamento: "Montevideo"
+departamento: "Buceo"
 ---
 
 Barrio Buceo
-Departamento de Montevideo
+Departamento de Buceo

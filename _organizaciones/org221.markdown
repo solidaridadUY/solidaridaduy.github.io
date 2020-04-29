@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "Olla Popular La Cachimba"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
+barrio: "Tres Ombúes"
 actividades: "Olla"
-necesidades: "Pulpa de tomate, lentejas, tapabocas, guantes"
-telefono_contacto: "099527443"
-direccion: "Antel Arena (D.A. Larrañaga y Serrato)"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones, alimentos no perecederos para olla popular"
+direccion: "094954016
+Deisy"
 
-otros_contactos: ""
-horario: "Viernes de 20 a 21:30 hs"
-aclaraciones: "Reciben  donaciones en Robinson 3367 de 8 a 15 hs"
-cuenta_bancaria: ""
+otros_contactos: "094954016
+Deisy"
+horario: "095580808 Banki
+091967299 Johny"
+aclaraciones: ""
+cuenta_bancaria: "Todos los días
+17hs"
 
 ---

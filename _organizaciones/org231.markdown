@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "JFA"
-date: 2020-04-20 00:01:14 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "092150814 - 092056943"
-direccion: "Sin espacio físico específico"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "091600910 (Daniela) - 098907825"
 
-otros_contactos: ""
+otros_contactos: "091600910 (Daniela) - 098907825"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

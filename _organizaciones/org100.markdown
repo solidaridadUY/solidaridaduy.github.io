@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Comité Parque Rodó"
-date: 2020-04-20 00:01:13 -0300
+title: "Modistas"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y artículos de limpieza"
-telefono_contacto: "099440874"
-direccion: "Gonzalo Ramíres y Eduardo Acevedo"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Empresa que dona"
+necesidades: ""
+telefono_contacto: "No corresponde"
+direccion: "www.facebook.com/sonia.rodriguez.900"
 
-otros_contactos: "099421672"
-horario: "17 a 19"
+otros_contactos: "www.facebook.com/sonia.rodriguez.900"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo España"
-departamento: "Montevideo"
+nombre: "Monarca"
+departamento: "Monarca"
 ---
 
-Barrio Nuevo España
-Departamento de Montevideo
+Barrio Monarca
+Departamento de Monarca

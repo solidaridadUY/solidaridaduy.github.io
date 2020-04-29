@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
-departamento: "Montevideo"
+nombre: "Piedras Blancas"
+departamento: "Piedras Blancas"
 ---
 
-Barrio Prado
-Departamento de Montevideo
+Barrio Piedras Blancas
+Departamento de Piedras Blancas

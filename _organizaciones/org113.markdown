@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mercado Popular de Subsistencia"
-date: 2020-04-20 00:01:13 -0300
+title: "iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
+barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
-telefono_contacto: "099281748"
-direccion: "No Corresponde"
+necesidades: ""
+telefono_contacto: "Donaciones y olla popular, también se reciben tapa bocas y productos de limpieza"
+direccion: "094068329"
 
-otros_contactos: "098825512"
-horario: "Durante el día"
-aclaraciones: "Coordinar via telefónica"
-cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
+otros_contactos: "094068329"
+horario: "095798613"
+aclaraciones: ""
+cuenta_bancaria: "18 hrs, contactar telefónicamente"
 
 ---

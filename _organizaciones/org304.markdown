@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal Barrio El Tobogán"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Tres Ombúes"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: "Verduras, carne, cosas para merienda, ropa, abrigo"
+direccion: "094889797 Micaela"
+
+otros_contactos: "094889797 Micaela"
+horario: ""
+aclaraciones: "Todos los días"
+cuenta_bancaria: "De tarde, Sábado y Domingo se hace en Maracaná Sur"
+
+---

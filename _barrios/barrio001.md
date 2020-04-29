@@ -1,7 +1,7 @@
 ---
 nombre: "Atlántida"
-departamento: "Canelones"
+departamento: "Atlántida"
 ---
 
 Barrio Atlántida
-Departamento de Canelones
+Departamento de Atlántida

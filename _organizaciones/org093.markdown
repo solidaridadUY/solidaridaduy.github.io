@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Montevideo"
+barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "094992782"
-direccion: "Av. Instrucciones del año XIII (al fondo de comedor estudiantil)"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+direccion: "091269590"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 11 a 15 hs"
+otros_contactos: "091269590"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Lunes a viernes de 11 a 16 hs"
 
 ---

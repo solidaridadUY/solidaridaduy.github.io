@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Grupo de amigos"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "No corresponde"
 actividades: "Particular que dona"
-necesidades: "Alimentos y fondos para compra de alimentos"
-telefono_contacto: "099162365"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "Alimentos y fondos para compra de alimentos"
+direccion: "099162365"
 
-otros_contactos: ""
-horario: "No corresponde"
-aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
-cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
+otros_contactos: "099162365"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "No corresponde"
 
 ---

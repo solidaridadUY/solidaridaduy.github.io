@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Faustino \"Chimango\""
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: ""
+direccion: "099196315  
+Mario Ivo"
+
+otros_contactos: "099196315  
+Mario Ivo"
+horario: ""
+aclaraciones: "Todos los días"
+cuenta_bancaria: "15 a 19 hs"
+
+---

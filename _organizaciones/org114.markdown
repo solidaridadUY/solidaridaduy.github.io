@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de madres de la escuela."
-date: 2020-04-20 00:01:13 -0300
+title: "Mercado Popular de Subsistencia"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Leche, maizena, salsa y carne."
-telefono_contacto: "096138220 (Leticia)"
-direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
+direccion: "099281748"
 
-otros_contactos: ""
-horario: "Lunes a domingo a las 18:00."
-aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
-cuenta_bancaria: ""
+otros_contactos: "099281748"
+horario: "098825512"
+aclaraciones: ""
+cuenta_bancaria: "Durante el día"
 
 ---

@@ -1,7 +1,7 @@
 ---
 nombre: "Tala"
-departamento: "Canelones"
+departamento: "Tala"
 ---
 
 Barrio Tala
-Departamento de Canelones
+Departamento de Tala

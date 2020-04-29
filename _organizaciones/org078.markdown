@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Liceo de Tala"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "La Teja"
+departamento: "Canelones"
+barrio: "Tala"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "094097964  095495396  094900817"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+direccion: "095417092"
 
-otros_contactos: ""
-horario: "durante día"
+otros_contactos: "095417092"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Durante el día"
 
 ---

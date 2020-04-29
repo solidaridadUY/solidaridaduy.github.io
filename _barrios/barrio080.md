@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
-departamento: "Montevideo"
+nombre: "Parque Rodó"
+departamento: "Parque Rodó"
 ---
 
-Barrio Paso de la Arena
-Departamento de Montevideo
+Barrio Parque Rodó
+Departamento de Parque Rodó

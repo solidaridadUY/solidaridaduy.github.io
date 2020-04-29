@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cuerpo docente Liceo Número 2"
-date: 2020-04-20 00:01:13 -0300
+title: "Olla Solidaria Sumando Esfuerzo, Comisión 16 de Marzo."
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Alimentos y productos de limpieza para canastas"
-telefono_contacto: "094955669"
-direccion: "Barrio Rivera Chico"
+departamento: "Montevideo"
+barrio: "Piedras Blancas"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
+direccion: "095952219, 095078679"
 
-otros_contactos: ""
+otros_contactos: "095952219, 095078679"
 horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "En el día"
 
 ---

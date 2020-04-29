@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
-departamento: "Montevideo"
+nombre: "Los Bulevares"
+departamento: "Los Bulevares"
 ---
 
-Barrio Malvín Norte
-Departamento de Montevideo
+Barrio Los Bulevares
+Departamento de Los Bulevares

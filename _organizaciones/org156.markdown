@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Organización Vecinal"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Villa Española"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, donaciones para olla popular de la zona."
-telefono_contacto: "No corresponde"
-direccion: "Av. José Pedro Varela 1461"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, donaciones para olla popular de la zona."
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Todos los días de 10 a 16 hrs."
-aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
-cuenta_bancaria: ""
+otros_contactos: "No corresponde"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Todos los días de 10 a 16 hrs."
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Treinta y Trés"
+nombre: "Barra de Chuy"
+departamento: "Barra de Chuy"
 ---
 
-Barrio No corresponde
-Departamento de Treinta y Trés
+Barrio Barra de Chuy
+Departamento de Barra de Chuy

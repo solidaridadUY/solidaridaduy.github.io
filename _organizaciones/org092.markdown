@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Montevideo"
+barrio: "Paso Molino"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "099699322"
-direccion: "Wilson Ferreira Aldunate 712"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+direccion: "098424814"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 9 a 15 hs"
+otros_contactos: "098424814"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Lunes a viernes de 13 a 18 hs"
 
 ---

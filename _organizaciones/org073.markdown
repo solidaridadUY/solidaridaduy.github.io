@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Barrio Lavalleja"
-date: 2020-04-20 00:01:13 -0300
+title: "Cooperativa Tacuabe"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Se brinda alimento en el siguiente horario"
-telefono_contacto: "099709823"
-direccion: "Av de las instrucciones 1200 A, apto 2"
+necesidades: ""
+telefono_contacto: "Se brinda alimento "
+direccion: "099057783"
 
-otros_contactos: ""
-horario: "12 a 17 hrs"
+otros_contactos: "099057783"
+horario: "093967875"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "12 a 17 hrs"
 
 ---

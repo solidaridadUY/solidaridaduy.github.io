@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Brigada José Artigas"
-date: 2020-04-20 00:01:13 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Bella Italia"
 actividades: "Olla"
-necesidades: "Alimentos (carnes y verduras principalmente) Alcohol en gel"
-telefono_contacto: "095775335 Adrián"
-direccion: "Carlomagno esq. Victor Manuel. Mercadito Bella Italia"
+necesidades: ""
+telefono_contacto: "Alimentos, leche en polvo, productos de higiene y limpieza"
+direccion: "093835462 Roberto"
 
-otros_contactos: ""
-horario: "12hs"
-aclaraciones: "Lunes a viernes. Demandan cocineros. Guantes y tapabocas para la gente que cocina"
-cuenta_bancaria: "BROU Caja de ahorro en pesos Nº 110171769-00001"
+otros_contactos: "093835462 Roberto"
+horario: "095820596 Juan Pablo. 096488282 Luis"
+aclaraciones: ""
+cuenta_bancaria: "17hs y 20hs"
 
 ---

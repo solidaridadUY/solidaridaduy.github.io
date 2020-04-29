@@ -1,7 +1,7 @@
 ---
-nombre: "Jacinto Vera"
-departamento: "Montevideo"
+nombre: "Cruz de Carrasco"
+departamento: "Cruz de Carrasco"
 ---
 
-Barrio Jacinto Vera
-Departamento de Montevideo
+Barrio Cruz de Carrasco
+Departamento de Cruz de Carrasco

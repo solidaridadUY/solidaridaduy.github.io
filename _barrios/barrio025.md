@@ -1,7 +1,7 @@
 ---
 nombre: "Ismael Cortinas"
-departamento: "Flores"
+departamento: "Ismael Cortinas"
 ---
 
 Barrio Ismael Cortinas
-Departamento de Flores
+Departamento de Ismael Cortinas

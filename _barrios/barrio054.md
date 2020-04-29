@@ -1,7 +1,7 @@
 ---
-nombre: "Colón"
-departamento: "Montevideo"
+nombre: "Ciudad Vieja"
+departamento: "Ciudad Vieja"
 ---
 
-Barrio Colón
-Departamento de Montevideo
+Barrio Ciudad Vieja
+Departamento de Ciudad Vieja

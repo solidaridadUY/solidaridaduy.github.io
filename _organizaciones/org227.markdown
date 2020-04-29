@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "097992973 - 099239735"
-direccion: "Bolivia esq. Instrucciones del Año XIII"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "094827612 (María)"
 
-otros_contactos: ""
+otros_contactos: "094827612 (María)"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

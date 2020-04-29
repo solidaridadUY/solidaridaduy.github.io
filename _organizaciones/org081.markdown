@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Estrella de Oro"
-date: 2020-04-20 00:01:13 -0300
+title: "SERPAJ"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "096098766 Yessica"
-direccion: "Clemente Ruggia y Ma del Rosario Ramos (salón de la cancha)"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos"
+direccion: "24085301"
 
-otros_contactos: ""
-horario: "19hs"
-aclaraciones: "Llevar tupper, olla de demanda muy creciente. Solicitan guantes y tapabocas para las personas voluntarias"
-cuenta_bancaria: ""
+otros_contactos: "24085301"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Jueves 2 de abril de 15 a 18 hs - Viernes 3 de abril de 14 a 17 hs"
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "Rotisería El Garrison"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Seis de Diciembre"
+barrio: "Villa Muñoz"
 actividades: "Merienda"
-necesidades: "Se reciben toda clase de donaciones para brindar merienda"
-telefono_contacto: "092085983"
-direccion: "Tomás Gonzalez Padrón 5530"
+necesidades: ""
+telefono_contacto: "Donaciones"
+direccion: "92310955"
 
-otros_contactos: ""
-horario: "Lunes a Domingos, de tarde"
-aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
-cuenta_bancaria: ""
+otros_contactos: "92310955"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Todos los días 8:00 a 11:00 y 18:00 a 19:30"
 
 ---

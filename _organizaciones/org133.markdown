@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Amigos y vecinos del Parque Rodó"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Parque Rodó"
 actividades: "Punto de Donación"
-necesidades: "Productos no perecederos y de limpieza, frutas, verduras y carne"
-telefono_contacto: "099711537"
-direccion: "Espacio La Uruguaya (Pablo de María 936)"
+necesidades: ""
+telefono_contacto: "Productos no perecederos y de limpieza, frutas, verduras y carne"
+direccion: "099711537"
 
-otros_contactos: ""
-horario: "14.00 a 17.00"
-aclaraciones: "Se pusieron como plazo de recepción el 12 de abril"
-cuenta_bancaria: ""
+otros_contactos: "099711537"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "14.00 a 17.00"
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Rivera"
-departamento: "Rivera"
+nombre: "Villa Muñoz"
+departamento: "Villa Muñoz"
 ---
 
-Barrio Rivera
-Departamento de Rivera
+Barrio Villa Muñoz
+Departamento de Villa Muñoz

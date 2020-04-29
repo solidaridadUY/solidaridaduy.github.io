@@ -1,7 +1,7 @@
 ---
 nombre: "Suárez"
-departamento: "Canelones"
+departamento: "Suárez"
 ---
 
 Barrio Suárez
-Departamento de Canelones
+Departamento de Suárez

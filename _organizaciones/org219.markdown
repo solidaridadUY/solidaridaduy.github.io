@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos Euskalerría"
-date: 2020-04-20 00:01:14 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
+barrio: "Lezica"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, verduras, productos de limpieza"
-telefono_contacto: "095425068  093301890  095628133"
-direccion: "Costanera Euskalerría"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "096262971 096021742 "
 
-otros_contactos: ""
-horario: "Sábados y domingos"
+otros_contactos: "096262971 096021742 "
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "20 Hs."
 
 ---

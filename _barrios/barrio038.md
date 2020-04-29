@@ -1,7 +1,7 @@
 ---
 nombre: "Barrio Sur"
-departamento: "Montevideo"
+departamento: "Barrio Sur"
 ---
 
 Barrio Barrio Sur
-Departamento de Montevideo
+Departamento de Barrio Sur

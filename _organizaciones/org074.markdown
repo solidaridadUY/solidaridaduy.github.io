@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Barrio Lavalleja"
-date: 2020-04-20 00:01:13 -0300
+title: "Salón comunitario "San Antonio""
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Punto de Donación"
-necesidades: "Retiramos Tu donación"
-telefono_contacto: "098865307-Florencia"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "096951220"
 
-otros_contactos: "094357002  Hugo"
-horario: "durante el día"
-aclaraciones: "Retiramos tu donación"
+otros_contactos: "096951220"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

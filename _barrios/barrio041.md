@@ -1,7 +1,7 @@
 ---
 nombre: "Belvedere"
-departamento: "Montevideo"
+departamento: "Belvedere"
 ---
 
 Barrio Belvedere
-Departamento de Montevideo
+Departamento de Belvedere

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "La Peña Parrilla"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Jacinto Vera"
 actividades: "Olla"
-necesidades: "Se reciben donaciones de alimentos."
-telefono_contacto: "2203 0311"
-direccion: "Pedernal 2151"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones de alimentos."
+direccion: "2203 0311"
 
-otros_contactos: ""
-horario: "Miércoles, Viernes y Domingo entre 13 y 16hs"
-aclaraciones: "Llevar Vianda"
-cuenta_bancaria: ""
+otros_contactos: "2203 0311"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Miércoles, Viernes y Domingo entre 13 y 16hs"
 
 ---

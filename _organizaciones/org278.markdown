@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Comité Victor Deri"
-date: 2020-04-20 00:01:14 -0300
+title: "Asociación de Familiares y Víctimas de la Delincuencia"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Canelones"
-barrio: "Pinamar"
+departamento: "Montevideo"
+barrio: "No corresponde"
 actividades: "Canasta"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "095639475 - 097530556"
-direccion: "No aplica"
+necesidades: ""
+telefono_contacto: "Reciben productos no perecederos y de limpieza"
+direccion: "098989724"
 
-otros_contactos: ""
-horario: "Se va a buscar Martes, Jueves y Sábados de 17 a 19"
+otros_contactos: "098989724"
+horario: "096227593"
 aclaraciones: ""
 cuenta_bancaria: ""
 

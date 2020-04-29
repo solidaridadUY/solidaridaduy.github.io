@@ -1,7 +1,7 @@
 ---
 nombre: "Santa Lucía"
-departamento: "Canelones"
+departamento: "Santa Lucía"
 ---
 
 Barrio Santa Lucía
-Departamento de Canelones
+Departamento de Santa Lucía

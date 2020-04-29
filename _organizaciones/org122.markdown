@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-04-20 00:01:13 -0300
+title: "Red Solidaria Chuy"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+departamento: "Rocha"
+barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Se reciben alimentos no perecederos y toda clase de donaciones"
+direccion: "098823513"
 
-otros_contactos: ""
-horario: "Jueves, sábado y lunes a las 20 hs"
-aclaraciones: "Llevar recipiente"
-cuenta_bancaria: ""
+otros_contactos: "098823513"
+horario: "098327339"
+aclaraciones: ""
+cuenta_bancaria: "Durante el día"
 
 ---

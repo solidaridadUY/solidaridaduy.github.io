@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Capilla Cruz Alta"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: "Verduras, Frutas, Alimentos no perecederos, Carne"
+direccion: "094873926
+"
+
+otros_contactos: "094873926
+"
+horario: "098840704"
+aclaraciones: "Miércoles Sábado y Domingo"
+cuenta_bancaria: "18:30 a 20:00hs"
+
+---

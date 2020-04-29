@@ -1,7 +1,7 @@
 ---
 nombre: "San Carlos"
-departamento: "Maldonado"
+departamento: "San Carlos"
 ---
 
 Barrio San Carlos
-Departamento de Maldonado
+Departamento de San Carlos

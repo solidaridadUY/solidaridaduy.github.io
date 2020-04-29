@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
-departamento: "Montevideo"
+nombre: "Paso de la Arena"
+departamento: "Paso de la Arena"
 ---
 
-Barrio Paso Molino
-Departamento de Montevideo
+Barrio Paso de la Arena
+Departamento de Paso de la Arena

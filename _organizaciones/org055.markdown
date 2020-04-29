@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "Centro Cultural Totó y vecinos/as del barrio"
-date: 2020-04-20 00:01:13 -0300
+title: "Club FiatLux"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Canasta"
-necesidades: "Reciben donaciones"
-telefono_contacto: "097426604"
-direccion: "No corresponde"
+departamento: "Tacuarembó"
+barrio: "Tacuarembó"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Reciben donaciones de alimentos"
+direccion: "46320615"
 
-otros_contactos: "98429757"
+otros_contactos: "46320615"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

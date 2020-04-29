@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "ADEOM"
-date: 2020-04-20 00:01:14 -0300
+title: "AFUC"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Maldonado"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y artículos de limpieza"
-telefono_contacto: "42225816"
-direccion: "ADEOM MALDONADO ROMAN GUERRA ESQUINA ITUZAINGO"
+necesidades: ""
+telefono_contacto: "Alimentos y artículos de limpieza"
+direccion: "094500851"
 
-otros_contactos: ""
-horario: "Lunes a Viernes 10:00 a 16:00"
+otros_contactos: "094500851"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Martes a Viernes 13:00 a 16:00"
 
 ---

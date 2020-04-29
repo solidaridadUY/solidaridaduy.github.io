@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Brandi"
-date: 2020-04-20 00:01:13 -0300
+title: "Inter Sindical PIT-CNT"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Montevideo"
-barrio: "Conciliación"
+departamento: "Canelones"
+barrio: "Santa Lucía"
 actividades: "Olla"
-necesidades: "Alimentos no percederos, productos de higiene y limpieza"
-telefono_contacto: "098964527 096450004"
-direccion: "Adolfo Rodriguez 6738"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "098691711        092213138  092249381"
 
-otros_contactos: ""
-horario: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
+otros_contactos: "098691711        092213138  092249381"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Entrega de vianda todos los días. Sábados y domingos también merienda"
 
 ---

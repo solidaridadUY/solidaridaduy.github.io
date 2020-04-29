@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Super Lupín"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Perez Castellanos y Sarandí"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+direccion: "098141813"
 
-otros_contactos: "094053638"
-horario: "8 a 19hs"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
-cuenta_bancaria: ""
+otros_contactos: "098141813"
+horario: "094053638"
+aclaraciones: ""
+cuenta_bancaria: "8 a 19hs"
 
 ---

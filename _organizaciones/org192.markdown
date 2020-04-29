@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club Unión Atlética"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de limpieza e higiene personal"
-telefono_contacto: "Santiago Armas (098 894 273)"
-direccion: "Club Unión Atlética, Velsen 4509"
+necesidades: ""
+telefono_contacto: "Alimentos y productos de limpieza e higiene personal"
+direccion: "Santiago Armas (098 894 273)"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Miércoles y viernes de 15:30 a 17:00"
-aclaraciones: "Coordinados con Gimnasio Antoniello"
-cuenta_bancaria: ""
+otros_contactos: "Santiago Armas (098 894 273)"
+horario: "094625416 (José Gumber)"
+aclaraciones: ""
+cuenta_bancaria: "Miércoles y viernes de 15:30 a 17:00"
 
 ---

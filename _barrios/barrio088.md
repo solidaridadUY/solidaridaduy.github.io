@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
-departamento: "Montevideo"
+nombre: "Prado"
+departamento: "Prado"
 ---
 
-Barrio Reducto
-Departamento de Montevideo
+Barrio Prado
+Departamento de Prado

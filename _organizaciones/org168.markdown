@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Montevideo al Sur"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Sur"
 actividades: "Olla"
-necesidades: "Reciben donaciones de 9:00 a 00:00"
-telefono_contacto: "099228148"
-direccion: "Paraguay 1150 esquina Maldonado"
+necesidades: ""
+telefono_contacto: "Reciben donaciones de 9:00 a 00:00"
+direccion: "099228148"
 
-otros_contactos: ""
-horario: "Miércoles 19hs"
+otros_contactos: "099228148"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Miércoles 19hs"
 
 ---

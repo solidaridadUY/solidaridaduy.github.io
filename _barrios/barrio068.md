@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín"
-departamento: "Montevideo"
+nombre: "Lezica"
+departamento: "Lezica"
 ---
 
-Barrio Malvín
-Departamento de Montevideo
+Barrio Lezica
+Departamento de Lezica

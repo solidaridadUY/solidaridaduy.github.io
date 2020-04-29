@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
-departamento: "Montevideo"
+nombre: "Reducto"
+departamento: "Reducto"
 ---
 
-Barrio Sayago
-Departamento de Montevideo
+Barrio Reducto
+Departamento de Reducto

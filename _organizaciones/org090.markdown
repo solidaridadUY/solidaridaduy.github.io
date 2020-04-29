@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Layva"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Paso Molino"
+barrio: "Villa Dolores"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "098424814"
-direccion: "Vicente Basagoity 3922"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
+direccion: "099337003"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 13 a 18 hs"
+otros_contactos: "099337003"
+horario: "099629958  094204040"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
 
 ---

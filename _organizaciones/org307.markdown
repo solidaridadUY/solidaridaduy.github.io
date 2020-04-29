@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal "
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Belvedere"
+actividades: "Olla"
+necesidades: "Alimentos"
+telefono_contacto: ""
+direccion: "095633449 Virginia"
+
+otros_contactos: "095633449 Virginia"
+horario: ""
+aclaraciones: "Todos los días"
+cuenta_bancaria: "A partir de 17hs"
+
+---

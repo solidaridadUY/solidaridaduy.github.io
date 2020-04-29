@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mides e Intendencia de Rivera"
-date: 2020-04-20 00:01:13 -0300
+title: "Liga universitaria, Paysandú"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "IdR y MIDES Rivera"
-direccion: "Barrios: Rivera Chico, Misiones, La Arenera, Colegio Don Bosco"
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de donaciones"
+direccion: "091401964"
 
-otros_contactos: ""
-horario: "Todos los días de 11 a 13"
-aclaraciones: "Comedores departamentales. Llevar cédula y recipiente."
+otros_contactos: "091401964"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

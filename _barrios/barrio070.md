@@ -1,7 +1,7 @@
 ---
-nombre: "Manga"
-departamento: "Montevideo"
+nombre: "Malvín"
+departamento: "Malvín"
 ---
 
-Barrio Manga
-Departamento de Montevideo
+Barrio Malvín
+Departamento de Malvín

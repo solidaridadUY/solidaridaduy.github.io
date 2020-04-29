@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-04-20 00:01:13 -0300
+title: "Club Atlético Cordón"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+barrio: "Cordón"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones"
+direccion: "091923053"
 
-otros_contactos: ""
-horario: "9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
-cuenta_bancaria: ""
+otros_contactos: "091923053"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Olla: Consultar al número de contacto Donaciones: 14 a 16 hs"
 
 ---

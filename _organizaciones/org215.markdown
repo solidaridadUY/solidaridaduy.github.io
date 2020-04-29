@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "No corresponde"
-direccion: "Silva 3993 Entre Costanera y Fuentes"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "No corresponde"
 
-otros_contactos: "José"
-horario: ""
-aclaraciones: "Vecinos Unidos , Lunes a Domingo de noche"
+otros_contactos: "No corresponde"
+horario: "José"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
 nombre: "Shangrilá"
-departamento: "Canelones"
+departamento: "Shangrilá"
 ---
 
 Barrio Shangrilá
-Departamento de Canelones
+Departamento de Shangrilá

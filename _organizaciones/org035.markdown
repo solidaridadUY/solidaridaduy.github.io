@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "CECOED"
-date: 2020-04-20 00:01:13 -0300
+title: "Merendero"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Salto"
-barrio: "Salto"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
-telefono_contacto: "092350389 47327359"
-direccion: "Avda. Luis Batlle Berres esq. Enrique Amorín"
+departamento: "Maldonado"
+barrio: "Playa Grande"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos,  leche y pan"
+direccion: "094254015"
 
-otros_contactos: ""
+otros_contactos: "094254015"
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

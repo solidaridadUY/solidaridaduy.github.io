@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Solidaria Barrial"
-date: 2020-04-20 00:01:13 -0300
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc)"
-telefono_contacto: "098141813  094053638"
-direccion: "Pérez Castellano y Sarandí"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc)"
+direccion: "098141813  094053638"
 
-otros_contactos: ""
+otros_contactos: "098141813  094053638"
 horario: ""
-aclaraciones: "Distribución de viandas - Sábado y Domingo al mediodía"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

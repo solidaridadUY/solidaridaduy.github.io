@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:14 -0300
+title: "Iniciativa vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
+barrio: "Villa Española"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "096262971 096021742 "
-direccion: "Colman y Pororó"
+necesidades: ""
+telefono_contacto: "Pulpa de tomate, lentejas, tapabocas, guantes"
+direccion: "099527443"
 
-otros_contactos: ""
-horario: "20 Hs."
+otros_contactos: "099527443"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Viernes de 20 a 21:30 hs"
 
 ---

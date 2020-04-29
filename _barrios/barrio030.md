@@ -1,7 +1,7 @@
 ---
 nombre: "Playa Grande"
-departamento: "Maldonado"
+departamento: "Playa Grande"
 ---
 
 Barrio Playa Grande
-Departamento de Maldonado
+Departamento de Playa Grande

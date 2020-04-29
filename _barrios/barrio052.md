@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
-departamento: "Montevideo"
+nombre: "Cerro"
+departamento: "Cerro"
 ---
 
-Barrio Ciudad Vieja
-Departamento de Montevideo
+Barrio Cerro
+Departamento de Cerro

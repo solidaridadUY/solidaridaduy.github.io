@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Club Social y Deportivo Iriarte"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Belvedere"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: "Verduras y Carne"
+direccion: "095109490
+Walter"
+
+otros_contactos: "095109490
+Walter"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "A partir de 12hs"
+
+---

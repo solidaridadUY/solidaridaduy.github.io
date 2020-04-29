@@ -1,7 +1,7 @@
 ---
 nombre: "La Capuera"
-departamento: "Maldonado"
+departamento: "La Capuera"
 ---
 
 Barrio La Capuera
-Departamento de Maldonado
+Departamento de La Capuera

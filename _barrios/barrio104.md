@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Paysandú"
+departamento: "Paysandú"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Paysandú
+Departamento de Paysandú

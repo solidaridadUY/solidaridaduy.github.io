@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Cuerpo docente Liceo Número 3"
-date: 2020-04-20 00:01:13 -0300
+title: "Mesa intersocial Paysandú"
+date: 2020-04-29 15:06:43 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Alimentos y productos de limpieza para canastas"
-telefono_contacto: "095252930"
-direccion: "Reyles y Tranqueras"
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "098307154"
 
-otros_contactos: ""
-horario: ""
+otros_contactos: "098307154"
+horario: "099486640"
 aclaraciones: ""
 cuenta_bancaria: ""
 

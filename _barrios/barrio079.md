@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
-departamento: "Montevideo"
+nombre: "Palermo"
+departamento: "Palermo"
 ---
 
-Barrio Paso Carrasco
-Departamento de Montevideo
+Barrio Palermo
+Departamento de Palermo

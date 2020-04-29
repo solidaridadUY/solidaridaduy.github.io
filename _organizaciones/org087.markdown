@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Complejo Juana de América"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Bella Italia"
-actividades: "Olla"
-necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
-telefono_contacto: "097030441 Gabriela"
-direccion: "Manuel Perez 6129 esq. Curis"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "Alimentos y productos de higiene y limpieza para armado de canastas"
+direccion: "098124387 Natalia"
 
-otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Martes y miércoles / 17hs merienda 20hs cena / Demandan principalmente leche en polvo"
-cuenta_bancaria: ""
+otros_contactos: "098124387 Natalia"
+horario: "098638765 Luciana"
+aclaraciones: ""
+cuenta_bancaria: "10 a 12 y 17 a 19hs"
 
 ---

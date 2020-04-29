@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Montevideo"
+nombre: "Maroñas"
+departamento: "Maroñas"
 ---
 
-Barrio No corresponde
-Departamento de Montevideo
+Barrio Maroñas
+Departamento de Maroñas

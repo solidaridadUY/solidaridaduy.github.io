@@ -1,7 +1,7 @@
 ---
-nombre: "Fray Bentos"
-departamento: "Río Negro"
+nombre: "Villa García"
+departamento: "Villa García"
 ---
 
-Barrio Fray Bentos
-Departamento de Río Negro
+Barrio Villa García
+Departamento de Villa García

@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
-departamento: "Montevideo"
+nombre: "La Comercial"
+departamento: "La Comercial"
 ---
 
-Barrio Larrañaga
-Departamento de Montevideo
+Barrio La Comercial
+Departamento de La Comercial

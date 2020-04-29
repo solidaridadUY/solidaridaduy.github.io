@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
-date: 2020-04-20 00:01:13 -0300
+title: "Vecinas/os Barrio 22 de Mayo"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
 barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
-telefono_contacto: "093368150 (Sandra)"
-direccion: "Salón 1° de Mayo, Calle las Piedras."
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de donaciones  (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
+direccion: "097584915"
 
-otros_contactos: ""
-horario: "Sábados y domingos (mediodía). Están intentando hacer algo para la merienda de los domingos."
-aclaraciones: "Habitualmente atienden a 70 niñes, el último fin de semana  fueron 130 niñes y 2 adultos. Se da una vianda, botella de leche y pan. Las familias deben llevar un tupper. De recibir alguna donación, harían una merienda entre semana."
-cuenta_bancaria: ""
+otros_contactos: "097584915"
+horario: "097287764"
+aclaraciones: ""
+cuenta_bancaria: "Lunes a viernes  reparten a partir de las 20 / 20:30,"
 
 ---

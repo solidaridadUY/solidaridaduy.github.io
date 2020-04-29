@@ -1,7 +1,7 @@
 ---
-nombre: "Chuy"
-departamento: "Rocha"
+nombre: "No corresponde"
+departamento: "No corresponde"
 ---
 
-Barrio Chuy
-Departamento de Rocha
+Barrio No corresponde
+Departamento de No corresponde

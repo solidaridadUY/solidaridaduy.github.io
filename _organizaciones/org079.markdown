@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SERPAJ"
-date: 2020-04-20 00:01:13 -0300
+title: "El rancho"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
+barrio: "La Teja"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "24085301"
-direccion: "Requena 1642 entre 18 de Julio y Colonia"
+necesidades: ""
+telefono_contacto: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+direccion: "23051061"
 
-otros_contactos: ""
-horario: "Jueves 2 de abril de 15 a 18 hs - Viernes 3 de abril de 14 a 17 hs"
+otros_contactos: "23051061"
+horario: "094524282"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "De 11 a 13 se brinda almuerzo, se reciben donaciones durante el día"
 
 ---

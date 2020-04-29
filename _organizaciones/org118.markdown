@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "No corresponde"
-direccion: "Av Carlos Ramirez entre Teller y Agustín Muñoz"
+necesidades: ""
+telefono_contacto: "Reciben todo tipo de donaciones (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
+direccion: "093368150 (Sandra)"
 
-otros_contactos: ""
-horario: "Jueves 20.00 hs"
-aclaraciones: "Llevar tupper"
-cuenta_bancaria: ""
+otros_contactos: "093368150 (Sandra)"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Sábados y domingos (mediodía). Están intentando hacer algo para la merienda de los domingos."
 
 ---

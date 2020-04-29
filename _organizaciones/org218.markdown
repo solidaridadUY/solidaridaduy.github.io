@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vecinos Euskalerría"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos no perecederos, verduras, productos de limpieza"
+direccion: "095425068  093301890  095628133"
+
+otros_contactos: "095425068  093301890  095628133"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Sábados y domingos"
+
+---

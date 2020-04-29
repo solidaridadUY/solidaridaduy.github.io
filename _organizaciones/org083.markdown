@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-20 00:01:13 -0300
+title: "Merendero Estrella de Oro"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
+barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
-telefono_contacto: "094368436 Ismael"
-direccion: "Blanco Acevedo 6159 esq. Florencia. Almacén Peladito"
+necesidades: ""
+telefono_contacto: "Alimentos, productos de higiene y limpieza"
+direccion: "096098766 Yessica"
 
-otros_contactos: "093867350 Loreley"
-horario: "20:30hs"
-aclaraciones: "Jueves y Viernes. Demandan principalmente Leche en polvo"
-cuenta_bancaria: ""
+otros_contactos: "096098766 Yessica"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "19hs"
 
 ---

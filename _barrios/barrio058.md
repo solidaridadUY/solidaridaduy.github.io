@@ -1,7 +1,7 @@
 ---
-nombre: "Cruz de Carrasco"
-departamento: "Montevideo"
+nombre: "Cordón"
+departamento: "Cordón"
 ---
 
-Barrio Cruz de Carrasco
-Departamento de Montevideo
+Barrio Cordón
+Departamento de Cordón

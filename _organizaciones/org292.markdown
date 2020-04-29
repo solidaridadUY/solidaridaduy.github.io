@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Organización vecinal"
+date: 2020-04-29 15:06:43 -0300
+
+departamento: "Montevideo"
+barrio: "Casco del Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+telefono_contacto: ""
+direccion: "096875768
+Juan Rodríguez"
+
+otros_contactos: "096875768
+Juan Rodríguez"
+horario: ""
+aclaraciones: "Domingo"
+cuenta_bancaria: "19 hs"
+
+---

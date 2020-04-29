@@ -1,7 +1,7 @@
 ---
-nombre: "Barra de Chuy"
-departamento: "Rocha"
+nombre: "Zona D"
+departamento: "Zona D"
 ---
 
-Barrio Barra de Chuy
-Departamento de Rocha
+Barrio Zona D
+Departamento de Zona D

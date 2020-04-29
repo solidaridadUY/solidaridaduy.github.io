@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Colegio de Abogados"
-date: 2020-04-20 00:01:14 -0300
+title: "Iniciativa Vecinal"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Maldonado"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Artículos de limpieza: hipoclorito, jabón, detergente"
-telefono_contacto: "094430878 (Maldonado) 099906158 (San Carlos) 099281600 (Pan de Azúcar)"
-direccion: "EDIFICIO SAN LAZARO SARANDI CASI LEDESMA"
+barrio: "Balneario Buenos Aires"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Alimentos"
+direccion: "099080813"
 
-otros_contactos: "094195481 (Maldonado)"
-horario: "Lunes a Viernes 14:00 a 16:30"
-aclaraciones: "RECIBEN Y RETIRAN A DOMICILIO EN MALDONADO Y SAN CARLOS"
-cuenta_bancaria: ""
+otros_contactos: "099080813"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Todos los días 20:00 a 21:00"
 
 ---

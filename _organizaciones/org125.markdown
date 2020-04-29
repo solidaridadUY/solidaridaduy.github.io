@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Pizzeria El Triunfo"
-date: 2020-04-20 00:01:13 -0300
+title: "Pizzería Los Dos Hermanos"
+date: 2020-04-29 15:06:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Empresa que dona"
-necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-telefono_contacto: "098735539"
-direccion: "Himalaya 3148"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Reciben donaciones"
+direccion: "23071388"
 
-otros_contactos: ""
+otros_contactos: "23071388"
 horario: ""
-aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
-cuenta_bancaria: ""
+aclaraciones: ""
+cuenta_bancaria: "Martes, Jueves y Sábado 13hs"
 
 ---
