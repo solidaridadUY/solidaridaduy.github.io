@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club Atlético Capurro"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Capurro"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos"
-direccion: "099202923"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "099202923"
+direccion: "Capurro 922"
 
-otros_contactos: "099202923"
-horario: "096496373   091802863"
-aclaraciones: ""
-cuenta_bancaria: "De lunea a viernes de 15 a 18 hs "
+otros_contactos: "096496373   091802863"
+horario: "De lunea a viernes de 15 a 18 hs "
+aclaraciones: "La olla se hace los sábados y domingos de 11 a 15 hs"
+cuenta_bancaria: ""
 
 ---

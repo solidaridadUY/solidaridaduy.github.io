@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Manos Ancapeanas Brigada Solidaria"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Arroyo Seco"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Reciben todo tipo de alimentos para distribuir a ollas populares"
-direccion: "0983221514"
+necesidades: "Reciben todo tipo de alimentos para distribuir a ollas populares"
+telefono_contacto: "0983221514"
+direccion: "Av. Agraciada 2522"
 
-otros_contactos: "0983221514"
+otros_contactos: ""
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

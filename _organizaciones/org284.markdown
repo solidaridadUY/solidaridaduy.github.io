@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Merendero San Martín"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Santa Catalina"
 actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "098357287 Miguelina"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "098357287 Miguelina"
+direccion: "Los Transparentes 301"
 
-otros_contactos: "098357287 Miguelina"
-horario: ""
+otros_contactos: ""
+horario: "Lunes a Domingo. Lunes a Jueves 15hs, Viernes a Domingo 18hs."
 aclaraciones: ""
-cuenta_bancaria: "Lunes a Domingo. Lunes a Jueves 15hs, Viernes a Domingo 18hs."
+cuenta_bancaria: ""
 
 ---

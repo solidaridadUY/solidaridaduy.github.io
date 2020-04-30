@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Conciliación"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "098964527"
+necesidades: "Alimentos"
+telefono_contacto: "098964527"
+direccion: "Adolfo Rodíguez 6664 (Club Brandi)"
 
-otros_contactos: "098964527"
-horario: "096450004"
+otros_contactos: "096450004"
+horario: "Diario, donaciones desde las 13 hs y olla a las 18 hs."
 aclaraciones: ""
-cuenta_bancaria: "Diario, donaciones desde las 13 hs y olla a las 18 hs."
+cuenta_bancaria: "(Brou) 000816328-00002"
 
 ---

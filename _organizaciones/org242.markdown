@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "096258961"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "096258961"
+direccion: "Pando esq. Rep. Argentina"
 
-otros_contactos: "096258961"
+otros_contactos: ""
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

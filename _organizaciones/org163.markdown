@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Cerrito de la Victoria"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "092933742"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "092933742"
+direccion: "San Martín Esq. B.Mendez"
 
-otros_contactos: "092933742"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Durante el día."
+otros_contactos: ""
+horario: "Durante el día."
+aclaraciones: "En lo posible coordinar vía telefónica"
+cuenta_bancaria: ""
 
 ---

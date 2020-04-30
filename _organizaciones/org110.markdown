@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos."
-direccion: "Gabriel Crause: 093678767"
+necesidades: "Se reciben alimentos."
+telefono_contacto: "Gabriel Crause: 093678767"
+direccion: "Garzón y Lanús(Plaza Colón)"
 
-otros_contactos: "Gabriel Crause: 093678767"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Todos los días 12 y 18 hs"
+otros_contactos: ""
+horario: "Todos los días 12 y 18 hs"
+aclaraciones: "Traer Tupper o Vianda"
+cuenta_bancaria: ""
 
 ---

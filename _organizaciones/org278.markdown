@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Asociación de Familiares y Víctimas de la Delincuencia"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "No corresponde"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Reciben productos no perecederos y de limpieza"
-direccion: "098989724"
+necesidades: "Reciben productos no perecederos y de limpieza"
+telefono_contacto: "098989724"
+direccion: "No aplica"
 
-otros_contactos: "098989724"
-horario: "096227593"
-aclaraciones: ""
+otros_contactos: "096227593"
+horario: ""
+aclaraciones: "Mandar mensaje por whatsapp con: nombre completo, dirección, barrio, donación a realizar, días y horarios a retirar."
 cuenta_bancaria: ""
 
 ---

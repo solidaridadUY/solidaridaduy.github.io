@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Popular Vecines"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Villa Española"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos para comida de olla"
-direccion: "091994815 (Marcela) - 099920303"
+necesidades: "Alimentos para comida de olla"
+telefono_contacto: "091994815 (Marcela) - 099920303"
+direccion: "Agaces y Irureta Goyena"
 
-otros_contactos: "091994815 (Marcela) - 099920303"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "16:30 a 19:00 hs"
+otros_contactos: ""
+horario: "16:30 a 19:00 hs"
+aclaraciones: "Pasan a buscar donaciones en la zona. Entregan plato"
+cuenta_bancaria: ""
 
 ---

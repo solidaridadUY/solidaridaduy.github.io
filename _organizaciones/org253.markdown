@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Intersindical Maldonado"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Maldonado"
 barrio: "Centro"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "42247611"
+necesidades: "Alimentos"
+telefono_contacto: "42247611"
+direccion: "ZELMAR MICHELINI 775"
 
-otros_contactos: "42247611"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Todos los días"
+otros_contactos: ""
+horario: "Todos los días"
+aclaraciones: "Llevar recipiente"
+cuenta_bancaria: ""
 
 ---

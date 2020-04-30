@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Cuerpo docente Liceo Número 3"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Rivera"
 barrio: "Rivera"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Alimentos y productos de limpieza para canastas"
-direccion: "095252930"
+necesidades: "Alimentos y productos de limpieza para canastas"
+telefono_contacto: "095252930"
+direccion: "Reyles y Tranqueras"
 
-otros_contactos: "095252930"
+otros_contactos: ""
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

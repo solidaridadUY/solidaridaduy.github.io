@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Comunitaria"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Maldonado"
 barrio: "La Capuera"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
-direccion: "092817617"
+necesidades: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
+telefono_contacto: "092817617"
+direccion: "PARADA 9 CALLE LAS VIBORAS. EL NIDO."
 
-otros_contactos: "092817617"
-horario: ""
+otros_contactos: ""
+horario: "Sábados y Domingos 12:00"
 aclaraciones: ""
-cuenta_bancaria: "Sábados y Domingos 12:00"
+cuenta_bancaria: ""
 
 ---

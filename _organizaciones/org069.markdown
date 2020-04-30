@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Maroñas"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos y artículos de primera necesidad"
-direccion: "098524292"
+necesidades: "Alimentos no perecederos y artículos de primera necesidad"
+telefono_contacto: "098524292"
+direccion: "Veracierto 3310"
 
-otros_contactos: "098524292"
-horario: "098948820"
+otros_contactos: "098948820"
+horario: "Jueves 2 de 14 a 18 hs"
 aclaraciones: ""
-cuenta_bancaria: "Jueves 2 de 14 a 18 hs"
+cuenta_bancaria: ""
 
 ---

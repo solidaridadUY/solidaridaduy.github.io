@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Red Solidaria Barrio Lavalleja"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se brinda alimento en el siguiente horario"
-direccion: "099709823"
+necesidades: "Se brinda alimento en el siguiente horario"
+telefono_contacto: "099709823"
+direccion: "Av de las instrucciones 1200 A, apto 2"
 
-otros_contactos: "099709823"
-horario: ""
+otros_contactos: ""
+horario: "12 a 17 hrs"
 aclaraciones: ""
-cuenta_bancaria: "12 a 17 hrs"
+cuenta_bancaria: ""
 
 ---

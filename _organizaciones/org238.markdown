@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "093714093"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "093714093"
+direccion: "Frente a la Escuela 173 (Campisteguy)"
 
-otros_contactos: "093714093"
+otros_contactos: ""
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

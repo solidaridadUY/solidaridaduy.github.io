@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Paso Carrasco Solidario"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Paso Carrasco"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "No corresponde"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "No corresponde"
+direccion: "Avda del Lago y Camino Carrasco"
 
-otros_contactos: "No corresponde"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Martes 11hs"
+otros_contactos: ""
+horario: "Martes 11hs"
+aclaraciones: "Llevar recipiente"
+cuenta_bancaria: ""
 
 ---

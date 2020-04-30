@@ -2,20 +2,19 @@
 layout: organizacion
 
 title: "Organización vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Casco del Cerro"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Reciben donaciones"
-direccion: "094555994
+necesidades: "Reciben donaciones"
+telefono_contacto: "094555994
 Debora"
+direccion: "Gibraltar 4246 bis esquina Japón"
 
-otros_contactos: "094555994
-Debora"
-horario: ""
+otros_contactos: ""
+horario: "Lunes Martes Jueves Viernes y Sábados 20hs"
 aclaraciones: ""
-cuenta_bancaria: "Lunes Martes Jueves Viernes y Sábados 20hs"
+cuenta_bancaria: ""
 
 ---

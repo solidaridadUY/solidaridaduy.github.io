@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Popular Berro"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "092630371 (Rosa)"
+necesidades: "Alimentos"
+telefono_contacto: "092630371 (Rosa)"
+direccion: "Enrique Ciancone esquina Roberto Berro"
 
-otros_contactos: "092630371 (Rosa)"
-horario: "096205657"
-aclaraciones: ""
-cuenta_bancaria: "Sábados y domingos a partir de las 20:00 (llevar recimiente)"
+otros_contactos: "096205657"
+horario: "Sábados y domingos a partir de las 20:00 (llevar recimiente)"
+aclaraciones: "Lo que más escasea es carne y verdura"
+cuenta_bancaria: ""
 
 ---

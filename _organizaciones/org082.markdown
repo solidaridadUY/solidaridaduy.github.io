@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Solidarios Unidos seis barrios"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos y donaciones"
-direccion: "092927150 María"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "092927150 María"
+direccion: "Rafael y Teniente Galeano (frente a la barraca)"
 
-otros_contactos: "092927150 María"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Merienda 17 hs. Reparten Cena a las 20 hs."
+otros_contactos: ""
+horario: "Merienda 17 hs. Reparten Cena a las 20 hs."
+aclaraciones: "También cubren merienda. Llevar tupper"
+cuenta_bancaria: ""
 
 ---

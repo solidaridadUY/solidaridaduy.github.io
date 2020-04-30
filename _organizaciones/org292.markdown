@@ -2,20 +2,19 @@
 layout: organizacion
 
 title: "Organización vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Casco del Cerro"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-telefono_contacto: ""
-direccion: "096875768
+necesidades: ""
+telefono_contacto: "096875768
 Juan Rodríguez"
+direccion: "Carlos María Ramírez esq. Chile"
 
-otros_contactos: "096875768
-Juan Rodríguez"
-horario: ""
-aclaraciones: "Domingo"
-cuenta_bancaria: "19 hs"
+otros_contactos: ""
+horario: "19 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

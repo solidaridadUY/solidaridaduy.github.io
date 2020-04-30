@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Canasta amiga"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Rivera"
 barrio: "Rivera"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos y donaciones a colectivo Abitab"
-direccion: "099997818, 098553359, 099421362"
+necesidades: "Alimentos no perecederos y donaciones a colectivo Abitab"
+telefono_contacto: "099997818, 098553359, 099421362"
+direccion: "No corresponde"
 
-otros_contactos: "099997818, 098553359, 099421362"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
-cuenta_bancaria: ""
+aclaraciones: "Contactarse para realizar donaciones."
+cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
 
 ---

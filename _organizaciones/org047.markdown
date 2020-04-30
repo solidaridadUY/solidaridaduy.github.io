@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club Brandi"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Conciliación"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos no percederos, productos de higiene y limpieza"
-direccion: "098964527 096450004"
+necesidades: "Alimentos no percederos, productos de higiene y limpieza"
+telefono_contacto: "098964527 096450004"
+direccion: "Adolfo Rodriguez 6738"
 
-otros_contactos: "098964527 096450004"
-horario: ""
+otros_contactos: ""
+horario: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
 aclaraciones: ""
-cuenta_bancaria: "Olla 18 hs.Recepción de donaciones a partir de las 13 hs."
+cuenta_bancaria: ""
 
 ---

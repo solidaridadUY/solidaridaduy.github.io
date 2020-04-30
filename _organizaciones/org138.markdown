@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Palermo"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Reciben donaciones"
-direccion: "-"
+necesidades: "Reciben donaciones"
+telefono_contacto: "-"
+direccion: "Canelones 1552 esquina Salto"
 
-otros_contactos: "-"
-horario: ""
+otros_contactos: ""
+horario: "Todos los días al mediodía"
 aclaraciones: ""
-cuenta_bancaria: "Todos los días al mediodía"
+cuenta_bancaria: ""
 
 ---

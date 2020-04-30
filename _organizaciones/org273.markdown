@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "San José"
 barrio: "Playa Pascual"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "099146941"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "099146941"
+direccion: "Consultar telefónicamente"
 
-otros_contactos: "099146941"
-horario: ""
+otros_contactos: ""
+horario: "Lunes Miércoles y Viernes 12 a 13:30"
 aclaraciones: ""
-cuenta_bancaria: "Lunes Miércoles y Viernes 12 a 13:30"
+cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Colón F.C. y Los Fantasmas se Divierten"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Maldonado"
 barrio: "San Carlos"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "VERDURAS, FIDEOS, ARROZ, CARNE, PULPA DE TOMATE"
-direccion: "095550320"
+necesidades: "VERDURAS, FIDEOS, ARROZ, CARNE, PULPA DE TOMATE"
+telefono_contacto: "095550320"
+direccion: "SEDE DE COLON F.C.: AGUSTIN ABREU CASI 25 DE AGOSTO"
 
-otros_contactos: "095550320"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Todos los días 19:00 a 21:00"
+otros_contactos: ""
+horario: "Todos los días 19:00 a 21:00"
+aclaraciones: "RECIBEN DONACIONES DE 17:00 A 19:00 Y RETIRAN A DOMICILIO"
+cuenta_bancaria: ""
 
 ---

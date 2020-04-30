@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club Estrella del Norte"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Lezica"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos y productos de limpieza"
-direccion: "No corresponde"
+necesidades: "Se reciben alimentos y productos de limpieza"
+telefono_contacto: "No corresponde"
+direccion: "Padre Pablo Pittini, 12400"
 
-otros_contactos: "No corresponde"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Todo el día"
+otros_contactos: ""
+horario: "Todo el día"
+aclaraciones: "Se hace olla y se reciben donaciones"
+cuenta_bancaria: ""
 
 ---

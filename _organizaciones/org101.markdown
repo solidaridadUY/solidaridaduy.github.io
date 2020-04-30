@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Mesa intersocial Paysandú"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Paysandú"
 barrio: "Paysandú"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "098307154"
+necesidades: "Alimentos"
+telefono_contacto: "098307154"
+direccion: "Levantan a domicilio"
 
-otros_contactos: "098307154"
-horario: "099486640"
+otros_contactos: "099486640"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

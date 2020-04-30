@@ -2,20 +2,19 @@
 layout: organizacion
 
 title: "Ocupación Oeste"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Santa Catalina"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-telefono_contacto: "Alimentos para desayuno, merienda y olla"
-direccion: "096287379
+necesidades: "Alimentos para desayuno, merienda y olla"
+telefono_contacto: "096287379
 Leandro"
+direccion: "Cno. Dellazoppa, entre Burdeos y San Fuentes"
 
-otros_contactos: "096287379
-Leandro"
-horario: ""
-aclaraciones: "Todos los días"
-cuenta_bancaria: "Consultar telefónicamente"
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

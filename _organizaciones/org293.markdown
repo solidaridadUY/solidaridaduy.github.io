@@ -2,20 +2,19 @@
 layout: organizacion
 
 title: "Mujeres del Oeste"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Rincón del Cerro"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Reciben donaciones"
-direccion: "096605650
+necesidades: "Reciben donaciones"
+telefono_contacto: "096605650
 Mari"
+direccion: "Alianza 2254 y Congreso de Ávalos"
 
-otros_contactos: "096605650
-Mari"
-horario: ""
+otros_contactos: ""
+horario: "Sábado y Domingo 13:30hs"
 aclaraciones: ""
-cuenta_bancaria: "Sábado y Domingo 13:30hs"
+cuenta_bancaria: ""
 
 ---

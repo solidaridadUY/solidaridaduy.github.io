@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Los Pinos Baby"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Barros Blancos"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "092 663 361, 099 748 875, 098 557 244"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "092 663 361, 099 748 875, 098 557 244"
+direccion: "Ruta 8 km 26 - Cancha Los Pinos"
 
-otros_contactos: "092 663 361, 099 748 875, 098 557 244"
-horario: ""
+otros_contactos: ""
+horario: "Sábados"
 aclaraciones: ""
-cuenta_bancaria: "Sábados"
+cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Centro Social y Deportivo Victoria"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Jacinto Vera"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos"
-direccion: "091773513"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "091773513"
+direccion: "Requena 2716"
 
-otros_contactos: "091773513"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Jueves, sábado y lunes a las 20 hs"
+otros_contactos: ""
+horario: "Jueves, sábado y lunes a las 20 hs"
+aclaraciones: "Llevar recipiente"
+cuenta_bancaria: ""
 
 ---

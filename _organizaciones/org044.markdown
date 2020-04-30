@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos para olla y una olla grande"
-direccion: "095 636 657"
+necesidades: "Alimentos para olla y una olla grande"
+telefono_contacto: "095 636 657"
+direccion: "Hipólito Yrigoyen e Iguá"
 
-otros_contactos: "095 636 657"
-horario: ""
+otros_contactos: ""
+horario: "Todos los días 19:30"
 aclaraciones: ""
-cuenta_bancaria: "Todos los días 19:30"
+cuenta_bancaria: ""
 
 ---

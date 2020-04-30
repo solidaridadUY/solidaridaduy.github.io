@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Sindicato COMESA"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Conciliación"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "Claudio Vera: 099584720 "
+necesidades: "Se reciben donaciones"
+telefono_contacto: "Claudio Vera: 099584720 "
+direccion: "Martin Ximeno 875 esq. Millán"
 
-otros_contactos: "Claudio Vera: 099584720 "
-horario: ""
+otros_contactos: ""
+horario: "Martes, Jueves, Sábado y Domingo 13 Hs."
 aclaraciones: ""
-cuenta_bancaria: "Martes, Jueves, Sábado y Domingo 13 Hs."
+cuenta_bancaria: ""
 
 ---

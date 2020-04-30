@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Pizzería Los Dos Hermanos"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Reciben donaciones"
-direccion: "23071388"
+necesidades: "Reciben donaciones"
+telefono_contacto: "23071388"
+direccion: "Turubí y Carlos de la Vega"
 
-otros_contactos: "23071388"
-horario: ""
+otros_contactos: ""
+horario: "Martes, Jueves y Sábado 13hs"
 aclaraciones: ""
-cuenta_bancaria: "Martes, Jueves y Sábado 13hs"
+cuenta_bancaria: ""
 
 ---

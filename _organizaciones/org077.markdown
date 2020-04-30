@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín Norte"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Recaudación de alimentos no perecederos"
-direccion: "092929791"
+necesidades: "Recaudación de alimentos no perecederos"
+telefono_contacto: "092929791"
+direccion: "8 de octubre y Villagrán 4173"
 
-otros_contactos: "092929791"
-horario: ""
+otros_contactos: ""
+horario: "Lunes y viernes de 16 a 18 hs"
 aclaraciones: ""
-cuenta_bancaria: "Lunes y viernes de 16 a 18 hs"
+cuenta_bancaria: ""
 
 ---

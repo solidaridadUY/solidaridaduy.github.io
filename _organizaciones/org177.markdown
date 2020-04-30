@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Tablado Lavalleja"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "Bety 094085023"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "Bety 094085023"
+direccion: "Teatro Barrio Lavalleja - Camino Edison y Av. de las Instrucciones"
 
-otros_contactos: "Bety 094085023"
-horario: ""
+otros_contactos: ""
+horario: "Sabados y Domingos"
 aclaraciones: ""
-cuenta_bancaria: "Sabados y Domingos"
+cuenta_bancaria: ""
 
 ---

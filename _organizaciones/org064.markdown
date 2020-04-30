@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja,Barrio Sur,Aguada,Centro"
 actividades: "Realización de compras"
-necesidades: ""
-telefono_contacto: "No corresponde"
-direccion: "093302231"
+necesidades: "No corresponde"
+telefono_contacto: "093302231"
+direccion: "No corresponde"
 
-otros_contactos: "093302231"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Se toman pedidos de mandados hasta las 18 hs y se comienza a repartir a partir de las 19 hs."
+otros_contactos: ""
+horario: "Se toman pedidos de mandados hasta las 18 hs y se comienza a repartir a partir de las 19 hs."
+aclaraciones: "Realización de compras a población de riesgo"
+cuenta_bancaria: ""
 
 ---

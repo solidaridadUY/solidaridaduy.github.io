@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Villa Española"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Pulpa de tomate, lentejas, tapabocas, guantes"
-direccion: "099527443"
+necesidades: "Pulpa de tomate, lentejas, tapabocas, guantes"
+telefono_contacto: "099527443"
+direccion: "Antel Arena (D.A. Larrañaga y Serrato)"
 
-otros_contactos: "099527443"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Viernes de 20 a 21:30 hs"
+otros_contactos: ""
+horario: "Viernes de 20 a 21:30 hs"
+aclaraciones: "Reciben  donaciones en Robinson 3367 de 8 a 15 hs"
+cuenta_bancaria: ""
 
 ---

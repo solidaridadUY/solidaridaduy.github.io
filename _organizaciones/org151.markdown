@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Super Los Valientes"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-direccion: "098141813"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Durazno y Paraguay"
 
-otros_contactos: "098141813"
-horario: "094053638"
-aclaraciones: ""
-cuenta_bancaria: "Horario super"
+otros_contactos: "094053638"
+horario: "Horario super"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+cuenta_bancaria: ""
 
 ---

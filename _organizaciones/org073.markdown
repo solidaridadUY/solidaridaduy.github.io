@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Cooperativa Tacuabe"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se brinda alimento "
-direccion: "099057783"
+necesidades: "Se brinda alimento "
+telefono_contacto: "099057783"
+direccion: "Clemeceau 937 Esq Cayetano silva"
 
-otros_contactos: "099057783"
-horario: "093967875"
+otros_contactos: "093967875"
+horario: "12 a 17 hrs"
 aclaraciones: ""
-cuenta_bancaria: "12 a 17 hrs"
+cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Cooperativa Covijave 2"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "No corresponde"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "No corresponde"
+direccion: "Calle Pública 1153 esq Islas Canarias "
 
-otros_contactos: "No corresponde"
-horario: ""
+otros_contactos: ""
+horario: "13 Hs."
 aclaraciones: ""
-cuenta_bancaria: "13 Hs."
+cuenta_bancaria: ""
 
 ---

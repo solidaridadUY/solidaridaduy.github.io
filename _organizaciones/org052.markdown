@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Coordinadora D"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Reducto"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Productos de limpieza, alimentos secos, juguetes, ropa en buen estado, transporte"
-direccion: "099204370  099869454"
+necesidades: "Productos de limpieza, alimentos secos, juguetes, ropa en buen estado, transporte"
+telefono_contacto: "099204370  099869454"
+direccion: "Gil 1051 esq. Dufort y Álvarez"
 
-otros_contactos: "099204370  099869454"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
-cuenta_bancaria: ""
+aclaraciones: "Es el comité del FA cuaró, en principio recibe solo donaciones para armado de canastas"
+cuenta_bancaria: "$ 00152324-00001 BROU"
 
 ---

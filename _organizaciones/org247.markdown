@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Canelones"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "cel: 091950027"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "cel: 091950027"
+direccion: "Calle Ancha esq. Monegal"
 
-otros_contactos: "cel: 091950027"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
 cuenta_bancaria: ""
 
 ---
