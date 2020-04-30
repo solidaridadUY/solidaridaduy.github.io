@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "SUA (Sociedad Uruguaya de Actores)"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Reciben todo tipo de donaciones"
-direccion: "091 381 895"
+necesidades: "Reciben todo tipo de donaciones"
+telefono_contacto: "091 381 895"
+direccion: "Centro Cultural Carlos Brussa (Mercedes 931)"
 
-otros_contactos: "091 381 895"
-horario: "098 787 582"
+otros_contactos: "098 787 582"
+horario: "15 a 19"
 aclaraciones: ""
-cuenta_bancaria: "15 a 19"
+cuenta_bancaria: "Brou de Caja de Socorros de SUA, Cuenta Corriente 001554456-00002 en pesos"
 
 ---

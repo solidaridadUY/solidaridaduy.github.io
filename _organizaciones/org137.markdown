@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Radio Pedal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Palermo"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
-direccion: "Florencia: 099812068 Salvador: 099661182 Sebastián: 09919986 Federica: 098969618"
+necesidades: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
+telefono_contacto: "Florencia: 099812068 Salvador: 099661182 Sebastián: 09919986 Federica: 098969618"
+direccion: "San Salvador 1510 esq. Martínez Trueba"
 
-otros_contactos: "Florencia: 099812068 Salvador: 099661182 Sebastián: 09919986 Federica: 098969618"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Martes de 10 a 12hs. Jueves de 15 a 18hs."
+otros_contactos: ""
+horario: "Martes de 10 a 12hs. Jueves de 15 a 18hs."
+aclaraciones: "Reciben donaciones en ese horario o van a buscarlas si se contacta telefónicamente."
+cuenta_bancaria: ""
 
 ---

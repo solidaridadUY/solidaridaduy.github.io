@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Solidaria Sumando Esfuerzo, Comisión 16 de Marzo."
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
-direccion: "095952219, 095078679"
+necesidades: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
+telefono_contacto: "095952219, 095078679"
+direccion: "No Corresponde"
 
-otros_contactos: "095952219, 095078679"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "En el día"
+otros_contactos: ""
+horario: "En el día"
+aclaraciones: "Comunicarse vía móvil para concretar"
+cuenta_bancaria: ""
 
 ---

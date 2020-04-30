@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Aute"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Aguada"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
-direccion: "092040449"
+necesidades: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
+telefono_contacto: "092040449"
+direccion: "Av. Agraciada 2463"
 
-otros_contactos: "092040449"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Elaboración y reparto de alimentos para personal de servicios esenciales o en situación de vulnerabilidad."
 cuenta_bancaria: ""
 
 ---

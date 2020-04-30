@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Shangrilá"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos."
-direccion: "09101976"
+necesidades: "Se reciben alimentos."
+telefono_contacto: "09101976"
+direccion: "Perú Manzana 18 Solar 22 entre EEUU y San Francisco."
 
-otros_contactos: "09101976"
-horario: " "
+otros_contactos: " "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

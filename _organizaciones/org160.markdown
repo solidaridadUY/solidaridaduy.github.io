@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club Yale"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Jacinto Vera"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos y artículos de limpieza."
-direccion: "091526172"
+necesidades: "Alimentos no perecederos y artículos de limpieza."
+telefono_contacto: "091526172"
+direccion: "Dr. Gustavo Gallinal 1989"
 
-otros_contactos: "091526172"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Durante el día."
+otros_contactos: ""
+horario: "Durante el día."
+aclaraciones: "Coordinar vía telefónica."
+cuenta_bancaria: ""
 
 ---

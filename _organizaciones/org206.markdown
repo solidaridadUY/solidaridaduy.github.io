@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Jardines del Hipódromo"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
-direccion: "096 880 946"
+necesidades: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
+telefono_contacto: "096 880 946"
+direccion: "José Piendibene 3642 esq. Lacio"
 
-otros_contactos: "096 880 946"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "sábados y domingos, arranca a las 17 aprox"
+otros_contactos: ""
+horario: "sábados y domingos, arranca a las 17 aprox"
+aclaraciones: "Llevar vianda, casa de familia"
+cuenta_bancaria: ""
 
 ---

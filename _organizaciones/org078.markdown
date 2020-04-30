@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Liceo de Tala"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Tala"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-direccion: "095417092"
+necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+telefono_contacto: "095417092"
+direccion: "Liceo de Tala"
 
-otros_contactos: "095417092"
-horario: ""
+otros_contactos: ""
+horario: "Durante el día"
 aclaraciones: ""
-cuenta_bancaria: "Durante el día"
+cuenta_bancaria: ""
 
 ---

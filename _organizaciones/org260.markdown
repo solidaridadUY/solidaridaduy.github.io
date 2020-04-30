@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Monarca"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Olla popular, se reciben alimentos no perecederos."
-direccion: "094649196"
+necesidades: "Olla popular, se reciben alimentos no perecederos."
+telefono_contacto: "094649196"
+direccion: "Salón comunal Barrio Monarca; al lado de la Policlínica, en la calle Pasaje Central y la Calle 4, cerca de ruta 8.  "
 
-otros_contactos: "094649196"
-horario: ""
+otros_contactos: ""
+horario: "Lunes a viernes a partir de las 19:30"
 aclaraciones: ""
-cuenta_bancaria: "Lunes a viernes a partir de las 19:30"
+cuenta_bancaria: ""
 
 ---

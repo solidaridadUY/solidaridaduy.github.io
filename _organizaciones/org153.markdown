@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Pocitos"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos no perecederos y artículos de limpieza"
-direccion: "091006810 Angie"
+necesidades: "Se reciben alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "091006810 Angie"
+direccion: "Carlos Ma. Maeso 2763"
 
-otros_contactos: "091006810 Angie"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Coordinar telefónicamente"
 cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jornada Solidaria"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Maldonado"
 barrio: "Barrio 14 de febrero"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos, artículos de limpieza, ropa"
-direccion: "ROMINA: 095566398"
+necesidades: "Alimentos, artículos de limpieza, ropa"
+telefono_contacto: "ROMINA: 095566398"
+direccion: "FRENTE A CANCHA DE BABY BARCELONA"
 
-otros_contactos: "ROMINA: 095566398"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Llevar recipiente, bolsa para el pan, botella para la leche. Retiran donaciones a domicilio"
 cuenta_bancaria: ""
 
 ---

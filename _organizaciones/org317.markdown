@@ -2,19 +2,19 @@
 layout: organizacion
 
 title: "Comisión Vecinal barrio El Tobogán"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
 actividades: "Olla"
-necesidades: "Alimentos y Artículos de Higiene Personal"
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios"
-direccion: "092309306"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios"
+telefono_contacto: "092309306"
+direccion: "Luis Troccoli s/n esquina pasaje A."
 
-otros_contactos: "092309306"
-horario: "094086035
+otros_contactos: "094086035
 Lita"
-aclaraciones: "Martes y Jueves"
-cuenta_bancaria: "20 hs"
+horario: "20 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

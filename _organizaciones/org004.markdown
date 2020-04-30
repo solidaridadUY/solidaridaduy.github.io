@@ -2,16 +2,16 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "098 600 393"
+necesidades: "Alimentos"
+telefono_contacto: "098 600 393"
+direccion: "Emilio Romero y Agustín Muñoz"
 
-otros_contactos: "098 600 393"
+otros_contactos: ""
 horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""

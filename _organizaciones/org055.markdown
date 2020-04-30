@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club FiatLux"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Tacuarembó"
 barrio: "Tacuarembó"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Reciben donaciones de alimentos"
-direccion: "46320615"
+necesidades: "Reciben donaciones de alimentos"
+telefono_contacto: "46320615"
+direccion: "Sarandí 354"
 
-otros_contactos: "46320615"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Hacen ollas a veces pero no tienen día ni horario fijo"
 cuenta_bancaria: ""
 
 ---

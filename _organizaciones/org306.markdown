@@ -2,19 +2,19 @@
 layout: organizacion
 
 title: "Liverpool Fútbol Club"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Belvedere"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
-direccion: "099641831"
+necesidades: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
+telefono_contacto: "099641831"
+direccion: "Avenida Agraciada 4186 (Sede)"
 
-otros_contactos: "099641831"
-horario: "099687490
+otros_contactos: "099687490
 098429091"
-aclaraciones: "Lunes a Sábado"
-cuenta_bancaria: "A partir de las 17hs"
+horario: "A partir de las 17hs"
+aclaraciones: "Olla a las 20:00hs"
+cuenta_bancaria: ""
 
 ---

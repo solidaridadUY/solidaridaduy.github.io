@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Centro Cultural Totó y vecinos/as del barrio"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Nuevo París"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Reciben donaciones"
-direccion: "097426604"
+necesidades: "Reciben donaciones"
+telefono_contacto: "097426604"
+direccion: "No corresponde"
 
-otros_contactos: "097426604"
-horario: "98429757"
+otros_contactos: "98429757"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

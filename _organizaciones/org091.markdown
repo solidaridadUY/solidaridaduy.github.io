@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club 25 de agosto"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Villa Dolores"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
-direccion: "099337003"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "José L. Bado 3186"
 
-otros_contactos: "099337003"
-horario: "099629958  094204040"
-aclaraciones: ""
-cuenta_bancaria: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
+otros_contactos: "099629958  094204040"
+horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
+aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
+cuenta_bancaria: ""
 
 ---

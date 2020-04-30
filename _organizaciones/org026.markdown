@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Limpieza"
-telefono_contacto: "En particular, alimentos no perecederos"
-direccion: "091944342 "
+necesidades: "En particular, alimentos no perecederos"
+telefono_contacto: "091944342 "
+direccion: "Grecia y Viacaba"
 
-otros_contactos: "091944342 "
-horario: "098759845 099834255"
-aclaraciones: "Lunes Miércoles y Viernes"
-cuenta_bancaria: " 17 a 19 hs"
+otros_contactos: "098759845 099834255"
+horario: " 17 a 19 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

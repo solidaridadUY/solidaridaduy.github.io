@@ -2,21 +2,20 @@
 layout: organizacion
 
 title: "FEUU"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Cordón"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Artículos de limpieza y alimentos"
-direccion: "091334368
+necesidades: "Artículos de limpieza y alimentos"
+telefono_contacto: "091334368
 092005664"
+direccion: "Arenal Grande 1422 esq. C. Coronel Brandzen"
 
-otros_contactos: "091334368
-092005664"
-horario: "feuu.uruguay@gmail.com"
-aclaraciones: ""
-cuenta_bancaria: "Martes y Jueves
+otros_contactos: "feuu.uruguay@gmail.com"
+horario: "Martes y Jueves
 16:30 a 19:00hs"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

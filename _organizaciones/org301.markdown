@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Jóvenes del Cerro"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
-direccion: "091794830"
+necesidades: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
+telefono_contacto: "091794830"
+direccion: "FOICA (Grecia esq. Holanda)"
 
-otros_contactos: "091794830"
-horario: "092673044 - 099650642"
-aclaraciones: ""
-cuenta_bancaria: "Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
+otros_contactos: "092673044 - 099650642"
+horario: "Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
+aclaraciones: "Para coordinar retiro, coordinar telefónicamente o desde las redes: Facebook e Instagram"
+cuenta_bancaria: ""
 
 ---

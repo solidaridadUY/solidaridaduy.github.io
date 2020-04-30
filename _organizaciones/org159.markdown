@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Vilardevoz"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Reducto"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Piden donaciones de mates, termos y bombillas para refugiados."
-direccion: "No corresponde"
+necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
+telefono_contacto: "No corresponde"
+direccion: "Paraguay 1190"
 
-otros_contactos: "No corresponde"
-horario: ""
+otros_contactos: ""
+horario: " 14 a 18 hrs"
 aclaraciones: ""
-cuenta_bancaria: " 14 a 18 hrs"
+cuenta_bancaria: ""
 
 ---

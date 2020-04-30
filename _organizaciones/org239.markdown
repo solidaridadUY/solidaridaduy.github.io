@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones"
-direccion: "095610063 - 093763288"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "095610063 - 093763288"
+direccion: "Sin espacio físico específico"
 
-otros_contactos: "095610063 - 093763288"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "Lunes a Viernes:meriendas. Sábados y domingos: Olla Popular."
+otros_contactos: ""
+horario: "Lunes a Viernes:meriendas. Sábados y domingos: Olla Popular."
+aclaraciones: "También arman canastas"
+cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Colegio de Abogados"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Maldonado"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Artículos de limpieza: hipoclorito, jabón, detergente"
-direccion: "094430878 (Maldonado) 099906158 (San Carlos) 099281600 (Pan de Azúcar)"
+necesidades: "Artículos de limpieza: hipoclorito, jabón, detergente"
+telefono_contacto: "094430878 (Maldonado) 099906158 (San Carlos) 099281600 (Pan de Azúcar)"
+direccion: "EDIFICIO SAN LAZARO SARANDI CASI LEDESMA"
 
-otros_contactos: "094430878 (Maldonado) 099906158 (San Carlos) 099281600 (Pan de Azúcar)"
-horario: "094195481 (Maldonado)"
-aclaraciones: ""
-cuenta_bancaria: "Lunes a Viernes 14:00 a 16:30"
+otros_contactos: "094195481 (Maldonado)"
+horario: "Lunes a Viernes 14:00 a 16:30"
+aclaraciones: "RECIBEN Y RETIRAN A DOMICILIO EN MALDONADO Y SAN CARLOS"
+cuenta_bancaria: ""
 
 ---

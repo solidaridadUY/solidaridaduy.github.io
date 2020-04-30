@@ -2,20 +2,19 @@
 layout: organizacion
 
 title: "Olla La Boyada"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Rincón del Cerro"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Reciben donaciones"
-direccion: "094769211
+necesidades: "Reciben donaciones"
+telefono_contacto: "094769211
 Beatriz"
+direccion: "La Boyada 1887 esquina 17 mts"
 
-otros_contactos: "094769211
-Beatriz"
-horario: ""
+otros_contactos: ""
+horario: "Domingo 17hs"
 aclaraciones: ""
-cuenta_bancaria: "Domingo 17hs"
+cuenta_bancaria: ""
 
 ---

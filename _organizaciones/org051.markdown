@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Adeom"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Campaña del Kilo para familias vulnerables."
-direccion: "099759758"
+necesidades: "Campaña del Kilo para familias vulnerables."
+telefono_contacto: "099759758"
+direccion: "Canelones 1330"
 
-otros_contactos: "099759758"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Reciben solo donaciones para canastas, no están haciendo ollas"
 cuenta_bancaria: ""
 
 ---

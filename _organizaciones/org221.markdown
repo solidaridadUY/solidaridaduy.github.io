@@ -2,22 +2,21 @@
 layout: organizacion
 
 title: "Olla Popular La Cachimba"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Tres Ombúes"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones, alimentos no perecederos para olla popular"
-direccion: "094954016
+necesidades: "Se reciben donaciones, alimentos no perecederos para olla popular"
+telefono_contacto: "094954016
 Deisy"
+direccion: "Gregorio Camino Esq. Heredia Vivienda 3"
 
-otros_contactos: "094954016
-Deisy"
-horario: "095580808 Banki
+otros_contactos: "095580808 Banki
 091967299 Johny"
-aclaraciones: ""
-cuenta_bancaria: "Todos los días
+horario: "Todos los días
 17hs"
+aclaraciones: "Llevar vianda"
+cuenta_bancaria: ""
 
 ---

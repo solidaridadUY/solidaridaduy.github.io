@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Sayago"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Se reciben alimentos"
-direccion: "2359 1125"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "2359 1125"
+direccion: "Dentro del club sayago."
 
-otros_contactos: "2359 1125"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "13:00 hrs (Todos los días)"
+otros_contactos: ""
+horario: "13:00 hrs (Todos los días)"
+aclaraciones: "Llevar vianda. Se reciben donaciones: todos los días dentro del Club Sayago."
+cuenta_bancaria: ""
 
 ---

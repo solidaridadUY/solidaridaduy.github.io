@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Brigada Zapicán"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Punta de Rieles"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
-direccion: "098635050 093381094"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
+telefono_contacto: "098635050 093381094"
+direccion: "Centauro 6845 entre Leo y Virgo."
 
-otros_contactos: "098635050 093381094"
-horario: ""
+otros_contactos: ""
+horario: "Todos los días 19:30hs"
 aclaraciones: ""
-cuenta_bancaria: "Todos los días 19:30hs"
+cuenta_bancaria: ""
 
 ---

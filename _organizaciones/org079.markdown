@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "El rancho"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-direccion: "23051061"
+necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+telefono_contacto: "23051061"
+direccion: "Heredia y Martin Berindague"
 
-otros_contactos: "23051061"
-horario: "094524282"
+otros_contactos: "094524282"
+horario: "De 11 a 13 se brinda almuerzo, se reciben donaciones durante el día"
 aclaraciones: ""
-cuenta_bancaria: "De 11 a 13 se brinda almuerzo, se reciben donaciones durante el día"
+cuenta_bancaria: ""
 
 ---

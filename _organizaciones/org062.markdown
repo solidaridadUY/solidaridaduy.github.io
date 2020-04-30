@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Club Royal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "recepcionan alimentos y donaciones en la sede"
-direccion: "093734042"
+necesidades: "recepcionan alimentos y donaciones en la sede"
+telefono_contacto: "093734042"
+direccion: "Yucutuja 1250"
 
-otros_contactos: "093734042"
-horario: ""
+otros_contactos: ""
+horario: "Validar vía celular, 18hrs en la cancha"
 aclaraciones: ""
-cuenta_bancaria: "Validar vía celular, 18hrs en la cancha"
+cuenta_bancaria: ""
 
 ---

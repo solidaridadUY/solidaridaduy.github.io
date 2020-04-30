@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Villa Española"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Olla popular de vecinos y vecinas, también se reciben donaciones"
-direccion: "091705967"
+necesidades: "Olla popular de vecinos y vecinas, también se reciben donaciones"
+telefono_contacto: "091705967"
+direccion: "Agaces e Irureta goyena"
 
-otros_contactos: "091705967"
-horario: "098464819"
+otros_contactos: "098464819"
+horario: "A diario, contactar vía telefónica "
 aclaraciones: ""
-cuenta_bancaria: "A diario, contactar vía telefónica "
+cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "097113175"
+necesidades: "Alimentos"
+telefono_contacto: "097113175"
+direccion: "Batlle Berres, entre camino las tropas y Yugoslavia"
 
-otros_contactos: "097113175"
-horario: "093846063"
-aclaraciones: ""
-cuenta_bancaria: "Lunes, miércoles y viernes a las 19 hs"
+otros_contactos: "093846063"
+horario: "Lunes, miércoles y viernes a las 19 hs"
+aclaraciones: "Traer vianda"
+cuenta_bancaria: ""
 
 ---

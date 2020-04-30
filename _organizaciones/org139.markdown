@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "La Comercial"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "-"
+necesidades: "Alimentos"
+telefono_contacto: "-"
+direccion: "Juan Paullier 2255 esq. Coquimbo  (frente a Jueves 5)"
 
-otros_contactos: "-"
-horario: ""
+otros_contactos: ""
+horario: "Lunes a Sábados 20hs"
 aclaraciones: ""
-cuenta_bancaria: "Lunes a Sábados 20hs"
+cuenta_bancaria: ""
 
 ---

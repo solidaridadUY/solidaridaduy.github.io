@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-direccion: "091269590"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "091269590"
+direccion: "Amandau 5722 esq. Eduardo Raíz"
 
-otros_contactos: "091269590"
-horario: ""
+otros_contactos: ""
+horario: "Lunes a viernes de 11 a 16 hs"
 aclaraciones: ""
-cuenta_bancaria: "Lunes a viernes de 11 a 16 hs"
+cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "El Abrojo / Trampolines"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Alimentos"
-direccion: "099 699 322"
+necesidades: "Alimentos"
+telefono_contacto: "099 699 322"
+direccion: "Wilson Ferreira Aldunate 712 "
 
-otros_contactos: "099 699 322"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Coordinación telefónica"
 cuenta_bancaria: ""
 
 ---

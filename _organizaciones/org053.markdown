@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Jacinto Vera"
 actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "Alimentos no perecederos, artículos de higiene personal y para el hogar"
-direccion: "095588004 (Gastón)  097977933"
+necesidades: "Alimentos no perecederos, artículos de higiene personal y para el hogar"
+telefono_contacto: "095588004 (Gastón)  097977933"
+direccion: "No corresponde"
 
-otros_contactos: "095588004 (Gastón)  097977933"
+otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Se coordina por teléfono"
 cuenta_bancaria: ""
 
 ---

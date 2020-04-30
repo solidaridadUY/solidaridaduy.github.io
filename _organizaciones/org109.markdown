@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-29 15:06:43 -0300
+date: 2020-04-30 18:09:30 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
 actividades: "Merienda"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-telefono_contacto: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
-direccion: "099834255"
+necesidades: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
+telefono_contacto: "099834255"
+direccion: "Asentamiento Fortaleza"
 
-otros_contactos: "099834255"
-horario: "092728754"
-aclaraciones: "Consultar telefónicamente"
+otros_contactos: "092728754"
+horario: ""
+aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
 cuenta_bancaria: ""
 
 ---
