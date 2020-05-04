@@ -1,0 +1,15 @@
+---
+---
+[
+  {% for post in site.trabajos %}
+    {
+
+      "title"    		: "{{ post.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "departamento"    : "{{ post.departamento }}",
+      "barrio" 			: "{{ post.barrio }}",
+      "categoria"     : "{{ post.categoria }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

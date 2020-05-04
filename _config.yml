@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - departamentos.html
+  - bolsa.html
   - about.markdown
   - contacto.html
 
@@ -65,6 +66,8 @@ collections:
   departamentos:
     output: true
   barrios:
+    output: true
+  trabajos:
     output: true
 
 defaults:
