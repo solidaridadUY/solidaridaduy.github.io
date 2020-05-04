@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas"
-date: 2020-04-30 18:09:30 -0300
+title: "iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Verdura, carne y pan."
-telefono_contacto: "095410570 (Laura o Natalia)"
-direccion: "Elisa Menéndez y Cno. Carmelo Colman"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: "Donaciones y olla popular, también se reciben tapa bocas y productos de limpieza"
+telefono_contacto: "094068329"
+direccion: "Fernando Menck 5880, \"La quinta\""
 
-otros_contactos: ""
-horario: "Sábados y domingos de 19:30 a 20:30"
-aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
+otros_contactos: "095798613"
+horario: "18 hrs, contactar telefónicamente"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jornada Solidaria"
-date: 2020-04-30 18:09:30 -0300
+title: "AFUC"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Maldonado"
-barrio: "Barrio 14 de febrero"
-actividades: "Olla"
-necesidades: "Alimentos, artículos de limpieza, ropa"
-telefono_contacto: "ROMINA: 095566398"
-direccion: "FRENTE A CANCHA DE BABY BARCELONA"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y artículos de limpieza"
+telefono_contacto: "094500851"
+direccion: "AFUC SANTA TERESA CASI 3 DE FEBRERO"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Llevar recipiente, bolsa para el pan, botella para la leche. Retiran donaciones a domicilio"
+horario: "Martes a Viernes 13:00 a 16:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

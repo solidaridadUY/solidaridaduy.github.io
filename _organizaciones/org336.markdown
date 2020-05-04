@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Cooperativa COVI 30 de Setiembre"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Tomkinson"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "098565224
+Carlos"
+direccion: "Cno Buffa 2531 entre Servidumbre y 5 de Enero"
+
+otros_contactos: ""
+horario: "19:30hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

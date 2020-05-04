@@ -1,7 +1,7 @@
 ---
-nombre: "Abayubá"
-departamento: "Abayubá"
+nombre: "San Carlos"
+departamento: "Maldonado"
 ---
 
-Barrio Abayubá
-Departamento de Abayubá
+Barrio San Carlos
+Departamento de Maldonado

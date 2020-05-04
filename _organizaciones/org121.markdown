@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-04-30 18:09:30 -0300
+title: "Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "093368150 (Sandra)"
+direccion: "Salón 1° de Mayo, Calle las Piedras."
 
 otros_contactos: ""
-horario: "9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
+horario: "Mediodía. "
+aclaraciones: "Habitualmente atienden a 70 niñes, el último fin de semana  fueron 130 niñes y 2 adultos. Se da una vianda, botella de leche y pan. Las familias deben llevar un tupper. De recibir alguna donación, harían una merienda entre semana."
 cuenta_bancaria: ""
 
 ---

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Merendero San Martín"
-date: 2020-04-30 18:09:30 -0300
+title: "Anfiteatro Fortaleza"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Merienda"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "098357287 Miguelina"
-direccion: "Los Transparentes 301"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "096398305 Juan Carlos"
+direccion: "Holanda y Dinamarca"
 
 otros_contactos: ""
-horario: "Lunes a Domingo. Lunes a Jueves 15hs, Viernes a Domingo 18hs."
+horario: "20:30 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

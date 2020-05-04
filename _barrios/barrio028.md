@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
-departamento: "Centro"
+nombre: "Barrio 14 de febrero"
+departamento: "Maldonado"
 ---
 
-Barrio Centro
-Departamento de Centro
+Barrio Barrio 14 de febrero
+Departamento de Maldonado

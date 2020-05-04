@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "El Tundra Bar"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
+barrio: "Centro"
 actividades: "Olla"
-necesidades: "Olla popular de vecinos y vecinas, también se reciben donaciones"
-telefono_contacto: "091705967"
-direccion: "Agaces e Irureta goyena"
+necesidades: ""
+telefono_contacto: "29091578"
+direccion: "Durazno 902 esq. Convención"
 
-otros_contactos: "098464819"
-horario: "A diario, contactar vía telefónica "
+otros_contactos: ""
+horario: "12:00hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

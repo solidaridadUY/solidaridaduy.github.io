@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Sayago"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Sayago"
 actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "2359 1125"
-direccion: "Dentro del club sayago."
+necesidades: ""
+telefono_contacto: "Gimena Fernández 096778461"
+direccion: "Camino Ariel 4961 y la Vía"
 
-otros_contactos: ""
-horario: "13:00 hrs (Todos los días)"
-aclaraciones: "Llevar vianda. Se reciben donaciones: todos los días dentro del Club Sayago."
+otros_contactos: "Rodrigo Guarino 098556637"
+horario: "12 hs"
+aclaraciones: "Llevar vianda. "
 cuenta_bancaria: ""
 
 ---

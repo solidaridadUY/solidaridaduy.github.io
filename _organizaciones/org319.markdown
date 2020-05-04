@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Faustino \"Chimango\""
-date: 2020-04-30 18:09:30 -0300
+title: "Comisión Vecinal barrio El Tobogán"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099196315  
-Mario Ivo"
-direccion: "Bulgaria 4275 esq. Carlos M. Ramirez"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios"
+telefono_contacto: "092309306"
+direccion: "Luis Troccoli s/n esquina pasaje A."
 
-otros_contactos: ""
-horario: "15 a 19 hs"
+otros_contactos: "094086035
+Lita"
+horario: "20 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

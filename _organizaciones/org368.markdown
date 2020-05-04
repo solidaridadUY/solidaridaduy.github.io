@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comité 13 de diciembre"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Puntas de Manga"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: ""
+direccion: "José Belloni 6032 entre Berro y Antares"
+
+otros_contactos: ""
+horario: "20hs"
+aclaraciones: "Llevar recipiente"
+cuenta_bancaria: ""
+
+---

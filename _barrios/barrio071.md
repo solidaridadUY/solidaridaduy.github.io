@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
-departamento: "Malvín Norte"
+nombre: "Larrañaga"
+departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
-Departamento de Malvín Norte
+Barrio Larrañaga
+Departamento de Montevideo

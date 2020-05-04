@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro"
-departamento: "Cerro"
+nombre: "Centro"
+departamento: "Montevideo"
 ---
 
-Barrio Cerro
-Departamento de Cerro
+Barrio Centro
+Departamento de Montevideo

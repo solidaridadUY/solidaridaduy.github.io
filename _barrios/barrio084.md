@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
-departamento: "Paso Molino"
+nombre: "Nuevo París"
+departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
-Departamento de Paso Molino
+Barrio Nuevo París
+Departamento de Montevideo

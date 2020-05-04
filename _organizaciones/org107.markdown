@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Estrella del Norte"
-date: 2020-04-30 18:09:30 -0300
+title: "SUAP"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "Se reciben alimentos y productos de limpieza"
-telefono_contacto: "No corresponde"
-direccion: "Padre Pablo Pittini, 12400"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
+telefono_contacto: "29011982"
+direccion: "Local Fuecys (Río Negro 1210)"
 
 otros_contactos: ""
-horario: "Todo el día"
-aclaraciones: "Se hace olla y se reciben donaciones"
+horario: "10 a 17 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

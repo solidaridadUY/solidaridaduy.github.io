@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Pizzeria El Triunfo"
-date: 2020-04-30 18:09:30 -0300
+title: "Red Solidaria Chuy"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Empresa que dona"
-necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-telefono_contacto: "098735539"
-direccion: "Himalaya 3148"
+departamento: "Rocha"
+barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
+actividades: "Punto de Donación"
+necesidades: "Se reciben alimentos no perecederos y toda clase de donaciones"
+telefono_contacto: "098823513"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
+otros_contactos: "098327339"
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
 cuenta_bancaria: ""
 
 ---

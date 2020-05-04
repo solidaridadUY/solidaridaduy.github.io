@@ -1,7 +1,7 @@
 ---
-nombre: "Chuy"
-departamento: "Chuy"
+nombre: "Villa Dolores"
+departamento: "Montevideo"
 ---
 
-Barrio Chuy
-Departamento de Chuy
+Barrio Villa Dolores
+Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Brigada 1958"
-date: 2020-04-30 18:09:30 -0300
+title: "Librería Diomedes"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
+barrio: "Parque Rodó"
 actividades: "Olla"
-necesidades: "Reciben Donaciones"
-telefono_contacto: "091894724"
-direccion: "Cuareim 2301 Esq. Tajes"
+necesidades: ""
+telefono_contacto: "2403 4713"
+direccion: "Bulevar España 2129 esquina Pablo de María"
 
-otros_contactos: "098651506"
-horario: ""
-aclaraciones: ""
+otros_contactos: ""
+horario: " 20.30 hs"
+aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
 cuenta_bancaria: ""
 
 ---

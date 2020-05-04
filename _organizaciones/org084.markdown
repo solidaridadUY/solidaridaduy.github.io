@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Nuevo Amanecer"
-date: 2020-04-30 18:09:30 -0300
+title: "SERPAJ"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "095286057 Ana"
-direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "24085301"
+direccion: "Requena 1642 entre 18 de Julio y Colonia"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar tupper"
+horario: "Consultar telefónicamente"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

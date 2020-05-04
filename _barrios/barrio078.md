@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
-departamento: "Nuevo Verdisol"
+nombre: "Manga"
+departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
-Departamento de Nuevo Verdisol
+Barrio Manga
+Departamento de Montevideo

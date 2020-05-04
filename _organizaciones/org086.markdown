@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Merendero Estrella de Oro"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
+barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
-telefono_contacto: "093835462 Roberto"
-direccion: "Felisberto Hernandez 3538 BIS"
+necesidades: "Alimentos, productos de higiene y limpieza"
+telefono_contacto: "096098766 Yessica"
+direccion: "Clemente Ruggia y Ma del Rosario Ramos (salón de la cancha)"
 
-otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
-horario: "17hs y 20hs"
-aclaraciones: "Funciona Sábados y Domingos / 17hs merienda 20hs cena / Demandan Guantes y tapabocas para voluntarios/as"
+otros_contactos: ""
+horario: "19hs"
+aclaraciones: "Llevar tupper, olla de demanda muy creciente. Solicitan guantes y tapabocas para las personas voluntarias"
 cuenta_bancaria: ""
 
 ---

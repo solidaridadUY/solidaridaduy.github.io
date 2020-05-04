@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Cruces"
-departamento: "Tres Cruces"
+nombre: "Pocitos"
+departamento: "Montevideo"
 ---
 
-Barrio Tres Cruces
-Departamento de Tres Cruces
+Barrio Pocitos
+Departamento de Montevideo

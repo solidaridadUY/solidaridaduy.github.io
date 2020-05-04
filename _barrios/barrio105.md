@@ -1,7 +1,7 @@
 ---
-nombre: "Fray Bentos"
-departamento: "Fray Bentos"
+nombre: "Tres Ombúes"
+departamento: "Montevideo"
 ---
 
-Barrio Fray Bentos
-Departamento de Fray Bentos
+Barrio Tres Ombúes
+Departamento de Montevideo

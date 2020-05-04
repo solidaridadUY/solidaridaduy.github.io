@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Atlético Capurro"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Maroñas"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos y artículos de primera necesidad"
-telefono_contacto: "098524292"
-direccion: "Veracierto 3310"
+barrio: "Capurro"
+actividades: "Olla"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "099202923"
+direccion: "Capurro 922"
 
-otros_contactos: "098948820"
-horario: "Jueves 2 de 14 a 18 hs"
-aclaraciones: ""
+otros_contactos: "096496373   091802863"
+horario: "De lunea a viernes de 15 a 18 hs "
+aclaraciones: "La olla se hace los sábados y domingos de 11 a 15 hs"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Colegio de Abogados"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Sportivo Artigas"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Maldonado"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Artículos de limpieza: hipoclorito, jabón, detergente"
-telefono_contacto: "094430878 (Maldonado) 099906158 (San Carlos) 099281600 (Pan de Azúcar)"
-direccion: "EDIFICIO SAN LAZARO SARANDI CASI LEDESMA"
+departamento: "Canelones"
+barrio: "Sauce"
+actividades: "Olla"
+necesidades: "Se reciben alimentos y donaciones hasta el 03/04"
+telefono_contacto: "099240201 092487833"
+direccion: "Ruta 6 km 34.500"
 
-otros_contactos: "094195481 (Maldonado)"
-horario: "Lunes a Viernes 14:00 a 16:30"
-aclaraciones: "RECIBEN Y RETIRAN A DOMICILIO EN MALDONADO Y SAN CARLOS"
+otros_contactos: ""
+horario: "Sábado 4 de abril - 19.30 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

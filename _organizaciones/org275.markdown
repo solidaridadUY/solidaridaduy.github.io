@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Viandas a domicilio"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Progreso - Estación Atlántida"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Colonia"
-barrio: "Rosario"
-actividades: "Canasta"
+departamento: "Canelones"
+barrio: "Atlántida"
+actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "099550034"
-direccion: "No aplica"
+telefono_contacto: "098047394"
+direccion: "Avenida Monseñor José Orsali, esquina Calle 41 (frente a carnicería progreso)"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Comunicarse telefónicamente por viandas a domicilio"
+horario: "12:30 a 14hs"
+aclaraciones: "Vianda solidaria desde 12:30 hasta 14hs,  anotarse previamente por telefono, llevar recipiente"
 cuenta_bancaria: ""
 
 ---

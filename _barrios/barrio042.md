@@ -1,7 +1,7 @@
 ---
-nombre: "Boyada"
-departamento: "Boyada"
+nombre: "Belvedere"
+departamento: "Montevideo"
 ---
 
-Barrio Boyada
-Departamento de Boyada
+Barrio Belvedere
+Departamento de Montevideo

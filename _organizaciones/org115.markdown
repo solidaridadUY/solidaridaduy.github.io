@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de madres de la escuela."
-date: 2020-04-30 18:09:30 -0300
+title: "Nucleo del liceo 74"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Leche, maizena, salsa y carne."
-telefono_contacto: "096138220 (Leticia)"
-direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
+barrio: "Nuevo Verdisol"
+actividades: "Punto de Donación"
+necesidades: "Aportes a traves de cuenta y alimentos"
+telefono_contacto: "092120727"
+direccion: "La tablada"
 
 otros_contactos: ""
-horario: "Lunes a domingo a las 18:00."
-aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
+horario: "Sábado y Domingo sirven a las 20"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

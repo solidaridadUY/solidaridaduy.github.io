@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Comité Victor Deri"
-date: 2020-04-30 18:09:30 -0300
+title: "Teatro El Galpón"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Pinamar"
-actividades: "Canasta"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "095639475 - 097530556"
-direccion: "No aplica"
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Reciben alimentos no perecederos y productos de limpieza"
+telefono_contacto: "24083366"
+direccion: "18 de julio 1618"
 
 otros_contactos: ""
-horario: "Se va a buscar Martes, Jueves y Sábados de 17 a 19"
+horario: "10 a 19hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

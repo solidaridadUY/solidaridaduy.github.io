@@ -1,7 +1,7 @@
 ---
-nombre: "Brazo Oriental"
-departamento: "Brazo Oriental"
+nombre: "Borro"
+departamento: "Montevideo"
 ---
 
-Barrio Brazo Oriental
-Departamento de Brazo Oriental
+Barrio Borro
+Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Nueva Helvecia"
-departamento: "Nueva Helvecia"
+nombre: "Juan Lacaze"
+departamento: "Colonia"
 ---
 
-Barrio Nueva Helvecia
-Departamento de Nueva Helvecia
+Barrio Juan Lacaze
+Departamento de Colonia

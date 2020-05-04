@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Asociación Civil Monte de la Francesa"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "092726853"
-direccion: "Caminos Santa Catalina y los Murallones"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: "Se reciben donaciones, alimentos no perecederos"
+telefono_contacto: "093 753 642"
+direccion: "Iturbe y Lanus (en el teatro)"
 
-otros_contactos: ""
-horario: "Consultar horario"
+otros_contactos: "2320 8307"
+horario: "Lunes a Sabádo de 15 a 19 hrs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

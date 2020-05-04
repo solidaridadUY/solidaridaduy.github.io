@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
-departamento: "La Teja"
+nombre: "Jardines del Hipódromo"
+departamento: "Montevideo"
 ---
 
-Barrio La Teja
-Departamento de La Teja
+Barrio Jardines del Hipódromo
+Departamento de Montevideo

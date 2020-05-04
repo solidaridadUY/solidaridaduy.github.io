@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Ni todo está perdido"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
+barrio: "Pocitos"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, donaciones para olla popular de la zona."
-telefono_contacto: "No corresponde"
-direccion: "Av. José Pedro Varela 1461"
+necesidades: "Se reciben alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "091006810 Angie"
+direccion: "Carlos Ma. Maeso 2763"
 
 otros_contactos: ""
-horario: "Todos los días de 10 a 16 hrs."
-aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
+horario: ""
+aclaraciones: "Se reciben aportes en esa dirección, se coordinan retiros, depósitos y entregas al celular"
 cuenta_bancaria: ""
 
 ---

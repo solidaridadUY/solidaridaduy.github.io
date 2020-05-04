@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Colectivo la Placita y Club Pablan"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Pajas Blancas"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "098258065 - 098565909"
+direccion: "Consultar telefónicamente"
+
+otros_contactos: ""
+horario: "Lunes y Miércoles:18hs.
+Sábados y Domingos:13hs"
+aclaraciones: "Anotarse antes de ir"
+cuenta_bancaria: ""
+
+---

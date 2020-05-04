@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mujeres del Oeste"
-date: 2020-04-30 18:09:30 -0300
+title: "Organización vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Rincón del Cerro"
+barrio: "Casco del Cerro"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "096605650
-Mari"
-direccion: "Alianza 2254 y Congreso de Ávalos"
+necesidades: ""
+telefono_contacto: "096875768
+Juan Rodríguez"
+direccion: "Carlos María Ramírez esq. Chile"
 
 otros_contactos: ""
-horario: "Sábado y Domingo 13:30hs"
+horario: "19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

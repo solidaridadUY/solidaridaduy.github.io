@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mesa intersocial Paysandú"
-date: 2020-04-30 18:09:30 -0300
+title: "Olla Solidaria Sumando Esfuerzo, Comisión 16 de Marzo."
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
+departamento: "Montevideo"
+barrio: "Piedras Blancas"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "098307154"
-direccion: "Levantan a domicilio"
+necesidades: "Alimentos no perecederos, verduras, carne, artículos de limpieza y de higiene personal."
+telefono_contacto: "095952219, 095078679"
+direccion: "No Corresponde"
 
-otros_contactos: "099486640"
-horario: ""
-aclaraciones: ""
+otros_contactos: ""
+horario: "En el día"
+aclaraciones: "Comunicarse vía móvil para concretar"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Comisión fomento"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo España"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "25119629 "
-direccion: "Servidumbre 705 (Salón comunal)"
+barrio: "Los Bulevares"
+actividades: "Merienda"
+necesidades: "Alimentos "
+telefono_contacto: "097151643  096671054  091067740"
+direccion: "Ideario Artiguista y Liga Federal"
 
-otros_contactos: "095495706"
-horario: ""
-aclaraciones: "Olla popular y merienda"
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

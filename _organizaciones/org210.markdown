@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Olla Capurro"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Jardines del Hipódromo"
+barrio: "Capurro"
 actividades: "Olla"
-necesidades: "Alimentos en general, pero lo que diariamente más falta es carne, frutas/verduras y pan."
-telefono_contacto: "099734480"
-direccion: "David Chiossoni 3585"
+necesidades: "Alimentos no perecederos y verduras"
+telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
+direccion: "Capurro 930 (Sindicato de trabajadores de la industria química)"
 
 otros_contactos: ""
-horario: "martes y jueves 20hs"
-aclaraciones: "Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
-cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
+horario: "18 a 20hs"
+aclaraciones: "Llevar tupper"
+cuenta_bancaria: ""
 
 ---

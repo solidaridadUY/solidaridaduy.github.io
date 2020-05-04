@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Grupo de jóvenes Castores y Horneros"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos y productos de higiene para hacer canastas"
+telefono_contacto: "096 444 222 
+097 447 728 
+098 745 042"
+direccion: ""
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

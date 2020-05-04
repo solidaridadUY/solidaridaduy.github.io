@@ -1,7 +1,7 @@
 ---
-nombre: "Manga"
-departamento: "Manga"
+nombre: "Las Acacias"
+departamento: "Montevideo"
 ---
 
-Barrio Manga
-Departamento de Manga
+Barrio Las Acacias
+Departamento de Montevideo

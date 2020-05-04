@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Atlético Cordón"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
+barrio: "Cordón"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+necesidades: ""
+telefono_contacto: "091923053"
+direccion: "Galicia 1673"
 
 otros_contactos: ""
-horario: "Jueves, sábado y lunes a las 20 hs"
-aclaraciones: "Llevar recipiente"
+horario: "Consultar telefónicamente"
+aclaraciones: "Se pueden coordinar retiros de donaciones vía telefónica"
 cuenta_bancaria: ""
 
 ---

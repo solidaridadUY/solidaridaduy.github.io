@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Monte de la Francesa"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal: Plaza Inve 17"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "Luis 094036883"
-direccion: "Monte de la Francesa - Lanús y Yegros"
+telefono_contacto: "Paula 094999829"
+direccion: "Inve 17 y La Quinta"
 
 otros_contactos: ""
-horario: ""
+horario: "Sábados y Domingos"
 aclaraciones: ""
 cuenta_bancaria: ""
 

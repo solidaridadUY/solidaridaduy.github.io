@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "095610063 - 093763288"
-direccion: "Sin espacio físico específico"
+telefono_contacto: "093925021 - 095014751"
+direccion: "Treinta y Tres 4121 entre Juan y Ramón Ortíz"
 
 otros_contactos: ""
-horario: "Lunes a Viernes:meriendas. Sábados y domingos: Olla Popular."
-aclaraciones: "También arman canastas"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

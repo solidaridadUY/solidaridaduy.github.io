@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio 14 de febrero"
-departamento: "Barrio 14 de febrero"
+nombre: "Balneario Buenos Aires"
+departamento: "Maldonado"
 ---
 
-Barrio Barrio 14 de febrero
-Departamento de Barrio 14 de febrero
+Barrio Balneario Buenos Aires
+Departamento de Maldonado

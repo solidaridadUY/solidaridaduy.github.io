@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal - Villa Sarandí"
-date: 2020-04-30 18:09:30 -0300
+title: "Capilla Santo Domingo"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Paso de la Arena"
+barrio: "Punta de Rieles"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "    091 881 443"
-direccion: "Romeo Gavioli y Dolores Candales S/N "
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "098291299"
+direccion: "Camino Maldonado 5842 y Venecia"
 
 otros_contactos: ""
-horario: "Todos los días de 14 a 19 hs."
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

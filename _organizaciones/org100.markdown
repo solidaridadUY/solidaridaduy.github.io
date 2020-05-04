@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Modistas"
-date: 2020-04-30 18:09:30 -0300
+title: "Comité Parque Rodó"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "www.facebook.com/sonia.rodriguez.900"
-direccion: "Comunicarse por Facebook"
+departamento: "Montevideo"
+barrio: "Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "099440874 Santiago
+099421627 Paloma
+095382471 Joaquin"
+direccion: "Gonzalo Ramírez y Eduardo Acevedo"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Donan tapabocas hechos a mano"
+horario: "17 a 19"
+aclaraciones: "Acopio de donaciones para las ollas de la zona de la coordinadora B"
 cuenta_bancaria: ""
 
 ---

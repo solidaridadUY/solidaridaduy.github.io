@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité García Lorca"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de limpieza."
-telefono_contacto: "099 704 126"
-direccion: "Colorado 2212 casi Cufré"
+departamento: "Paysandú"
+barrio: "No corresponde"
+actividades: "Realización de compras"
+necesidades: "No corresponde"
+telefono_contacto: "098247858"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 17 a 19 hs."
-aclaraciones: ""
+horario: ""
+aclaraciones: "Realización de compras a población de riesgo"
 cuenta_bancaria: ""
 
 ---

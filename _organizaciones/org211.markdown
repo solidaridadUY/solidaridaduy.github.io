@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Malvín Norte"
-date: 2020-04-30 18:09:30 -0300
+title: "La Peña Parrilla"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
+barrio: "Jacinto Vera"
 actividades: "Olla"
-necesidades: "Alimentos. Lo que más escasea en este momento es aceite, salsa de tomate y leche."
-telefono_contacto: "093 301 890 095 628 133"
-direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
+necesidades: ""
+telefono_contacto: "2203 0311"
+direccion: "Pedernal 2151"
 
 otros_contactos: ""
-horario: "Se entrega viernes, sábados y domingos, alrededor de las 17:00"
-aclaraciones: "Las donaciones se reciben de lunes a jueves de 11:00 a 17:00. Dependiendo de las donaciones, también se arman canastas y se preparan meriendas."
+horario: "Entre 13 y 16hs"
+aclaraciones: "Llevar Vianda"
 cuenta_bancaria: ""
 
 ---

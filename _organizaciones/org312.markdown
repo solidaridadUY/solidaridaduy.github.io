@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Parroquia San Alberto Hurtado"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Causeglia"
-actividades: "Merienda"
+barrio: "Casabó"
+actividades: "Olla"
 necesidades: ""
-telefono_contacto: "093665410 María José"
-direccion: "Pasaje Pereda Solar 31 esquina Cuñatahí"
+telefono_contacto: "095683306
+María y José"
+direccion: "Sierra Leona 141"
 
 otros_contactos: ""
-horario: "17 hs"
+horario: "18 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Pocitos"
-departamento: "Pocitos"
+nombre: "Palermo"
+departamento: "Montevideo"
 ---
 
-Barrio Pocitos
-Departamento de Pocitos
+Barrio Palermo
+Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Los Pinos Baby"
-date: 2020-04-30 18:09:30 -0300
+title: "SOMOS - Acción en Red"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Canasta"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "092 663 361, 099 748 875, 098 557 244"
-direccion: "Ruta 8 km 26 - Cancha Los Pinos"
+departamento: "Montevideo"
+barrio: "No corresponde"
+actividades: "Retiro de donaciones"
+necesidades: "Todo tipo de donaciones y fondos"
+telefono_contacto: "Instagram o Twitter: @somosaccionuy"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "Sábados"
-aclaraciones: ""
+otros_contactos: "e-mail: somos@somosaccion.uy"
+horario: "No corresponde"
+aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
 cuenta_bancaria: ""
 
 ---

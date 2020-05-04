@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Juan Lacaze Deportes"
-date: 2020-04-30 18:09:30 -0300
+title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Colonia"
-barrio: "Juan Lacaze"
-actividades: "Olla"
-necesidades: "Reciben donaciones"
-telefono_contacto: "095314901"
-direccion: "CUOPYC José Pedro Varela y Puerto Sauce"
+departamento: "Montevideo"
+barrio: "No corresponde"
+actividades: "Punto de Donación"
+necesidades: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
+telefono_contacto: "097546731"
+direccion: "No aplica"
 
-otros_contactos: "091690041 091685963 099076206 098942914"
-horario: "Sábados"
-aclaraciones: "Entregan vianda, 1 litro de agua jane y 2 jabones"
+otros_contactos: ""
+horario: ""
+aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
 cuenta_bancaria: ""
 
 ---

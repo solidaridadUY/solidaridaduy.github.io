@@ -1,7 +1,7 @@
 ---
-nombre: "San Carlos"
-departamento: "San Carlos"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio San Carlos
-Departamento de San Carlos
+Barrio Playa Grande
+Departamento de Maldonado

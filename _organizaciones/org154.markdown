@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El Tundra Bar, Mvd al Sur y Cretina"
-date: 2020-04-30 18:09:30 -0300
+title: "Super Los Valientes"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Reciben donaciones"
-telefono_contacto: "094410774"
-direccion: "Paraguay 1150 esquina Maldonado"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Durazno y Paraguay"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "Horario super"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mujeres en Alerta"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Ciudad de la Costa"
+departamento: "Colonia"
+barrio: "Nueva Helvecia"
 actividades: "Olla"
-necesidades: "Alimentos, productos de higiene, juegos/juguetes"
-telefono_contacto: "091786159 Sofía - 094972263 Karen"
-direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
+necesidades: "Reciben donaciones"
+telefono_contacto: "091 471 165"
+direccion: "Av Gilomen 1448"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Comunicarse antes por teléfono para anotarse para comidas"
+horario: "Entrega de viandas A partir de 21 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

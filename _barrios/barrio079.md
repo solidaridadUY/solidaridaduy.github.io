@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
-departamento: "Palermo"
+nombre: "Maracaná"
+departamento: "Montevideo"
 ---
 
-Barrio Palermo
-Departamento de Palermo
+Barrio Maracaná
+Departamento de Montevideo

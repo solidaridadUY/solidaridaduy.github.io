@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa ciudadana: CANASTAS UY"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Atlético Cordón"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: "Ofrecer trabajo voluntario en el armado de las canastas."
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "091923053"
+direccion: "Galicia 1673"
 
-otros_contactos: "@CanastasUy en IG"
-horario: ""
-aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
+otros_contactos: ""
+horario: "14 a 16 hs"
+aclaraciones: "Se pueden coordinar retiros de donaciones vía telefónica"
 cuenta_bancaria: ""
 
 ---

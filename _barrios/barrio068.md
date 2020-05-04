@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
-departamento: "Lezica"
+nombre: "La Paloma"
+departamento: "Montevideo"
 ---
 
-Barrio Lezica
-Departamento de Lezica
+Barrio La Paloma
+Departamento de Montevideo

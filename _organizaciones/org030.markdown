@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Lomas 3 Baby Fútbol"
-date: 2020-04-30 18:09:30 -0300
+title: "El Abrojo / Trampolines"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
-barrio: "Lomas de Solymar"
+barrio: "Las Piedras"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y productos de limpieza"
-telefono_contacto: "098925931 092725742"
-direccion: "Calle 2 esquina Tiburón"
+necesidades: "Alimentos"
+telefono_contacto: "099 699 322"
+direccion: "Wilson Ferreira Aldunate 712 "
 
-otros_contactos: " "
-horario: "Miércoles y Viernes de 18 a 20 hs."
-aclaraciones: ""
+otros_contactos: ""
+horario: ""
+aclaraciones: "Coordinación telefónica"
 cuenta_bancaria: ""
 
 ---

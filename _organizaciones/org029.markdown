@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Trampolines"
-date: 2020-04-30 18:09:30 -0300
+title: "Resistencias de la Costa"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
+barrio: "Costa de Oro"
 actividades: "Punto de Donación"
 necesidades: "Alimentos"
-telefono_contacto: "099 699 322"
-direccion: "Wilson Ferreira Aldunate 712 "
+telefono_contacto: "098 067 805 099 301 228 099 472 132 095 903 271"
+direccion: "Supermercado Kabe en El Pinar.  "
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Coordinación telefónica"
+aclaraciones: "En Neptunia en Los Robles entre Coronilla y Av. Del Parque llamando a celulares de contacto."
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Lavalleja"
-departamento: "Barrio Lavalleja"
+nombre: "Arroyo Seco"
+departamento: "Montevideo"
 ---
 
-Barrio Barrio Lavalleja
-Departamento de Barrio Lavalleja
+Barrio Arroyo Seco
+Departamento de Montevideo

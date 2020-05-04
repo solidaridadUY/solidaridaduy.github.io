@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
-departamento: "Cerrito de la Victoria"
+nombre: "Causeglia"
+departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
-Departamento de Cerrito de la Victoria
+Barrio Causeglia
+Departamento de Montevideo

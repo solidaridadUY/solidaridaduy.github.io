@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "PIT-CNT"
-date: 2020-04-30 18:09:30 -0300
+title: "Jóvenes FA"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Santa Lucía"
-actividades: "Otros"
-necesidades: "Alimentos no perecederos."
-telefono_contacto: "098691711 092213138  092249381"
-direccion: "Ramon Irigoyen entre 18 de Julio y Julio Mitre"
+departamento: "Montevideo"
+barrio: "Bella Vista"
+actividades: "Canasta"
+necesidades: "Se recibe alimentos no perecederos, juguetes, ropa, apoyo transporte"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq Dufort y Álvarez"
 
-otros_contactos: ""
-horario: "de 17:00 a 20:00 hrs"
-aclaraciones: "coordinar vía telefónica para retirar viandas"
-cuenta_bancaria: ""
+otros_contactos: "099869454"
+horario: " Martes miércoles y viernes de 15 a 19 hs"
+aclaraciones: ""
+cuenta_bancaria: "Caja de ahorro en pesos (Brou) 000152324-00001"
 
 ---

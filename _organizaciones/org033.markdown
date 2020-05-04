@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Bares Finisterre y El Hormiguero"
-date: 2020-04-30 18:09:30 -0300
+title: "Merendero Los conquistadores Apoya Grupo Misericordia"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Palermo"
-actividades: "Punto de Donación"
-necesidades: "Acopian donaciones para llevar a diferentes ollas"
-telefono_contacto: "099569017 095010898"
-direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
+departamento: "Canelones"
+barrio: "Villa la Colina"
+actividades: "Merienda"
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "091 292 894"
+direccion: "Polideportivo: \"La Colina\" R8, km24"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

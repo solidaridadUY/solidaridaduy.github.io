@@ -2,11 +2,11 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
-actividades: "Punto de Donación"
+actividades: "Canasta"
 necesidades: "En particular, alimentos no perecederos"
 telefono_contacto: "091944342 "
 direccion: "Grecia y Viacaba"

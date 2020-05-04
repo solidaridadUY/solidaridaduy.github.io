@@ -1,7 +1,7 @@
 ---
-nombre: "Flores"
-departamento: "Flores"
+nombre: "Rosario"
+departamento: "Colonia"
 ---
 
-Barrio Flores
-Departamento de Flores
+Barrio Rosario
+Departamento de Colonia

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Montevideo al Sur"
-date: 2020-04-30 18:09:30 -0300
+title: "Olla Popular Vecines"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "Villa Española"
 actividades: "Olla"
-necesidades: "Reciben donaciones de 9:00 a 00:00"
-telefono_contacto: "099228148"
-direccion: "Paraguay 1150 esquina Maldonado"
+necesidades: "Alimentos para comida de olla"
+telefono_contacto: "091994815 (Marcela) - 099920303"
+direccion: "Agaces y Irureta Goyena"
 
 otros_contactos: ""
-horario: "Miércoles 19hs"
-aclaraciones: ""
+horario: "16:30 a 19:00 hs"
+aclaraciones: "Pasan a buscar donaciones en la zona. Entregan plato"
 cuenta_bancaria: ""
 
 ---

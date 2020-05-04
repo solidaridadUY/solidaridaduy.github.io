@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comisión Fomento Estrella del cerro"
-date: 2020-04-30 18:09:30 -0300
+title: "Minimarket Al Sur"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
+barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "En particular, alimentos no perecederos"
-telefono_contacto: "094641143 Sonia"
-direccion: "José Cañas 4037 Esq. De los Santos"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Canelones y W. Ferreira"
 
-otros_contactos: "092297795"
-horario: " 8 a 12 hs"
-aclaraciones: "Se puede coordinar telefónicamente para retirar donaciones"
+otros_contactos: "094053638"
+horario: "Lunes a Jueves 8:00 a 22:00, Viernes 8:00 a 00:00, Sábados 10:00 a 00:00"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

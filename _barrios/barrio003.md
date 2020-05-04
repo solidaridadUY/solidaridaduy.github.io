@@ -1,7 +1,7 @@
 ---
-nombre: "Canelones"
+nombre: "Barros Blancos"
 departamento: "Canelones"
 ---
 
-Barrio Canelones
+Barrio Barros Blancos
 Departamento de Canelones

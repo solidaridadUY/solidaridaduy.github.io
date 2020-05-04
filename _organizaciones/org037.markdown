@@ -1,15 +1,15 @@
 ---
 layout: organizacion
 
-title: "CECOED"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Salto"
-barrio: "Salto"
+departamento: "Río Negro"
+barrio: "Fray Bentos"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
-telefono_contacto: "092350389 47327359"
-direccion: "Avda. Luis Batlle Berres esq. Enrique Amorín"
+necesidades: "Alimentos"
+telefono_contacto: "091 026 159"
+direccion: "Oribe 1935"
 
 otros_contactos: ""
 horario: ""

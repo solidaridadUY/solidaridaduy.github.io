@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Amigos y vecinos del Parque Rodó"
-date: 2020-04-30 18:09:30 -0300
+title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Productos no perecederos y de limpieza, frutas, verduras y carne"
-telefono_contacto: "099711537"
-direccion: "Espacio La Uruguaya (Pablo de María 936)"
+barrio: "Barrio Sur"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos para canastas y merienda"
+telefono_contacto: "098697902 Camila Sosa"
+direccion: "Zelmar Michelini 993"
 
-otros_contactos: ""
-horario: "14.00 a 17.00"
-aclaraciones: "Se pusieron como plazo de recepción el 12 de abril"
-cuenta_bancaria: ""
+otros_contactos: "099005299 Sofía Raffaelli"
+horario: "Consultar telefónicamente"
+aclaraciones: "Donaciones para canastas los días jueves"
+cuenta_bancaria: "Raíces I BROU caja de ahorros pesos ($) 001930334-00001"
 
 ---

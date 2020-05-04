@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
-departamento: "Centro"
+nombre: "Casco del Cerro"
+departamento: "Montevideo"
 ---
 
-Barrio Centro
-Departamento de Centro
+Barrio Casco del Cerro
+Departamento de Montevideo

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal "
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
+barrio: "Belvedere"
 actividades: "Olla"
 necesidades: ""
-telefono_contacto: "099242821 Nestor"
-direccion: "Paralela a Estados Unidos 2604 esquina Pastor Smith"
+telefono_contacto: "095633449 Virginia"
+direccion: "Emancipación esquina Aldao"
 
 otros_contactos: ""
-horario: "12:30hs"
+horario: "A partir de 17hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

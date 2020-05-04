@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "094637367 - 092327637"
-direccion: "Curva de Carlos Gardel - La Pilarica"
+telefono_contacto: "097992973 - 099239735"
+direccion: "Bolivia esq. Instrucciones del Año XIII"
 
 otros_contactos: ""
 horario: ""

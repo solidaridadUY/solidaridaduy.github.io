@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Colón F.C. y Los Fantasmas se Divierten"
-date: 2020-04-30 18:09:30 -0300
+title: "Frente Amplio Casa Central"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Maldonado"
-barrio: "San Carlos"
-actividades: "Olla"
-necesidades: "VERDURAS, FIDEOS, ARROZ, CARNE, PULPA DE TOMATE"
-telefono_contacto: "095550320"
-direccion: "SEDE DE COLON F.C.: AGUSTIN ABREU CASI 25 DE AGOSTO"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "DANIELA: 098995491"
+direccion: "AV. LUIS BATLLE Y ORDOÑEZ 1213"
 
 otros_contactos: ""
-horario: "Todos los días 19:00 a 21:00"
-aclaraciones: "RECIBEN DONACIONES DE 17:00 A 19:00 Y RETIRAN A DOMICILIO"
+horario: "Lunes a Viernes 10:00 a 12:00 y 16:00 a 18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

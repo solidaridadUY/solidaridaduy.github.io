@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Brigada Zapicán"
-date: 2020-04-30 18:09:30 -0300
+title: "C.A.Villa Teresa"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
-telefono_contacto: "098635050 093381094"
-direccion: "Centauro 6845 entre Leo y Virgo."
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: "Fruta, productos sanitarios"
+telefono_contacto: "094951553 Martin"
+direccion: "Islas Canarias 4978"
 
 otros_contactos: ""
-horario: "Todos los días 19:30hs"
+horario: "9 a 16hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

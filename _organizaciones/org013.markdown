@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Bile Martínez"
-date: 2020-04-30 18:09:30 -0300
+title: "Mujeres en Alerta"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Prado"
+departamento: "Canelones"
+barrio: "Lagomar"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de higiene"
-telefono_contacto: "092769462 094762392 098394643"
-direccion: "Islas Canarias 4264 esq. Juan Lavalle"
+necesidades: "Alimentos, productos de higiene, juegos/juguetes"
+telefono_contacto: "091786159  094972263"
+direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Pasan a buscar donaciones, colaboran con La Olla y reparten en zonas vulnerables"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

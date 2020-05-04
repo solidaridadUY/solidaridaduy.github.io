@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Grande"
-departamento: "Playa Grande"
+nombre: "La Capuera"
+departamento: "Maldonado"
 ---
 
-Barrio Playa Grande
-Departamento de Playa Grande
+Barrio La Capuera
+Departamento de Maldonado

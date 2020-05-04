@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "C.S. y D. La Bomba"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
-barrio: "Canelones"
+barrio: "La Paz"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "cel: 091950027"
-direccion: "Calle Ancha esq. Monegal"
+telefono_contacto: "098874147 - 097505521"
+direccion: "Sede C.S. y D. La Bomba"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
+horario: "Se reciben donaciones Lunes y Miercoles 19 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Atlántida"
-departamento: "Atlántida"
+nombre: ""
+departamento: ""
 ---
 
-Barrio Atlántida
-Departamento de Atlántida
+Barrio 
+Departamento de 

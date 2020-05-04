@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Maestras Feministas"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Social y Deportivo Villa Española"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Punto de Donación"
-necesidades: "Se reciben pañales, frazadas, toallas higiénicas, productos de limpieza y aseo personal, alimentos no perecederos."
-telefono_contacto: "099951050"
-direccion: "No corresponde"
+barrio: "Villa Española"
+actividades: "Canasta"
+necesidades: "Se reciben donaciones, se entregan canastas"
+telefono_contacto: "099584844"
+direccion: "Camino Corrales 3148"
 
-otros_contactos: "099821950"
+otros_contactos: "094612415"
 horario: "Durante el día."
-aclaraciones: "Coordinar vía telefónica con Bárbara o Irene."
+aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 
 ---

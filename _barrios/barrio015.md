@@ -1,7 +1,7 @@
 ---
-nombre: "Sauce"
-departamento: "Sauce"
+nombre: "Santa Lucía"
+departamento: "Canelones"
 ---
 
-Barrio Sauce
-Departamento de Sauce
+Barrio Santa Lucía
+Departamento de Canelones

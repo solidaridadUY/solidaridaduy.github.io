@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Seis de Diciembre"
-actividades: "Merienda"
-necesidades: "Se reciben toda clase de donaciones para brindar merienda"
-telefono_contacto: "092085983"
-direccion: "Tomás Gonzalez Padrón 5530"
+barrio: "Villa Española"
+actividades: "Olla"
+necesidades: "Pulpa de tomate, lentejas, tapabocas, guantes"
+telefono_contacto: "099527443"
+direccion: "Av. Dámaso A. Larrañaga y Serrato (Antel Arena)"
 
 otros_contactos: ""
-horario: "Lunes a Domingos, de tarde"
-aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

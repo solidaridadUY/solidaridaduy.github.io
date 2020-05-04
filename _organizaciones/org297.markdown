@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Canasta amiga"
-date: 2020-04-30 18:09:30 -0300
+title: "Organización vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos y donaciones a colectivo Abitab"
-telefono_contacto: "099997818, 098553359, 099421362"
-direccion: "No corresponde"
+departamento: "Montevideo"
+barrio: "Cerro Norte"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "094881721
+Antonio
+"
+direccion: "Salón Barrio Artigas (Santin C. Rossi 4563)"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Contactarse para realizar donaciones."
-cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
+otros_contactos: "095976666 Pablo"
+horario: "13.30 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Peñarol"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa vecinal - Villa Sarandí"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Peñarol"
+barrio: "Paso de la Arena"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "095281659"
-direccion: "Aparicio Saravia y Shakespeare"
+necesidades: ""
+telefono_contacto: "    091 881 443"
+direccion: "Romeo Gavioli y Dolores Candales S/N "
 
 otros_contactos: ""
-horario: "16 a 17 hs"
-aclaraciones: "Reciben donaciones los miércoles y viernes o se puede coordinar para retirar a domicilio."
+horario: "14 a 19 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
-departamento: "Villa Española"
+nombre: "Reducto"
+departamento: "Montevideo"
 ---
 
-Barrio Villa Española
-Departamento de Villa Española
+Barrio Reducto
+Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Vilardevoz"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Olla"
-necesidades: "Se reciben alimentos no perecederos."
-telefono_contacto: "094576043"
-direccion: "Juan Acosta esq Cotopaxi"
+barrio: "Reducto"
+actividades: "Punto de Donación"
+necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
+telefono_contacto: "No corresponde"
+direccion: "Paraguay 1190"
 
 otros_contactos: ""
-horario: "Durante el día."
-aclaraciones: "En lo posible coordinar vía telefónica"
+horario: " 14 a 18 hrs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

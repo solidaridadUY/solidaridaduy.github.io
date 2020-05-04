@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
-departamento: "Cordón"
+nombre: "Conciliación"
+departamento: "Montevideo"
 ---
 
-Barrio Cordón
-Departamento de Cordón
+Barrio Conciliación
+Departamento de Montevideo

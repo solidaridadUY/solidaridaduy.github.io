@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Plenario Intersindical de Las Piedras (PIT-CNT)"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "095211684 (Sebastián Remedios)"
-direccion: "Leandro Gómez 589 esq. Av. Artigas"
+telefono_contacto: "091272045"
+direccion: "Esínola 692 esq. Baltasar Brum"
 
 otros_contactos: ""
-horario: "Recepción de donaciones de Lunes a Viernes:  10 a 13 hs."
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,20 +1,21 @@
 ---
 layout: organizacion
 
-title: "Ocupación Oeste"
-date: 2020-04-30 18:09:30 -0300
+title: "Murallones 
+Santa Catalina"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Santa Catalina"
 actividades: "Olla"
-necesidades: "Alimentos para desayuno, merienda y olla"
-telefono_contacto: "096287379
-Leandro"
-direccion: "Cno. Dellazoppa, entre Burdeos y San Fuentes"
+necesidades: ""
+telefono_contacto: "092726853
+Fabián"
+direccion: "Calle 26 de Octubre (Frente a la plaza)"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: ""
+horario: "20hs"
+aclaraciones: "Llamar antes de ir"
 cuenta_bancaria: ""
 
 ---

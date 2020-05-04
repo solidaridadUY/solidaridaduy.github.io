@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "097113175"
+direccion: "Luis Batlle Berres, Manzana C, Casa 19"
+
+otros_contactos: "093846063"
+horario: "19hs"
+aclaraciones: "Llevar vianda"
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "METELE QUE SON PASTELES"
-date: 2020-04-30 18:09:30 -0300
+title: "Club FiatLux"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Canasta"
-necesidades: "Alimentos para canasta"
-telefono_contacto: "094476451 091211765 098000052 099757609"
-direccion: "Joaquín Artigas 3326 (local de la murga)"
+departamento: "Tacuarembó"
+barrio: "Tacuarembó"
+actividades: "Punto de Donación"
+necesidades: "Reciben donaciones de alimentos"
+telefono_contacto: "46320615"
+direccion: "Sarandí 354"
 
-otros_contactos: "1950 int. 7487"
-horario: "15-18 hrs  (Coordinar vía telefónica)"
-aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
+otros_contactos: ""
+horario: ""
+aclaraciones: "Hacen ollas a veces pero no tienen día ni horario fijo"
 cuenta_bancaria: ""
 
 ---

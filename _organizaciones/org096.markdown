@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liga universitaria, Paysandú"
-date: 2020-04-30 18:09:30 -0300
+title: "El abrojo"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
-actividades: "Canasta"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "091401964"
-direccion: "No corresponde, donaciones a coordinar"
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
+telefono_contacto: "091269590"
+direccion: "Amandau 5722 esq. Eduardo Raíz"
 
 otros_contactos: ""
-horario: ""
+horario: "Lunes a viernes de 11 a 16 hs"
 aclaraciones: ""
-cuenta_bancaria: "BROU, CA$ 001409166-00002"
+cuenta_bancaria: ""
 
 ---

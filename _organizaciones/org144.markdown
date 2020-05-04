@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Salón del Sol"
-date: 2020-04-30 18:09:30 -0300
+title: "Plaza I"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Cerrito 732"
+direccion: "Lindolfo Cuestas y Cerrito"
 
 otros_contactos: "094053638"
-horario: "9 a 18hs"
+horario: "8 a 22hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

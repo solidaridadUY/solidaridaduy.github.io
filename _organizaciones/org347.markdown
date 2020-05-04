@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vecinxs en Club Aguada"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Aguada"
+actividades: "Merienda"
+necesidades: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+telefono_contacto: "098520925"
+direccion: " Avda. San Martín 2261"
+
+otros_contactos: ""
+horario: "17:00 hs"
+aclaraciones: "En lo posible se solicita agendarse antes de ir."
+cuenta_bancaria: ""
+
+---

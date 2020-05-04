@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
-departamento: "Capurro"
+nombre: "Buceo"
+departamento: "Montevideo"
 ---
 
-Barrio Capurro
-Departamento de Capurro
+Barrio Buceo
+Departamento de Montevideo

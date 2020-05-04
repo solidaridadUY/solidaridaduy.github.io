@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
-departamento: "Piedras Blancas"
+nombre: "Pajas Blancas"
+departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
-Departamento de Piedras Blancas
+Barrio Pajas Blancas
+Departamento de Montevideo

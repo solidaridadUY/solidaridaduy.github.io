@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Teatro El Galpón"
-date: 2020-04-30 18:09:30 -0300
+title: "Viandas a domicilio"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Reciben alimentos no perecederos y productos de limpieza"
-telefono_contacto: "24083366"
-direccion: "18 de julio 1618"
+departamento: "Colonia"
+barrio: "Rosario"
+actividades: "Canasta"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "099550034"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "10 a 19hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Comunicarse telefónicamente por viandas a domicilio"
 cuenta_bancaria: ""
 
 ---

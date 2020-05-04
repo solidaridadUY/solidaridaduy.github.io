@@ -1,7 +1,7 @@
 ---
-nombre: "Causeglia"
-departamento: "Causeglia"
+nombre: "Casavalle"
+departamento: "Montevideo"
 ---
 
-Barrio Causeglia
-Departamento de Causeglia
+Barrio Casavalle
+Departamento de Montevideo

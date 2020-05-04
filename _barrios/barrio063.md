@@ -1,7 +1,7 @@
 ---
-nombre: "Jardines del Hipódromo"
-departamento: "Jardines del Hipódromo"
+nombre: "Flor de Maroñas"
+departamento: "Montevideo"
 ---
 
-Barrio Jardines del Hipódromo
-Departamento de Jardines del Hipódromo
+Barrio Flor de Maroñas
+Departamento de Montevideo

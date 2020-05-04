@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Lista 939 FA"
-date: 2020-04-30 18:09:30 -0300
+title: "Los Pinos Baby"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
 barrio: "Barros Blancos"
-actividades: "Canasta"
+actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "094345006"
-direccion: "Ruta 8 Km. 25.500 - Calle Las Magnolias entre Caputti y Las Violetas"
+telefono_contacto: "092 663 361, 099 748 875, 098 557 244"
+direccion: "Ruta 8 km 26 - Cancha Los Pinos"
 
 otros_contactos: ""
-horario: "Coordinar por teléfono"
+horario: "Miércoles 19 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 
