@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
+departamento: "Canelones"
+barrio: "Canelones"
 actividades: "Olla"
-necesidades: "Alimentos y donaciones"
-telefono_contacto: "096 121 815"
-direccion: "Coordinar telefónicamente"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "cel: 091950027"
+direccion: "Calle Ancha esq. Monegal"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Llevar tupper"
+aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Gimnasio Antoniello"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Brazo Oriental"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098409665, 099091891, 099073492"
-direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
+barrio: "Buceo"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y productos de limpieza e higiene personal"
+telefono_contacto: "099538917 (Eduardo Ballini)"
+direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
 
-otros_contactos: ""
-horario: "Domingos 20 hs. Coordinar para donaciones."
-aclaraciones: ""
+otros_contactos: "094625416 (José Gumber)"
+horario: "Martes, jueves y sábados, de 11:00 a 14:00"
+aclaraciones: "Coordinados con club Unión Atlética"
 cuenta_bancaria: ""
 
 ---

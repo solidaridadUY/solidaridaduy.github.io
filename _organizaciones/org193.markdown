@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de amigos"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal Todos Juntos"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Particular que dona"
-necesidades: "Alimentos y fondos para compra de alimentos"
-telefono_contacto: "099162365"
-direccion: "No corresponde"
+barrio: "Larrañaga,La Blanqueada"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "098324142"
+direccion: "Emilio Raña 2915 esq. Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: "No corresponde"
-aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
-cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
+horario: "Martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs"
+aclaraciones: "Coordinar telefónicamente por retiro de donaciones. DIstribuyen las donaciones en distintas ollas de Montevideo."
+cuenta_bancaria: ""
 
 ---

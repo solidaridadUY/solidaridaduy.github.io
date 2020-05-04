@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Gimnasio Antoniello"
-date: 2020-04-30 18:09:30 -0300
+title: "Vecinas/os de la Gruta."
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de limpieza e higiene personal"
-telefono_contacto: "099538917 (Eduardo Ballini)"
-direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Granos, verduras."
+telefono_contacto: "095229074 (Angélica)"
+direccion: "Gruta de Lourdes."
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Martes, jueves y sábados, de 11:00 a 14:00"
-aclaraciones: "Coordinados con club Unión Atlética"
+otros_contactos: ""
+horario: ""
+aclaraciones: "Atienden a 70 personas, con porciones de 3 litros."
 cuenta_bancaria: ""
 
 ---

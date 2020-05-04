@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla Capurro"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Capurro"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "099202923"
+direccion: "Capurro 874 (Sede C.A. Fénix)"
+
+otros_contactos: "096496373 - 091802863"
+horario: "11 a 12 hs"
+aclaraciones: ""
+cuenta_bancaria: "BROU CA 001116736-00001"
+
+---

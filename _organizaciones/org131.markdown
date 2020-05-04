@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Intendencia de Canelones"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
-barrio: "Jaureguiberry"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "099624044"
-direccion: "Se instrumenta en la zona norte de Jaureguiberry"
+barrio: "Todos"
+actividades: "Canasta"
+necesidades: "No aplica"
+telefono_contacto: "Ver aclaraciones adicionales"
+direccion: "A domicilio"
 
-otros_contactos: "092787480  091049164  091278284"
-horario: ""
-aclaraciones: ""
+otros_contactos: "092173550"
+horario: "Durante el día"
+aclaraciones: "092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
 cuenta_bancaria: ""
 
 ---

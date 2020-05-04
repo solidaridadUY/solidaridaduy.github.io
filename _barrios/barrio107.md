@@ -1,7 +1,7 @@
 ---
-nombre: "Barra de Chuy"
-departamento: "Barra de Chuy"
+nombre: "Villa del Cerro"
+departamento: "Montevideo"
 ---
 
-Barrio Barra de Chuy
-Departamento de Barra de Chuy
+Barrio Villa del Cerro
+Departamento de Montevideo

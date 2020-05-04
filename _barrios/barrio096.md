@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Ombúes"
-departamento: "Tres Ombúes"
+nombre: "Prado"
+departamento: "Montevideo"
 ---
 
-Barrio Tres Ombúes
-Departamento de Tres Ombúes
+Barrio Prado
+Departamento de Montevideo

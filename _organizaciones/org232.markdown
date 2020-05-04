@@ -1,14 +1,14 @@
 ---
 layout: organizacion
 
-title: "C.A. Juventud de Las Piedras."
-date: 2020-04-30 18:09:30 -0300
+title: "JFA"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "098729120"
+telefono_contacto: "092150814 - 092056943"
 direccion: "Sin espacio físico específico"
 
 otros_contactos: ""

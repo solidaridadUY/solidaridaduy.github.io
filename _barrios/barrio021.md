@@ -1,7 +1,7 @@
 ---
-nombre: "Juan Lacaze"
-departamento: "Juan Lacaze"
+nombre: "Villa la Colina"
+departamento: "Canelones"
 ---
 
-Barrio Juan Lacaze
-Departamento de Juan Lacaze
+Barrio Villa la Colina
+Departamento de Canelones

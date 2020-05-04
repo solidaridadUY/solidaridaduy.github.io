@@ -1,7 +1,7 @@
 ---
-nombre: "Barros Blancos"
-departamento: "Barros Blancos"
+nombre: "Atlántida"
+departamento: "Canelones"
 ---
 
-Barrio Barros Blancos
-Departamento de Barros Blancos
+Barrio Atlántida
+Departamento de Canelones

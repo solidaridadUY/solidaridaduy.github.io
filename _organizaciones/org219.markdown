@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "096262971 096021742 "
-direccion: "Colman y Pororó"
+necesidades: "Alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Pasaje 121 1178"
 
-otros_contactos: ""
-horario: "20 Hs."
-aclaraciones: ""
+otros_contactos: "Julio"
+horario: ""
+aclaraciones: "Proyecto Tío Julio , Lunes a Domingo "
 cuenta_bancaria: ""
 
 ---

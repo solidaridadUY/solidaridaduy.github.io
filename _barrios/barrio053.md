@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Norte"
-departamento: "Cerro Norte"
+nombre: "Cerrito de la Victoria"
+departamento: "Montevideo"
 ---
 
-Barrio Cerro Norte
-Departamento de Cerro Norte
+Barrio Cerrito de la Victoria
+Departamento de Montevideo

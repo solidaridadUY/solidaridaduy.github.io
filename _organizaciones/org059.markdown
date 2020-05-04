@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SUA (Sociedad Uruguaya de Actores)"
-date: 2020-04-30 18:09:30 -0300
+title: "Brigada Solidaria, FANCAP-Susana Pintos"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
+barrio: "Arroyo Seco"
 actividades: "Punto de Donación"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "091 381 895"
-direccion: "Centro Cultural Carlos Brussa (Mercedes 931)"
+necesidades: "Todo tipo de alimentos (para ollas y meriendas) y artículos de higiene y limpieza."
+telefono_contacto: ""
+direccion: "Av. Agraciada 2522"
 
-otros_contactos: "098 787 582"
-horario: "15 a 19"
-aclaraciones: ""
-cuenta_bancaria: "Brou de Caja de Socorros de SUA, Cuenta Corriente 001554456-00002 en pesos"
+otros_contactos: ""
+horario: ""
+aclaraciones: "Reciben para donar a ollas populares y merenderos"
+cuenta_bancaria: ""
 
 ---

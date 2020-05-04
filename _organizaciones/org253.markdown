@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Intersindical Maldonado"
-date: 2020-04-30 18:09:30 -0300
+title: "Colón F.C. y Los Fantasmas se Divierten"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Maldonado"
-barrio: "Centro"
+barrio: "San Carlos"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "42247611"
-direccion: "ZELMAR MICHELINI 775"
+necesidades: "VERDURAS, FIDEOS, ARROZ, CARNE, PULPA DE TOMATE"
+telefono_contacto: "095550320"
+direccion: "SEDE DE COLON F.C.: AGUSTIN ABREU CASI 25 DE AGOSTO"
 
 otros_contactos: ""
-horario: "Todos los días"
-aclaraciones: "Llevar recipiente"
+horario: "Todos los días 19:00 a 21:00"
+aclaraciones: "RECIBEN DONACIONES DE 17:00 A 19:00 Y RETIRAN A DOMICILIO"
 cuenta_bancaria: ""
 
 ---

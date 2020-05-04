@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-30 18:09:30 -0300
+title: "Club Layva"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Villa Dolores"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "091269590"
-direccion: "Amandau 5722 esq. Eduardo Raíz"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "Julio César 1466"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 11 a 16 hs"
-aclaraciones: ""
+otros_contactos: "099629958  094204040"
+horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
+aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
 cuenta_bancaria: ""
 
 ---

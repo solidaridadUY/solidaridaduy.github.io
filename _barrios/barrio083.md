@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de las Duranas"
-departamento: "Paso de las Duranas"
+nombre: "Nuevo España"
+departamento: "Montevideo"
 ---
 
-Barrio Paso de las Duranas
-Departamento de Paso de las Duranas
+Barrio Nuevo España
+Departamento de Montevideo

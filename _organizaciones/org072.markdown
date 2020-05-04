@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-30 18:09:30 -0300
+title: "Jóvenes FA - Comité Carlos Quijano"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098964527"
-direccion: "Adolfo Rodíguez 6664 (Club Brandi)"
+barrio: "Aires Puros"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "099144809"
+direccion: "Atahona esq. Celedonio Rojas"
 
-otros_contactos: "096450004"
-horario: "Diario, donaciones desde las 13 hs y olla a las 18 hs."
+otros_contactos: ""
+horario: "10 a 12 hs"
 aclaraciones: ""
-cuenta_bancaria: "(Brou) 000816328-00002"
+cuenta_bancaria: ""
 
 ---

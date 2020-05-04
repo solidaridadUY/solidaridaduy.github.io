@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Sur"
-departamento: "Barrio Sur"
+nombre: "Barrio Lavalleja"
+departamento: "Montevideo"
 ---
 
-Barrio Barrio Sur
-Departamento de Barrio Sur
+Barrio Barrio Lavalleja
+Departamento de Montevideo

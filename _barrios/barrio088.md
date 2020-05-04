@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
-departamento: "Prado"
+nombre: "Parque Rodó"
+departamento: "Montevideo"
 ---
 
-Barrio Prado
-Departamento de Prado
+Barrio Parque Rodó
+Departamento de Montevideo

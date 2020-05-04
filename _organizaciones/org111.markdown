@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Comunidad Charrúa Jaguar Berá, Gremio estudiantil Liceo 9, Comisión del Castillo"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos."
-telefono_contacto: "099761484"
-direccion: "Av Lezica 5912 esquina iturbe"
+barrio: "Santa Catalina"
+actividades: "Olla"
+necesidades: "Se reciben alimentos"
+telefono_contacto: "092726853"
+direccion: "Caminos Santa Catalina y los Murallones"
 
-otros_contactos: "@castilloidiarte; @del9gremio"
-horario: "Coordinar vía redes"
+otros_contactos: ""
+horario: "Consultar horario"
 aclaraciones: ""
 cuenta_bancaria: ""
 

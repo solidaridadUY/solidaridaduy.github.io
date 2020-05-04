@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Alexandra Club Gourmet"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Parque Rodó"
+departamento: "Canelones"
+barrio: "Jaureguiberry"
 actividades: "Olla"
-necesidades: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
-telefono_contacto: "099171766"
-direccion: "Pablo de María 1056"
+necesidades: "Alimentos"
+telefono_contacto: "099624044"
+direccion: "Se instrumenta en la zona norte de Jaureguiberry"
 
-otros_contactos: ""
-horario: "Lunes, miércoles y viernes de 12.00 a 14.00"
+otros_contactos: "092787480  091049164  091278284"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

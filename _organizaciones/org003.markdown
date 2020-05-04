@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal Club Flor de Maroñas"
-date: 2020-04-30 18:09:30 -0300
+title: "La Pascua"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Flor de Maroñas"
-actividades: "Olla"
+barrio: "Cruz de Carrasco"
+actividades: "Punto de Donación"
 necesidades: "Alimentos"
-telefono_contacto: "097 098 032  097 474 368  094 098 578"
-direccion: "Manuel Acuña y Del Fuerte"
+telefono_contacto: "25258077 "
+direccion: "Agazzi 2707"
 
-otros_contactos: ""
-horario: "L a V 20:30 hs.S y D 14 hs.."
-aclaraciones: "Llevar vianda"
+otros_contactos: "092465261"
+horario: "10 a 15 hs"
+aclaraciones: "También retiran a domicilio"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Olla Popular Boix Merino"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
+barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: "Pulpa de tomate, lentejas, tapabocas, guantes"
-telefono_contacto: "099527443"
-direccion: "Antel Arena (D.A. Larrañaga y Serrato)"
+necesidades: "Reciben todo tipo de donaciones"
+telefono_contacto: "094889164 - 095578924"
+direccion: "Calle 2 2240."
 
 otros_contactos: ""
-horario: "Viernes de 20 a 21:30 hs"
-aclaraciones: "Reciben  donaciones en Robinson 3367 de 8 a 15 hs"
+horario: ""
+aclaraciones: "Reciben donaciones todos los días de 9:30 a 19:00 en Menorca 1905 y calle 4"
 cuenta_bancaria: ""
 
 ---

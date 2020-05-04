@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
-departamento: "Belvedere"
+nombre: "Bella Vista"
+departamento: "Montevideo"
 ---
 
-Barrio Belvedere
-Departamento de Belvedere
+Barrio Bella Vista
+Departamento de Montevideo

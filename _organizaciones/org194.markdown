@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SOMOS - Acción en Red"
-date: 2020-04-30 18:09:30 -0300
+title: "C. A. La Blanqueada"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Retiro de donaciones"
-necesidades: "Todo tipo de donaciones y fondos"
-telefono_contacto: "Instagram o Twitter: @somosaccionuy"
-direccion: "No corresponde"
+barrio: "Larrañaga,La Blanqueada,Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "099258845"
+direccion: "Emilio Frugoni 1043 esq. Isla de Flores (Brownies Luis) y Emilio Raña 2915 esq Juan Cabal (Club Paysandú)"
 
-otros_contactos: "e-mail: somos@somosaccion.uy"
-horario: "No corresponde"
-aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
+otros_contactos: ""
+horario: "En Brownies Luis martes y miércoles de 17 a 18 hs. En Club Paysandú martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs."
+aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto o por redes sociales."
 cuenta_bancaria: ""
 
 ---

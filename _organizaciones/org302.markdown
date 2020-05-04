@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Plena Conciencia"
-date: 2020-04-30 18:09:30 -0300
+title: "Olla Popular Plaza Medellín"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Zona D"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones para ollas, meriendas y canastas"
-telefono_contacto: "098121219"
-direccion: "Coordinar telefónicamente"
+barrio: "Barrio Sur"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "098520248"
+direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
 
-otros_contactos: "0914656045"
-horario: ""
-aclaraciones: "Las donaciones se destinan a las iniciativas: Centro Guyunusa, Ex alumnos del Misericordista, CEC, Club SnBox"
+otros_contactos: "093524166"
+horario: "21hs"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
 cuenta_bancaria: ""
 
 ---

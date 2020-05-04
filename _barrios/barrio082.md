@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
-departamento: "Paso de la Arena"
+nombre: "No corresponde"
+departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
-Departamento de Paso de la Arena
+Barrio No corresponde
+Departamento de Montevideo

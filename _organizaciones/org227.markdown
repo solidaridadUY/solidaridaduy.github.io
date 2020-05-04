@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "094827612 (María)"
-direccion: "Complejo Libertad - Vivienda 34 D - La Pilarica"
+departamento: "Montevideo"
+barrio: "Seis de Diciembre"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: "092085983"
+direccion: "Tomás Gonzalez Padrón 5530"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "En la tarde"
+aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
 cuenta_bancaria: ""
 
 ---

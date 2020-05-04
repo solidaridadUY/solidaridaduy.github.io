@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Merienda"
-necesidades: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
-telefono_contacto: "099834255"
-direccion: "Asentamiento Fortaleza"
+barrio: "Lezica"
+actividades: "Olla"
+necesidades: "se reciben alimentos no perecedero y productos de limpieza"
+telefono_contacto: "096262917"
+direccion: "Carlos Ott 2060 Bis"
 
-otros_contactos: "092728754"
-horario: ""
-aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
+otros_contactos: ""
+horario: "20:00 hrs"
+aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
 cuenta_bancaria: ""
 
 ---

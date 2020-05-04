@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité 26 de Julio"
-date: 2020-04-30 18:09:30 -0300
+title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Tres Cruces"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de alimentos. Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
-telefono_contacto: "099440037"
-direccion: "Cufré 1800 esquina Ferrer Serra"
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Merienda"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "094 485 351, 092 876 371"
+direccion: "Ruta 8 km 26.500"
 
 otros_contactos: ""
-horario: "Jueves , Viernes y Sábados de 17 a 20hs"
-aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
+horario: "Jueves 17 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

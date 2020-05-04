@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-04-30 18:09:30 -0300
+title: "Club 25 de agosto"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Montevideo"
+barrio: "Villa Dolores"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "099699322"
-direccion: "Wilson Ferreira Aldunate 712"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "José L. Bado 3186"
 
-otros_contactos: ""
-horario: "Lunes a viernes de 9 a 15 hs"
-aclaraciones: ""
+otros_contactos: "099629958  094204040"
+horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
+aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
 cuenta_bancaria: ""
 
 ---

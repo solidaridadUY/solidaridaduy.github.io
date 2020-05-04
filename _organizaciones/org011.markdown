@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Escuela Legado Box"
-date: 2020-04-30 18:09:30 -0300
+title: "Olla Solidaria Barrial"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Lagomar"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "093818549  094306437"
-direccion: "Calle 34 Solar 38 Manzana 63"
+departamento: "Montevideo"
+barrio: "Ciudad Vieja"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc)"
+telefono_contacto: "098141813  094053638"
+direccion: "Pérez Castellano y Sarandí"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Tienen posibilidad de ir a buscar donaciones"
+horario: "12 hs"
+aclaraciones: "Distribución de viandas"
 cuenta_bancaria: ""
 
 ---

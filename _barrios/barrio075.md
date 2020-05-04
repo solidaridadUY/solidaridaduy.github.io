@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "No corresponde"
+nombre: "Los Bulevares"
+departamento: "Montevideo"
 ---
 
-Barrio No corresponde
-Departamento de No corresponde
+Barrio Los Bulevares
+Departamento de Montevideo

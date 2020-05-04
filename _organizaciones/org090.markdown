@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Layva"
-date: 2020-04-30 18:09:30 -0300
+title: "Complejo Juana de América"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Dolores"
+barrio: "Bella Italia"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "099337003"
-direccion: "Julio César 1466"
+necesidades: "Alimentos y productos de higiene y limpieza para armado de canastas"
+telefono_contacto: "098124387 Natalia"
+direccion: "Complejo Juana de América. Salón comunal"
 
-otros_contactos: "099629958  094204040"
-horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
-aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
+otros_contactos: "098638765 Luciana"
+horario: "10 a 12 y 17 a 19hs"
+aclaraciones: "Martes, jueves y sábados. Demandan guantes y tapabocas para voluntarios/as. (Arroz y fideos tienen mucho)"
 cuenta_bancaria: ""
 
 ---

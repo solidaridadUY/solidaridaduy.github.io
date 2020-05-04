@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Sindicato de la Química"
-date: 2020-04-30 18:09:30 -0300
+title: "Comité 26 de Julio"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
-actividades: "Olla"
-necesidades: "Dan viandas"
-telefono_contacto: "2309 16 20 - 2304 93 06"
-direccion: "Capurro 928-930"
+barrio: "Tres Cruces"
+actividades: "Punto de Donación"
+necesidades: " Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
+telefono_contacto: "099440037"
+direccion: "Cufré 1800 esquina Ferrer Serra"
 
-otros_contactos: "organizacionquimica@adinet.com.uy"
-horario: "19hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "17 a 20hs"
+aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
 cuenta_bancaria: ""
 
 ---

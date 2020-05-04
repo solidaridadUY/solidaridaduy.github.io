@@ -1,7 +1,7 @@
 ---
-nombre: "Progreso"
-departamento: "Progreso"
+nombre: "Pinamar"
+departamento: "Canelones"
 ---
 
-Barrio Progreso
-Departamento de Progreso
+Barrio Pinamar
+Departamento de Canelones

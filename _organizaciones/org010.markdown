@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Barrial"
-date: 2020-04-30 18:09:30 -0300
+title: "El Abrojo Paso Joven SOCAT"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc)"
-telefono_contacto: "098141813  094053638"
-direccion: "Pérez Castellano y Sarandí"
+barrio: "Paso Carrasco"
+actividades: "Punto de Donación"
+necesidades: "Reciben donaciones"
+telefono_contacto: "098 103 973"
+direccion: "Vaz Ferreira 52  "
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Distribución de viandas - Sábado y Domingo al mediodía"
+horario: " L a V de 13 a 18 hs."
+aclaraciones: "Coordinación telefónica."
 cuenta_bancaria: ""
 
 ---

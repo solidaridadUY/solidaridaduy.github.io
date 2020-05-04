@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
-departamento: "Punta de Rieles"
+nombre: "Paso Carrasco"
+departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
-Departamento de Punta de Rieles
+Barrio Paso Carrasco
+Departamento de Montevideo

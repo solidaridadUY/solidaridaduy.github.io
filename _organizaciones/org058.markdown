@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Manos Ancapeanas Brigada Solidaria"
-date: 2020-04-30 18:09:30 -0300
+title: "Centro Cultural Totó y vecinos/as del barrio"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Arroyo Seco"
-actividades: "Punto de Donación"
-necesidades: "Reciben todo tipo de alimentos para distribuir a ollas populares"
-telefono_contacto: "0983221514"
-direccion: "Av. Agraciada 2522"
+barrio: "Nuevo París"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "097426604"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: ""
+otros_contactos: "098429757"
+horario: "Coordinar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla Vecinas Aguada"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Aguada"
+actividades: "Olla"
+necesidades: "Salsa de tomate, verduras, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
+telefono_contacto: "099466670 Viky"
+direccion: "Marcelino Berthelot y Ramón del Valle Inclán."
+
+otros_contactos: ""
+horario: "19hs."
+aclaraciones: "Aún no empezó a funcionar, están acopiando algo de alimentos para arrancar el 29 de abril en lo posible."
+cuenta_bancaria: ""
+
+---

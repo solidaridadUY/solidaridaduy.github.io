@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Coordinadora D"
-date: 2020-04-30 18:09:30 -0300
+title: "Comité Cuaró"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
+barrio: "Bella Vista"
 actividades: "Canasta"
-necesidades: "Productos de limpieza, alimentos secos, juguetes, ropa en buen estado, transporte"
-telefono_contacto: "099204370  099869454"
-direccion: "Gil 1051 esq. Dufort y Álvarez"
+necesidades: "Se recibe alimentos no
+perecederos, juguetes, ropa,
+apoyo transporte"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq
+Dufort y Álvarez"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Es el comité del FA cuaró, en principio recibe solo donaciones para armado de canastas"
-cuenta_bancaria: "$ 00152324-00001 BROU"
+otros_contactos: "099869454"
+horario: "15 a 19hs"
+aclaraciones: ""
+cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
 
 ---

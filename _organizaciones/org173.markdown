@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-30 18:09:30 -0300
+title: "La Cretina Casa de Arte"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Pocitos"
-actividades: "Retiro de donaciones"
-necesidades: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
-telefono_contacto: "098220931"
-direccion: "No corresponde"
+barrio: "Centro"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "099228148"
+direccion: "Soriano 1236 esquina Carlos Quijano"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
 cuenta_bancaria: ""
 
 ---

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Agrupación Hinchas de Racing"
-date: 2020-04-30 18:09:30 -0300
+title: "Tablado Lavalleja"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "Alvaro 095536444"
-direccion: "Millán y Eduardo Pondal"
+telefono_contacto: "Bety 094085023"
+direccion: "Teatro Barrio Lavalleja - Camino Edison y Av. de las Instrucciones"
 
 otros_contactos: ""
-horario: ""
+horario: "Sabados y Domingos"
 aclaraciones: ""
 cuenta_bancaria: ""
 

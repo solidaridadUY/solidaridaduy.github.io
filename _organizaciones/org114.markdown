@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mercado Popular de Subsistencia"
-date: 2020-04-30 18:09:30 -0300
+title: "Comunidad Charrúa Jaguar Berá, Gremio estudiantil Liceo 9, Comisión del Castillo"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
+barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
-telefono_contacto: "099281748"
-direccion: "No Corresponde"
+necesidades: "Se reciben alimentos no perecederos."
+telefono_contacto: "099761484"
+direccion: "Av Lezica 5912 esquina iturbe"
 
-otros_contactos: "098825512"
-horario: "Durante el día"
-aclaraciones: "Coordinar via telefónica"
-cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
+otros_contactos: "@castilloidiarte; @del9gremio"
+horario: "Coordinar vía redes"
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

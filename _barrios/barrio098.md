@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
-departamento: "Villa Dolores"
+nombre: "Puntas de Manga"
+departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
-Departamento de Villa Dolores
+Barrio Puntas de Manga
+Departamento de Montevideo

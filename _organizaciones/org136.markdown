@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cooperativa EKO y Vos Con Voz"
-date: 2020-04-30 18:09:30 -0300
+title: "Alexandra Club Gourmet"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
-actividades: "Retiro de donaciones"
-necesidades: "Reciben alimentos no perecederos, artículos de limpieza e higiene personal"
-telefono_contacto: "094990652"
-direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) en Aires Puros.  Zonas Parque Batlle hasta Malvín, Parque Rodó, Cordón, Centro: coordinar telefónicamente"
+barrio: "Parque Rodó"
+actividades: "Olla"
+necesidades: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
+telefono_contacto: "099171766"
+direccion: "Pablo de María 1056"
 
-otros_contactos: "094566630"
-horario: " 9 a 14 hs"
-aclaraciones: "Se puede coordinar telefónicamente "
+otros_contactos: ""
+horario: "12.00 a 14.00 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

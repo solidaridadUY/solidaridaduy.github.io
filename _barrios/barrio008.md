@@ -1,7 +1,7 @@
 ---
-nombre: "Lagomar"
-departamento: "Lagomar"
+nombre: "La Paz"
+departamento: "Canelones"
 ---
 
-Barrio Lagomar
-Departamento de Lagomar
+Barrio La Paz
+Departamento de Canelones

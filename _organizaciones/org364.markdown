@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla Capurro"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Capurro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y verduras"
+telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
+direccion: "Capurro 922 (Club Capurro)"
+
+otros_contactos: ""
+horario: "11 a 14hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

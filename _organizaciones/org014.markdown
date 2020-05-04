@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Capilla Santo Domingo"
-date: 2020-04-30 18:09:30 -0300
+title: "Comité Bile Martínez"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
+barrio: "Prado"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "098291299"
-direccion: "Camino Maldonado 5842 y Venecia"
+necesidades: "Alimentos y productos de higiene"
+telefono_contacto: "092769462 094762392 098394643"
+direccion: "Islas Canarias 4264 esq. Juan Lavalle"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Pasan a buscar donaciones, colaboran con La Olla y reparten en zonas vulnerables"
 cuenta_bancaria: ""
 
 ---

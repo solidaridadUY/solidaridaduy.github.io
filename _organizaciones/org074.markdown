@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Salón comunitario "San Antonio""
-date: 2020-04-30 18:09:30 -0300
+title: "Jóvenes FA"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Punto de Donación"
+barrio: "Conciliación"
+actividades: "Olla"
 necesidades: "Alimentos"
-telefono_contacto: "096951220"
-direccion: "Yucutujá 1250 esq. Santos"
+telefono_contacto: "098964527"
+direccion: "Adolfo Rodíguez 6664 (Club Brandi)"
 
-otros_contactos: ""
-horario: ""
+otros_contactos: "096450004"
+horario: "Diario, donaciones desde las 13 hs y olla a las 18 hs."
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "(Brou) 000816328-00002"
 
 ---

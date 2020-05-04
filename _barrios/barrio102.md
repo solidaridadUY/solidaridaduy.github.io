@@ -1,7 +1,7 @@
 ---
-nombre: "Zona D"
-departamento: "Zona D"
+nombre: "Seis de Diciembre"
+departamento: "Montevideo"
 ---
 
-Barrio Zona D
-Departamento de Zona D
+Barrio Seis de Diciembre
+Departamento de Montevideo

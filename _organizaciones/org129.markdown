@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ándale taquería"
-date: 2020-04-30 18:09:30 -0300
+title: "Pizzeria El Triunfo"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Olla"
-necesidades: "No corresponde"
-telefono_contacto: "099456647"
-direccion: "Salto 1200"
+barrio: "Villa Española"
+actividades: "Empresa que dona"
+necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
+telefono_contacto: "098735539"
+direccion: "Himalaya 3148"
 
 otros_contactos: ""
-horario: "L a V 12:00 hs"
-aclaraciones: "Entregan comida"
+horario: ""
+aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
 cuenta_bancaria: ""
 
 ---

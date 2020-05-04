@@ -1,15 +1,15 @@
 ---
 layout: organizacion
 
-title: "DJ's y Olimpo"
-date: 2020-04-30 18:09:30 -0300
+title: "CECOED"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
-actividades: "Canasta"
-necesidades: "Alimentos"
-telefono_contacto: "092838233 097435635"
-direccion: "Calle 245"
+departamento: "Salto"
+barrio: "Salto"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
+telefono_contacto: "092350389 47327359"
+direccion: "Avda. Luis Batlle Berres esq. Enrique Amorín"
 
 otros_contactos: ""
 horario: ""

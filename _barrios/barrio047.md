@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
-departamento: "Casavalle"
+nombre: "Capurro"
+departamento: "Montevideo"
 ---
 
-Barrio Casavalle
-Departamento de Casavalle
+Barrio Capurro
+Departamento de Montevideo

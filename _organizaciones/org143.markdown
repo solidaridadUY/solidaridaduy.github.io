@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Almacén Juan"
-date: 2020-04-30 18:09:30 -0300
+title: "iniciativa vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Reconquista 247"
+barrio: "Cordón"
+actividades: "Olla"
+necesidades: "Reciben donaciones en puntos de donacion del barrio"
+telefono_contacto: "-"
+direccion: "Fernandez Crespo 1780 esquina Paysandú"
 
-otros_contactos: "094053638"
-horario: "8 a 20:30"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: "Lunes a Viernes 12:30 a 14:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

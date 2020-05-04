@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
-departamento: "Casabó"
+nombre: "Cabaña Anaya"
+departamento: "Montevideo"
 ---
 
-Barrio Casabó
-Departamento de Casabó
+Barrio Cabaña Anaya
+Departamento de Montevideo

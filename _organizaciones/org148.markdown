@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Almacén La Moni"
-date: 2020-04-30 18:09:30 -0300
+title: "Panadería Futuro Puerto"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Gonzalo Ramírez y Carlos Quijano"
+direccion: "Guaraní 1370"
 
 otros_contactos: "094053638"
-horario: "Lunes a Viernes 10:00 a 14:00, 16:00 a 20:00"
+horario: "24hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

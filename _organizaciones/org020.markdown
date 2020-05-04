@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Coop. FUCVAM"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Merienda"
-necesidades: "Leche, azúcar, cocoa, harina, dulce, manteca, huevos, pan, galletitas, etc."
-telefono_contacto: "092405789 "
-direccion: "Continuación Perú 2540 esq. Pasaje Solano"
+barrio: "Bella Italia"
+actividades: "Punto de Donación"
+necesidades: "Reciben todo tipo de donaciones"
+telefono_contacto: "098124387  098638765"
+direccion: "SUM Complejo Juana de América"
 
-otros_contactos: "096557454 Sonia"
-horario: "16.30 hs"
+otros_contactos: ""
+horario: "Lunes a Viernes de 10 a 12 hs y de 17 a 19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

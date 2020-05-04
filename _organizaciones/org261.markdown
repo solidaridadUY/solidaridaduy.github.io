@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club los Zorzales"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa García"
-actividades: "Merienda"
-necesidades: "Merienda y olla popular, se recibe comestibles no perecederos para brindar merienda."
+barrio: "Monarca"
+actividades: "Olla"
+necesidades: "Olla popular, se reciben alimentos no perecederos."
 telefono_contacto: "094649196"
-direccion: "Club los Zorzales, Ruta 8 Brigadier Gral Juan Antonio Lavalleja."
+direccion: "Salón comunal Barrio Monarca; al lado de la Policlínica, en la calle Pasaje Central y la Calle 4, cerca de ruta 8.  "
 
 otros_contactos: ""
-horario: "Lunes a viernes a partir de las 17:30 y sábado y domingos a partir de 13:00 hrs"
-aclaraciones: "Olla popular sábado y domingo, merienda de lunes a viernes."
+horario: "Lunes a viernes a partir de las 19:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

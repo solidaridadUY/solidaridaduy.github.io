@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "La Peña Parrilla"
-date: 2020-04-30 18:09:30 -0300
+title: "Red Solidaria Arerunguá"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Olla"
-necesidades: "Se reciben donaciones de alimentos."
-telefono_contacto: "2203 0311"
-direccion: "Pedernal 2151"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y ropa"
+telefono_contacto: "092143478"
+direccion: "Soriano 1384"
 
 otros_contactos: ""
-horario: "Miércoles, Viernes y Domingo entre 13 y 16hs"
-aclaraciones: "Llevar Vianda"
+horario: "10 a 17 hs"
+aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
 cuenta_bancaria: ""
 
 ---

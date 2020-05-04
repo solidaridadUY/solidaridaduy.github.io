@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
-departamento: "Bella Italia"
+nombre: "Barrio Sur"
+departamento: "Montevideo"
 ---
 
-Barrio Bella Italia
-Departamento de Bella Italia
+Barrio Barrio Sur
+Departamento de Montevideo

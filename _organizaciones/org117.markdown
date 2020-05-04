@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 22 de Mayo"
-date: 2020-04-30 18:09:30 -0300
+title: "Mercado Popular de Subsistencia"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones  (principalmente pañales, productos de limpieza e higiene y gestión menstrual)"
-telefono_contacto: "097584915"
-direccion: "Guzman Papini esq. Las Piedras."
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
+telefono_contacto: "099281748"
+direccion: "No Corresponde"
 
-otros_contactos: "097287764"
-horario: "Lunes a viernes  reparten a partir de las 20 / 20:30,"
-aclaraciones: ""
-cuenta_bancaria: ""
+otros_contactos: "098825512"
+horario: "Durante el día"
+aclaraciones: "Coordinar via telefónica"
+cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
 
 ---

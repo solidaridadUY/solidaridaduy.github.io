@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla La vía"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Maracaná"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "2314 4678"
+direccion: "La Vía 1544"
+
+otros_contactos: "091898472"
+horario: "19 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

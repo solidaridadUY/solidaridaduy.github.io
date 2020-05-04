@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Unión Atlética"
-date: 2020-04-30 18:09:30 -0300
+title: "Vecinas/os de Instrucciones y Mendoza."
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de limpieza e higiene personal"
-telefono_contacto: "Santiago Armas (098 894 273)"
-direccion: "Club Unión Atlética, Velsen 4509"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Carne, pan, verduras, frutas."
+telefono_contacto: "092548176 (Sara)"
+direccion: "Club Arapey, Instrucciones y Mendoza"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Miércoles y viernes de 15:30 a 17:00"
-aclaraciones: "Coordinados con Gimnasio Antoniello"
+otros_contactos: ""
+horario: "20:00 hs"
+aclaraciones: "Atienden 65 personas aprox. La inciativa es de 2 parejas (vecinas del barrio) y lo realizan con sus ingresos únicamente."
 cuenta_bancaria: ""
 
 ---

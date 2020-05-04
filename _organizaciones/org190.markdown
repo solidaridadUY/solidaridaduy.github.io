@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "C. A. La Blanqueada"
-date: 2020-04-30 18:09:30 -0300
+title: "Angel (almacén y flia)"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Larrañaga,La Blanqueada,Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "099258845"
-direccion: "Emilio Frugoni 1043 esq. Isla de Flores (Brownies Luis) Emilio Raña 2915 esq Juan Cabal (Club Paysandú)"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Leche y verduras."
+telefono_contacto: "092671301"
+direccion: "San Ramón, solar 6, Barrio 1 de Mayo (Galpón al costado del almacén)"
 
-otros_contactos: "@LaBlanqueadaU en Twitter, Facebook e Instagram"
-horario: "En Brownies Luis martes y miércoles de 17 a 18 hs. En Club Paysandú martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs."
-aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto o por redes sociales."
+otros_contactos: ""
+horario: "17 a 18 hs"
+aclaraciones: "Ángel y su flia tienen vivienda en el barrio 1° de Mayo y tienen un almacén, donde elaboran la comida y panes para la iniciativa (han recibido donaciones) Inicitiva de Ángel y su flia, actualmente funciona a partir de donaciones e ingresos de la flia"
 cuenta_bancaria: ""
 
 ---

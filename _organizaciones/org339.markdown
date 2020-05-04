@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Las Torres"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "094175038 Gabriel"
+direccion: "Los Nogales 2733"
+
+otros_contactos: ""
+horario: "19 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "La Capuera"
-departamento: "La Capuera"
+nombre: "Centro"
+departamento: "Maldonado"
 ---
 
-Barrio La Capuera
-Departamento de La Capuera
+Barrio Centro
+Departamento de Maldonado

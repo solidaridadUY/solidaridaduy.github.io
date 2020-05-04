@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Jóvenes FA-Flores"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "097113175"
-direccion: "Batlle Berres, entre camino las tropas y Yugoslavia"
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Retiro de donaciones"
+necesidades: "Artículos de limpieza"
+telefono_contacto: "091270507"
+direccion: "No corresponde"
 
-otros_contactos: "093846063"
-horario: "Lunes, miércoles y viernes a las 19 hs"
-aclaraciones: "Traer vianda"
+otros_contactos: "091397626"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

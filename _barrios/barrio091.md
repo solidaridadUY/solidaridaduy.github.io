@@ -1,7 +1,7 @@
 ---
-nombre: "Rincón del Cerro"
-departamento: "Rincón del Cerro"
+nombre: "Paso de las Duranas"
+departamento: "Montevideo"
 ---
 
-Barrio Rincón del Cerro
-Departamento de Rincón del Cerro
+Barrio Paso de las Duranas
+Departamento de Montevideo

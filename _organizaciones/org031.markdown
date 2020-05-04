@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Lomas 3 Baby Fútbol"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Canelones"
-barrio: "Shangrilá"
+barrio: "Lomas de Solymar"
 actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos."
-telefono_contacto: "09101976"
-direccion: "Perú Manzana 18 Solar 22 entre EEUU y San Francisco."
+necesidades: "Alimentos no perecederos y productos de limpieza"
+telefono_contacto: "098925931 092725742"
+direccion: "Calle 2 esquina Tiburón"
 
 otros_contactos: " "
-horario: ""
+horario: "Miércoles y Viernes de 18 a 20 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

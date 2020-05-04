@@ -1,7 +1,7 @@
 ---
-nombre: "Pinamar"
-departamento: "Pinamar"
+nombre: "Montes de Solymar"
+departamento: "Canelones"
 ---
 
-Barrio Pinamar
-Departamento de Pinamar
+Barrio Montes de Solymar
+Departamento de Canelones

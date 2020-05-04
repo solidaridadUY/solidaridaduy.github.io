@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "097992973 - 099239735"
-direccion: "Bolivia esq. Instrucciones del Año XIII"
+departamento: "Montevideo"
+barrio: "La Boyada"
+actividades: "Merienda"
+necesidades: "Se da Merienda a niñes barrio La Boyada, se reciben toda clase de donaciones"
+telefono_contacto: "092 912 571"
+direccion: "La Boyada"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "Lunes a Domingos, de tarde"
+aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
 cuenta_bancaria: ""
 
 ---

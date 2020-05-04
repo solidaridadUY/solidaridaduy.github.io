@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Ferretería "El Destino""
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Los Bulevares"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Ideario Artiguista 1865"
+
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

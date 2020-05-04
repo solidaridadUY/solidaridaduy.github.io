@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Asentamiento Fortaleza del Cerro"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
+barrio: "Causeglia"
 actividades: "Merienda"
-necesidades: "Leche, azúcar, cocoa, alimentos para merienda"
-telefono_contacto: "097311550 Paola"
-direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
+necesidades: ""
+telefono_contacto: "093665410 María José"
+direccion: "Pasaje Pereda Solar 31 esquina Cuñatahí"
 
-otros_contactos: "097545426 Carla 
-097537971 Ximena"
-horario: "18 hs"
-aclaraciones: "Llevar vasito"
+otros_contactos: ""
+horario: "17 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

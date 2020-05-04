@@ -1,7 +1,7 @@
 ---
 nombre: "Aires Puros"
-departamento: "Aires Puros"
+departamento: "Montevideo"
 ---
 
 Barrio Aires Puros
-Departamento de Aires Puros
+Departamento de Montevideo

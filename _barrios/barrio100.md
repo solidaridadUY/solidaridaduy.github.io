@@ -1,7 +1,7 @@
 ---
-nombre: "Villa García"
-departamento: "Villa García"
+nombre: "Santa Catalina"
+departamento: "Montevideo"
 ---
 
-Barrio Villa García
-Departamento de Villa García
+Barrio Santa Catalina
+Departamento de Montevideo

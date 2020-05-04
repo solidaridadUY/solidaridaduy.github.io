@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "OLLA POPULAR - Vecines"
-date: 2020-04-30 18:09:30 -0300
+title: "Profes del liceo de Playa"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Olla"
+departamento: "San José"
+barrio: "Playa Pascual"
+actividades: "Punto de Donación"
 necesidades: "Reciben donaciones"
-telefono_contacto: "No corresponde"
-direccion: "Grecia esq. Barcelona"
+telefono_contacto: "092 983 301"
+direccion: "Río de la Plata esquina Carlos Reyles (Comisión Vecinal Playa Pascual)"
 
 otros_contactos: ""
-horario: ""
+horario: "Lunes, Miércoles y Viernes de 12 a 13.30 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

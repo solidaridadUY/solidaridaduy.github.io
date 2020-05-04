@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
-date: 2020-04-30 18:09:30 -0300
+title: "Jóvenes del Municipio B Apoyo: Consejo Vecinal 2"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos para canastas y merienda, productos de limpieza e higiene"
-telefono_contacto: "098697902 Camila Sosa"
-direccion: "Zelmar Michelini 993"
+barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
+actividades: "Realización de compras"
+necesidades: "No corresponde"
+telefono_contacto: "099405205 (WhatsApp)"
+direccion: "No corresponde"
 
-otros_contactos: "099005299 Sofía Raffaelli"
-horario: "Donaciones para canastas los días jueves, donaciones para meriendas todos los días"
-aclaraciones: ""
-cuenta_bancaria: "Raíces I BROU caja de ahorros pesos ($) 001930334-00001"
+otros_contactos: "areasocialmunicipiob@gmail.com"
+horario: "Se toman pedidos desde las 9 hasta las 15hs."
+aclaraciones: "Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
+cuenta_bancaria: ""
 
 ---

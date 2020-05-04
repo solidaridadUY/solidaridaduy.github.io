@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vilardevoz"
-date: 2020-04-30 18:09:30 -0300
+title: "Organización Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
+barrio: "Villa Española"
 actividades: "Punto de Donación"
-necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
+necesidades: "Alimentos no perecederos, donaciones para olla popular de la zona."
 telefono_contacto: "No corresponde"
-direccion: "Paraguay 1190"
+direccion: "Av. José Pedro Varela 1461"
 
 otros_contactos: ""
-horario: " 14 a 18 hrs"
-aclaraciones: ""
+horario: "Todos los días de 10 a 16 hrs."
+aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Monarca"
-departamento: "Monarca"
+nombre: "Lezica"
+departamento: "Montevideo"
 ---
 
-Barrio Monarca
-Departamento de Monarca
+Barrio Lezica
+Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Paso Carrasco Solidario"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "San José"
-barrio: "Playa Pascual"
+departamento: "Montevideo"
+barrio: "Paso Carrasco"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "099146941"
-direccion: "Consultar telefónicamente"
+telefono_contacto: "No corresponde"
+direccion: "Avda del Lago y Camino Carrasco"
 
 otros_contactos: ""
-horario: "Lunes Miércoles y Viernes 12 a 13:30"
-aclaraciones: ""
+horario: "Martes 11hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Aute"
-date: 2020-04-30 18:09:30 -0300
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
 barrio: "Aguada"

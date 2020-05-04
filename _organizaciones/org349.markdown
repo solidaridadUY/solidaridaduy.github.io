@@ -1,0 +1,25 @@
+---
+layout: organizacion
+
+title: "Ecomité"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+necesidades: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
+telefono_contacto: "099384525
+Sofía 
+099735767
+Chantal"
+direccion: "No aplica"
+
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Coordinar para retiro de donaciones"
+cuenta_bancaria: "BROU 
+110080467 - 00001
+
+600-0993555"
+
+---

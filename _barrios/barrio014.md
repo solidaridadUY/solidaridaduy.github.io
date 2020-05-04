@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Lucía"
-departamento: "Santa Lucía"
+nombre: "Progreso"
+departamento: "Canelones"
 ---
 
-Barrio Santa Lucía
-Departamento de Santa Lucía
+Barrio Progreso
+Departamento de Canelones

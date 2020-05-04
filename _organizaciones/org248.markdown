@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "REDALCO"
-date: 2020-04-30 18:09:30 -0300
+title: "Progreso Solidario"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Punto de Donación"
-necesidades: "Dinero para entregar canastas de verduras y frutas"
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+departamento: "Canelones"
+barrio: "Progreso"
+actividades: "Canasta"
+necesidades: "Se reciben donaciones"
+telefono_contacto: "099472132 - 095903271"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
-horario: "No corresponde"
-aclaraciones: "Con cada donación de $500 se colabora con 18 kg de frutas y verduras aportando 50 platos sanos y nutritivos para llevar a aquellas familias que en este contexto de emergencia necesitan."
-cuenta_bancaria: "BROU 00178550600001"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

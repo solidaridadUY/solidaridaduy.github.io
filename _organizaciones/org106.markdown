@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Cuerpo docente Liceo Número 3"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "se reciben alimentos no perecedero y productos de limpieza"
-telefono_contacto: "096262917"
-direccion: "Carlos Ott 2060 Bis"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Canasta"
+necesidades: "Alimentos y productos de limpieza para canastas"
+telefono_contacto: "095252930"
+direccion: "Reyles y Tranqueras"
 
 otros_contactos: ""
-horario: "20:00 hrs"
-aclaraciones: "Arrimarse con la vianda, coordinar entrega de alimentos no perecederos y productos de limpieza vía movil."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Bar Kfe"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Parque Rodó"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "092 915 246"
+direccion: "Edil Hugo Prato 2289"
+
+otros_contactos: ""
+horario: "20 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

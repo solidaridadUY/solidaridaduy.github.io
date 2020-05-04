@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Complejo Juana de América"
-date: 2020-04-30 18:09:30 -0300
+title: "Merendero Nuevo Amanecer"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de higiene y limpieza para armado de canastas"
-telefono_contacto: "098124387 Natalia"
-direccion: "Complejo Juana de América. Salón comunal"
+barrio: "Piedras Blancas"
+actividades: "Olla"
+necesidades: "Alimentos, productos de higiene y limpieza"
+telefono_contacto: "095286057 Ana"
+direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
 
-otros_contactos: "098638765 Luciana"
-horario: "10 a 12 y 17 a 19hs"
-aclaraciones: "Martes, jueves y sábados. Demandan guantes y tapabocas para voluntarios/as. (Arroz y fideos tienen mucho)"
+otros_contactos: ""
+horario: "20hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

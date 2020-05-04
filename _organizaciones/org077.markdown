@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-04-30 18:09:30 -0300
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Punto de Donación"
-necesidades: "Recaudación de alimentos no perecederos"
-telefono_contacto: "092929791"
-direccion: "8 de octubre y Villagrán 4173"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Se brinda alimento en el siguiente horario"
+telefono_contacto: "099709823"
+direccion: "Av de las instrucciones 1200 A, apto 2"
 
 otros_contactos: ""
-horario: "Lunes y viernes de 16 a 18 hs"
+horario: "12 a 17 hrs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

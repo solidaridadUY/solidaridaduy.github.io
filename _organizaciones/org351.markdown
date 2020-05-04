@@ -1,0 +1,23 @@
+---
+layout: organizacion
+
+title: "Comité de Base "Municipales""
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+necesidades: "Piden mano de obra para confeccionar tapabocas"
+telefono_contacto: "Donaciones: 098405089 Virginia Ros"
+direccion: "No aplica"
+
+otros_contactos: "Confección de Tapabocas:
+099290712
+Celsa Achá"
+horario: "Consultar telefónicamente"
+aclaraciones: ""
+cuenta_bancaria: "BROU
+00835501-00001
+Depósito cajeros: 196-0076329"
+
+---

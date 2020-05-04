@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Comité 28 de Noviembre"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: ""
+direccion: "No aplica"
+
+otros_contactos: ""
+horario: "-"
+aclaraciones: ""
+cuenta_bancaria: "BROU
+001126179-0004"
+
+---

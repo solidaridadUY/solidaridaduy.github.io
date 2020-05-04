@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Cordón"
-date: 2020-04-30 18:09:30 -0300
+title: "Vecinas/os Barrio 22 de Mayo"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "091923053"
-direccion: "Galicia 1673"
+necesidades: ""
+telefono_contacto: "097584915"
+direccion: "Guzman Papini esq. Las Piedras."
 
-otros_contactos: ""
-horario: "Olla: Consultar al número de contacto Donaciones: 14 a 16 hs"
-aclaraciones: "Se coordinan retiros de donaciones vía telefónica"
+otros_contactos: "097287764"
+horario: "Reparten a partir de las 20 / 20:30 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

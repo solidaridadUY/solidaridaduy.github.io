@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: ""
+date: 2020-05-04 00:47:54 -0300
+
+departamento: ""
+barrio: ""
+actividades: ""
+necesidades: ""
+telefono_contacto: ""
+direccion: ""
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

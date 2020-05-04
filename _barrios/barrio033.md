@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
-departamento: "Aguada"
+nombre: "Abayubá"
+departamento: "Montevideo"
 ---
 
-Barrio Aguada
-Departamento de Aguada
+Barrio Abayubá
+Departamento de Montevideo

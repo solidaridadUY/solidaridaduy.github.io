@@ -1,7 +1,7 @@
 ---
-nombre: "Casco del Cerro"
-departamento: "Casco del Cerro"
+nombre: "Casabó"
+departamento: "Montevideo"
 ---
 
-Barrio Casco del Cerro
-Departamento de Casco del Cerro
+Barrio Casabó
+Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "La Pascua"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cruz de Carrasco"
+barrio: "La Teja"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "25258077 "
-direccion: "Agazzi 2707"
+necesidades: ""
+telefono_contacto: "098 600 393"
+direccion: "Emilio Romero y Agustín Muñoz"
 
-otros_contactos: "092465261"
-horario: "10 a 15 hs"
-aclaraciones: "También retiran a domicilio"
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

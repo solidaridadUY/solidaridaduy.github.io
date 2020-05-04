@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Progreso - Estación Atlántida"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Canelones"
-barrio: "Atlántida"
+departamento: "San José"
+barrio: "Playa Pascual"
 actividades: "Olla"
 necesidades: "Se reciben donaciones"
-telefono_contacto: "098047394"
-direccion: "Avenida Monseñor José Orsali, esquina Calle 41 (frente a carnicería progreso)"
+telefono_contacto: "099146941"
+direccion: "Consultar telefónicamente"
 
 otros_contactos: ""
-horario: "12:30 a 14hs"
-aclaraciones: "Vianda solidaria desde 12:30 hasta 14hs,  anotarse previamente por telefono, llevar recipiente"
+horario: "Lunes Miércoles y Viernes 12 a 13:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

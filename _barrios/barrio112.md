@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "No corresponde"
+nombre: "ZONA B"
+departamento: "Montevideo"
 ---
 
-Barrio No corresponde
-Departamento de No corresponde
+Barrio ZONA B
+Departamento de Montevideo

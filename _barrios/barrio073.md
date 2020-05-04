@@ -1,7 +1,7 @@
 ---
-nombre: "Maroñas"
-departamento: "Maroñas"
+nombre: "Las Torres"
+departamento: "Montevideo"
 ---
 
-Barrio Maroñas
-Departamento de Maroñas
+Barrio Las Torres
+Departamento de Montevideo

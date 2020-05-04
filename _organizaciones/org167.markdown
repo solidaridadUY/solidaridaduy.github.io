@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AEBU"
-date: 2020-04-30 18:09:30 -0300
+title: "Comité Félix Vidarte"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Olla"
-necesidades: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
-telefono_contacto: "-"
-direccion: "Aebu - Reconquista 570"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+necesidades: "Alimentos secos, verduras y artículos de limpieza"
+telefono_contacto: "095496658"
+direccion: "República Argentina esq. Pando"
 
 otros_contactos: ""
-horario: "Martes y Jueves 12hs"
-aclaraciones: ""
+horario: "Lunes a Viernes de 19 a 21 hs"
+aclaraciones: "Contactar por Whatsapp"
 cuenta_bancaria: ""
 
 ---

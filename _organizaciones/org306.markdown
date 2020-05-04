@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liverpool Fútbol Club"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal Barrio El Tobogán"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
-actividades: "Punto de Donación"
-necesidades: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
-telefono_contacto: "099641831"
-direccion: "Avenida Agraciada 4186 (Sede)"
+barrio: "Tres Ombúes"
+actividades: "Merienda"
+necesidades: "Verduras, carne, cosas para merienda, ropa, abrigo"
+telefono_contacto: "094889797 Micaela"
+direccion: "Calera de las Huérfanas esquina Inclusa"
 
-otros_contactos: "099687490
-098429091"
-horario: "A partir de las 17hs"
-aclaraciones: "Olla a las 20:00hs"
+otros_contactos: ""
+horario: "De tarde. "
+aclaraciones: "Sábado y Domingo se hace en Maracaná Sur"
 cuenta_bancaria: ""
 
 ---

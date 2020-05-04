@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
-departamento: "Los Bulevares"
+nombre: "La Teja"
+departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
-Departamento de Los Bulevares
+Barrio La Teja
+Departamento de Montevideo

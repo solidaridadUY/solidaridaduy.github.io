@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
-departamento: "Sayago"
+nombre: "Peñarol"
+departamento: "Montevideo"
 ---
 
-Barrio Sayago
-Departamento de Sayago
+Barrio Peñarol
+Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Rodó"
-departamento: "Parque Rodó"
+nombre: "Maroñas"
+departamento: "Montevideo"
 ---
 
-Barrio Parque Rodó
-Departamento de Parque Rodó
+Barrio Maroñas
+Departamento de Montevideo

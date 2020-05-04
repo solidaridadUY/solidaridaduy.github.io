@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Jardines del Hipódromo"
+departamento: "Canelones"
+barrio: "Suárez"
 actividades: "Olla"
-necesidades: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
-telefono_contacto: "096 880 946"
-direccion: "José Piendibene 3642 esq. Lacio"
+necesidades: "Reciben donaciones "
+telefono_contacto: "093 687 106"
+direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
 
 otros_contactos: ""
-horario: "sábados y domingos, arranca a las 17 aprox"
-aclaraciones: "Llevar vianda, casa de familia"
+horario: "Coordinar donaciones por mensaje de WhatsApp o llamar"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Borro"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "096276625, 096652675"
+direccion: "Dr. Enrique Claveaux (Plaza de Palos)"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

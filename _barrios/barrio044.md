@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
-departamento: "Buceo"
+nombre: "Brazo Oriental"
+departamento: "Montevideo"
 ---
 
-Barrio Buceo
-Departamento de Buceo
+Barrio Brazo Oriental
+Departamento de Montevideo

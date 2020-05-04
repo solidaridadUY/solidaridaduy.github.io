@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Nucleo del liceo 74"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo Verdisol"
-actividades: "Punto de Donación"
-necesidades: "Aportes a traves de cuenta y alimentos"
-telefono_contacto: "092120727"
-direccion: "La tablada"
+barrio: "Cerro"
+actividades: "Merienda"
+necesidades: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
+telefono_contacto: "099834255"
+direccion: "Asentamiento Fortaleza"
 
-otros_contactos: ""
-horario: "Sábado y Domingo sirven a las 20"
-aclaraciones: ""
+otros_contactos: "092728754"
+horario: ""
+aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
 cuenta_bancaria: ""
 
 ---

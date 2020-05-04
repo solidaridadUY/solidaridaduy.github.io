@@ -1,7 +1,7 @@
 ---
-nombre: "Peñarol"
-departamento: "Peñarol"
+nombre: "Nuevo Verdisol"
+departamento: "Montevideo"
 ---
 
-Barrio Peñarol
-Departamento de Peñarol
+Barrio Nuevo Verdisol
+Departamento de Montevideo

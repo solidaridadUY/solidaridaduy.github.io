@@ -1,7 +1,7 @@
 ---
-nombre: "Seis de Diciembre"
-departamento: "Seis de Diciembre"
+nombre: "Piedras Blancas"
+departamento: "Montevideo"
 ---
 
-Barrio Seis de Diciembre
-Departamento de Seis de Diciembre
+Barrio Piedras Blancas
+Departamento de Montevideo

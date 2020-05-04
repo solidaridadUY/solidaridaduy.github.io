@@ -1,7 +1,7 @@
 ---
-nombre: "Paysandú"
-departamento: "Paysandú"
+nombre: "Tres Cruces"
+departamento: "Montevideo"
 ---
 
-Barrio Paysandú
-Departamento de Paysandú
+Barrio Tres Cruces
+Departamento de Montevideo

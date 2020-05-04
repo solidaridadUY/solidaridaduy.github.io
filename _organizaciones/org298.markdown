@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "FEUU"
-date: 2020-04-30 18:09:30 -0300
+title: "Canasta amiga"
+date: 2020-05-04 00:47:54 -0300
 
-departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Punto de Donación"
-necesidades: "Artículos de limpieza y alimentos"
-telefono_contacto: "091334368
-092005664"
-direccion: "Arenal Grande 1422 esq. C. Coronel Brandzen"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos y donaciones a colectivo Abitab"
+telefono_contacto: "099997818, 098553359, 099421362"
+direccion: "No corresponde"
 
-otros_contactos: "feuu.uruguay@gmail.com"
-horario: "Martes y Jueves
-16:30 a 19:00hs"
-aclaraciones: ""
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: ""
+aclaraciones: "Contactarse para realizar donaciones."
+cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
 
 ---

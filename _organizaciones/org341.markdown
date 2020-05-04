@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Seregnistas - FA"
+date: 2020-05-04 00:47:54 -0300
+
+departamento: "Montevideo"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Avda del Libertador 1678"
+
+otros_contactos: ""
+horario: "17 a 18hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

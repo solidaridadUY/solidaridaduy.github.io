@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos Euskalerría"
-date: 2020-04-30 18:09:30 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, verduras, productos de limpieza"
-telefono_contacto: "095425068  093301890  095628133"
-direccion: "Costanera Euskalerría"
+necesidades: "Alimentos"
+telefono_contacto: "No corresponde"
+direccion: "Silva 3993 Entre Costanera y Fuentes"
 
-otros_contactos: ""
-horario: "Sábados y domingos"
-aclaraciones: ""
+otros_contactos: "José"
+horario: ""
+aclaraciones: "Vecinos Unidos , Lunes a Domingo de noche"
 cuenta_bancaria: ""
 
 ---
