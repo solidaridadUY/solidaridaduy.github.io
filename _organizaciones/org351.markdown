@@ -1,7 +1,7 @@
 ---
 layout: organizacion
 
-title: "Comité de Base "Municipales""
+title: "Comité de Base \"Municipales\""
 date: 2020-05-04 00:47:54 -0300
 
 departamento: "Montevideo"
