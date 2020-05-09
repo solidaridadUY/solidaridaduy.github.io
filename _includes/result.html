@@ -1,0 +1,21 @@
+<article class="box-item details__container">
+  <div class="box-body">
+    <div class="box-barrio">
+      <span class="post-meta">{{ include.post.barrio }}, {{ include.post.departamento }}</span>
+    </div>
+    <h3>
+      <a class="post-link" data-toggle="#details-{{ forloop.index }}" href="{{ include.post.url | relative_url }}">
+        {{ include.post.title | escape }}
+      </a>
+    </h3>
+    <p>{{ include.post.actividades }}</p>
+    {%- if site.show_excerpts -%}
+      {{ include.post.excerpt }}
+    {%- endif -%}
+  </div>
+
+  <div id="details-{{ forloop.index }}" class="details__box hide">
+    <button class="details__back" data-toggle="#details-{{ forloop.index }}"></button>
+    {% include details.html post=include.post %}
+  </div>
+</article>

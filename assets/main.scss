@@ -18,6 +18,10 @@ body {
   font-family: 'PT Sans Narrow', sans-serif;
 }
 
+.hide {
+  display: none !important;
+}
+
 .site-footer {
   border-top: 0;
   background-color: $base-color;
@@ -120,7 +124,7 @@ body {
  min-height:14rem;
  transition:all .3s;
  position:relative;
- cursor:pointer;
+ /* cursor:pointer; Why this? */
  max-width: 350px;
  text-align: left;
 }
@@ -183,4 +187,76 @@ body {
 .colaborar-lists {
   display: inline-block;
   text-align: left;
+}
+
+
+/* --- Details Modal --- */
+
+.details__container {
+  position: relative;
+}
+
+.details__box {
+  position: absolute;
+  top: 5px;
+  bottom: 5px;
+  right: 5px;
+  left: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.details__scroll {
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  background: $white;
+}
+
+.details__table {
+  margin-bottom: 0;
+  word-break: break-all;
+
+  /* Avoid word break in title cell */
+  td.title {
+    min-width: 95px;
+  }
+}
+
+.details__back {
+  border: 0;
+  margin: 0;
+  padding: 0.25rem;
+  background: $base-color;
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: $white;
+
+  &:before {
+    content: '\00D7';
+  }
+
+  &:hover {
+    color: $gray-transparent;
+  }
+}
+
+.details__title {
+  padding: 0.25rem;
+  padding-right: 0.5rem;
+  background: $gray-transparent;
+  display: flex;
+  justify-content: flex-end;
+
+  a {
+    font-weight: bold;
+    color: white;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }

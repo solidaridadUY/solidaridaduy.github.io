@@ -42,26 +42,9 @@ layout: default
     
     <div id="row" class="row flex-grid">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
 
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          <article class="box-item">
-            <div class="box-body">
-              <div class="box-barrio">
-                <span class="post-meta">{{ post.barrio }}, {{ post.departamento }}</span>
-              </div>
-              <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h3>
-              <p>{{ post.actividades }}</p>
-              {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-              {%- endif -%}
-            </div>
-          </article>
-        </a>
+      {%- for post in posts -%}
+        {% include result.html post=post %}
       {%- endfor -%}
       
     </div>
@@ -190,7 +173,7 @@ filtersMap.set('actividades', document.getElementById("actividad"));
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<article class="box-item"><div class="box-body"><div class="box-barrio"><span class="post-meta">{barrio}, {departamento}</span></div><h3><a class="post-link" href="{url}">{title}</a></h3><p>{actividades}</p></div></article>',
+  searchResultTemplate: `{% include result_js.html %}`,
   noResultsText: ("¡No se encontraron resultados!"),
   limit: 1000,
   fuzzy: false,
@@ -198,3 +181,6 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+
+<!-- All home-related code -->
+<script src="js/home.js"></script>
