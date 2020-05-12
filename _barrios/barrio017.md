@@ -1,7 +1,7 @@
 ---
-nombre: "Shangrilá"
+nombre: "Suárez"
 departamento: "Canelones"
 ---
 
-Barrio Shangrilá
+Barrio Suárez
 Departamento de Canelones

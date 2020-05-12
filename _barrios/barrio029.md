@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Balneario Buenos Aires"
 departamento: "Maldonado"
 ---
 
-Barrio Centro
+Barrio Balneario Buenos Aires
 Departamento de Maldonado

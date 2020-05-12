@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mides e Intendencia de Rivera"
-date: 2020-05-04 00:47:54 -0300
+title: "Cuerpo docente Liceo Número 2"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Rivera"
 barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "IdR y MIDES Rivera"
-direccion: "Barrios: Rivera Chico, Misiones, La Arenera, Colegio Don Bosco"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "094955669"
+direccion: "Barrio Rivera Chico"
 
 otros_contactos: ""
-horario: "Todos los días de 11 a 13"
-aclaraciones: "Comedores departamentales. Llevar cédula y recipiente."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

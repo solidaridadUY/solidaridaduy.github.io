@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
+nombre: "Larrañaga"
 departamento: "Montevideo"
 ---
 
-Barrio No corresponde
+Barrio Larrañaga
 Departamento de Montevideo

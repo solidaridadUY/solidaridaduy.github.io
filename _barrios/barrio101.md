@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
+nombre: "Paso de las Duranas"
 departamento: "Montevideo"
 ---
 
-Barrio Sayago
+Barrio Paso de las Duranas
 Departamento de Montevideo

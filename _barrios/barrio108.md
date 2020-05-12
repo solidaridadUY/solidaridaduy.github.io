@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
+nombre: "Punta de Rieles"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
+Barrio Punta de Rieles
 Departamento de Montevideo

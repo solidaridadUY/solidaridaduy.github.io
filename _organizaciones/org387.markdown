@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "SHUGU"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "098301517"
+direccion: "Michelini 1073 esquina Bergalli"
+
+otros_contactos: ""
+horario: "10:00 a 16:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

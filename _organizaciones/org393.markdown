@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Balneario Buenos Aires"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Washington: 098217236"
+direccion: "Calle 38 esquina Calle 49"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Levantan donaciones en Maldonado. Coordinar con Miguel: 091731889"
+cuenta_bancaria: ""
+
+---

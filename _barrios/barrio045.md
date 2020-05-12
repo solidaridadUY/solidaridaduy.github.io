@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
+nombre: "Abayubá"
 departamento: "Montevideo"
 ---
 
-Barrio Buceo
+Barrio Abayubá
 Departamento de Montevideo

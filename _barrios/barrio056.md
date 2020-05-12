@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Brazo Oriental"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Brazo Oriental
 Departamento de Montevideo

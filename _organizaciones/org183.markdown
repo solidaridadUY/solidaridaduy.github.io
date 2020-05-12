@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Agrupación Hinchas de Racing"
-date: 2020-05-04 00:47:54 -0300
+title: "Repique"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
+barrio: "Colón"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Alvaro 095536444"
-direccion: "Millán y Eduardo Pondal"
+necesidades: ""
+telefono_contacto: "091269590"
+direccion: "Amandau 5722"
 
 otros_contactos: ""
-horario: ""
+horario: " 11 a 16 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

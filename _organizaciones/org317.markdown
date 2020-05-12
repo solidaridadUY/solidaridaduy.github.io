@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asentamiento Fortaleza del Cerro"
-date: 2020-05-04 00:47:54 -0300
+title: "Capilla Cruz Alta"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "097311550 Paola"
-direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
+actividades: "Olla"
+necesidades: "Verduras, Frutas, Alimentos no perecederos, Carne"
+telefono_contacto: "094873926
+"
+direccion: "Filipinas 3774 entre Charcas y Rusia"
 
-otros_contactos: "097545426 Carla 
-097537971 Ximena"
-horario: ""
-aclaraciones: ""
+otros_contactos: "098840704"
+horario: "18:30 a 20:00hs"
+aclaraciones: "Venta económica:  Martes, Jueves y Viernes 14 a 18 hs"
 cuenta_bancaria: ""
 
 ---

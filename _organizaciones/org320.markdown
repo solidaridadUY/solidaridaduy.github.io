@@ -2,19 +2,19 @@
 layout: organizacion
 
 title: "Faustino \"Chimango\""
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
-actividades: "Olla"
+actividades: "Punto de Donación"
 necesidades: ""
 telefono_contacto: "099196315  
 Mario Ivo"
 direccion: "Bulgaria 4275 esq. Carlos M. Ramirez"
 
 otros_contactos: ""
-horario: "18 hs"
-aclaraciones: "Llevar vianda"
+horario: "15 a 19 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

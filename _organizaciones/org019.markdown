@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Brigada Zapicán"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Punta de Rieles"
@@ -12,7 +12,7 @@ telefono_contacto: "098635050 093381094"
 direccion: "Centauro 6845 entre Leo y Virgo."
 
 otros_contactos: ""
-horario: "Todos los días 19:30hs"
+horario: "19:30hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

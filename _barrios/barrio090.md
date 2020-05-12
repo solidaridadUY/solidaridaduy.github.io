@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Maracaná"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Maracaná
 Departamento de Montevideo

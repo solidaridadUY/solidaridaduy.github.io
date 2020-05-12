@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Prado"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Prado
 Departamento de Montevideo

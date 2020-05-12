@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
-departamento: "Montevideo"
+nombre: "Pan de Azúcar"
+departamento: "Maldonado"
 ---
 
-Barrio Bella Italia
-Departamento de Montevideo
+Barrio Pan de Azúcar
+Departamento de Maldonado

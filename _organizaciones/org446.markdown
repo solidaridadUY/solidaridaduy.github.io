@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Manos Unidas"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Rocha"
+barrio: "Lascano"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "091 075 363"
+direccion: ""
+
+otros_contactos: ""
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Monarca"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Monarca
 Departamento de Montevideo

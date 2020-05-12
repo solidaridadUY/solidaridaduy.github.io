@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Paysandú"
+nombre: "Tomkinson"
+departamento: "Montevideo"
 ---
 
-Barrio No corresponde
-Departamento de Paysandú
+Barrio Tomkinson
+Departamento de Montevideo

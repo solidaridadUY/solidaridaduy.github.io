@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os de Instrucciones y Mendoza."
-date: 2020-05-04 00:47:54 -0300
+title: "C. A. La Blanqueada"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Carne, pan, verduras, frutas."
-telefono_contacto: "092548176 (Sara)"
-direccion: "Club Arapey, Instrucciones y Mendoza"
+barrio: "Larrañaga,La Blanqueada,Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "099258845"
+direccion: "Emilio Frugoni 1043 esq. Isla de Flores (Brownies Luis) y Emilio Raña 2915 esq Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: "20:00 hs"
-aclaraciones: "Atienden 65 personas aprox. La inciativa es de 2 parejas (vecinas del barrio) y lo realizan con sus ingresos únicamente."
+horario: "En Brownies Luis martes y miércoles de 17 a 18 hs. En Club Paysandú martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs."
+aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto o por redes sociales."
 cuenta_bancaria: ""
 
 ---

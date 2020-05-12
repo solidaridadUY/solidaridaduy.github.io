@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
+nombre: "Puntas de Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Española
+Barrio Puntas de Manga
 Departamento de Montevideo

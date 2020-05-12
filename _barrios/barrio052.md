@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Centro
+Barrio Bella Italia
 Departamento de Montevideo

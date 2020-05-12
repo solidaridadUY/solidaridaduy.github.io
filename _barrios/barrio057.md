@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Buceo
 Departamento de Montevideo

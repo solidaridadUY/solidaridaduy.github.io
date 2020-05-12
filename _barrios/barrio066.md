@@ -1,7 +1,7 @@
 ---
-nombre: "La Boyada"
+nombre: "Cerro Norte"
 departamento: "Montevideo"
 ---
 
-Barrio La Boyada
+Barrio Cerro Norte
 Departamento de Montevideo

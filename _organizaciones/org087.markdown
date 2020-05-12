@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Nuevo Amanecer"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
+barrio: "Bella Italia"
 actividades: "Olla"
-necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "095286057 Ana"
-direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
+necesidades: "leche en polvo"
+telefono_contacto: "094368436 Ismael"
+direccion: "Blanco Acevedo 6159 esq. Florencia. Almacén Peladito"
 
-otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar tupper"
+otros_contactos: "093867350 Loreley"
+horario: "20:30hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Tala"
+nombre: "Todos"
 departamento: "Canelones"
 ---
 
-Barrio Tala
+Barrio Todos
 Departamento de Canelones

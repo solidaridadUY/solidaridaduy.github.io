@@ -1,7 +1,7 @@
 ---
-nombre: "Casco del Cerro"
+nombre: "Barrio Lavalleja"
 departamento: "Montevideo"
 ---
 
-Barrio Casco del Cerro
+Barrio Barrio Lavalleja
 Departamento de Montevideo

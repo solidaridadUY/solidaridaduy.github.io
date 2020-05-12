@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Mas que lonja - Cuerda de tambores"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Buceo"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "En el lugar"
+direccion: "Bvar. Batlle y Ordoñes y Juana Pereira"
+
+otros_contactos: ""
+horario: "20hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

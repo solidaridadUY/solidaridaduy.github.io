@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Movimiento Codos a la Obra"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo España"
+barrio: "Punta de Rieles"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "25119629 "
-direccion: "Servidumbre 705 (Salón comunal)"
+necesidades: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
+telefono_contacto: "095495706
+Stefany"
+direccion: "Servidumbre 7075 (Salón comunal Club Punta de Rieles)"
 
-otros_contactos: "095495706"
-horario: ""
-aclaraciones: "Olla popular y merienda"
+otros_contactos: "25119629"
+horario: "13hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

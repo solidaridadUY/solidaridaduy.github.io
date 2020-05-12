@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Asentamiento 24 de Enero"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Patricia
+ 097 941 244
+"
+direccion: "Instrucciones y Durán"
+
+otros_contactos: ""
+horario: "A partir de 19:30"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

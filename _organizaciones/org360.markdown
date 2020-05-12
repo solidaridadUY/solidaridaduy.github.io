@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Capurro"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
-actividades: "Punto de Donación"
+barrio: "Brazo Oriental"
+actividades: "Olla"
 necesidades: ""
-telefono_contacto: "099202923"
-direccion: "Capurro 922 (Club Capurro)"
+telefono_contacto: "098409665, 099091891, 099073492"
+direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
 
-otros_contactos: "096496373 - 091802863"
-horario: "15 a 17 hs"
-aclaraciones: ""
-cuenta_bancaria: "BROU CA 001116736-00001"
+otros_contactos: ""
+horario: "20hs"
+aclaraciones: "Se coordinan donaciones"
+cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "San Carlos"
+nombre: "Barrio Benedetti"
 departamento: "Maldonado"
 ---
 
-Barrio San Carlos
+Barrio Barrio Benedetti
 Departamento de Maldonado

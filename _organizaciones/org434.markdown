@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vecinxs y Colectivo ElePé"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "099239735"
+direccion: "Espinola esq Av. Liber Seregni"
+
+otros_contactos: ""
+horario: "15-18 hs"
+aclaraciones: "Iniciativa en situación de urgencia"
+cuenta_bancaria: ""
+
+---

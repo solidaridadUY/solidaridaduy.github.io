@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización Vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Club Social y Deportivo Villa Española"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Villa Española"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, donaciones para olla popular de la zona."
-telefono_contacto: "No corresponde"
-direccion: "Av. José Pedro Varela 1461"
+actividades: "Canasta"
+necesidades: "Se reciben donaciones, se entregan canastas"
+telefono_contacto: "099584844"
+direccion: "Camino Corrales 3148"
 
-otros_contactos: ""
-horario: "Todos los días de 10 a 16 hrs."
-aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
+otros_contactos: "094612415"
+horario: "Durante el día."
+aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 
 ---

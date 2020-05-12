@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
-date: 2020-05-04 00:47:54 -0300
+title: "Comunidad Charrúa Jaguar Berá, Gremio estudiantil Liceo 9, Comisión del Castillo"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
-actividades: "Olla"
-necesidades: "Se reciben alimentos."
-telefono_contacto: "Gabriel Crause: 093678767"
-direccion: "Garzón y Lanús(Plaza Colón)"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "099761484"
+direccion: "Av Lezica 5912 esquina iturbe"
 
 otros_contactos: ""
-horario: "Todos los días 12 y 18 hs"
-aclaraciones: "Traer Tupper o Vianda"
+horario: "Coordinar vía redes"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

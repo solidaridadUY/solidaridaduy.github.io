@@ -1,7 +1,7 @@
 ---
-nombre: "Borro"
-departamento: "Montevideo"
+nombre: "Punta del Este"
+departamento: "Maldonado"
 ---
 
-Barrio Borro
-Departamento de Montevideo
+Barrio Punta del Este
+Departamento de Maldonado

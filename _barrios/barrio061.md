@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Casco del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Casco del Cerro
 Departamento de Montevideo

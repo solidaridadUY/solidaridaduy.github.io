@@ -1,7 +1,7 @@
 ---
-nombre: "Tomkinson"
+nombre: "Peñarol"
 departamento: "Montevideo"
 ---
 
-Barrio Tomkinson
+Barrio Peñarol
 Departamento de Montevideo

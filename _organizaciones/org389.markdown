@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comité Gelós Bonilla"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Barrio B9"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "099815751"
+direccion: "Cont. Lavalleja y Las Garzas"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

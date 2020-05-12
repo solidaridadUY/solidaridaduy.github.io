@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Plaza Medellín"
-date: 2020-05-04 00:47:54 -0300
+title: "Jóvenes del Cerro"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098520248"
-direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
+barrio: "Cerro"
+actividades: "Punto de Donación"
+necesidades: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
+telefono_contacto: "091794830"
+direccion: "FOICA (Grecia esq. Holanda)"
 
-otros_contactos: "093524166"
-horario: "21hs"
-aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
+otros_contactos: "092673044 - 099650642"
+horario: "Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
+aclaraciones: "Para coordinar retiro, coordinar telefónicamente o desde las redes: Facebook e Instagram"
 cuenta_bancaria: ""
 
 ---

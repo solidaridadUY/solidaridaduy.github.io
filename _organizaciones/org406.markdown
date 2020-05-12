@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla Malvín Norte"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Punto de Donación"
+necesidades: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
+telefono_contacto: "093301890 "
+direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
+
+otros_contactos: "095628133"
+horario: "11:00 a 17:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Brigada 1958"
-date: 2020-05-04 00:47:54 -0300
+title: "Cooperativa EKO y Vos Con Voz"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091894724"
-direccion: "Cuareim 2301 Esq. Tajes"
+barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
+actividades: "Retiro de donaciones"
+necesidades: "En particular, alimentos no perecederos"
+telefono_contacto: "094990652"
+direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) en Aires Puros.  Zonas Parque Batlle hasta Malvín, Parque Rodó, Cordón, Centro: coordinar telefónicamente"
 
-otros_contactos: "098651506"
-horario: ""
-aclaraciones: ""
+otros_contactos: "094566630"
+horario: " 9 a 14 hs"
+aclaraciones: "Se puede coordinar telefónicamente "
 cuenta_bancaria: ""
 
 ---

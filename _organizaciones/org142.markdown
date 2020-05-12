@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal: Belén Facundo y Pablo"
-date: 2020-05-04 00:47:54 -0300
+title: "Plaza I"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "La Comercial"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "092206725"
-direccion: "Juan Paullier 2255 esq. Coquimbo  (frente a Jueves 5)"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Lindolfo Cuestas y Cerrito"
 
-otros_contactos: ""
-horario: "13 hs y 20 hs"
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "8 a 22hs"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

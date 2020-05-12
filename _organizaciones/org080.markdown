@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liceo de Tala"
-date: 2020-05-04 00:47:54 -0300
+title: "El rancho"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Canelones"
-barrio: "Tala"
+departamento: "Montevideo"
+barrio: "La Teja"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "095417092"
-direccion: "Liceo de Tala"
+necesidades: ""
+telefono_contacto: "23051061"
+direccion: "Heredia y Martin Berindague"
 
-otros_contactos: ""
+otros_contactos: "094524282"
 horario: "Durante el día"
-aclaraciones: ""
+aclaraciones: "Coordinación Telefónica"
 cuenta_bancaria: ""
 
 ---

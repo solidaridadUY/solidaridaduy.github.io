@@ -1,7 +1,7 @@
 ---
-nombre: "Cruz de Carrasco"
+nombre: "Causeglia"
 departamento: "Montevideo"
 ---
 
-Barrio Cruz de Carrasco
+Barrio Causeglia
 Departamento de Montevideo

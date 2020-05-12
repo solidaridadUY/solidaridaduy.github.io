@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 22 de Mayo"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
+barrio: "La Teja"
 actividades: "Olla"
 necesidades: ""
-telefono_contacto: "097584915"
-direccion: "Guzman Papini esq. Las Piedras."
+telefono_contacto: "No corresponde"
+direccion: "Av Carlos Ramirez entre Teller y Agustín Muñoz"
 
-otros_contactos: "097287764"
-horario: "Reparten a partir de las 20 / 20:30 hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: " 20.00 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

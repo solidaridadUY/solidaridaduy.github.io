@@ -1,7 +1,7 @@
 ---
-nombre: "Todos"
+nombre: "Villa la Colina"
 departamento: "Canelones"
 ---
 
-Barrio Todos
+Barrio Villa la Colina
 Departamento de Canelones

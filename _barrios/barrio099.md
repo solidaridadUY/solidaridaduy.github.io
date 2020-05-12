@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Paso Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Paso Carrasco
 Departamento de Montevideo

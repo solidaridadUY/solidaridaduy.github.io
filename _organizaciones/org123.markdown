@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Cordón"
-date: 2020-05-04 00:47:54 -0300
+title: "Movimiento de Participación Popular"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091923053"
-direccion: "Galicia 1673"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
+telefono_contacto: "092999609"
+direccion: "Mercedes 1368"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Se pueden coordinar retiros de donaciones vía telefónica"
+horario: "9 a 18 hs"
+aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
 cuenta_bancaria: ""
 
 ---

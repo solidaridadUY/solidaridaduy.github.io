@@ -1,7 +1,7 @@
 ---
-nombre: "La Capuera"
+nombre: "Barrio 14 de febrero"
 departamento: "Maldonado"
 ---
 
-Barrio La Capuera
+Barrio Barrio 14 de febrero
 Departamento de Maldonado

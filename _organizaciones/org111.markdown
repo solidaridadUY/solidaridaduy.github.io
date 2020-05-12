@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "092726853"
-direccion: "Caminos Santa Catalina y los Murallones"
+barrio: "Cerro"
+actividades: "Merienda"
+necesidades: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
+telefono_contacto: "099834255"
+direccion: "Asentamiento Fortaleza"
 
-otros_contactos: ""
-horario: "Consultar horario"
-aclaraciones: ""
+otros_contactos: "092728754"
+horario: ""
+aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
 cuenta_bancaria: ""
 
 ---

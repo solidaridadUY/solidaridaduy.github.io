@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vilardevoz"
-date: 2020-05-04 00:47:54 -0300
+title: "Maestras Feministas"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
+barrio: "No corresponde"
 actividades: "Punto de Donación"
-necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
-telefono_contacto: "No corresponde"
-direccion: "Paraguay 1190"
+necesidades: "pañales, frazadas, toallas higiénicas, productos de limpieza y aseo personal, alimentos no perecederos."
+telefono_contacto: "099951050"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: " 14 a 18 hrs"
-aclaraciones: ""
+otros_contactos: "099821950"
+horario: "Durante el día."
+aclaraciones: "Coordinar vía telefónica con Bárbara o Irene."
 cuenta_bancaria: ""
 
 ---

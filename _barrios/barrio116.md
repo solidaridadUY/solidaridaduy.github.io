@@ -1,7 +1,7 @@
 ---
-nombre: "Fray Bentos"
-departamento: "Río Negro"
+nombre: "Tres Ombúes"
+departamento: "Montevideo"
 ---
 
-Barrio Fray Bentos
-Departamento de Río Negro
+Barrio Tres Ombúes
+Departamento de Montevideo

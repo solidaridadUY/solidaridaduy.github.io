@@ -1,7 +1,7 @@
 ---
-nombre: "Peñarol"
+nombre: "No corresponde"
 departamento: "Montevideo"
 ---
 
-Barrio Peñarol
+Barrio No corresponde
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Minimarket Al Sur"
-date: 2020-05-04 00:47:54 -0300
+title: "El Tundra Bar"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Canelones y W. Ferreira"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "29091578"
+direccion: "Durazno 902 esq. Convención"
 
-otros_contactos: "094053638"
-horario: "Lunes a Jueves 8:00 a 22:00, Viernes 8:00 a 00:00, Sábados 10:00 a 00:00"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: "12:00hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

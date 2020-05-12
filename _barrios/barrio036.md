@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
-departamento: "Montevideo"
+nombre: "Kennedy"
+departamento: "Maldonado"
 ---
 
-Barrio Aires Puros
-Departamento de Montevideo
+Barrio Kennedy
+Departamento de Maldonado

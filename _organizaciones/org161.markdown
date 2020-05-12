@@ -1,17 +1,17 @@
 ---
 layout: organizacion
 
-title: "Club Social y Deportivo Villa Española"
-date: 2020-05-04 00:47:54 -0300
+title: "Club Yale"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Canasta"
-necesidades: "Se reciben donaciones, se entregan canastas"
-telefono_contacto: "099584844"
-direccion: "Camino Corrales 3148"
+barrio: "Jacinto Vera"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "091526172"
+direccion: "Dr. Gustavo Gallinal 1989"
 
-otros_contactos: "094612415"
+otros_contactos: ""
 horario: "Durante el día."
 aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""

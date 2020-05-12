@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Balneario Buenos Aires"
+actividades: "Olla"
+necesidades: "Carne, verduras, alimentos en general, artículos de higiene y limpieza, implementos de bioseguridad"
+telefono_contacto: "Karina 091401565"
+direccion: "Calle 25 y 54, escuelita de futbol."
+
+otros_contactos: ""
+horario: "20:00 a 21:00"
+aclaraciones: "Lllevar recipiente para la vianda. Los días viernes se entregan canastas. Iniciativa en situación de urgencia"
+cuenta_bancaria: ""
+
+---

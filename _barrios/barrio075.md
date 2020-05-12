@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio Jacinto Vera
 Departamento de Montevideo

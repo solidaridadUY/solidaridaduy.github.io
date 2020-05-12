@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Norte"
+nombre: "Borro"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro Norte
+Barrio Borro
 Departamento de Montevideo

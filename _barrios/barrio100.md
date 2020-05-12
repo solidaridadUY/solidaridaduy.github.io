@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Paso de la Arena"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Paso de la Arena
 Departamento de Montevideo

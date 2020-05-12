@@ -1,7 +1,7 @@
 ---
-nombre: "Manga"
+nombre: "La Comercial"
 departamento: "Montevideo"
 ---
 
-Barrio Manga
+Barrio La Comercial
 Departamento de Montevideo

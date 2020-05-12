@@ -1,7 +1,7 @@
 ---
-nombre: "Nueva Helvecia"
+nombre: "Rosario"
 departamento: "Colonia"
 ---
 
-Barrio Nueva Helvecia
+Barrio Rosario
 Departamento de Colonia

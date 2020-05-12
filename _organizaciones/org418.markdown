@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal Barrio Natal "
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Alimentos (salsa de tomate, verduras y harina), leña y artículos de limpieza"
+telefono_contacto: "Micaela de León
+097 236 234
+"
+direccion: "Los Angeles 5229"
+
+otros_contactos: ""
+horario: "Sábados a las 18 hs y Domingos 14hs"
+aclaraciones: "Por ahora atienden a pocas familias. Es necesario llevar recipiente."
+cuenta_bancaria: ""
+
+---

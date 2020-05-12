@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Inciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Verduras"
+telefono_contacto: "099239735"
+direccion: "Dr.Puey y Av. El Dorado"
+
+otros_contactos: ""
+horario: "11-14 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

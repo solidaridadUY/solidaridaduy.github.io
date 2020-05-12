@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Pizzería Los Dos Hermanos"
-date: 2020-05-04 00:47:54 -0300
+title: "Jóvenes del Municipio B Apoyo: Consejo Vecinal 2"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "23071388"
-direccion: "Turubí y Carlos de la Vega"
+barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
+actividades: "Realización de compras"
+necesidades: "No corresponde"
+telefono_contacto: "099405205 (WhatsApp)"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: " 13hs"
-aclaraciones: ""
+otros_contactos: "areasocialmunicipiob@gmail.com"
+horario: "Se toman pedidos desde las 9 hasta las 15hs."
+aclaraciones: "Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
 cuenta_bancaria: ""
 
 ---

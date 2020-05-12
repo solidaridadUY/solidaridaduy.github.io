@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla Cañada Monzón"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Flores"
+barrio: "Cañada Monzón"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Valeria Maestrecasa 099531377"
+direccion: "19 de Abril 294 Bis"
+
+otros_contactos: ""
+horario: "De 15 a 20 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

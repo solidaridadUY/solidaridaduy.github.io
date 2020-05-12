@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Movida Solidaria del Barrio"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "La Boyada"
+actividades: "Merienda"
+necesidades: "Alimentos para merienda y olla"
+telefono_contacto: "Melany 093818052"
+direccion: "Camino de las tropas 5162"
+
+otros_contactos: ""
+horario: "17hs"
+aclaraciones: "No reciben donaciones suficientes para la cantidad de niñxs que atienden. Los Viernes intentan hacer olla para 40 familias pero no tienen suficientes donaciones. "
+cuenta_bancaria: ""
+
+---

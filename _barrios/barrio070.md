@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
+nombre: "Conciliación"
 departamento: "Montevideo"
 ---
 
-Barrio Larrañaga
+Barrio Conciliación
 Departamento de Montevideo

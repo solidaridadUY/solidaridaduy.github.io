@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Intersindical Maldonado"
-date: 2020-05-04 00:47:54 -0300
+title: "AUTE"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Maldonado"
 barrio: "Centro"
-actividades: "Olla"
-necesidades: "Alimentos"
+actividades: "Punto de Donación"
+necesidades: ""
 telefono_contacto: "42247611"
-direccion: "ZELMAR MICHELINI 775"
+direccion: "ZELMAR MICHELINI 775 "
 
 otros_contactos: ""
-horario: "Todos los días"
-aclaraciones: "Llevar recipiente"
+horario: "09:00 a 17:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

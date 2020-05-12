@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Club Cohami"
-date: 2020-05-04 00:47:54 -0300
+title: "Sindicato COMESA"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Conciliación"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "094624751"
-direccion: "Club cohami - Millan y Lecoq"
+necesidades: ""
+telefono_contacto: "Claudio Vera: 099584720 "
+direccion: "Martin Ximeno 875 esq. Millán"
 
 otros_contactos: ""
-horario: "Sabados y Domingos"
+horario: "13 Hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

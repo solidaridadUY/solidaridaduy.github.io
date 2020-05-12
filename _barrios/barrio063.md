@@ -1,7 +1,7 @@
 ---
-nombre: "Flor de Maroñas"
+nombre: "Centro"
 departamento: "Montevideo"
 ---
 
-Barrio Flor de Maroñas
+Barrio Centro
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
-departamento: "Montevideo"
+nombre: "Hipodromo"
+departamento: "Maldonado"
 ---
 
-Barrio Aires Puros
-Departamento de Montevideo
+Barrio Hipodromo
+Departamento de Maldonado

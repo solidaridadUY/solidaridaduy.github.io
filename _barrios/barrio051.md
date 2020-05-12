@@ -1,7 +1,7 @@
 ---
-nombre: "Causeglia"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Causeglia
+Barrio Barrio Sur
 Departamento de Montevideo

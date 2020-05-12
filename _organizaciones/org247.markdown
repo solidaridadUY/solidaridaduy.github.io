@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "C.S. y D. La Bomba"
-date: 2020-05-04 00:47:54 -0300
+title: "Progreso Solidario"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
-barrio: "La Paz"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "098874147 - 097505521"
-direccion: "Sede C.S. y D. La Bomba"
+barrio: "Progreso"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "099472132 - 095903271"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
-horario: "Se reciben donaciones Lunes y Miercoles 19 hs."
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

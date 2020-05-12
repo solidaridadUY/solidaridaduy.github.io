@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "096104551 - 091036615"
-direccion: "Leandro Gómez y Canelones"
+necesidades: ""
+telefono_contacto: "093925021 - 095014751"
+direccion: "Treinta y Tres 4121 entre Juan y Ramón Ortíz"
 
 otros_contactos: ""
 horario: ""

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Barrio Benedetti"
+actividades: "Merienda"
+necesidades: "Leche en polvo azúcar y cocoa"
+telefono_contacto: "César: 099751824"
+direccion: "A 200 metros del comunal del Barrio"
+
+otros_contactos: ""
+horario: "17:00"
+aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Ombúes"
+nombre: "Plácido Ellauri"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Ombúes
+Barrio Plácido Ellauri
 Departamento de Montevideo

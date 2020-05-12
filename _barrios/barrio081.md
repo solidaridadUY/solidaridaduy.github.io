@@ -1,7 +1,7 @@
 ---
-nombre: "Monarca"
+nombre: "Larrañaga"
 departamento: "Montevideo"
 ---
 
-Barrio Monarca
+Barrio Larrañaga
 Departamento de Montevideo

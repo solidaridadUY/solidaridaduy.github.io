@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Sindicato COMESA"
-date: 2020-05-04 00:47:54 -0300
+title: "Vecinos de La Tablada"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Conciliación"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Claudio Vera: 099584720 "
-direccion: "Martin Ximeno 875 esq. Millán"
+necesidades: ""
+telefono_contacto: "Augusto 099894189 "
+direccion: "Lecocq 934 esq Millán "
 
 otros_contactos: ""
-horario: "Martes, Jueves, Sábado y Domingo 13 Hs."
+horario: "13 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

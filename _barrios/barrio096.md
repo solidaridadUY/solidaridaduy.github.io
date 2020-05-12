@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "Pajas Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio Pajas Blancas
 Departamento de Montevideo

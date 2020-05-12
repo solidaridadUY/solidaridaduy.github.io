@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de las Duranas"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de las Duranas
+Barrio Maroñas
 Departamento de Montevideo

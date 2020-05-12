@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Piriápolis"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "095030798"
+direccion: "Tucumán esquina Sierra"
+
+otros_contactos: ""
+horario: "20:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

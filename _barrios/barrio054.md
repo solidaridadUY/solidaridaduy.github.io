@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro
+Barrio Belvedere
 Departamento de Montevideo

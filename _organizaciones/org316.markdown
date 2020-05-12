@@ -2,19 +2,19 @@
 layout: organizacion
 
 title: "Asentamiento Fortaleza del Cerro"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
-actividades: "Merienda"
-necesidades: "Leche, azúcar, cocoa, alimentos para merienda"
+actividades: "Punto de Donación"
+necesidades: ""
 telefono_contacto: "097311550 Paola"
 direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
 
 otros_contactos: "097545426 Carla 
 097537971 Ximena"
-horario: "18 hs"
-aclaraciones: "Llevar vasito"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

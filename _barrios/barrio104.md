@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Cruces"
+nombre: "Piedras Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Cruces
+Barrio Piedras Blancas
 Departamento de Montevideo

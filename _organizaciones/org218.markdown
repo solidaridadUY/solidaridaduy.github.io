@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Proyecto Tío Julio"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "No corresponde"
-direccion: "Silva 3993 Entre Costanera y Fuentes"
+necesidades: ""
+telefono_contacto: "Julio"
+direccion: "Pasaje 121 1178"
 
-otros_contactos: "José"
+otros_contactos: ""
 horario: ""
-aclaraciones: "Vecinos Unidos , Lunes a Domingo de noche"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

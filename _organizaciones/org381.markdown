@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Grupo Social"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Pan de Azúcar"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "098194632"
+direccion: ""
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

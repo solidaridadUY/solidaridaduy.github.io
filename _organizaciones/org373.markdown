@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Zonal Tino Barrios"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Cerro Pelado"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "092370142"
+direccion: "SIERRA DE LAS CAÑAS ESQUINA VERDUN"
+
+otros_contactos: ""
+horario: "15:00 a 19:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

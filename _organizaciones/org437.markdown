@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Colectivo Elepé y Vecinxs"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Canelones"
+barrio: "\"18 de Mayo\""
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "099239735"
+direccion: "Pasaje 1 y pasaje 3"
+
+otros_contactos: ""
+horario: "Todo el dia"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Unión"
+nombre: "Pocitos"
 departamento: "Montevideo"
 ---
 
-Barrio Unión
+Barrio Pocitos
 Departamento de Montevideo

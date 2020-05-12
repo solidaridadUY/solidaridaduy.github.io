@@ -1,15 +1,15 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "JFA"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "096117341 (Sheila Rodríguez)"
-direccion: "Frente al Castillo de La Pilarica"
+necesidades: ""
+telefono_contacto: "092150814 - 092056943"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
 horario: ""

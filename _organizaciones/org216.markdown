@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: "Alimentos"
+actividades: "Merienda"
+necesidades: ""
 telefono_contacto: "No corresponde"
-direccion: "Royal Instrucciones 1200 A D2 "
+direccion: "Pasaje F, entre Av. Instrucciones y Gambeta (A 1 cuadra del liceo 60)"
 
-otros_contactos: "Nicolás"
-horario: "Domingo 13:30 horas"
+otros_contactos: ""
+horario: "18 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

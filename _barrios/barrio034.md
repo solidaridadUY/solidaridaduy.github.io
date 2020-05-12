@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
-departamento: "Montevideo"
+nombre: "Cerro Pelado"
+departamento: "Maldonado"
 ---
 
-Barrio Aguada
-Departamento de Montevideo
+Barrio Cerro Pelado
+Departamento de Maldonado

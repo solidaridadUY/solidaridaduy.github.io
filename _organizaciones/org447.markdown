@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Asociación Civil Rebeldía Organizada"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "San José"
+barrio: "Ciudad del Plata"
+actividades: "Punto de Donación"
+necesidades: "Carne, verdura, fruta, alimentos secos, gas"
+telefono_contacto: "091655068"
+direccion: "Av. Malecón y Av. Las Perlas"
+
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Tienen una lista de espera de 200 personas, les llevan las viandas a domicilio"
+cuenta_bancaria: "Caja de ahorro en pesos N°:0011925137-00001 (BROU). Red Pagos N° 72456.  Abitab : N° 109451 "
+
+---

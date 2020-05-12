@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-05-04 00:47:54 -0300
+title: "Cooperativa Tacuabe"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098964527"
-direccion: "Adolfo Rodíguez 6664 (Club Brandi)"
+necesidades: ""
+telefono_contacto: "099057783"
+direccion: "Clemeceau 937 Esq Cayetano silva"
 
-otros_contactos: "096450004"
-horario: "Diario, donaciones desde las 13 hs y olla a las 18 hs."
+otros_contactos: "093967875"
+horario: "12 a 17 hrs"
 aclaraciones: ""
-cuenta_bancaria: "(Brou) 000816328-00002"
+cuenta_bancaria: ""
 
 ---

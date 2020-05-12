@@ -1,7 +1,7 @@
 ---
-nombre: "Las Torres"
+nombre: "Cruz de Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Las Torres
+Barrio Cruz de Carrasco
 Departamento de Montevideo

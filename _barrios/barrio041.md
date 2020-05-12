@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
-departamento: "Montevideo"
+nombre: "Piriápolis"
+departamento: "Maldonado"
 ---
 
-Barrio Bella Vista
-Departamento de Montevideo
+Barrio Piriápolis
+Departamento de Maldonado

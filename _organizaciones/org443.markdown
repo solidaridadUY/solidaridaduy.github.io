@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Unidos"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Flores"
+barrio: "Barrio La Figurita"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Juan Díaz 098817858"
+direccion: "Capilla Santa Teresita Berro y Piedras"
+
+otros_contactos: ""
+horario: "De 17 a 20:30 hs"
+aclaraciones: "Usan las instalaciones de la capilla"
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Gimnasio Antoniello"
-date: 2020-05-04 00:47:54 -0300
+title: "Grupo de amigos"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de limpieza e higiene personal"
-telefono_contacto: "099538917 (Eduardo Ballini)"
-direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
+barrio: "No corresponde"
+actividades: "Particular que dona"
+necesidades: "Alimentos y fondos para compra de alimentos"
+telefono_contacto: "099162365"
+direccion: "No corresponde"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Martes, jueves y sábados, de 11:00 a 14:00"
-aclaraciones: "Coordinados con club Unión Atlética"
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: "No corresponde"
+aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
+cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
 
 ---

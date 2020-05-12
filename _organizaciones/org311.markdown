@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Parroquia San Alberto Hurtado"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Casabó"
 actividades: "Olla"
 necesidades: ""
-telefono_contacto: "099242821 Nestor"
-direccion: "Paralela a Estados Unidos 2604 esquina Pastor Smith"
+telefono_contacto: "095683306
+María y José"
+direccion: "Sierra Leona 141"
 
 otros_contactos: ""
-horario: "12:30hs"
+horario: "18 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

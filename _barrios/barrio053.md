@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
+nombre: "Bella Vista"
 departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
+Barrio Bella Vista
 Departamento de Montevideo

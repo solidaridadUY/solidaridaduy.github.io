@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "Colón"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio Colón
 Departamento de Montevideo

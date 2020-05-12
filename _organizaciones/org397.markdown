@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla Popular La cantera"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Olla"
+necesidades: "También precisan verduras"
+telefono_contacto: "095 636 657"
+direccion: "Hipólito Yrigoyen esquina Ciudad de azul"
+
+otros_contactos: ""
+horario: "19:30hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

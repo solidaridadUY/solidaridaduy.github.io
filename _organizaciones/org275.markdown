@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Club Progreso - Estación Atlántida"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Atlántida"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
+necesidades: ""
 telefono_contacto: "098047394"
 direccion: "Avenida Monseñor José Orsali, esquina Calle 41 (frente a carnicería progreso)"
 

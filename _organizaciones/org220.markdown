@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Boix Merino"
-date: 2020-05-04 00:47:54 -0300
+title: "Vecinos Euskalerría"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "094889164 - 095578924"
-direccion: "Calle 2 2240."
+necesidades: "Alimentos no perecederos y verduras"
+telefono_contacto: "095425068  093301890  095628133"
+direccion: "Costanera Euskalerría"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Reciben donaciones todos los días de 9:30 a 19:00 en Menorca 1905 y calle 4"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

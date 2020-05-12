@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Vecinxs y Colectivo ElePé"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Merienda"
+necesidades: "Leche en polvo, Pan y dulce de leche"
+telefono_contacto: "099239735"
+direccion: "Continuación Gruta de Lourdes."
+
+otros_contactos: "Leche en polvo"
+horario: "18 hs"
+aclaraciones: "Merendero Nuestro Sueño"
+cuenta_bancaria: ""
+
+---

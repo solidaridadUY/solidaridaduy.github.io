@@ -1,7 +1,7 @@
 ---
-nombre: "Rivera"
-departamento: "Rivera"
+nombre: "Unión"
+departamento: "Montevideo"
 ---
 
-Barrio Rivera
-Departamento de Rivera
+Barrio Unión
+Departamento de Montevideo

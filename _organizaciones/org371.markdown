@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Club de Bochas"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Piriápolis"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "095983054"
+direccion: "CLUB DE BOCHAS CALLE SALTA Y SOLEZZI"
+
+otros_contactos: ""
+horario: "18:30"
+aclaraciones: "Llevar recipiente"
+cuenta_bancaria: ""
+
+---

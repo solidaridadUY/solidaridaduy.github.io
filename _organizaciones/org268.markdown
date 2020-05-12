@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Sportivo Artigas"
-date: 2020-05-04 00:47:54 -0300
+title: "Mujeres en Alerta"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
-barrio: "Sauce"
+barrio: "Ciudad de la Costa"
 actividades: "Olla"
-necesidades: "Se reciben alimentos y donaciones hasta el 03/04"
-telefono_contacto: "099240201 092487833"
-direccion: "Ruta 6 km 34.500"
+necesidades: "Juegos/juguetes"
+telefono_contacto: "091786159 Sofía - 094972263 Karen"
+direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
 
 otros_contactos: ""
-horario: "Sábado 4 de abril - 19.30 hs"
-aclaraciones: "Llevar tupper"
+horario: ""
+aclaraciones: "Comunicarse antes por teléfono para anotarse para comidas"
 cuenta_bancaria: ""
 
 ---

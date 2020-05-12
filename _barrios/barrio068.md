@@ -1,7 +1,7 @@
 ---
-nombre: "La Paloma"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio La Paloma
+Barrio Ciudad Vieja
 Departamento de Montevideo

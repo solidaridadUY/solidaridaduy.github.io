@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Belvedere"
@@ -12,7 +12,7 @@ telefono_contacto: "095626343"
 direccion: "Esmeralda frente a la vía esq. Emancipación"
 
 otros_contactos: ""
-horario: " 17 hs"
+horario: "16:30 hs hasta 19hs aprox"
 aclaraciones: ""
 cuenta_bancaria: ""
 

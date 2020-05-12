@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Almacén Juan"
-date: 2020-05-04 00:47:54 -0300
+title: "Panadería Futuro Puerto"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Reconquista 247"
+direccion: "Guaraní 1370"
 
 otros_contactos: "094053638"
-horario: "8 a 20:30"
+horario: "24hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

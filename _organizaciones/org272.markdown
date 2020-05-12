@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Movimiento Barrial Solidario"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Peñarol"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
+necesidades: ""
 telefono_contacto: "099783722"
 direccion: "Aparicio Saravia y Coronel Raiz"
 
