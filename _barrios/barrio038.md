@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Lavalleja"
-departamento: "Montevideo"
+nombre: "La Capuera"
+departamento: "Maldonado"
 ---
 
-Barrio Barrio Lavalleja
-Departamento de Montevideo
+Barrio La Capuera
+Departamento de Maldonado

@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Nuevo París"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Nuevo París
 Departamento de Montevideo

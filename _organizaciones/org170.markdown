@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AEBU"
-date: 2020-05-04 00:47:54 -0300
+title: "Montevideo al Sur"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "-"
-direccion: "Aebu - Reconquista 570"
+barrio: "Barrio Sur"
+actividades: "Punto de Donación"
+necesidades: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
+telefono_contacto: "099228148"
+direccion: "Paraguay 1150 esquina Maldonado"
 
 otros_contactos: ""
-horario: "12hs"
-aclaraciones: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
+horario: "9.00 a 0.00 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

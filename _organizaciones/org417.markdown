@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "097322340
+Jonathan"
+direccion: "Burdeos 2911 esquina 17 Metros"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SOMOS - Acción en Red"
-date: 2020-05-04 00:47:54 -0300
+title: "Carnicería: Don Delgado"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Retiro de donaciones"
-necesidades: "Todo tipo de donaciones y fondos"
-telefono_contacto: "Instagram o Twitter: @somosaccionuy"
-direccion: "No corresponde"
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "22888485"
+direccion: "Ruta 8 km 23.800"
 
-otros_contactos: "e-mail: somos@somosaccion.uy"
-horario: "No corresponde"
-aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
+otros_contactos: ""
+horario: "19hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

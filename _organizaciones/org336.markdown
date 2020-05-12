@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "Cooperativa COVI 30 de Setiembre"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Tomkinson"

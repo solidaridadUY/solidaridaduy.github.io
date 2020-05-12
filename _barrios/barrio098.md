@@ -1,7 +1,7 @@
 ---
-nombre: "Puntas de Manga"
+nombre: "Parque Rodó"
 departamento: "Montevideo"
 ---
 
-Barrio Puntas de Manga
+Barrio Parque Rodó
 Departamento de Montevideo

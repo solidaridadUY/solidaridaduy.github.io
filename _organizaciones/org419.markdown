@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla de Todos: Vecinxs de Plácido Ellauri "
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Plácido Ellauri"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "094630049
+Lourdes"
+direccion: "José Ramírez entre Timbúes y Tubichas"
+
+otros_contactos: ""
+horario: "A partir de las 19:30"
+aclaraciones: "Comparten donaciones con otras dos ollas del barrio: Marconi y Barrio Borro"
+cuenta_bancaria: ""
+
+---

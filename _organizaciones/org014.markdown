@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Comité Bile Martínez"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Prado"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de higiene"
+necesidades: ""
 telefono_contacto: "092769462 094762392 098394643"
 direccion: "Islas Canarias 4264 esq. Juan Lavalle"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Pasan a buscar donaciones, colaboran con La Olla y reparten en zonas vulnerables"
+aclaraciones: "Pasan a buscar donaciones, colaboran con ollas y reparten en zonas vulnerables"
 cuenta_bancaria: ""
 
 ---

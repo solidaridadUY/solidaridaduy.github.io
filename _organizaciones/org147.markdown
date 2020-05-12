@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Salón del Sol"
-date: 2020-05-04 00:47:54 -0300
+title: "Super Lupín"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Ciudad Vieja"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Cerrito 732"
+direccion: "Perez Castellanos y Sarandí"
 
 otros_contactos: "094053638"
-horario: "9 a 18hs"
+horario: "8 a 19hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

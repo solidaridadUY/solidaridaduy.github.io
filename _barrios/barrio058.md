@@ -1,7 +1,7 @@
 ---
-nombre: "Colón"
+nombre: "Capurro"
 departamento: "Montevideo"
 ---
 
-Barrio Colón
+Barrio Capurro
 Departamento de Montevideo

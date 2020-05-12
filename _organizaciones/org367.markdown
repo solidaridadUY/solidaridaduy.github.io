@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Borro"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "096276625, 096652675"
-direccion: "Dr. Enrique Claveaux (Plaza de Palos)"
+departamento: "Maldonado"
+barrio: "Hipodromo"
+actividades: "Merienda"
+necesidades: "Leche en polvo azúcar y cocoa"
+telefono_contacto: "CAROL: 094838005"
+direccion: "Chanaes esquina Boanes. Frente a la plaza."
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "16:30 a 17:30"
+aclaraciones: "LLEVAR BOLSA PARA PAN O TORTAS Y RECIPIENTE PARA LA LECHE"
 cuenta_bancaria: ""
 
 ---

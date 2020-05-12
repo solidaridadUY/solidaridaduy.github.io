@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "La Boyada"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio La Boyada
 Departamento de Montevideo

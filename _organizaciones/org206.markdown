@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Red Solidaria Arerunguá"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Canelones"
-barrio: "Suárez"
-actividades: "Olla"
-necesidades: "Reciben donaciones "
-telefono_contacto: "093 687 106"
-direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
+departamento: "Montevideo"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: "Ropa"
+telefono_contacto: "092143478"
+direccion: "Soriano 1384"
 
 otros_contactos: ""
-horario: "Coordinar donaciones por mensaje de WhatsApp o llamar"
-aclaraciones: ""
+horario: "10 a 17 hs"
+aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
 cuenta_bancaria: ""
 
 ---

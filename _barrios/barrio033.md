@@ -1,7 +1,7 @@
 ---
-nombre: "Abayubá"
-departamento: "Montevideo"
+nombre: "Centro"
+departamento: "Maldonado"
 ---
 
-Barrio Abayubá
-Departamento de Montevideo
+Barrio Centro
+Departamento de Maldonado

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Capurro"
-date: 2020-05-04 00:47:54 -0300
+title: "Olla Popular Berro"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
+barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos y verduras"
-telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
-direccion: "Capurro 930 (Sindicato de trabajadores de la industria química)"
+necesidades: "Carne y verdura"
+telefono_contacto: "092630371 (Rosa)"
+direccion: "Enrique Ciancone esquina Roberto Berro"
 
-otros_contactos: ""
-horario: "18 a 20hs"
-aclaraciones: "Llevar tupper"
+otros_contactos: "096205657"
+horario: "20:00hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

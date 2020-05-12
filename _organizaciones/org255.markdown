@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "AUTE"
-date: 2020-05-04 00:47:54 -0300
+title: "ADEOM"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Maldonado"
 barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y artículos de limpieza"
-telefono_contacto: "42247611"
-direccion: "ZELMAR MICHELINI 775 "
+necesidades: ""
+telefono_contacto: "42225816"
+direccion: "ADEOM MALDONADO ROMAN GUERRA ESQUINA ITUZAINGO"
 
 otros_contactos: ""
-horario: "Lunes a Viernes 09:00 a 17:00"
+horario: "10:00 a 15:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

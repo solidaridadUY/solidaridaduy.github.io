@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Pizzeria El Triunfo"
-date: 2020-05-04 00:47:54 -0300
+title: "Intendencia de Canelones"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Empresa que dona"
-necesidades: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-telefono_contacto: "098735539"
-direccion: "Himalaya 3148"
+departamento: "Canelones"
+barrio: "Todos"
+actividades: "Canasta"
+necesidades: "No aplica"
+telefono_contacto: "Ver aclaraciones adicionales"
+direccion: "A domicilio"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
+otros_contactos: "092173550"
+horario: "Durante el día"
+aclaraciones: "092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
 cuenta_bancaria: ""
 
 ---

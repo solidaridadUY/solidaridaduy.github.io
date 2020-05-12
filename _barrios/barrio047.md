@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Capurro
+Barrio Aires Puros
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "La Peña Parrilla"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Jardines del Hipódromo"
+barrio: "Jacinto Vera"
 actividades: "Olla"
-necesidades: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
-telefono_contacto: "096 880 946"
-direccion: "José Piendibene 3642 esq. Lacio"
+necesidades: ""
+telefono_contacto: "2203 0311"
+direccion: "Pedernal 2151"
 
 otros_contactos: ""
-horario: "sábados y domingos, arranca a las 17 aprox"
-aclaraciones: "Llevar vianda, casa de familia"
+horario: "Entre 13 y 16hs"
+aclaraciones: "Llevar Vianda"
 cuenta_bancaria: ""
 
 ---

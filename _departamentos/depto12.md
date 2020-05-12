@@ -1,5 +1,5 @@
 ---
-nombre: "Tacuarembó"
+nombre: "Soriano"
 ---
 
-Departamento de Tacuarembó
+Departamento de Soriano

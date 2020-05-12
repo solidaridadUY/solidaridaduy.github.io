@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-05-04 00:47:54 -0300
+title: "Zonal Prado"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
+barrio: "Prado"
 actividades: "Olla"
 necesidades: ""
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+telefono_contacto: ""
+direccion: "En las ferias, en las esquinas:
+Millán y Larrañaga
+Asencio y Zapicán"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar recipiente"
+horario: "10 a 12hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

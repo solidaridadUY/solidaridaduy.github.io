@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Las Torres"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Las Torres
 Departamento de Montevideo

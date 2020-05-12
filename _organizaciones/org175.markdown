@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Jóvenes FA"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Paysandú"
-barrio: "No corresponde"
-actividades: "Realización de compras"
-necesidades: "No corresponde"
-telefono_contacto: "098247858"
+departamento: "Montevideo"
+barrio: "Pocitos"
+actividades: "Retiro de donaciones"
+necesidades: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
+telefono_contacto: "098220931"
 direccion: "No corresponde"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Realización de compras a población de riesgo"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

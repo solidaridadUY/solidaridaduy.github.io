@@ -1,7 +1,7 @@
 ---
-nombre: "Seis de Diciembre"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Seis de Diciembre
+Barrio Paso Molino
 Departamento de Montevideo

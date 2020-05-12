@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Colonia"
 barrio: "Nueva Helvecia"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
+necesidades: ""
 telefono_contacto: "091 471 165"
 direccion: "Av Gilomen 1448"
 
 otros_contactos: ""
-horario: "Entrega de viandas A partir de 21 hs"
+horario: " 21 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

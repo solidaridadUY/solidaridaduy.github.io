@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "097069405 (Virginia)
+091282021 (Mariana)
+095770714 (José)"
+direccion: "Barrios San Marcos, Razzetti y Pilarica"
+
+otros_contactos: ""
+horario: "20:00"
+aclaraciones: "Iniciativa en situación de urgencia"
+cuenta_bancaria: ""
+
+---

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal: Plaza Inve 17"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Pocitos"
-actividades: "Retiro de donaciones"
-necesidades: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
-telefono_contacto: "098220931"
-direccion: "No corresponde"
+barrio: "Colón"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Paula 094999829"
+direccion: "Inve 17 y La Quinta"
 
 otros_contactos: ""
-horario: ""
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

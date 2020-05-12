@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Rotisería El Garrison"
-date: 2020-05-04 00:47:54 -0300
+title: "Comité 13 de diciembre"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Muñoz"
-actividades: "Merienda"
+barrio: "Puntas de Manga"
+actividades: "Olla"
 necesidades: ""
-telefono_contacto: "092310955"
-direccion: "Domingo Aramburú 1840 esquina Democracia"
+telefono_contacto: ""
+direccion: "José Belloni 6032 entre Berro y Antares"
 
 otros_contactos: ""
-horario: "8 a 11hs
-18 a 19:30hs"
-aclaraciones: "Café con leche y tostadas con manteca"
+horario: "20hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

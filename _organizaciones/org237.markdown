@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Oratorio y Centro Juvenil El Carmen (Salesianos)"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "096101665 - 098942185"
-direccion: "Treinta y Tres esq. Wilson Ferreira Aldunate"
+necesidades: ""
+telefono_contacto: "096104551 - 091036615"
+direccion: "Leandro Gómez y Canelones"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "15 a 21"
+aclaraciones: "También arman canastas"
 cuenta_bancaria: ""
 
 ---

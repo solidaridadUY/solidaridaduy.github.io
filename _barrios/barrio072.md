@@ -1,7 +1,7 @@
 ---
-nombre: "Las Acacias"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio Las Acacias
+Barrio Cordón
 Departamento de Montevideo

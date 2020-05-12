@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Modistas"
-date: 2020-05-04 00:47:54 -0300
+title: "Mesa intersocial Paysandú"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: "No corresponde"
-telefono_contacto: "www.facebook.com/sonia.rodriguez.900"
-direccion: "Comunicarse por Facebook"
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "098307154"
+direccion: "Levantan a domicilio"
 
-otros_contactos: ""
+otros_contactos: "099486640"
 horario: ""
-aclaraciones: "Donan tapabocas hechos a mano"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

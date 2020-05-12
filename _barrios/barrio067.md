@@ -1,7 +1,7 @@
 ---
-nombre: "La Comercial"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio La Comercial
+Barrio Ciudad Vieja
 Departamento de Montevideo

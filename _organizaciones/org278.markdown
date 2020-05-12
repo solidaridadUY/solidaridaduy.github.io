@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Comité Victor Deri"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Pinamar"
 actividades: "Canasta"
-necesidades: "Se reciben donaciones"
+necesidades: ""
 telefono_contacto: "095639475 - 097530556"
 direccion: "No aplica"
 
 otros_contactos: ""
-horario: "Se va a buscar Martes, Jueves y Sábados de 17 a 19"
-aclaraciones: ""
+horario: "17 a 19"
+aclaraciones: "Se van a buscar las donaciones"
 cuenta_bancaria: ""
 
 ---

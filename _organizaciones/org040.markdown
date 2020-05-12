@@ -2,7 +2,7 @@
 layout: organizacion
 
 title: "MIRAMAR BBC"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Buceo"
@@ -12,7 +12,7 @@ telefono_contacto: "099926182"
 direccion: "Santiago Gadea 3537"
 
 otros_contactos: ""
-horario: "Lunes 30 a viernes 3, de 10 a 12 y de 17.30 a 19 hs."
+horario: "10 a 12 hs y 17:30 a 19:00 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

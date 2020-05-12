@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Seis de Diciembre"
-actividades: "Merienda"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
 necesidades: ""
-telefono_contacto: "092085983"
-direccion: "Tomás Gonzalez Padrón 5530"
+telefono_contacto: "097992973 - 099239735"
+direccion: "Bolivia esq. Instrucciones del Año XIII"
 
 otros_contactos: ""
-horario: "En la tarde"
-aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

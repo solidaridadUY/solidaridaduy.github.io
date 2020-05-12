@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Olla Popular Boix Merino - Organización Barrial La Bombonera"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Punto de Donación"
+necesidades: "Garrafa"
+telefono_contacto: "095578924 Paola
+094889164 Javier
+0998994666 Joaquin"
+direccion: "Menorca 1905 y Calle 4"
+
+otros_contactos: ""
+horario: "9:30 a 19:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

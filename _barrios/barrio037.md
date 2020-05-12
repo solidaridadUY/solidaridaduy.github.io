@@ -1,7 +1,7 @@
 ---
-nombre: "Arroyo Seco"
-departamento: "Montevideo"
+nombre: "La Barra"
+departamento: "Maldonado"
 ---
 
-Barrio Arroyo Seco
-Departamento de Montevideo
+Barrio La Barra
+Departamento de Maldonado

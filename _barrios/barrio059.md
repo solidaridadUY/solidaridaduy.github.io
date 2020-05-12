@@ -1,7 +1,7 @@
 ---
-nombre: "Conciliación"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Conciliación
+Barrio Casabó
 Departamento de Montevideo

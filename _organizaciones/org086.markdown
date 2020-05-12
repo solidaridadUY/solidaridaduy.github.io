@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Estrella de Oro"
-date: 2020-05-04 00:47:54 -0300
+title: "Merendero Nuevo Amanecer"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Alimentos, productos de higiene y limpieza"
-telefono_contacto: "096098766 Yessica"
-direccion: "Clemente Ruggia y Ma del Rosario Ramos (salón de la cancha)"
+necesidades: ""
+telefono_contacto: "095286057 Ana"
+direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
 
 otros_contactos: ""
-horario: "19hs"
-aclaraciones: "Llevar tupper, olla de demanda muy creciente. Solicitan guantes y tapabocas para las personas voluntarias"
+horario: "20hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

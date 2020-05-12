@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Unión Atlética"
-date: 2020-05-04 00:47:54 -0300
+title: "SOMOS - Acción en Red"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y productos de limpieza e higiene personal"
-telefono_contacto: "Santiago Armas (098 894 273)"
-direccion: "Club Unión Atlética, Velsen 4509"
+barrio: "No corresponde"
+actividades: "Retiro de donaciones"
+necesidades: "Todo tipo de donaciones y fondos"
+telefono_contacto: "Ver redes más abajo"
+direccion: "No corresponde"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Miércoles y viernes de 15:30 a 17:00"
-aclaraciones: "Coordinados con Gimnasio Antoniello"
+otros_contactos: "e-mail: somos@somosaccion.uy"
+horario: "No corresponde"
+aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
 cuenta_bancaria: ""
 
 ---

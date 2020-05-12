@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Manga
 Departamento de Montevideo

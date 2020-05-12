@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Viandas a domicilio"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Colonia"
 barrio: "Rosario"
 actividades: "Canasta"
-necesidades: "Se reciben donaciones"
+necesidades: ""
 telefono_contacto: "099550034"
 direccion: "No aplica"
 

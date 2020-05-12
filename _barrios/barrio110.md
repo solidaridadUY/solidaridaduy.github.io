@@ -1,7 +1,7 @@
 ---
-nombre: "Villa García"
+nombre: "Reducto"
 departamento: "Montevideo"
 ---
 
-Barrio Villa García
+Barrio Reducto
 Departamento de Montevideo

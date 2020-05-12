@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Maldonado Solidario"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Realización de compras"
+necesidades: "No aplica"
+telefono_contacto: "99814995 y 099390621"
+direccion: ""
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Hacen las compras y otros trámites que necesiten personas mayores o enfermas"
+cuenta_bancaria: ""
+
+---

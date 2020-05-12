@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Brigada Feminista"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Merienda"
+necesidades: "Leche en polvo, cocoa, galletas, frutas, harina, azúcar, maicena, mermeladas, dulces"
+telefono_contacto: "Gabriela: 098395475"
+direccion: "Isabel de Castilla y Minas B. Kennedy"
+
+otros_contactos: ""
+horario: "16:30 a 18:00"
+aclaraciones: "Llevar recipiente, termo o botella para el chocolate. Iniciativa en situación de urgencia"
+cuenta_bancaria: ""
+
+---

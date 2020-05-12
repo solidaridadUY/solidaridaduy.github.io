@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa ciudadana: CANASTAS UY"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+barrio: "No corresponde"
+actividades: "Canasta"
+necesidades: "Ofrecer trabajo voluntario en el armado de las canastas."
+telefono_contacto: "No corresponde"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: "9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
+otros_contactos: "@CanastasUy en IG"
+horario: ""
+aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
 cuenta_bancaria: ""
 
 ---

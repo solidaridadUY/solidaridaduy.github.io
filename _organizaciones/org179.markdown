@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Plaza Inve 17"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal: Parque de los Fogones"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Sayago"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Paula 094999829"
-direccion: "Inve 17 y La Quinta"
+necesidades: ""
+telefono_contacto: "094951553"
+direccion: "Parque de los Fogones - Av. Millán y Martin Ximeno"
 
 otros_contactos: ""
-horario: "Sábados y Domingos"
+horario: "Sabados y Domingos"
 aclaraciones: ""
 cuenta_bancaria: ""
 

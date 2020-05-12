@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Asociación de Familiares y Víctimas de la Delincuencia"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "No corresponde"
 actividades: "Canasta"
-necesidades: "Reciben productos no perecederos y de limpieza"
+necesidades: ""
 telefono_contacto: "098989724"
 direccion: "No aplica"
 

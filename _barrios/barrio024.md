@@ -1,7 +1,7 @@
 ---
-nombre: "Rosario"
-departamento: "Colonia"
+nombre: "Barrio La Figurita"
+departamento: "Flores"
 ---
 
-Barrio Rosario
-Departamento de Colonia
+Barrio Barrio La Figurita
+Departamento de Flores

@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Canasta amiga"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Rivera"
 barrio: "Rivera"
 actividades: "Canasta"
-necesidades: "Alimentos no perecederos y donaciones a colectivo Abitab"
+necesidades: "Apoyo económico"
 telefono_contacto: "099997818, 098553359, 099421362"
 direccion: "No corresponde"
 

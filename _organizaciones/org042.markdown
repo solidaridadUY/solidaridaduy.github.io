@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cruz de Carrasco"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, verduras, implementos de cocina, sanitarios, garrafa/anafe o similar"
+necesidades: "También precisan verduras, implementos de cocina, sanitarios, garrafa/anafe o similar."
 telefono_contacto: "098238589"
 direccion: "Camino Oncativo 2918 (Casona Covicruz)"
 
 otros_contactos: "Donaciones: 099102799 - 099629422"
-horario: "Sábados 12 horas"
+horario: "12 hs"
 aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
 cuenta_bancaria: ""
 

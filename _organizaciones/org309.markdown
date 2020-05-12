@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal "
-date: 2020-05-04 00:47:54 -0300
+title: "Club Social y Deportivo Iriarte"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Belvedere"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "095633449 Virginia"
-direccion: "Emancipación esquina Aldao"
+necesidades: "Verduras y Carne"
+telefono_contacto: "095109490
+Walter"
+direccion: "Tampico esquina Emancipación"
 
 otros_contactos: ""
-horario: "A partir de 17hs"
+horario: "A partir de 12hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

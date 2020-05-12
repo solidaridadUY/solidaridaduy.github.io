@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club 25 de agosto"
-date: 2020-05-04 00:47:54 -0300
+title: "El abrojo"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Dolores"
+barrio: "Paso Molino"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "099337003"
-direccion: "José L. Bado 3186"
+necesidades: ""
+telefono_contacto: "098424814"
+direccion: "Vicente Basagoity 3922"
 
-otros_contactos: "099629958  094204040"
-horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
-aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
+otros_contactos: ""
+horario: "13 a 18 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

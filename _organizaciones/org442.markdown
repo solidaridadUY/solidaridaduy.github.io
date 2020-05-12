@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Manos Unidas"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Flores"
+barrio: "Trinidad"
+actividades: "Olla"
+necesidades: "Carne"
+telefono_contacto: "Ruben Montaño 098280668"
+direccion: "Batlle 1057"
+
+otros_contactos: ""
+horario: "De 16:30 a 22 hs aproximadamente"
+aclaraciones: "Con la vianda se entrega pan, 2 litros de leche y fruta"
+cuenta_bancaria: ""
+
+---

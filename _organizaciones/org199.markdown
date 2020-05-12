@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "RED DE MERENDEROS"
-date: 2020-05-04 00:47:54 -0300
+title: "Los Pinos Baby"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Barros Blancos"
-actividades: "Merienda"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "095509142"
-direccion: "Villa La Colina - Rincón esq. 25 de agosto frente al Huracán Siré"
+actividades: "Canasta"
+necesidades: ""
+telefono_contacto: "092 663 361, 099 748 875, 098 557 244"
+direccion: "Ruta 8 km 26 - Cancha Los Pinos"
 
 otros_contactos: ""
-horario: "Sábados, con previa coordinación"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

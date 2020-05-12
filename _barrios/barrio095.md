@@ -1,7 +1,7 @@
 ---
-nombre: "Pocitos"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Pocitos
+Barrio Nuevo Verdisol
 Departamento de Montevideo

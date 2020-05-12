@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité 26 de Julio"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Cruces"
-actividades: "Punto de Donación"
-necesidades: " Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
-telefono_contacto: "099440037"
-direccion: "Cufré 1800 esquina Ferrer Serra"
+barrio: "Jardines del Hipódromo"
+actividades: "Olla"
+necesidades: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
+telefono_contacto: "096 880 946"
+direccion: "José Piendibene 3642 esq. Lacio"
 
 otros_contactos: ""
-horario: "17 a 20hs"
-aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
+horario: "sábados y domingos, arranca a las 17 aprox"
+aclaraciones: "Llevar vianda, casa de familia"
 cuenta_bancaria: ""
 
 ---

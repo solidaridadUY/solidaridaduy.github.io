@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Grande"
+nombre: "Barrio B9"
 departamento: "Maldonado"
 ---
 
-Barrio Playa Grande
+Barrio Barrio B9
 Departamento de Maldonado

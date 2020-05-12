@@ -1,7 +1,7 @@
 ---
-nombre: "Suárez"
+nombre: "Tala"
 departamento: "Canelones"
 ---
 
-Barrio Suárez
+Barrio Tala
 Departamento de Canelones

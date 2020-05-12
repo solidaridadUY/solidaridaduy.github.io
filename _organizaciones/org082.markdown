@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "El rancho"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "23051061"
-direccion: "Heredia y Martin Berindague"
+actividades: "Punto de Donación"
+necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
+telefono_contacto: "094097964  095495396  094900817"
+direccion: "Consultar telefónicamente"
 
-otros_contactos: "094524282"
-horario: "11 a 13 hs"
+otros_contactos: ""
+horario: "Durante el día"
 aclaraciones: ""
 cuenta_bancaria: ""
 

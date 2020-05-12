@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Profes del liceo de Playa"
-date: 2020-05-04 00:47:54 -0300
+title: "A la olla con los profes"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "San José"
 barrio: "Playa Pascual"
 actividades: "Punto de Donación"
-necesidades: "Reciben donaciones"
-telefono_contacto: "092 983 301"
-direccion: "Río de la Plata esquina Carlos Reyles (Comisión Vecinal Playa Pascual)"
+necesidades: "Reciben donaciones de Alimentos no perecederos y ropa de abrigo"
+telefono_contacto: "Sophia Bellotti 092983301"
+direccion: "Comisión Vecinal Playa Pascual Avda. Río de la Plata Parada 3"
 
 otros_contactos: ""
-horario: "Lunes, Miércoles y Viernes de 12 a 13.30 hs."
+horario: "08.30 a 14:00hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

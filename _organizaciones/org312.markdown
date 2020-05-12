@@ -1,19 +1,18 @@
 ---
 layout: organizacion
 
-title: "Parroquia San Alberto Hurtado"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
+barrio: "Causeglia"
 actividades: "Olla"
 necesidades: ""
-telefono_contacto: "095683306
-María y José"
-direccion: "Sierra Leona 141"
+telefono_contacto: "093665410 María José"
+direccion: "Pasaje Pereda Solar 31 esquina Cuñatahí"
 
 otros_contactos: ""
-horario: "18 hs"
+horario: "20 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

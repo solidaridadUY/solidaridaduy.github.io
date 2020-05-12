@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Palermo"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Palermo
 Departamento de Montevideo

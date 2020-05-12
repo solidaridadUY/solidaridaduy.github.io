@@ -1,0 +1,25 @@
+---
+layout: organizacion
+
+title: "Olla y meriendas"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Leche"
+telefono_contacto: "Venancio Vargas
+Mariana Massarino
+094213482
+097470966
+"
+direccion: "San Martìn y Domingo Arena"
+
+otros_contactos: ""
+horario: "Jueves de noche (reparten viandas).
+Domingos 19:30 hs"
+aclaraciones: "Reciben donaciones del colectivo Clara Jackson
+"
+cuenta_bancaria: ""
+
+---

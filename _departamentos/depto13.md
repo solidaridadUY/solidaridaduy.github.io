@@ -1,5 +1,5 @@
 ---
-nombre: "Treinta y Trés"
+nombre: "Tacuarembó"
 ---
 
-Departamento de Treinta y Trés
+Departamento de Tacuarembó

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "SERPAJ"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
+barrio: "Cordón"
 actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "094097964  095495396  094900817"
-direccion: "Consultar telefónicamente"
+necesidades: ""
+telefono_contacto: "24085301"
+direccion: "Requena 1642 entre 18 de Julio y Colonia"
 
 otros_contactos: ""
-horario: "Durante el día"
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

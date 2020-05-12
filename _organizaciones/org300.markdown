@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Olla Popular Club Sayago"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Sayago"
-actividades: "Punto de Donación"
+actividades: "Olla"
 necesidades: ""
 telefono_contacto: "Gimena Fernández 096778461"
 direccion: "Camino Ariel 4961 y la Vía"
 
 otros_contactos: "23591125"
-horario: "9 a 13 hs"
-aclaraciones: ""
+horario: "12 hs"
+aclaraciones: "Entrega de viandas"
 cuenta_bancaria: ""
 
 ---

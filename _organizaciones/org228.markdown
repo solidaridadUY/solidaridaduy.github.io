@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Canelones"
 barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "097992973 - 099239735"
-direccion: "Bolivia esq. Instrucciones del Año XIII"
+necesidades: ""
+telefono_contacto: "094827612 (María)"
+direccion: "Complejo Libertad - Vivienda 34 D - La Pilarica"
 
 otros_contactos: ""
 horario: ""

@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio Lezica
 Departamento de Montevideo

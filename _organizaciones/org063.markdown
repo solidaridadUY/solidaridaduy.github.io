@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Club Estudiantes de la Unión"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Unión"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, carne, artículos de limpieza y ropa de abrigo"
+necesidades: "Verduras, frutas, aceite, papas, y alimentos no perecederos"
 telefono_contacto: "094460660"
 direccion: "Cabrera y Pernas"
 

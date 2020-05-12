@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Pascual"
-departamento: "San José"
+nombre: "Villa García"
+departamento: "Montevideo"
 ---
 
-Barrio Playa Pascual
-Departamento de San José
+Barrio Villa García
+Departamento de Montevideo

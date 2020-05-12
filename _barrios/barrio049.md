@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
+nombre: "Arroyo Seco"
 departamento: "Montevideo"
 ---
 
-Barrio Casavalle
+Barrio Arroyo Seco
 Departamento de Montevideo

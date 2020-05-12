@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-05-04 00:47:54 -0300
+title: "Liceo de Tala"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Malvín Norte"
+departamento: "Canelones"
+barrio: "Tala"
 actividades: "Punto de Donación"
-necesidades: "Recaudación de alimentos no perecederos"
-telefono_contacto: "092929791"
-direccion: "8 de octubre y Villagrán 4173"
+necesidades: "Alimentos de olla"
+telefono_contacto: "095417092"
+direccion: "Liceo de Tala"
 
 otros_contactos: ""
-horario: "Lunes y viernes de 16 a 18 hs"
+horario: "Durante el día"
 aclaraciones: ""
 cuenta_bancaria: ""
 

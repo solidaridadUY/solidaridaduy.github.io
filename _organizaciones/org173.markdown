@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "La Cretina Casa de Arte"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Olla"
+departamento: "Paysandú"
+barrio: "No corresponde"
+actividades: "Realización de compras"
 necesidades: ""
-telefono_contacto: "099228148"
-direccion: "Soriano 1236 esquina Carlos Quijano"
+telefono_contacto: "098247858"
+direccion: "No corresponde"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
+aclaraciones: "Realización de compras a población de riesgo"
 cuenta_bancaria: ""
 
 ---

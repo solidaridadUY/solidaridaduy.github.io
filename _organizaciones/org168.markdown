@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Vecines"
-date: 2020-05-04 00:47:54 -0300
+title: "AEBU"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
+barrio: "Ciudad Vieja"
 actividades: "Olla"
-necesidades: "Alimentos para comida de olla"
-telefono_contacto: "091994815 (Marcela) - 099920303"
-direccion: "Agaces y Irureta Goyena"
+necesidades: ""
+telefono_contacto: "-"
+direccion: "Aebu - Reconquista 570"
 
 otros_contactos: ""
-horario: "16:30 a 19:00 hs"
-aclaraciones: "Pasan a buscar donaciones en la zona. Entregan plato"
+horario: "12hs"
+aclaraciones: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
 cuenta_bancaria: ""
 
 ---

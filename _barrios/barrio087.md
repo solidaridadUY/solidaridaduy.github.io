@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Malvín"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Malvín
 Departamento de Montevideo

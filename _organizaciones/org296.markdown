@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "Organización vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro Norte"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
+necesidades: "Alimentos"
 telefono_contacto: "096539004
 Gladys"
 direccion: "Vizcaya y Santa Cruz de la Sierra"

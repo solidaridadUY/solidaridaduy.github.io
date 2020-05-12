@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ollas y Canastas Solidarias"
-date: 2020-05-04 00:47:54 -0300
+title: "Club Brandi"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
+barrio: "Conciliación"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos, frutas y verduras, Artículos de limpieza, tuppers, cubiertos descartables"
-telefono_contacto: "098422915 099841142 094807175 099927956 091252622"
-direccion: ""
+necesidades: "Alimentos no percederos, productos de higiene y limpieza"
+telefono_contacto: "098964527 096450004"
+direccion: "Adolfo Rodriguez 6738"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Llevar tupper.                                                                                                                                   Por más información sobre las ollas que realiza esta organización, visitar sus redes sociales."
+horario: "18 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
-date: 2020-05-04 00:47:54 -0300
+title: "Librería Diomedes"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos para canastas y merienda"
-telefono_contacto: "098697902 Camila Sosa"
-direccion: "Zelmar Michelini 993"
+barrio: "Parque Rodó"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "2403 4713"
+direccion: "Bulevar España 2129 esquina Pablo de María"
 
-otros_contactos: "099005299 Sofía Raffaelli"
-horario: "Consultar telefónicamente"
-aclaraciones: "Donaciones para canastas los días jueves"
-cuenta_bancaria: "Raíces I BROU caja de ahorros pesos ($) 001930334-00001"
+otros_contactos: ""
+horario: " 20.30 hs"
+aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
+cuenta_bancaria: ""
 
 ---

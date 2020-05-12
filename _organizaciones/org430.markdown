@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Trabajadores y artistas del circo"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Punto de Donación"
+necesidades: "Alimentos para armar canastas"
+telefono_contacto: "Jonathan Artigas 099216829"
+direccion: "Coordinar donaciones telefónicamente"
+
+otros_contactos: ""
+horario: "Coordinar telefónicamente"
+aclaraciones: "Trabajadores y familiares del circo uruguayos y de otros países de latinoamerica se encuentran sin ingresos y sin poder volver a sus países. Se mueven con el circo. Argentina, Ecuador, Montevideo, Canelones."
+cuenta_bancaria: ""
+
+---

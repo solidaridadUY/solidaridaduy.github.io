@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité 13 de diciembre"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Puntas de Manga"
+departamento: "Maldonado"
+barrio: "Barrio Benedetti"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: ""
-direccion: "José Belloni 6032 entre Berro y Antares"
+necesidades: "Alimentos no perecederos (principalmente fideos y arroz)"
+telefono_contacto: "César: 099751823"
+direccion: "Comunal del Barrio"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar recipiente"
+horario: "20:00"
+aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
 cuenta_bancaria: ""
 
 ---

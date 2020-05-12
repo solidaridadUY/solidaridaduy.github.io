@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Arerunguá"
-date: 2020-05-04 00:47:54 -0300
+title: "Olla Capurro"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y ropa"
-telefono_contacto: "092143478"
-direccion: "Soriano 1384"
+barrio: "Capurro"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos y verduras"
+telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
+direccion: "Capurro 930 (Sindicato de trabajadores de la industria química)"
 
 otros_contactos: ""
-horario: "10 a 17 hs"
-aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
+horario: "Lunes a viernes: 18 a 20hs / Sábados: 11 a 12 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

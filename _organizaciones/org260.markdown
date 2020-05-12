@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Rocha"
-barrio: "Barra de Chuy"
+departamento: "Montevideo"
+barrio: "Monarca"
 actividades: "Olla"
-necesidades: "Se reciben alimentos no perecederos."
-telefono_contacto: "091 362 750"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "094649196"
+direccion: "Salón comunal Barrio Monarca; al lado de la Policlínica, en la calle Pasaje Central y la Calle 4, cerca de ruta 8.  "
 
 otros_contactos: ""
-horario: "Durante el día"
-aclaraciones: "Contactar vía telefónica para solicitar apoyo."
+horario: "Lunes a viernes a partir de las 19:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

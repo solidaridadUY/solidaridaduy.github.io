@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "INVE 17"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+necesidades: ""
+telefono_contacto: "Gladys: 094068329
+"
+direccion: "Fernando Menck 5880  -INVE 17
+"
+
+otros_contactos: ""
+horario: "18hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

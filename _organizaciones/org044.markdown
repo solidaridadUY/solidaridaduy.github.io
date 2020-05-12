@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Inter Sindical PIT-CNT"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Malvín Norte"
+departamento: "Canelones"
+barrio: "Santa Lucía"
 actividades: "Olla"
-necesidades: "Alimentos para olla y una olla grande"
-telefono_contacto: "095 636 657"
-direccion: "Hipólito Yrigoyen e Iguá"
+necesidades: "Alimentos"
+telefono_contacto: "098691711        092213138  092249381"
+direccion: "Ramón Irigoyen entre 18 de Julio y Mitre"
 
 otros_contactos: ""
-horario: "Todos los días 19:30"
-aclaraciones: ""
+horario: "Entrega de vianda todos los días. Sábados y domingos también merienda"
+aclaraciones: "Se reciben las donaciones en el horario de 17.00 a 20.00 hs en el local de la Inter Sindical del PIT-CNT"
 cuenta_bancaria: ""
 
 ---

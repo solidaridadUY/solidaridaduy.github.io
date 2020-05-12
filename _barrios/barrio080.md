@@ -1,7 +1,7 @@
 ---
-nombre: "Maroñas"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Maroñas
+Barrio La Teja
 Departamento de Montevideo

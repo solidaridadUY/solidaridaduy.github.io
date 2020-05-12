@@ -2,12 +2,12 @@
 layout: organizacion
 
 title: "OLLA POPULAR - Vecines"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
 actividades: "Olla"
-necesidades: "Reciben donaciones"
+necesidades: ""
 telefono_contacto: ""
 direccion: "Grecia esq. Barcelona"
 

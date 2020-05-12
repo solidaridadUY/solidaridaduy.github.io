@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio Larrañaga
+Barrio Cordón
 Departamento de Montevideo

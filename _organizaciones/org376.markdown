@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Kavlin Centro Cultural"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Punta del Este"
+actividades: "Punto de Donación"
+necesidades: "Ropa de abrigo, frazadas, alimentos no perecederos"
+telefono_contacto: "095919092"
+direccion: ""
+
+otros_contactos: "42253866"
+horario: ""
+aclaraciones: "Reciben donaciones coordinando por teléfono y retiran a domicilio coordinando en este número: 094910906. Para donar carne o verduras coordinar con: 091056711."
+cuenta_bancaria: ""
+
+---

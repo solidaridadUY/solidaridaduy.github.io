@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os de la Gruta."
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa Vecinal Todos Juntos"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Granos, verduras."
-telefono_contacto: "095229074 (Angélica)"
-direccion: "Gruta de Lourdes."
+barrio: "Larrañaga,La Blanqueada"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "098324142"
+direccion: "Emilio Raña 2915 esq. Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Atienden a 70 personas, con porciones de 3 litros."
+horario: "Martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs"
+aclaraciones: "Coordinar telefónicamente por retiro de donaciones. DIstribuyen las donaciones en distintas ollas de Montevideo."
 cuenta_bancaria: ""
 
 ---

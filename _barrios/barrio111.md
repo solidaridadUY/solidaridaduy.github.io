@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Muñoz"
+nombre: "Santa Catalina"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Muñoz
+Barrio Santa Catalina
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cuerpo docente Liceo Número 2"
-date: 2020-05-04 00:47:54 -0300
+title: "Modistas"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Rivera"
 barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Alimentos y productos de limpieza para canastas"
-telefono_contacto: "094955669"
-direccion: "Barrio Rivera Chico"
+actividades: "Empresa que dona"
+necesidades: ""
+telefono_contacto: ""
+direccion: ""
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Donan tapabocas hechos a mano. Comunicarse por Facebook"
 cuenta_bancaria: ""
 
 ---

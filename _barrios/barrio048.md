@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Casabó
+Barrio Aires Puros
 Departamento de Montevideo

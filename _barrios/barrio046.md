@@ -1,7 +1,7 @@
 ---
-nombre: "Cabaña Anaya"
+nombre: "Aguada"
 departamento: "Montevideo"
 ---
 
-Barrio Cabaña Anaya
+Barrio Aguada
 Departamento de Montevideo

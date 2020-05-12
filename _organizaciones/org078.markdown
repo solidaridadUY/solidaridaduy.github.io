@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Barrio Lavalleja"
-date: 2020-05-04 00:47:54 -0300
+title: "Jóvenes FA"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
+barrio: "Malvín Norte"
 actividades: "Punto de Donación"
-necesidades: "Retiramos Tu donación"
-telefono_contacto: "098865307-Florencia"
-direccion: "No corresponde"
+necesidades: ""
+telefono_contacto: "092929791"
+direccion: "8 de octubre y Villagrán 4173"
 
-otros_contactos: "094357002  Hugo"
-horario: "durante el día"
-aclaraciones: "Retiramos tu donación"
+otros_contactos: ""
+horario: "16 a 18 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

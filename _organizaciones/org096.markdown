@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Montevideo"
-barrio: "Colón"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Punto de Donación"
 necesidades: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "091269590"
-direccion: "Amandau 5722 esq. Eduardo Raíz"
+telefono_contacto: "099699322"
+direccion: "Wilson Ferreira Aldunate 712"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 11 a 16 hs"
+horario: "Lunes a viernes de 9 a 15 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

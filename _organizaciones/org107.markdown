@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "SUAP"
-date: 2020-05-04 00:47:54 -0300
+title: "Asociación Civil Monte de la Francesa"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
+barrio: "Colón"
 actividades: "Punto de Donación"
-necesidades: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
-telefono_contacto: "29011982"
-direccion: "Local Fuecys (Río Negro 1210)"
+necesidades: ""
+telefono_contacto: "093 753 642"
+direccion: "Iturbe y Lanus (en el teatro)"
 
-otros_contactos: ""
-horario: "10 a 17 hs"
+otros_contactos: "2320 8307"
+horario: "15 a 19 hrs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

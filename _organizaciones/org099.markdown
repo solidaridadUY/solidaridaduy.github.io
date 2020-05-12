@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Liga universitaria, Paysandú"
-date: 2020-05-04 00:47:54 -0300
+title: "Comité Parque Rodó"
+date: 2020-05-12 12:21:54 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
-actividades: "Canasta"
-necesidades: "Reciben todo tipo de donaciones"
-telefono_contacto: "091401964"
-direccion: "No corresponde, donaciones a coordinar"
+departamento: "Montevideo"
+barrio: "Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: ""
+telefono_contacto: "099440874 Santiago
+099421627 Paloma
+095382471 Joaquin"
+direccion: "Gonzalo Ramírez y Eduardo Acevedo"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "BROU, CA$ 001409166-00002"
+horario: "17 a 19"
+aclaraciones: "Acopio de donaciones para las ollas de la zona de la coordinadora B"
+cuenta_bancaria: ""
 
 ---

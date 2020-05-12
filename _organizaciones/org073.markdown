@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Red Solidaria Barrio Lavalleja"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Se brinda alimento "
+necesidades: ""
 telefono_contacto: "098865307 (Florencia)"
 direccion: "Av de las instrucciones Esq Silva, Teatro del Barrio"
 
 otros_contactos: "094357002 Hugo"
-horario: "12-14; 17:30 a 19:30, Sábado 16hrs"
+horario: "Lunes a Viernes: 12 a 14 hs y 17:30 a 19:30. Sábado: 16hrs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

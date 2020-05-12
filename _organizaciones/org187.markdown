@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Angel (almacén y flia)"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Abayubá"
-actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "Mirtha Gao"
-direccion: "Cno de la Justicia y Abayubá"
+barrio: "Casavalle"
+actividades: "Merienda"
+necesidades: "Leche y verduras."
+telefono_contacto: "092671301"
+direccion: "San Ramón, solar 6, Barrio 1 de Mayo (Galpón al costado del almacén)"
 
 otros_contactos: ""
-horario: "Todos los días de tarde"
-aclaraciones: ""
+horario: "8 a 10 hs"
+aclaraciones: "Ángel y su flia tienen vivienda en el barrio 1° de Mayo y tienen un almacén, donde elaboran la comida y panes para la iniciativa (han recibido donaciones) Inicitiva de Ángel y su flia, actualmente funciona a partir de donaciones e ingresos de la flia"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "La Peña Parrilla"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
+barrio: "Jardines del Hipódromo"
 actividades: "Olla"
-necesidades: ""
-telefono_contacto: "2203 0311"
-direccion: "Pedernal 2151"
+necesidades: "Lo que diariamente más falta es carne, frutas/verduras y pan."
+telefono_contacto: "099734480"
+direccion: "David Chiossoni 3585"
 
 otros_contactos: ""
-horario: "Entre 13 y 16hs"
-aclaraciones: "Llevar Vianda"
-cuenta_bancaria: ""
+horario: "martes y jueves 20hs"
+aclaraciones: "Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
+cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
 
 ---

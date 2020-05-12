@@ -1,7 +1,7 @@
 ---
-nombre: "Pajas Blancas"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Pajas Blancas
+Barrio Los Bulevares
 Departamento de Montevideo

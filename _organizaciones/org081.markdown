@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "El rancho"
-date: 2020-05-04 00:47:54 -0300
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "La Teja"
-actividades: "Punto de Donación"
+actividades: "Olla"
 necesidades: ""
 telefono_contacto: "23051061"
 direccion: "Heredia y Martin Berindague"
 
 otros_contactos: "094524282"
-horario: "Durante el día"
-aclaraciones: "Coordinación Telefónica"
+horario: "11 a 13 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

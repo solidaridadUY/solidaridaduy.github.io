@@ -1,7 +1,7 @@
 ---
-nombre: "Jardines del Hipódromo"
+nombre: "Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Jardines del Hipódromo
+Barrio Cerro
 Departamento de Montevideo

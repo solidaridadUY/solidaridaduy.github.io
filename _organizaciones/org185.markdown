@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Repique"
-date: 2020-05-04 00:47:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Abayubá"
 actividades: "Olla"
-necesidades: "Se reciben donaciones"
-telefono_contacto: "091269590"
-direccion: "Amandau 5722"
+necesidades: ""
+telefono_contacto: "Mirtha Gao"
+direccion: "Cno de la Justicia y Abayubá"
 
 otros_contactos: ""
-horario: "Lunes a Viernes de 11 a 16 hs"
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

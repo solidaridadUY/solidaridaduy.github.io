@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Casavalle"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Casavalle
 Departamento de Montevideo

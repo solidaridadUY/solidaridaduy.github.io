@@ -1,7 +1,7 @@
 ---
-nombre: "Maracaná"
+nombre: "La Paloma"
 departamento: "Montevideo"
 ---
 
-Barrio Maracaná
+Barrio La Paloma
 Departamento de Montevideo

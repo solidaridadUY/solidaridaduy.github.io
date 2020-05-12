@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Sur"
-departamento: "Montevideo"
+nombre: "Maldonado"
+departamento: "Maldonado"
 ---
 
-Barrio Barrio Sur
-Departamento de Montevideo
+Barrio Maldonado
+Departamento de Maldonado

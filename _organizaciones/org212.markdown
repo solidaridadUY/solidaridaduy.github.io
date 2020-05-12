@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Berro"
-date: 2020-05-04 00:47:54 -0300
+title: "Olla Malvín Norte"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Malvín Norte"
 actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "092630371 (Rosa)"
-direccion: "Enrique Ciancone esquina Roberto Berro"
+necesidades: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
+telefono_contacto: "093301890 "
+direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
 
-otros_contactos: "096205657"
-horario: "Sábados y domingos a partir de las 20:00 (llevar recimiente)"
-aclaraciones: "Lo que más escasea es carne y verdura"
+otros_contactos: "095628133"
+horario: "17:00"
+aclaraciones: "Las donaciones se reciben de lunes a jueves de 11:00 a 17:00. Dependiendo de las donaciones, también se arman canastas y se preparan meriendas."
 cuenta_bancaria: ""
 
 ---

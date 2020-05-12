@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
-departamento: "Montevideo"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio Belvedere
-Departamento de Montevideo
+Barrio Playa Grande
+Departamento de Maldonado

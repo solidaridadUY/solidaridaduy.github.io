@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Capurro"
-date: 2020-05-04 00:47:54 -0300
+title: "Rotisería El Garrison"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y verduras"
-telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
-direccion: "Capurro 922 (Club Capurro)"
+barrio: "Villa Muñoz"
+actividades: "Merienda"
+necesidades: ""
+telefono_contacto: "092310955"
+direccion: "Domingo Aramburú 1840 esquina Democracia"
 
 otros_contactos: ""
-horario: "11 a 14hs"
-aclaraciones: ""
+horario: "8 a 11hs
+18 a 19:30hs"
+aclaraciones: "Café con leche y tostadas con manteca"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Brazo Oriental"
-departamento: "Montevideo"
+nombre: "San Carlos"
+departamento: "Maldonado"
 ---
 
-Barrio Brazo Oriental
-Departamento de Montevideo
+Barrio San Carlos
+Departamento de Maldonado

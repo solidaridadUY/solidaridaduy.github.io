@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Sayago"
-date: 2020-05-04 00:47:54 -0300
+title: "Olla Popular Club Sayago"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Sayago"
-actividades: "Olla"
+actividades: "Punto de Donación"
 necesidades: ""
 telefono_contacto: "Gimena Fernández 096778461"
 direccion: "Camino Ariel 4961 y la Vía"
 
-otros_contactos: "Rodrigo Guarino 098556637"
-horario: "12 hs"
-aclaraciones: "Llevar vianda. "
+otros_contactos: "23591125"
+horario: "9 a 13 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

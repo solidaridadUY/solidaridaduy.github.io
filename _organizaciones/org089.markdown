@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-04 00:47:54 -0300
+title: "Complejo Juana de América"
+date: 2020-05-12 12:21:54 -0300
 
 departamento: "Montevideo"
 barrio: "Bella Italia"
-actividades: "Olla"
-necesidades: "Alimentos, leche en polvo, productos de higiene y limpieza"
-telefono_contacto: "093835462 Roberto"
-direccion: "Felisberto Hernandez 3538 BIS"
+actividades: "Punto de Donación"
+necesidades: "Guantes y tapabocas para voluntarios/as"
+telefono_contacto: "098124387 Natalia"
+direccion: "Complejo Juana de América. Salón comunal"
 
-otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
-horario: "17hs y 20hs"
-aclaraciones: "Funciona Sábados y Domingos / 17hs merienda 20hs cena / Demandan Guantes y tapabocas para voluntarios/as"
+otros_contactos: "098638765 Luciana"
+horario: "10 a 12 y 17 a 19hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Maldonado Solidario"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Punto de Donación"
+necesidades: "Alimentos perecederos y no perecederos, carnes, frutas, verduras, productos de higiene personal y artículos de limpieza."
+telefono_contacto: "099814994 y 099390621"
+direccion: ""
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Realizan canastas para entregar semanalmente. Se arman en función del grupo familiar que lo necesite. Comunicarse telefónicamente."
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Parque Rodó"
+nombre: "Malvín Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Parque Rodó
+Barrio Malvín Norte
 Departamento de Montevideo

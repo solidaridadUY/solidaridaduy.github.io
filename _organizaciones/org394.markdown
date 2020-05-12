@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-12 12:21:54 -0300
+
+departamento: "Maldonado"
+barrio: "Kennedy"
+actividades: "Merienda"
+necesidades: "Salsa de tomate y leche en polvo"
+telefono_contacto: "PABLO: 093300170"
+direccion: "Calle San Pablo esquina Isabel De Castilla"
+
+otros_contactos: ""
+horario: "12:00 almuerzo y a las 16:00 merienda"
+aclaraciones: "Llevar recipiente"
+cuenta_bancaria: ""
+
+---
