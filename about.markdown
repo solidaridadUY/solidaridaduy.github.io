@@ -3,18 +3,18 @@ layout: page
 title: ¿Quiénes somos?
 permalink: /acerca-de/
 ---
+## ¿Qué es SolidaridadUY?
+Es una plataforma virtual, construida de forma colaborativa, que reúne los datos de todas las iniciativas solidarias que surgen en nuestro país.
 
-## Visión general
-Esta plataforma virtual se construye de forma colaborativa, entre varios colectivos y actores sociales insertos en el territorio que aportan a la difusión y comprensión de todas las iniciativas solidarias. Pretendemos disponibilizar una base de datos **confiable** que se **actualiza diariamente** y **se modera** por todos los miembros.
+## ¿Quiénes somos?
+La idea inicial surge de un grupo de estudiantes y egresados de la Facultad de Ingeniería - UdelaR. El proyecto viene y seguirá transformándose día a día gracias al trabajo colaborativo.
 
-## Objetivos
-
-- Aumentar y fomentar la inserción popular en la variedad de iniciativas existentes en el territorio.
-- Unificar fuerzas entre colectivos sociales para apoyar y potenciar los esfuerzos que se realizan a nivel territorial.
-- Facilitar a las personas el acceso a una base de datos actualizada y en constante adaptación a las necesidades que se consideren.
-- Reunir y lograr efectiva comunicación entre redes de solidaridad buscando la rápida y mejor respuesta ante la aparición de una situación de emergencia en cualquier localidad.
-
-Estas estrategias de trabajo surgen de la necesidad actual y de la crisis social y económica que viene impactando nuestro país de forma acelerada en el contexto de la pandemia. Se trata de aportar, en forma coordinada y en redes, desde diferentes saberes y formas de organización, consolidando un entramado que facilite respuestas a las necesidades.
+## ¿Cómo colaborar?
+- Contactate con nosotros por donaciones de todo tipo.
+- Para sumarte a las tareas de relevamiento telefónico
+- Para sumarte a las tareas de acercamiento territorial y entrega de donaciones
+- Para aportar al armado de la web
+- Si ya tenés contacto con iniciativas barriales y quisieras funcionar de contacto o por cualquier otra forma de aporte
 
 ## Colaboran
 
