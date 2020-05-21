@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín Norte"
+nombre: "Las Torres"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín Norte
+Barrio Las Torres
 Departamento de Montevideo

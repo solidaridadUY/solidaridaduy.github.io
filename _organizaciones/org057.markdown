@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "METELE QUE SON PASTELES"
-date: 2020-05-12 12:21:54 -0300
+title: "Centro Cultural Totó y vecinos/as del barrio"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "094476451 091211765 098000052 099757609"
-direccion: "Joaquín Artigas 3326 (local de la murga)"
+barrio: "Montevideo"
+actividades: "Nuevo París"
+necesidades: "Canasta"
+telefono_contacto: ""
+direccion: "097426604"
 
-otros_contactos: "Municipio D"
-horario: "15 a 18 hrs "
-aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
+otros_contactos: "098429757"
+horario: "Coordinar telefónicamente"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

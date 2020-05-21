@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
+nombre: "Manga"
 departamento: "Montevideo"
 ---
 
-Barrio No corresponde
+Barrio Manga
 Departamento de Montevideo

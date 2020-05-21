@@ -1,7 +1,7 @@
 ---
-nombre: "Juan Lacaze"
-departamento: "Colonia"
+nombre: "Toledo"
+departamento: "Canelones"
 ---
 
-Barrio Juan Lacaze
-Departamento de Colonia
+Barrio Toledo
+Departamento de Canelones

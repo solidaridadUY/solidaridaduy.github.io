@@ -1,7 +1,7 @@
 ---
-nombre: "Cruz de Carrasco"
+nombre: "Colón"
 departamento: "Montevideo"
 ---
 
-Barrio Cruz de Carrasco
+Barrio Colón
 Departamento de Montevideo

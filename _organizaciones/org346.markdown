@@ -1,19 +1,25 @@
 ---
 layout: organizacion
 
-title: "Reus al Sur"
-date: 2020-05-12 12:21:54 -0300
+title: "Ecomité"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091820811"
-direccion: "Club Atlético Atenas (Cebollatí 1434 esq. Santiago de Chile)"
+barrio: "Montevideo"
+actividades: "ZONA B"
+necesidades: "Punto de Donación"
+telefono_contacto: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
+direccion: "099384525
+Sofía 
+099735767
+Chantal"
 
-otros_contactos: "098180171"
-horario: "19:00 a 20.00 hs"
-aclaraciones: "Llevar recipiente. En lo posible, usar tapabocas. Concurrir lo más temprano posible."
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Coordinar para retiro de donaciones"
+cuenta_bancaria: "BROU 
+110080467 - 00001
+
+600-0993555"
 
 ---

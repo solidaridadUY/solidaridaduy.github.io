@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Almacén La Moni"
-date: 2020-05-12 12:21:54 -0300
+title: "Autoservice Mediomundo"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Gonzalo Ramírez y Carlos Quijano"
+barrio: "Montevideo"
+actividades: "Barrio Sur"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+direccion: "098141813"
 
 otros_contactos: "094053638"
-horario: " De 10 a 14 hs y de 16 a 20 hs"
+horario: "Horario almacen "
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

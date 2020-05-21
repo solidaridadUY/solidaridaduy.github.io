@@ -1,19 +1,18 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Villa Española"
-date: 2020-05-12 12:21:54 -0300
+title: "Nucleo del liceo 74"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: "Olla grande, salsa de tomate, carne, verduras, sal, leche en polvo, azucar"
-telefono_contacto: "097698085
-Leticia"
-direccion: "Agaces 3966 bis esquina Irureta Goyena"
+barrio: "Montevideo"
+actividades: "Nuevo Verdisol"
+necesidades: "Punto de Donación"
+telefono_contacto: "Aportes a través de cuenta y alimentos"
+direccion: "092120727"
 
 otros_contactos: ""
-horario: "A partir de 17hs"
+horario: "Coordinar vía telefónica"
 aclaraciones: ""
 cuenta_bancaria: ""
 

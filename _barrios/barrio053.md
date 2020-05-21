@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
+nombre: "Barrio Lavalleja"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Vista
+Barrio Barrio Lavalleja
 Departamento de Montevideo

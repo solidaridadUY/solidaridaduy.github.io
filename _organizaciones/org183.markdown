@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Repique"
-date: 2020-05-12 12:21:54 -0300
+title: "Sindicato COMESA"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091269590"
-direccion: "Amandau 5722"
+barrio: "Montevideo"
+actividades: "Conciliación"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Claudio Vera: 099584720 "
 
 otros_contactos: ""
-horario: " 11 a 16 hs"
+horario: "13 Hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

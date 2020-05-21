@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de madres de la escuela."
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinas"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Leche, maizena, salsa y carne."
-telefono_contacto: "096138220 (Leticia)"
-direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "Verdura, carne y pan."
+direccion: "095410570 (Laura o Natalia)"
 
 otros_contactos: ""
-horario: "17:00 hs"
-aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
+horario: "19:30 a 20:30 hs"
+aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
 cuenta_bancaria: ""
 
 ---

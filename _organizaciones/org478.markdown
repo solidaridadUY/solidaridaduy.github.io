@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla popular Yambo Kenia"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Sayago"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Celia tél 097189755  Carlos 097983311"
+
+otros_contactos: ""
+horario: "13 hs."
+aclaraciones: "Atienden un promedio de 100 personas"
+cuenta_bancaria: ""
+
+---

@@ -1,7 +1,7 @@
 ---
-nombre: "Pajas Blancas"
+nombre: "Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio Pajas Blancas
+Barrio Maroñas
 Departamento de Montevideo

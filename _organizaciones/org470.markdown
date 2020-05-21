@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Manos Solidarias"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Villa Alegría"
+necesidades: "Olla"
+telefono_contacto: "Carne
+Verdura"
+direccion: "Marina Rivero
+094840392"
+
+otros_contactos: ""
+horario: "De noche"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

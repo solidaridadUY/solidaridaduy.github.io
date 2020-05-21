@@ -1,15 +1,15 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Plaza Inve 17"
-date: 2020-05-12 12:21:54 -0300
+title: "Tablado Lavalleja"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Paula 094999829"
-direccion: "Inve 17 y La Quinta"
+barrio: "Montevideo"
+actividades: "Barrio Lavalleja"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Bety 094085023"
 
 otros_contactos: ""
 horario: "Consultar telefónicamente"

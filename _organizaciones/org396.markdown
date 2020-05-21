@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mas que lonja - Cuerda de tambores"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "En el lugar"
-direccion: "Bvar. Batlle y Ordoñes y Juana Pereira"
+barrio: "Montevideo"
+actividades: "Villa García"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "094649196 092822695 094987832"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: ""
+horario: "14:00 a 18:00 hs"
+aclaraciones: "Además de recibir, también pueden pasar a retirar las donaciones"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club de Bochas"
-date: 2020-05-12 12:21:54 -0300
+title: "Brigada Feminista"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Piriápolis"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "095983054"
-direccion: "CLUB DE BOCHAS CALLE SALTA Y SOLEZZI"
+barrio: "Maldonado"
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: "Leche en polvo y cocoa"
+direccion: "Gabriela: 098395475"
 
 otros_contactos: ""
-horario: "18:30"
-aclaraciones: "Llevar recipiente"
+horario: ""
+aclaraciones: "Reciben donaciones y retiran a domicilio"
 cuenta_bancaria: ""
 
 ---

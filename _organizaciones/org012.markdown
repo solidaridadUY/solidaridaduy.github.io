@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Escuela Legado Box"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Lagomar"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "093818549  094306437"
-direccion: "Calle 34 Solar 38 Manzana 63"
+barrio: "Canelones"
+actividades: "Lagomar"
+necesidades: "Canasta"
+telefono_contacto: ""
+direccion: "093818549  094306437"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Tienen posibilidad de ir a buscar donaciones"
+aclaraciones: "Tienen posibilidad de ir a buscar donaciones, coordinar telefónicamente"
 cuenta_bancaria: ""
 
 ---

@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "ONG EL ABROJO"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "En particular, alimentos no perecederos"
-telefono_contacto: "098575716"
-direccion: "Soriano 1153"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Punto de Donación"
+telefono_contacto: "En particular, alimentos no perecederos"
+direccion: "098575716"
 
 otros_contactos: ""
 horario: "Consultar telefónicamente"

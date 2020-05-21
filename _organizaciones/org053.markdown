@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Cuaró"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
-actividades: "Punto de Donación"
-necesidades: "Se recibe alimentos no
-perecederos, juguetes, ropa,
-apoyo transporte"
-telefono_contacto: "099204370"
-direccion: "Hermanos Gil 1051 esq
-Dufort y Álvarez"
+barrio: "Montevideo"
+actividades: "Jacinto Vera"
+necesidades: "Canasta"
+telefono_contacto: "Alimentos no perecederos, artículos de higiene personal y para el hogar"
+direccion: "095588004 (Gastón)  097977933"
 
-otros_contactos: "099869454"
-horario: "15 a 19hs"
-aclaraciones: ""
-cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
+otros_contactos: ""
+horario: ""
+aclaraciones: "Se coordina por teléfono"
+cuenta_bancaria: ""
 
 ---

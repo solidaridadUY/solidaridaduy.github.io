@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "CASCO"
-date: 2020-05-12 12:21:54 -0300
+title: "Organización vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa del Cerro"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "094555994
-Debora / Evo"
-direccion: "Gibraltar 4246 bis esquina Japón"
+barrio: "Montevideo"
+actividades: "Casco del Cerro"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "096875768
+Juan Rodríguez"
 
 otros_contactos: ""
-horario: "20 hs"
-aclaraciones: "Llevar recipiente y cubiertos"
+horario: "19 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

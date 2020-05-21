@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Estrella del Norte"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "Alimentos y productos de limpieza"
-telefono_contacto: "No corresponde"
-direccion: "Padre Pablo Pittini, 12400"
+barrio: "Montevideo"
+actividades: "Santa Catalina"
+necesidades: "Olla"
+telefono_contacto: "Se reciben alimentos"
+direccion: "092726853"
 
 otros_contactos: ""
-horario: "Durante el día"
-aclaraciones: "Se hace olla y se reciben donaciones"
+horario: "Consultar horario"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Comité Palermo"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Palermo"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "Isabel 093 739 044"
+
+otros_contactos: ""
+horario: "15 a 19 hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

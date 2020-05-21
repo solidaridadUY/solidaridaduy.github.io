@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Benedetti"
+nombre: "Balneario Buenos Aires"
 departamento: "Maldonado"
 ---
 
-Barrio Barrio Benedetti
+Barrio Balneario Buenos Aires
 Departamento de Maldonado

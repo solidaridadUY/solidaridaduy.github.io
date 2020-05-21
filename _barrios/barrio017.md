@@ -1,7 +1,7 @@
 ---
-nombre: "Suárez"
+nombre: "Sauce"
 departamento: "Canelones"
 ---
 
-Barrio Suárez
+Barrio Sauce
 Departamento de Canelones

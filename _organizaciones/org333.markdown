@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Colectivo la Placita y Club Pablan"
-date: 2020-05-12 12:21:54 -0300
+title: "Cooperativa COVI 30 de Setiembre"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Pajas Blancas"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098258065 - 098565909"
-direccion: "Consultar telefónicamente"
+barrio: "Montevideo"
+actividades: "Tomkinson"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098565224
+Carlos"
 
 otros_contactos: ""
-horario: "Lunes y Miércoles:18hs.
-Sábados y Domingos:13hs"
-aclaraciones: "Anotarse antes de ir"
+horario: "19:30hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

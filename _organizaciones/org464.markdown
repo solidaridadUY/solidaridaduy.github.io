@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Colectivo Peñarolense"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Unión"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: ""
+
+otros_contactos: ""
+horario: "20hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

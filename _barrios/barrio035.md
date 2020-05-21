@@ -1,7 +1,7 @@
 ---
-nombre: "Hipodromo"
+nombre: "Barrio Benedetti"
 departamento: "Maldonado"
 ---
 
-Barrio Hipodromo
+Barrio Barrio Benedetti
 Departamento de Maldonado

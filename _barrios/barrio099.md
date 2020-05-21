@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Nuevo París"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Nuevo París
 Departamento de Montevideo

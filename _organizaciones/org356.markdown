@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Familia y amigos de la Escuela 45 Leonor Hourticou"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Bella Vista"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "La Comercial"
-actividades: "Punto de Donación"
-necesidades: "Artículos de Limpieza y leche en polvo"
-telefono_contacto: "098882634
-099260489
-099183432"
-direccion: "Nicaragua 2298 Daniela de Santiago y a domicilio"
+barrio: "Montevideo"
+actividades: "Bella Vista"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099167275 098456226"
 
-otros_contactos: "escuela45lh@gmail.com"
-horario: "Se coordina telefónicamente"
-aclaraciones: "Arman canastas para las familias de las Escuelas que están en más dificultad."
+otros_contactos: ""
+horario: "12hs"
+aclaraciones: "Llevar tupper. Un sólo representante por familia"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "AFUC"
-date: 2020-05-12 12:21:54 -0300
+title: "Jornada Solidaria"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "094500851"
-direccion: "AFUC SANTA TERESA CASI 3 DE FEBRERO"
+barrio: "Maldonado"
+actividades: "Barrio 14 de Febrero"
+necesidades: "Olla"
+telefono_contacto: "Carne, verduras, fideos, aceite"
+direccion: "ROMINA: 095566398"
 
 otros_contactos: ""
-horario: "08:00 a 14:00"
-aclaraciones: ""
+horario: "18:00"
+aclaraciones: "Llevar recipiente, bolsa para pan y algo para la leche"
 cuenta_bancaria: ""
 
 ---

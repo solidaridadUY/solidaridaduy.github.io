@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio Buceo
+Barrio Belvedere
 Departamento de Montevideo

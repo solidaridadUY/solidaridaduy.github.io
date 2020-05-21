@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asociación Bioquímica Uruguaya"
-date: 2020-05-12 12:21:54 -0300
+title: "FEUU"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Particular que dona"
-necesidades: "Dinero para producción de desinfectantes para población vulnerable"
-telefono_contacto: "2903 1321
-"
-direccion: ""
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "091334368
+092005664"
 
-otros_contactos: "secretaria.abu@gmail.com"
-horario: ""
+otros_contactos: "feuu.uruguay@gmail.com"
+horario: "16:30 a 19:00hs"
 aclaraciones: ""
-cuenta_bancaria: "$ 1566766-00003 
-USD 1566766-00001"
+cuenta_bancaria: ""
 
 ---

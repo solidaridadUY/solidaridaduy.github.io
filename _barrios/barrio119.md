@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Dolores"
+nombre: "Tomkinson"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Dolores
+Barrio Tomkinson
 Departamento de Montevideo

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Zonal Prado"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité 13 de diciembre"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Prado"
-actividades: "Olla"
-necesidades: ""
+barrio: "Montevideo"
+actividades: "Puntas de Manga"
+necesidades: "Olla"
 telefono_contacto: ""
-direccion: "En las ferias, en las esquinas:
-Millán y Larrañaga
-Asencio y Zapicán"
+direccion: ""
 
 otros_contactos: ""
-horario: "10 a 12hs"
-aclaraciones: ""
+horario: "20hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

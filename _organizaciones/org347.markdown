@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinxs en Club Aguada"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité 28 de Noviembre"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Merienda"
-necesidades: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
-telefono_contacto: "098520925"
-direccion: " Avda. San Martín 2261"
+barrio: "Montevideo"
+actividades: "ZONA B"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: ""
 
 otros_contactos: ""
-horario: "17:00 hs"
-aclaraciones: "En lo posible se solicita agendarse antes de ir."
-cuenta_bancaria: ""
+horario: "-"
+aclaraciones: ""
+cuenta_bancaria: "BROU
+001126179-0004"
 
 ---

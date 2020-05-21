@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular La Cachimba"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Ombúes"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "094954016
-Deisy"
-direccion: "Gregorio Camino Esq. Heredia Vivienda 3"
+barrio: "Montevideo"
+actividades: "La Boyada"
+necesidades: "Merienda"
+telefono_contacto: ""
+direccion: "092 912 571"
 
-otros_contactos: "095580808 Banki
-091967299 Johny"
-horario: "17hs"
-aclaraciones: "Llevar vianda"
+otros_contactos: ""
+horario: "Lunes a Domingos, de tarde"
+aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
 cuenta_bancaria: ""
 
 ---

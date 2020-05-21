@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Asociación Civil Avance "
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Las Acacias"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099251686"
+
+otros_contactos: ""
+horario: "11 a 14 hs."
+aclaraciones: "Las donaciones se reciben en la misma dirección y el mismo horario en que funciona la olla. "
+cuenta_bancaria: ""
+
+---

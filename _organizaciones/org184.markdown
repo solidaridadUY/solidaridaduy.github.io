@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Sindicato COMESA"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Claudio Vera: 099584720 "
-direccion: "Martin Ximeno 875 esq. Millán"
+barrio: "Montevideo"
+actividades: "Abayubá"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Mirtha Gao"
 
 otros_contactos: ""
-horario: "13 Hs."
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

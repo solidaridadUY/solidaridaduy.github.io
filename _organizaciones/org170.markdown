@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Montevideo al Sur"
-date: 2020-05-12 12:21:54 -0300
+title: "La Cretina Casa de Arte"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Punto de Donación"
-necesidades: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
-telefono_contacto: "099228148"
-direccion: "Paraguay 1150 esquina Maldonado"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099228148"
 
 otros_contactos: ""
-horario: "9.00 a 0.00 hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Reciben donaciones en bar Montevideo al Sur de 9:00 a 00:00"
 cuenta_bancaria: ""
 
 ---

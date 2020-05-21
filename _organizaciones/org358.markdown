@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Bar Kfe"
-date: 2020-05-12 12:21:54 -0300
+title: "Centro Social y Deportivo Victoria"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "092 915 246"
-direccion: "Edil Hugo Prato 2289"
+barrio: "Montevideo"
+actividades: "Jacinto Vera"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "091773513"
 
 otros_contactos: ""
-horario: "20 hs"
-aclaraciones: ""
+horario: "20hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento Barrial Solidario"
-date: 2020-05-12 12:21:54 -0300
+title: "Paso Carrasco Solidario"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Peñarol"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099783722"
-direccion: "Aparicio Saravia y Coronel Raiz"
+barrio: "Montevideo"
+actividades: "Paso Carrasco"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Lunes 18hs Miercoles 18hs y Sábados 12hs"
-aclaraciones: "Hacen bonos de colaboración para colaborar con la compra de los artículos que más se necesitan (gas, huevo y carnes, productos de limpieza)"
+horario: "Martes 11hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

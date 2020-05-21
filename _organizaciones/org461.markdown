@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal Rayito de sol"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Merienda"
+telefono_contacto: ""
+direccion: "Maira 093566208"
+
+otros_contactos: ""
+horario: "17 hs."
+aclaraciones: "Atienden 140 niños aprox."
+cuenta_bancaria: ""
+
+---

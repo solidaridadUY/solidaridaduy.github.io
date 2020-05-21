@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Villa García - 8 de Marzo"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Villa Española"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa García"
-actividades: "Olla"
-necesidades: "Fruta, recipientes"
-telefono_contacto: "097501285 Lourdes"
-direccion: "El Pesebre esquina Pasaje Central (Biblioteca Comunitaria 8 de Marzo)"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Olla"
+telefono_contacto: "Olla grande, salsa de tomate, carne, verduras, sal, leche en polvo, azucar"
+direccion: "097698085
+Leticia"
 
 otros_contactos: ""
-horario: "A partir de 19hs"
+horario: "A partir de 17hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

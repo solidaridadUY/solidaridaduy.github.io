@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Olla La vía"
-date: 2020-05-12 12:21:54 -0300
+title: "Seregnistas - FA"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Maracaná"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "2314 4678"
-direccion: "La Vía 1544"
+barrio: "Montevideo"
+actividades: "Aguada"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: ""
 
-otros_contactos: "091898472"
-horario: "19 hs"
+otros_contactos: ""
+horario: "17 a 18hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

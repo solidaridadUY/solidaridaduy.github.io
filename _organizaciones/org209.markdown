@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "La Peña Parrilla"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Berro"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "2203 0311"
-direccion: "Pedernal 2151"
+barrio: "Montevideo"
+actividades: "Malvín Norte"
+necesidades: "Olla"
+telefono_contacto: "Carne y verdura"
+direccion: "092630371 (Rosa)"
 
-otros_contactos: ""
-horario: "Entre 13 y 16hs"
-aclaraciones: "Llevar Vianda"
+otros_contactos: "096205657"
+horario: "20:00hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Manga"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Manga
+Barrio Lezica
 Departamento de Montevideo

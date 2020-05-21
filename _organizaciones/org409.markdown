@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Deportivo Celiar"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinos núcleo liceo"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Flor de Maroñas"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "097 412 466"
-direccion: "Ombú y Ulises Favaro"
+barrio: "Montevideo"
+actividades: "Lezica"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "Kristie Barreiro: 098993951
+"
 
 otros_contactos: ""
-horario: "Lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

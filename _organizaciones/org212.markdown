@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Malvín Norte"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Olla"
-necesidades: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
-telefono_contacto: "093301890 "
-direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
+barrio: "Montevideo"
+actividades: "Barrio Lavalleja"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "No corresponde"
 
-otros_contactos: "095628133"
-horario: "17:00"
-aclaraciones: "Las donaciones se reciben de lunes a jueves de 11:00 a 17:00. Dependiendo de las donaciones, también se arman canastas y se preparan meriendas."
+otros_contactos: ""
+horario: "A las 17 hs inicia, se reparte a las 20 hs"
+aclaraciones: "Casa de ICA"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Capurro"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Jardines del Hipódromo"
-actividades: "Olla"
-necesidades: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
-telefono_contacto: "096 880 946"
-direccion: "José Piendibene 3642 esq. Lacio"
+barrio: "Montevideo"
+actividades: "Capurro"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos y verduras"
+direccion: "099 202 923 - 2309 16 20 - 2304 93 06"
 
 otros_contactos: ""
-horario: "sábados y domingos, arranca a las 17 aprox"
-aclaraciones: "Llevar vianda, casa de familia"
+horario: "Lunes a viernes: 18 a 20hs / Sábados: 11 a 12 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

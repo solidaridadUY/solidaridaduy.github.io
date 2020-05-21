@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "La Cantera 2"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "097322340
-Jonathan"
-direccion: "Burdeos 2911 esquina 17 Metros"
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "Alimentos y artículos de limpieza
+Leña
+Aceites
+"
+direccion: "Fanny Lopez
+094 074 033
+"
 
 otros_contactos: ""
-horario: ""
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Unión Atlética"
-date: 2020-05-12 12:21:54 -0300
+title: "Grupo de amigos"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Santiago Armas (098 894 273)"
-direccion: "Club Unión Atlética, Velsen 4509"
+barrio: "Montevideo"
+actividades: "No corresponde"
+necesidades: "Particular que dona"
+telefono_contacto: "Alimentos y fondos para compra de alimentos"
+direccion: "099162365"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "15:30 a 17:00"
-aclaraciones: "Coordinados con Gimnasio Antoniello"
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: "No corresponde"
+aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
+cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
 
 ---

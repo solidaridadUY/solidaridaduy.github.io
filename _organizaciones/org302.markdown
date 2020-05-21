@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes del Cerro"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal Barrio El Tobogán"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
-telefono_contacto: "091794830"
-direccion: "FOICA (Grecia esq. Holanda)"
+barrio: "Montevideo"
+actividades: "Tres Ombúes"
+necesidades: "Merienda"
+telefono_contacto: "Verduras, carne, cosas para merienda, ropa, abrigo"
+direccion: "094889797 Micaela"
 
-otros_contactos: "092673044 - 099650642"
-horario: "Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
-aclaraciones: "Para coordinar retiro, coordinar telefónicamente o desde las redes: Facebook e Instagram"
+otros_contactos: ""
+horario: "De tarde. "
+aclaraciones: "Sábado y Domingo se hace en Maracaná Sur"
 cuenta_bancaria: ""
 
 ---

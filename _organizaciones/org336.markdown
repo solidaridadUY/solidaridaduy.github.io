@@ -1,19 +1,18 @@
 ---
 layout: organizacion
 
-title: "Cooperativa COVI 30 de Setiembre"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Tomkinson"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098565224
-Carlos"
-direccion: "Cno Buffa 2531 entre Servidumbre y 5 de Enero"
+barrio: "Montevideo"
+actividades: "Las Torres"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "094175038 Gabriel"
 
 otros_contactos: ""
-horario: "19:30hs"
+horario: "19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

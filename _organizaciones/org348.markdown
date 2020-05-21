@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Vecinxs en Club Aguada"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité de Base \"Municipales\""
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
-telefono_contacto: "098520925"
-direccion: "Casa particular en Aguada. Contactarse al teléfono para coordinar."
+barrio: "Montevideo"
+actividades: "ZONA B"
+necesidades: "Punto de Donación"
+telefono_contacto: "Piden mano de obra para confeccionar tapabocas"
+direccion: "Donaciones: 098405089 Virginia Ros"
 
-otros_contactos: ""
+otros_contactos: "Confección de Tapabocas:
+099290712
+Celsa Achá"
 horario: "Consultar telefónicamente"
-aclaraciones: "Están decayendo en donaciones y materiales de embalaje, etc. Precisan vehiculos de vez en cuando para arrimar canastas."
-cuenta_bancaria: ""
+aclaraciones: ""
+cuenta_bancaria: "BROU
+00835501-00001
+Depósito cajeros: 196-0076329"
 
 ---

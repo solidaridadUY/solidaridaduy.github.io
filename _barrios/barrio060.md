@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Casavalle
+Barrio Buceo
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Monarca"
+nombre: "Malvín Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Monarca
+Barrio Malvín Norte
 Departamento de Montevideo

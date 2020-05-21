@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Treinta y Trés"
+nombre: "Lascano"
+departamento: "Rocha"
 ---
 
-Barrio No corresponde
-Departamento de Treinta y Trés
+Barrio Lascano
+Departamento de Rocha

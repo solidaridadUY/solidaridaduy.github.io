@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
+nombre: "Casco del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
+Barrio Casco del Cerro
 Departamento de Montevideo

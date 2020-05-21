@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Asentamiento Fortaleza del Cerro"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Causeglia"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "093665410 María José"
-direccion: "Pasaje Pereda Solar 31 esquina Cuñatahí"
+barrio: "Montevideo"
+actividades: "Cerro"
+necesidades: "Merienda"
+telefono_contacto: "Leche, azúcar, cocoa, alimentos para merienda"
+direccion: "097311550 Paola"
 
-otros_contactos: ""
-horario: "20 hs"
-aclaraciones: ""
+otros_contactos: "097545426 Carla 
+097537971 Ximena"
+horario: "18 hs"
+aclaraciones: "Llevar vasito"
 cuenta_bancaria: ""
 
 ---

@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Los Pinos Baby"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "092 663 361, 099 748 875, 098 557 244"
-direccion: "Ruta 8 km 26 - Cancha Los Pinos"
+barrio: "Canelones"
+actividades: "Barros Blancos"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "092 663 361, 099 748 875, 098 557 244"
 
 otros_contactos: ""
-horario: ""
+horario: "19hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

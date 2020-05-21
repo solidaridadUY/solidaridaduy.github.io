@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Yale"
-date: 2020-05-12 12:21:54 -0300
+title: "Maestras Feministas"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "091526172"
-direccion: "Dr. Gustavo Gallinal 1989"
+barrio: "Montevideo"
+actividades: "No corresponde"
+necesidades: "Punto de Donación"
+telefono_contacto: "pañales, frazadas, toallas higiénicas, productos de limpieza y aseo personal, alimentos no perecederos."
+direccion: "099951050"
 
-otros_contactos: ""
+otros_contactos: "099821950"
 horario: "Durante el día."
-aclaraciones: "Coordinar vía telefónica."
+aclaraciones: "Coordinar vía telefónica con Bárbara o Irene."
 cuenta_bancaria: ""
 
 ---

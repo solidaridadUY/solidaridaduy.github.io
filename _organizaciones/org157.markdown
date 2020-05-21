@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "No corresponde"
-direccion: "Av. José Pedro Varela 1461"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "091705967"
 
-otros_contactos: ""
-horario: "Todos los días de 10 a 16 hrs."
-aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
+otros_contactos: "098464819"
+horario: "A diario, contactar vía telefónica "
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

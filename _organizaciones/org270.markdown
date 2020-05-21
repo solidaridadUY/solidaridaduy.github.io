@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Complejo Manga Chico km16"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Maldonado"
-barrio: "Balneario Buenos Aires"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099080813"
-direccion: "CALLE 34 ESQUINA CALLE 49"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Manga"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098 047 693 Adriana Ferreira"
 
 otros_contactos: ""
-horario: "Todos los días 20:00 a 21:00"
-aclaraciones: "LLEVAR RECIPIENTE. PERSONAS MAYORES DE 65 AÑOS PUEDE COMUNICARSE Y SE ENVIA A DOMICILIO"
+horario: ""
+aclaraciones: "Se realizan las ollas acorde a donaciones"
 cuenta_bancaria: ""
 
 ---

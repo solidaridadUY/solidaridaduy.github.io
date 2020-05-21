@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Comité Gelós Bonilla"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Barrio B9"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099815751"
-direccion: "Cont. Lavalleja y Las Garzas"
+barrio: "Maldonado"
+actividades: "Piriápolis"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "095030798"
 
 otros_contactos: ""
-horario: ""
+horario: "20:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

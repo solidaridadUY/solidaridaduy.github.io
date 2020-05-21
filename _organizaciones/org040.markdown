@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "MIRAMAR BBC"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité Guaycurú"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Canasta"
-necesidades: "Alimentos en general para armar canastas."
-telefono_contacto: "099926182"
-direccion: "Santiago Gadea 3537"
+barrio: "Montevideo"
+actividades: "Reducto"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
+direccion: "099 458 417"
 
 otros_contactos: ""
-horario: "10 a 12 hs y 17:30 a 19:00 hs"
-aclaraciones: ""
+horario: "De 10 a 12 hs y de 17.30 a 19.30 hs"
+aclaraciones: "Pueden ir a buscar donaciones a domicilio"
 cuenta_bancaria: ""
 
 ---

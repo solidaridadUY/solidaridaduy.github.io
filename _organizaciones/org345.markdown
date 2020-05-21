@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "FEUU"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinxs en Club Aguada"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "091334368
-092005664"
-direccion: "Arenal Grande 1422 esq. C. Coronel Brandzen"
+barrio: "Montevideo"
+actividades: "Aguada"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+direccion: "098520925"
 
-otros_contactos: "feuu.uruguay@gmail.com"
-horario: "16:30 a 19:00hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Están decayendo en donaciones y materiales de embalaje, etc. Precisan vehiculos de vez en cuando para arrimar canastas."
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-05-12 12:21:54 -0300
+title: "Rotisería El Garrison"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+barrio: "Montevideo"
+actividades: "Villa Muñoz"
+necesidades: "Merienda"
+telefono_contacto: ""
+direccion: "092310955"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Llevar recipiente"
+horario: "8 a 11hs
+18 a 19:30hs"
+aclaraciones: "Café con leche y tostadas con manteca"
 cuenta_bancaria: ""
 
 ---

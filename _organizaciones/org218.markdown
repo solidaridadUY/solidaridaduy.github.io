@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Proyecto Tío Julio"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Boix Merino - Organización Barrial La Bombonera"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Julio"
-direccion: "Pasaje 121 1178"
+barrio: "Montevideo"
+actividades: "Malvín Norte"
+necesidades: "Olla"
+telefono_contacto: "Garrafa"
+direccion: "095578924 Paola
+094889164 Javier
+0998994666 Joaquin"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Reciben donaciones todos los días de 9:30 a 19:00 en Menorca 1905 y calle 4"
 cuenta_bancaria: ""
 
 ---

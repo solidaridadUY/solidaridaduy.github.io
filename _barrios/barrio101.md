@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de las Duranas"
+nombre: "Pajas Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de las Duranas
+Barrio Pajas Blancas
 Departamento de Montevideo

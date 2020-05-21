@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Atenas"
-date: 2020-05-12 12:21:54 -0300
+title: "Zonal Tino Barrios"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "San Carlos"
-actividades: "Otros"
-necesidades: ""
+barrio: "Maldonado"
+actividades: "Cerro Pelado"
+necesidades: "Punto de Donación"
 telefono_contacto: ""
-direccion: "SEDE SOCIAL CLUB ATENAS"
+direccion: "092370142"
 
 otros_contactos: ""
-horario: "8:30"
-aclaraciones: "Desayuno"
+horario: "15:00 a 19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

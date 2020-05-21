@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Maracaná"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Maracaná
 Departamento de Montevideo

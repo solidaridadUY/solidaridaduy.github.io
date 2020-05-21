@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Librería Diomedes"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Jaureguiberry"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "099624044"
-direccion: "Se instrumenta en la zona norte de Jaureguiberry"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Parque Rodó"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "2403 4713"
 
-otros_contactos: "092787480  091049164  091278284"
-horario: ""
-aclaraciones: ""
+otros_contactos: ""
+horario: " 20.30 hs"
+aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
 cuenta_bancaria: ""
 
 ---

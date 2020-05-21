@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Mundo Alegre"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Kennedy"
+necesidades: "Olla"
+telefono_contacto: "Alcohol y frutas"
+direccion: "Estrella: 092242879"
+
+otros_contactos: ""
+horario: "07:00 a 20:00"
+aclaraciones: "Se brinda almuerzo, merienda y cena."
+cuenta_bancaria: ""
+
+---

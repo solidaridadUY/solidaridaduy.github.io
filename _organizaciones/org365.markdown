@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Borro"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "096276625, 096652675"
-direccion: "Dr. Enrique Claveaux (Plaza de Palos)"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Barrio Benedetti"
+necesidades: "Olla"
+telefono_contacto: "Verduras, especialmente papas"
+direccion: "César: 099751823"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "20:00"
+aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Rosario"
-departamento: "Colonia"
+nombre: "Villa la Colina"
+departamento: "Canelones"
 ---
 
-Barrio Rosario
-Departamento de Colonia
+Barrio Villa la Colina
+Departamento de Canelones

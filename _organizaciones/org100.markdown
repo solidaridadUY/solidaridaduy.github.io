@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Sumando Esfuerzo, Comisión 16 de Marzo."
-date: 2020-05-12 12:21:54 -0300
+title: "Mides e Intendencia de Rivera"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Punto de Donación"
-necesidades: "verduras y carne"
-telefono_contacto: "095952219, 095078679"
-direccion: "No Corresponde"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Rivera"
+necesidades: "Empresa que dona"
+telefono_contacto: "No corresponde"
+direccion: "IdR y MIDES Rivera"
 
 otros_contactos: ""
-horario: "En el día"
-aclaraciones: "Comunicarse vía móvil para concretar"
+horario: " 11 a 13 hs"
+aclaraciones: "Comedores departamentales. Llevar cédula y recipiente."
 cuenta_bancaria: ""
 
 ---

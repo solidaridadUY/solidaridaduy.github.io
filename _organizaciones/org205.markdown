@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité 26 de Julio"
-date: 2020-05-12 12:21:54 -0300
+title: "Red Solidaria Arerunguá"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Cruces"
-actividades: "Punto de Donación"
-necesidades: " Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
-telefono_contacto: "099440037"
-direccion: "Cufré 1800 esquina Ferrer Serra"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Punto de Donación"
+telefono_contacto: "Ropa"
+direccion: "092143478"
 
 otros_contactos: ""
-horario: "17 a 20hs"
-aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
+horario: "10 a 17 hs"
+aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
 cuenta_bancaria: ""
 
 ---

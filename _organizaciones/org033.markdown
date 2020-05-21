@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Bares Finisterre y El Hormiguero"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Palermo"
-actividades: "Punto de Donación"
-necesidades: "Acopian donaciones para llevar a diferentes ollas"
-telefono_contacto: "099569017 095010898"
-direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Ismael Cortinas"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098360975 092010950"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
+horario: "Mediodía y Noche"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

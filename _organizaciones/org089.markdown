@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Complejo Juana de América"
-date: 2020-05-12 12:21:54 -0300
+title: "Brigada José Artigas"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Punto de Donación"
-necesidades: "Guantes y tapabocas para voluntarios/as"
-telefono_contacto: "098124387 Natalia"
-direccion: "Complejo Juana de América. Salón comunal"
+barrio: "Montevideo"
+actividades: "Bella Italia"
+necesidades: "Olla"
+telefono_contacto: "Carne y verdura, alcohol en gel, tapabocas y guantes. Demandan cocineros"
+direccion: "095775335 Adrián"
 
-otros_contactos: "098638765 Luciana"
-horario: "10 a 12 y 17 a 19hs"
+otros_contactos: ""
+horario: "12hs"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "BROU Caja de ahorro en pesos Nº 110171769-00001"
 
 ---

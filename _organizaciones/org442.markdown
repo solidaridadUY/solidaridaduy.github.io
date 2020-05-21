@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Manos Unidas"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Flores"
-barrio: "Trinidad"
-actividades: "Olla"
-necesidades: "Carne"
-telefono_contacto: "Ruben Montaño 098280668"
-direccion: "Batlle 1057"
+departamento: "Rocha"
+barrio: "Rocha"
+actividades: "Lascano"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos"
+direccion: "091 075 363"
 
 otros_contactos: ""
-horario: "De 16:30 a 22 hs aproximadamente"
-aclaraciones: "Con la vianda se entrega pan, 2 litros de leche y fruta"
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
 cuenta_bancaria: ""
 
 ---

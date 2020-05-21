@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité Félix Vidarte"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "092933742"
-direccion: "San Martín Esq. B.Mendez"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Las Piedras"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos secos y verduras "
+direccion: "095496658"
 
 otros_contactos: ""
-horario: "Durante el día."
-aclaraciones: "En lo posible coordinar vía telefónica"
+horario: "19 a 21"
+aclaraciones: "Contactar por Whatsapp"
 cuenta_bancaria: ""
 
 ---

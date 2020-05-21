@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Tres Ombúes"
+necesidades: "Olla"
+telefono_contacto: "Salsa de tomate, arroz, harina, fideos, aceite, verduras, carne"
+direccion: "098867410 Miriam"
+
+otros_contactos: ""
+horario: "14 hs."
+aclaraciones: "Algunos dias si reciben donaciones, hacen meriendas, son unos 40 niños los que la reciben en esos casos"
+cuenta_bancaria: ""
+
+---

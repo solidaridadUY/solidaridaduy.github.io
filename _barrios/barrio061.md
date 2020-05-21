@@ -1,7 +1,7 @@
 ---
-nombre: "Casco del Cerro"
+nombre: "Capurro"
 departamento: "Montevideo"
 ---
 
-Barrio Casco del Cerro
+Barrio Capurro
 Departamento de Montevideo

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Merendero Corazoncitos"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Salto"
+barrio: "Salto"
+actividades: "Salto Nuevo Sur"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "097732521"
+
+otros_contactos: ""
+horario: "Todo el día"
+aclaraciones: "En situación de urgencia. Dueña de casa recibe todo el día"
+cuenta_bancaria: ""
+
+---

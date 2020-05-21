@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "095599303
-Fabiana"
-direccion: "Joaquín Martori 9990"
+barrio: "Montevideo"
+actividades: "La Teja"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "091775583
+Paola"
 
 otros_contactos: ""
-horario: "20hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

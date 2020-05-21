@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Modistas"
-date: 2020-05-12 12:21:54 -0300
+title: "Mesa intersocial Paysandú"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: ""
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Paysandú"
+necesidades: "Punto de Donación"
 telefono_contacto: ""
-direccion: ""
+direccion: "098307154"
 
-otros_contactos: ""
+otros_contactos: "099486640"
 horario: ""
-aclaraciones: "Donan tapabocas hechos a mano. Comunicarse por Facebook"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

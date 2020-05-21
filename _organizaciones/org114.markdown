@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "INVE 17"
-date: 2020-05-12 12:21:54 -0300
+title: "Mercado Popular de Subsistencia"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Punto de Donación"
-necesidades: "Donaciones para olla popular, también se reciben tapa bocas y productos de limpieza"
-telefono_contacto: "094068329 (Gladys)"
-direccion: "Fernando Menck 5880, \"La quinta\""
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
+direccion: "099281748"
 
-otros_contactos: "095798613"
-horario: "Consultar telefónicamente"
-aclaraciones: ""
-cuenta_bancaria: ""
+otros_contactos: "098825512"
+horario: "Durante el día"
+aclaraciones: "Coordinar via telefónica"
+cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
 
 ---

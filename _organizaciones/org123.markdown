@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-05-12 12:21:54 -0300
+title: "Red Solidaria Chuy"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+departamento: "Rocha"
+barrio: "Rocha"
+actividades: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos"
+direccion: "091075382"
 
-otros_contactos: ""
-horario: "9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
+otros_contactos: "099951641"
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
 cuenta_bancaria: ""
 
 ---

@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité García Lorca"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Pocitos"
-actividades: "Retiro de donaciones"
-necesidades: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
-telefono_contacto: "098220931"
-direccion: "No corresponde"
+barrio: "Montevideo"
+actividades: "Jacinto Vera"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "099 704 126"
 
 otros_contactos: ""
-horario: ""
+horario: "17 a 19 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

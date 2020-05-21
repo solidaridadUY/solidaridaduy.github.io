@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "INVE 17"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Boix Merino - Organización Barrial La Bombonera"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Gladys: 094068329
-"
-direccion: "Fernando Menck 5880  -INVE 17
-"
+barrio: "Montevideo"
+actividades: "Malvín Norte"
+necesidades: "Punto de Donación"
+telefono_contacto: "Garrafa"
+direccion: "095578924 Paola
+094889164 Javier
+0998994666 Joaquin"
 
 otros_contactos: ""
-horario: "18hs"
+horario: "9:30 a 19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

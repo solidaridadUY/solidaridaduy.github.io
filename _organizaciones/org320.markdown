@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Faustino \"Chimango\""
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099196315  
-Mario Ivo"
-direccion: "Bulgaria 4275 esq. Carlos M. Ramirez"
+barrio: "Montevideo"
+actividades: "Cerro Norte"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "095051344
+Allison"
 
-otros_contactos: ""
-horario: "15 a 19 hs"
+otros_contactos: "096933066
+Milka"
+horario: "18:30hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Capurro"
-date: 2020-05-12 12:21:54 -0300
+title: "PIT-CNT"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Capurro"
-actividades: "Olla"
-necesidades: "Se reciben alimentos"
-telefono_contacto: "099202923"
-direccion: "Capurro 922"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Santa Lucía"
+necesidades: "Otros"
+telefono_contacto: ""
+direccion: "098691711 092213138  092249381"
 
-otros_contactos: "096496373   091802863"
-horario: "De lunea a viernes de 15 a 18 hs "
-aclaraciones: "La olla se hace los sábados y domingos de 11 a 15 hs"
+otros_contactos: ""
+horario: "de 17:00 a 20:00 hrs"
+aclaraciones: "coordinar vía telefónica para retirar viandas"
 cuenta_bancaria: ""
 
 ---

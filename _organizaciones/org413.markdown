@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos núcleo liceo"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "Kristie Barreiro: 098993951
-"
-direccion: "Cornelio Guerra casi Antonio Rubio"
+barrio: "Montevideo"
+actividades: "Casabó"
+necesidades: "Olla"
+telefono_contacto: "Productos de limpieza, alimentos"
+direccion: "097322340
+Jonathan"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "Jueves 19hs, Domingo 13hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

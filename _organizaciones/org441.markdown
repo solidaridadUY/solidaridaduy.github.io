@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Calle la Vía"
-date: 2020-05-12 12:21:54 -0300
+title: "Municipio - Casa de la Cultura"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "098442838
-Javier"
-direccion: "Calle La Vía 3648 esquina Gambia"
+departamento: "Soriano"
+barrio: "Soriano"
+actividades: "J. E. Rodó"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: ""
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: ""
+horario: "8 a 18 hs"
+aclaraciones: "Van a acopiar alimentos para prever necesidad de realizar Olla Popular"
 cuenta_bancaria: ""
 
 ---

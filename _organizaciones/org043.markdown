@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Deportivo Celiar"
-date: 2020-05-12 12:21:54 -0300
+title: "Inter Sindical PIT-CNT"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Flor de Maroñas"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "097 412 466"
-direccion: "Ombú y Ulises Favaro"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Santa Lucía"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098691711        092213138  092249381"
 
 otros_contactos: ""
-horario: "lunes a viernes de 19 a 20 hs. Sabado y Domingo de 17 a 18 hs"
-aclaraciones: "Llevar recipiente, se entrega para el núcleo familiar. Se reciben donaciones de lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
+horario: ""
+aclaraciones: "Se reciben las donaciones en el horario de 17.00 a 20.00 hs en el local de la Inter Sindical del PIT-CNT. Sábados y domingos también merienda."
 cuenta_bancaria: ""
 
 ---

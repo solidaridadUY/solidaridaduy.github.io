@@ -1,25 +1,20 @@
 ---
 layout: organizacion
 
-title: "Ecomité"
-date: 2020-05-12 12:21:54 -0300
+title: "Minervas Colectivo Feminista"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "ZONA B"
-actividades: "Punto de Donación"
-necesidades: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
-telefono_contacto: "099384525
-Sofía 
-099735767
-Chantal"
-direccion: "No aplica"
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "096129858
+Noelia"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Coordinar para retiro de donaciones"
-cuenta_bancaria: "BROU 
-110080467 - 00001
-
-600-0993555"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

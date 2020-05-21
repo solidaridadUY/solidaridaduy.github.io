@@ -1,21 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal Barrio Natal "
-date: 2020-05-12 12:21:54 -0300
+title: "El Muni"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Alimentos (salsa de tomate, verduras y harina), leña y artículos de limpieza"
-telefono_contacto: "Micaela de León
-097 236 234
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "
 "
-direccion: "Los Angeles 5229"
+direccion: "095225494
+Cristian Freire"
 
 otros_contactos: ""
-horario: "Sábados a las 18 hs y Domingos 14hs"
-aclaraciones: "Por ahora atienden a pocas familias. Es necesario llevar recipiente."
+horario: "Sábados al mediodía y Domingos de noche"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comisión Vecinal barrio El Tobogán"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Cabaña Anaya"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios"
-telefono_contacto: "092309306"
-direccion: "Luis Troccoli s/n esquina pasaje A."
+barrio: "Montevideo"
+actividades: "Paso de la Arena"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "094762392
+Leonel Cardozo"
 
-otros_contactos: "094086035
-Lita"
-horario: "20 hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "A partir de las 20hs"
+aclaraciones: "Contacto  para inscribirse: 099 974 499"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Unidos"
-date: 2020-05-12 12:21:54 -0300
+title: "Asociación Civil Rebeldía Organizada"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Flores"
-barrio: "Barrio La Figurita"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Juan Díaz 098817858"
-direccion: "Capilla Santa Teresita Berro y Piedras"
+departamento: "San José"
+barrio: "San José"
+actividades: "Ciudad del Plata"
+necesidades: "Punto de Donación"
+telefono_contacto: "Carne, verdura, fruta, alimentos secos, gas"
+direccion: "091655068"
 
 otros_contactos: ""
-horario: "De 17 a 20:30 hs"
-aclaraciones: "Usan las instalaciones de la capilla"
-cuenta_bancaria: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Tienen una lista de espera de 200 personas, les llevan las viandas a domicilio"
+cuenta_bancaria: "Caja de ahorro en pesos N°:0011925137-00001 (BROU). Red Pagos N° 72456.  Abitab : N° 109451 "
 
 ---

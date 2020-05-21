@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Cooperativa Tacuabe"
-date: 2020-05-12 12:21:54 -0300
+title: "Salón comunitario \"San Antonio\""
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099057783"
-direccion: "Clemeceau 937 Esq Cayetano silva"
+barrio: "Montevideo"
+actividades: "Barrio Lavalleja"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "096951220"
 
-otros_contactos: "093967875"
-horario: "12 a 17 hrs"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

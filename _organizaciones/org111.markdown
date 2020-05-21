@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Merienda"
-necesidades: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
-telefono_contacto: "099834255"
-direccion: "Asentamiento Fortaleza"
+barrio: "Montevideo"
+actividades: "Colón"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Gabriel Crause: 093678767"
 
-otros_contactos: "092728754"
-horario: ""
-aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
+otros_contactos: ""
+horario: "12 y 18 hs"
+aclaraciones: "Llevar Tupper o Vianda"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Trabajadores y artistas del circo"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinxs y Colectivo ElePé"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
 barrio: "Canelones"
-actividades: "Punto de Donación"
-necesidades: "Alimentos para armar canastas"
-telefono_contacto: "Jonathan Artigas 099216829"
-direccion: "Coordinar donaciones telefónicamente"
+actividades: "Las Piedras"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099239735"
 
 otros_contactos: ""
-horario: "Coordinar telefónicamente"
-aclaraciones: "Trabajadores y familiares del circo uruguayos y de otros países de latinoamerica se encuentran sin ingresos y sin poder volver a sus países. Se mueven con el circo. Argentina, Ecuador, Montevideo, Canelones."
+horario: "15-18 hs"
+aclaraciones: "Iniciativa en situación de urgencia"
 cuenta_bancaria: ""
 
 ---

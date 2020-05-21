@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "Marconi"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio Marconi
 Departamento de Montevideo

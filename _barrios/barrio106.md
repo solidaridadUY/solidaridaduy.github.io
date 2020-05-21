@@ -1,7 +1,7 @@
 ---
-nombre: "Pocitos"
+nombre: "Paso de las Duranas"
 departamento: "Montevideo"
 ---
 
-Barrio Pocitos
+Barrio Paso de las Duranas
 Departamento de Montevideo

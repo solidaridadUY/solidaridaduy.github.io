@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos de La Tablada"
-date: 2020-05-12 12:21:54 -0300
+title: "Angel (almacén y flia)"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Augusto 099894189 "
-direccion: "Lecocq 934 esq Millán "
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Merienda"
+telefono_contacto: "Leche y verduras."
+direccion: "092671301"
 
 otros_contactos: ""
-horario: "13 hs."
-aclaraciones: ""
+horario: "8 a 10 hs"
+aclaraciones: "Ángel y su flia tienen vivienda en el barrio 1° de Mayo y tienen un almacén, donde elaboran la comida y panes para la iniciativa (han recibido donaciones) Inicitiva de Ángel y su flia, actualmente funciona a partir de donaciones e ingresos de la flia"
 cuenta_bancaria: ""
 
 ---

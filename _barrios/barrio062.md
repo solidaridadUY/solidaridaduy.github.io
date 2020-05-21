@@ -1,7 +1,7 @@
 ---
-nombre: "Causeglia"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Causeglia
+Barrio Casabó
 Departamento de Montevideo

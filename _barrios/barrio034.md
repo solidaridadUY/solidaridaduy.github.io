@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Pelado"
+nombre: "Barrio B9"
 departamento: "Maldonado"
 ---
 
-Barrio Cerro Pelado
+Barrio Barrio B9
 Departamento de Maldonado

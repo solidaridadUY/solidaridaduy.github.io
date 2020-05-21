@@ -1,7 +1,7 @@
 ---
-nombre: "Piriápolis"
+nombre: "La Capuera"
 departamento: "Maldonado"
 ---
 
-Barrio Piriápolis
+Barrio La Capuera
 Departamento de Maldonado

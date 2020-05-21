@@ -1,7 +1,7 @@
 ---
-nombre: "Nueva Helvecia"
-departamento: "Colonia"
+nombre: "Villa Alegría"
+departamento: "Canelones"
 ---
 
-Barrio Nueva Helvecia
-Departamento de Colonia
+Barrio Villa Alegría
+Departamento de Canelones

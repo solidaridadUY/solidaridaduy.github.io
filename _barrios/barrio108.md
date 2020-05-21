@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Peñarol"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Peñarol
 Departamento de Montevideo

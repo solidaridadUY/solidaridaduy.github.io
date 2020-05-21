@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Flores"
-barrio: "Ismael Cortinas"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098360975 092010950"
-direccion: "Club Arroyo Grande, En Ismael Cortinas: Mevir 4, Núm 25857 "
+barrio: "Flores"
+actividades: "Trinidad"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098360975 092010950"
 
 otros_contactos: ""
 horario: "Mediodía y Noche"

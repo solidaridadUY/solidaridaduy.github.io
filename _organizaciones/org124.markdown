@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Chuy"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa ciudadana: CANASTAS UY"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Rocha"
-barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "091075382"
-direccion: "Coordinar telefónicamente"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "No corresponde"
+necesidades: "Canasta"
+telefono_contacto: "Ofrecer trabajo voluntario en el armado de las canastas."
+direccion: "No corresponde"
 
-otros_contactos: "099951641"
-horario: "Durante el día"
-aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+otros_contactos: "@CanastasUy en IG"
+horario: ""
+aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
 cuenta_bancaria: ""
 
 ---

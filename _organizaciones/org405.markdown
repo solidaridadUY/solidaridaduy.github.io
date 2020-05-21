@@ -1,20 +1,18 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Boix Merino - Organización Barrial La Bombonera"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Deportivo Celiar"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Punto de Donación"
-necesidades: "Garrafa"
-telefono_contacto: "095578924 Paola
-094889164 Javier
-0998994666 Joaquin"
-direccion: "Menorca 1905 y Calle 4"
+barrio: "Montevideo"
+actividades: "Flor de Maroñas"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "097 412 466"
 
 otros_contactos: ""
-horario: "9:30 a 19:00"
+horario: "Lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

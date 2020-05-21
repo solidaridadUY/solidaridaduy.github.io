@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Progreso Solidario"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Progreso"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "099472132 - 095903271"
-direccion: "Sin espacio físico específico"
+barrio: "Canelones"
+actividades: "Canelones"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "cel: 091950027"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
 cuenta_bancaria: ""
 
 ---

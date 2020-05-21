@@ -1,7 +1,7 @@
 ---
-nombre: "Seis de Diciembre"
+nombre: "Punta de Rieles"
 departamento: "Montevideo"
 ---
 
-Barrio Seis de Diciembre
+Barrio Punta de Rieles
 Departamento de Montevideo

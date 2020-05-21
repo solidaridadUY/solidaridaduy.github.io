@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Viandas a domicilio"
-date: 2020-05-12 12:21:54 -0300
+title: "Teatro El Galpón"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Colonia"
-barrio: "Rosario"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "099550034"
-direccion: "No aplica"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "24083366"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Comunicarse telefónicamente por viandas a domicilio"
+horario: "10 a 19hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

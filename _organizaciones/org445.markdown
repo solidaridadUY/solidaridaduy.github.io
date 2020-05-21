@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Municipio - Casa de la Cultura"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Soriano"
-barrio: "J. E. Rodó"
-actividades: "Punto de Donación"
-necesidades: ""
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Pinamar Norte"
+necesidades: "Olla"
 telefono_contacto: ""
-direccion: "Casa de la Cultura"
+direccion: "097 979 372"
 
 otros_contactos: ""
-horario: "8 a 18 hs"
-aclaraciones: "Van a acopiar alimentos para prever necesidad de realizar Olla Popular"
+horario: "Reciben donaciones de 9 a 11hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Funcional de Ingeniería"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "ZONA B"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099938856 Ignacio"
-direccion: ""
+barrio: "Montevideo"
+actividades: "Brazo Oriental"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098409665, 099091891, 099073492"
 
-otros_contactos: "comitefing@gmail.com"
-horario: "Se coordina telefónicamente"
-aclaraciones: ""
-cuenta_bancaria: "BROU
-001275000-00003
-referencia: olla"
+otros_contactos: ""
+horario: "20hs"
+aclaraciones: "Se coordinan donaciones"
+cuenta_bancaria: ""
 
 ---

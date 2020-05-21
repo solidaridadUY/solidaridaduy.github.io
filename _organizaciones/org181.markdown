@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Agrupación Hinchas de Racing"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal: Club Cohami"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Alvaro 095536444"
-direccion: "Millán y Eduardo Pondal"
+barrio: "Montevideo"
+actividades: "Conciliación"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "094624751"
 
 otros_contactos: ""
-horario: ""
+horario: "Sabados y Domingos"
 aclaraciones: ""
 cuenta_bancaria: ""
 

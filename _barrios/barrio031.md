@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio B9"
-departamento: "Maldonado"
+nombre: "Trinidad"
+departamento: "Flores"
 ---
 
-Barrio Barrio B9
-Departamento de Maldonado
+Barrio Trinidad
+Departamento de Flores

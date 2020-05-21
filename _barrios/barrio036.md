@@ -1,7 +1,7 @@
 ---
-nombre: "Kennedy"
+nombre: "Centro"
 departamento: "Maldonado"
 ---
 
-Barrio Kennedy
+Barrio Centro
 Departamento de Maldonado

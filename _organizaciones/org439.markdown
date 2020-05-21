@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Colectivo Elepé"
-date: 2020-05-12 12:21:54 -0300
+title: "Unidos"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099239735"
-direccion: "Capitan Perez esq Torres Garcia"
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Barrio La Figurita"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Juan Díaz 098817858"
 
 otros_contactos: ""
-horario: "Después de las 19 hs"
-aclaraciones: "Local de Colectivo ElePé"
+horario: "De 17 a 20:30 hs"
+aclaraciones: "Usan las instalaciones de la capilla"
 cuenta_bancaria: ""
 
 ---

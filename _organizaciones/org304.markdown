@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal Barrio El Tobogán"
-date: 2020-05-12 12:21:54 -0300
+title: "Liverpool Fútbol Club"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Ombúes"
-actividades: "Olla"
-necesidades: "Verduras, carne, cosas para merienda, ropa, abrigo"
-telefono_contacto: "094889797 Micaela"
-direccion: "Calera de las Huérfanas esquina Inclusa"
+barrio: "Montevideo"
+actividades: "Belvedere"
+necesidades: "Punto de Donación"
+telefono_contacto: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
+direccion: "099641831"
 
-otros_contactos: ""
-horario: "A partir de 19hs"
-aclaraciones: ""
+otros_contactos: "099687490
+098429091"
+horario: "A partir de las 17hs"
+aclaraciones: "Olla a las 20:00hs"
 cuenta_bancaria: ""
 
 ---

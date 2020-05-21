@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Comunitaria"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Maldonado"
-barrio: "La Capuera"
-actividades: "Olla"
-necesidades: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
-telefono_contacto: "092817617"
-direccion: "PARADA 9 CALLE LAS VIBORAS. EL NIDO."
+departamento: "Rocha"
+barrio: "Rocha"
+actividades: "Barra de Chuy"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "091 362 750"
 
 otros_contactos: ""
-horario: "12:00"
-aclaraciones: ""
+horario: "Durante el día"
+aclaraciones: "Contactar vía telefónica para solicitar apoyo."
 cuenta_bancaria: ""
 
 ---

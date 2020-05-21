@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla"
-date: 2020-05-12 12:21:54 -0300
+title: "Trabajadores y artistas del circo"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Alimentos, guantes.
-No tiene techo para cocinar.
-"
-telefono_contacto: "096746354
-Marcela
-"
-direccion: "Andrés Masali esq. Héctor Castro"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Canelones"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos para armar canastas"
+direccion: "Jonathan Artigas 099216829"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "Coordinar telefónicamente"
+aclaraciones: "Trabajadores y familiares del circo uruguayos y de otros países de latinoamerica se encuentran sin ingresos y sin poder volver a sus países. Se mueven con el circo. Argentina, Ecuador, Montevideo, Canelones."
 cuenta_bancaria: ""
 
 ---

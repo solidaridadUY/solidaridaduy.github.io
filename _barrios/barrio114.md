@@ -1,7 +1,7 @@
 ---
-nombre: "Tomkinson"
+nombre: "Puntas de Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Tomkinson
+Barrio Puntas de Manga
 Departamento de Montevideo

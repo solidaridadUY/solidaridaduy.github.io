@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casco del Cerro"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "095331455
-Luis Callejas"
-direccion: "Bulgaria 2272 Local del abasto"
+barrio: "Montevideo"
+actividades: "La Boyada"
+necesidades: "Olla"
+telefono_contacto: "Alimentos"
+direccion: "094769211
+Beatriz"
 
 otros_contactos: ""
-horario: "19 hs"
+horario: "17 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

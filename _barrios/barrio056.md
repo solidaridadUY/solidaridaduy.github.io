@@ -1,7 +1,7 @@
 ---
-nombre: "Brazo Oriental"
+nombre: "Bella Vista"
 departamento: "Montevideo"
 ---
 
-Barrio Brazo Oriental
+Barrio Bella Vista
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Casavalle"
 departamento: "Montevideo"
 ---
 
-Barrio Centro
+Barrio Casavalle
 Departamento de Montevideo

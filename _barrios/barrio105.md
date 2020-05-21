@@ -1,7 +1,7 @@
 ---
-nombre: "Plácido Ellauri"
+nombre: "Paso de la Arena"
 departamento: "Montevideo"
 ---
 
-Barrio Plácido Ellauri
+Barrio Paso de la Arena
 Departamento de Montevideo

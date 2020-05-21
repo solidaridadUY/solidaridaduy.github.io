@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liceo de Tala"
-date: 2020-05-12 12:21:54 -0300
+title: "El rancho"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Tala"
-actividades: "Punto de Donación"
-necesidades: "Alimentos de olla"
-telefono_contacto: "095417092"
-direccion: "Liceo de Tala"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "La Teja"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "23051061"
 
-otros_contactos: ""
+otros_contactos: "094524282"
 horario: "Durante el día"
-aclaraciones: ""
+aclaraciones: "Coordinación Telefónica"
 cuenta_bancaria: ""
 
 ---

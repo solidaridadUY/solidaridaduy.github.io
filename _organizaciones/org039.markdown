@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "DJ's y Olimpo"
-date: 2020-05-12 12:21:54 -0300
+title: "MIRAMAR BBC"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "092838233 097435635"
-direccion: "Calle 245"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Buceo"
+necesidades: "Canasta"
+telefono_contacto: "Alimentos en general para armar canastas."
+direccion: "099926182"
 
 otros_contactos: ""
-horario: ""
+horario: "10 a 12 hs y 17:30 a 19:00 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

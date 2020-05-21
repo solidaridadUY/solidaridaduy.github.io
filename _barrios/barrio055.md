@@ -1,7 +1,7 @@
 ---
-nombre: "Borro"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Borro
+Barrio Bella Italia
 Departamento de Montevideo

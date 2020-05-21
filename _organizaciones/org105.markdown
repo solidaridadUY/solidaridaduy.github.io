@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Cuerpo docente Liceo Número 3"
-date: 2020-05-12 12:21:54 -0300
+title: "SUAP"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "095252930"
-direccion: "Reyles y Tranqueras"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Punto de Donación"
+telefono_contacto: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
+direccion: "29011982"
 
 otros_contactos: ""
-horario: ""
+horario: "10 a 17 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

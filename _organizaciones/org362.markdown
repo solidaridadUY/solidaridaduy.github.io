@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Olla Capurro"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
-direccion: "Capurro 922 (Club Capurro)"
+barrio: "Montevideo"
+actividades: "Borro"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
+direccion: "096276625, 096652675"
 
 otros_contactos: ""
-horario: "11 a 14hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

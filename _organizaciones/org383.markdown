@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Grupo Social"
-date: 2020-05-12 12:21:54 -0300
+title: "ATAMM"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Punta del Este"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "094436206"
-direccion: ""
+barrio: "Maldonado"
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "098301517"
 
 otros_contactos: ""
-horario: ""
+horario: "08:00 a 18:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

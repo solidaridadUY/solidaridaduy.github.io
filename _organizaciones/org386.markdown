@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "ATAMM"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité Gelós Bonilla"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "098301517"
-direccion: "Rincón 1264 esquina Tamaro"
+actividades: "Barrio B9"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "099815751"
 
 otros_contactos: ""
-horario: "08:00 a 18:00"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

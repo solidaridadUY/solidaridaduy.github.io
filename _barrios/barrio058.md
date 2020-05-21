@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
+nombre: "Borro"
 departamento: "Montevideo"
 ---
 
-Barrio Capurro
+Barrio Borro
 Departamento de Montevideo

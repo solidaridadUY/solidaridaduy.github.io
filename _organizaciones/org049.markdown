@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Unidos Centro Educativo"
-date: 2020-05-12 12:21:54 -0300
+title: "Aute"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Canasta"
-necesidades: "Alimentos, productos de limpieza e higiene, donaciones económicas"
-telefono_contacto: "091203982"
-direccion: "Francisco Vázquez Cores 3247"
+barrio: "Montevideo"
+actividades: "Aguada"
+necesidades: "Punto de Donación"
+telefono_contacto: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
+direccion: "092040449"
 
 otros_contactos: ""
-horario: "Lunes a Viernes"
-aclaraciones: "Tienen nexo con la iniciativa Involucrate"
+horario: ""
+aclaraciones: "Elaboración y reparto de alimentos para personal de servicios esenciales o en situación de vulnerabilidad."
 cuenta_bancaria: ""
 
 ---

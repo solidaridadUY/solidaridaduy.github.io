@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Atlético Atenas"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Hipodromo"
-actividades: "Merienda"
-necesidades: "Leche en polvo azúcar y cocoa"
-telefono_contacto: "CAROL: 094838005"
-direccion: "Chanaes esquina Boanes. Frente a la plaza."
+barrio: "Maldonado"
+actividades: "San Carlos"
+necesidades: "Otros"
+telefono_contacto: ""
+direccion: ""
 
 otros_contactos: ""
-horario: "16:30 a 17:30"
-aclaraciones: "LLEVAR BOLSA PARA PAN O TORTAS Y RECIPIENTE PARA LA LECHE"
+horario: "8:30"
+aclaraciones: "Desayuno"
 cuenta_bancaria: ""
 
 ---
