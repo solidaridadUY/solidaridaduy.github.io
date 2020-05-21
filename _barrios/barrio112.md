@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
+nombre: "Prado"
 departamento: "Montevideo"
 ---
 
-Barrio Sayago
+Barrio Prado
 Departamento de Montevideo

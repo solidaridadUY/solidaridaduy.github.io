@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Asociación de Familiares y Víctimas de la Delincuencia"
-date: 2020-05-12 12:21:54 -0300
+title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "098989724"
-direccion: "No aplica"
+barrio: "Montevideo"
+actividades: "No corresponde"
+necesidades: "Punto de Donación"
+telefono_contacto: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
+direccion: "097546731"
 
-otros_contactos: "096227593"
+otros_contactos: ""
 horario: ""
-aclaraciones: "Mandar mensaje por whatsapp con: nombre completo, dirección, barrio, donación a realizar, días y horarios a retirar."
+aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
 cuenta_bancaria: ""
 
 ---

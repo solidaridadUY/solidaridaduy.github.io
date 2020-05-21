@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "COLECTIVO TRANS"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos, artículos de higiene personal y para el hogar"
-telefono_contacto: "095588004 (Gastón)  097977933"
-direccion: "No corresponde"
+barrio: "Montevideo"
+actividades: "Cerrito de la Victoria"
+necesidades: "Olla"
+telefono_contacto: "Reciben alimentos no perecederos, verduras, condimentos, etc."
+direccion: "095206931 099211688"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Se coordina por teléfono"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

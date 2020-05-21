@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Las Acacias"
-actividades: "Olla"
-necesidades: "Carne y verduras"
-telefono_contacto: "094576043"
-direccion: "Juan Acosta esq Cotopaxi"
+barrio: "Montevideo"
+actividades: "Cerrito de la Victoria"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "092933742"
 
 otros_contactos: ""
-horario: "Se hacen meriendas todos los días a las 17 hs. Cenas los martes y viernes a partir de las 20 hs"
-aclaraciones: ""
+horario: "Durante el día."
+aclaraciones: "En lo posible coordinar vía telefónica"
 cuenta_bancaria: ""
 
 ---

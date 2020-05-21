@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Royal"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "093734042"
-direccion: "Yucutuja 1250"
+barrio: "Montevideo"
+actividades: "Belvedere"
+necesidades: "Merienda"
+telefono_contacto: "Tipo de alimentos para merienda"
+direccion: "095626343"
 
 otros_contactos: ""
-horario: "18 hs. "
-aclaraciones: "El horario puede cambiar, verificar telefónicamente"
+horario: "16:30 hs hasta 19hs aprox"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

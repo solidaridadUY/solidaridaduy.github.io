@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Colectivo Elepé y Vecinxs"
-date: 2020-05-12 12:21:54 -0300
+title: "Calle la Vía"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "\"18 de Mayo\""
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099239735"
-direccion: "Pasaje 1 y pasaje 3"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Casabó"
+necesidades: "Olla"
+telefono_contacto: "Alimentos"
+direccion: "098442838
+Javier"
 
 otros_contactos: ""
-horario: "Todo el dia"
+horario: "18 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

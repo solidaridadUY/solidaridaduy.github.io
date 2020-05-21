@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Brigada 1958"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091894724"
-direccion: "Cuareim 2301 Esq. Tajes"
+barrio: "Montevideo"
+actividades: "Aguada"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "091894724"
 
 otros_contactos: "098651506"
 horario: ""

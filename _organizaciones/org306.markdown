@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "Liverpool Fútbol Club"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Social y Deportivo Iriarte"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
-actividades: "Olla"
-necesidades: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
-telefono_contacto: "099641831"
-direccion: "Avenida Agraciada 4186 (Sede)"
+barrio: "Montevideo"
+actividades: "Belvedere"
+necesidades: "Olla"
+telefono_contacto: "Verduras y Carne"
+direccion: "095109490
+Walter"
 
-otros_contactos: "099687490
-098429091"
-horario: "20:00 a 21:00"
-aclaraciones: "Asistir con recipiente
-1 persona por familia"
+otros_contactos: ""
+horario: "A partir de 12hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

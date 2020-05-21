@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Plaza Medellín"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal Barrio El Tobogán"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098520248"
-direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
+barrio: "Montevideo"
+actividades: "Tres Ombúes"
+necesidades: "Olla"
+telefono_contacto: "Verduras, carne, cosas para merienda, ropa, abrigo"
+direccion: "094889797 Micaela"
 
-otros_contactos: "093524166"
-horario: "21hs"
-aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
+otros_contactos: ""
+horario: "A partir de 19hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

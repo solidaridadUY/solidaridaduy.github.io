@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "Monarca"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio Monarca
 Departamento de Montevideo

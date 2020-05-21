@@ -1,7 +1,7 @@
 ---
-nombre: "Puntas de Manga"
+nombre: "Piedras Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Puntas de Manga
+Barrio Piedras Blancas
 Departamento de Montevideo

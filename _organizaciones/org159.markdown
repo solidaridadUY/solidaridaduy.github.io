@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Social y Deportivo Villa Española"
-date: 2020-05-12 12:21:54 -0300
+title: "Vilardevoz"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Canasta"
-necesidades: "Se reciben donaciones, se entregan canastas"
-telefono_contacto: "099584844"
-direccion: "Camino Corrales 3148"
+barrio: "Montevideo"
+actividades: "Reducto"
+necesidades: "Punto de Donación"
+telefono_contacto: "Piden donaciones de mates, termos y bombillas para refugiados."
+direccion: "No corresponde"
 
-otros_contactos: "094612415"
-horario: "Durante el día."
-aclaraciones: "Coordinar vía telefónica."
+otros_contactos: ""
+horario: " 14 a 18 hrs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

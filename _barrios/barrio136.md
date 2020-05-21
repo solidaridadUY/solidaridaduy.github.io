@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio Chuy
+Departamento de Rocha

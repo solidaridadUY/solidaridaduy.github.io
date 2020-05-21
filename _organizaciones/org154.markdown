@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ni todo está perdido"
-date: 2020-05-12 12:21:54 -0300
+title: "El Tundra Bar"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Pocitos"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "091006810 Angie"
-direccion: "Carlos Ma. Maeso 2763"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "29091578"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Se reciben aportes en esa dirección, se coordinan retiros, depósitos y entregas al celular"
+horario: "12:00hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

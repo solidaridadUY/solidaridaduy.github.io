@@ -1,7 +1,7 @@
 ---
-nombre: "Lascano"
-departamento: "Rocha"
+nombre: "Paysandú"
+departamento: "Paysandú"
 ---
 
-Barrio Lascano
-Departamento de Rocha
+Barrio Paysandú
+Departamento de Paysandú

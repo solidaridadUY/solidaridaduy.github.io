@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Panadería \"El Oeste\""
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Los Bulevares"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: ""
-direccion: "Ideario Artiguista (Frente a Red Market)"
+barrio: "Montevideo"
+actividades: "Pajas Blancas"
+necesidades: "Olla"
+telefono_contacto: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
+direccion: "094569111"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: ""
+horario: "Mediodía"
+aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
 cuenta_bancaria: ""
 
 ---

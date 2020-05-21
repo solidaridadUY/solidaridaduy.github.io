@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Almacén Juan"
-date: 2020-05-12 12:21:54 -0300
+title: "Salón del Sol"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Reconquista 247"
+barrio: "Montevideo"
+actividades: "Ciudad Vieja"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+direccion: "098141813"
 
 otros_contactos: "094053638"
-horario: "8 a 20:30"
+horario: "9 a 18hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

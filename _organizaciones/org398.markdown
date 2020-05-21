@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Movimiento Codos a la Obra"
-date: 2020-05-12 12:21:54 -0300
+title: "Salón Comunal \"Para Todos\""
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
-actividades: "Merienda"
-necesidades: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
-telefono_contacto: "095495706
-Stefany"
-direccion: "Servidumbre 7075 (Salón comunal Club Punta de Rieles)"
+barrio: "Montevideo"
+actividades: "Seis de Diciembre"
+necesidades: "Olla"
+telefono_contacto: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
+direccion: "Angel Lozano
+097346881"
 
-otros_contactos: "25119629"
-horario: "17hs"
+otros_contactos: ""
+horario: "19hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

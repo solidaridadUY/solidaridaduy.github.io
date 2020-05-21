@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Cruces"
+nombre: "Reducto"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Cruces
+Barrio Reducto
 Departamento de Montevideo

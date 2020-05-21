@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Belvedere
+Barrio Barrio Sur
 Departamento de Montevideo

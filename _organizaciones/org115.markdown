@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Mercado Popular de Subsistencia"
-date: 2020-05-12 12:21:54 -0300
+title: "Grupo de madres de la escuela."
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
-telefono_contacto: "099281748"
-direccion: "No Corresponde"
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Merienda"
+telefono_contacto: "Leche, maizena, salsa y carne."
+direccion: "096138220 (Leticia)"
 
-otros_contactos: "098825512"
-horario: "Durante el día"
-aclaraciones: "Coordinar via telefónica"
-cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
+otros_contactos: ""
+horario: "17:00 hs"
+aclaraciones: "Atienden 50 adultos/as aprox más niñes. Dan aproximadamente 70 botellas de leche."
+cuenta_bancaria: ""
 
 ---

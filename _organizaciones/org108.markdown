@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Estrella del Norte"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos y productos de limpieza"
-telefono_contacto: "096262917"
-direccion: "Carlos Ott 2060 Bis"
+barrio: "Montevideo"
+actividades: "Lezica"
+necesidades: "Olla"
+telefono_contacto: "Alimentos y productos de limpieza"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "20:00 hrs"
-aclaraciones: "Arrimarse con la vianda. Coordinar entrega de donaciones vía movil."
+horario: "Durante el día"
+aclaraciones: "Se hace olla y se reciben donaciones"
 cuenta_bancaria: ""
 
 ---

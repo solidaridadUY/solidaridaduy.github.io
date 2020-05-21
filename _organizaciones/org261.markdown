@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Club los Zorzales"
-date: 2020-05-12 12:21:54 -0300
+title: "A la olla con los profes"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Villa García"
-actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "094649196"
-direccion: "Club los Zorzales, Ruta 8 Brigadier Gral Juan Antonio Lavalleja."
+departamento: "San José"
+barrio: "San José"
+actividades: "Playa Pascual"
+necesidades: "Olla"
+telefono_contacto: "Personas que colaboren en la cocina para rotar  "
+direccion: "Sophia Bellotti 092983301"
 
 otros_contactos: ""
-horario: "17:30"
+horario: "12 a 14:00 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Abayubá"
-departamento: "Montevideo"
+nombre: "Playa Grande"
+departamento: "Maldonado"
 ---
 
-Barrio Abayubá
-Departamento de Montevideo
+Barrio Playa Grande
+Departamento de Maldonado

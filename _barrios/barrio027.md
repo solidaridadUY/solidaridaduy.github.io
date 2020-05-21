@@ -1,7 +1,7 @@
 ---
-nombre: "Ismael Cortinas"
+nombre: "Barrio La Figurita"
 departamento: "Flores"
 ---
 
-Barrio Ismael Cortinas
+Barrio Barrio La Figurita
 Departamento de Flores

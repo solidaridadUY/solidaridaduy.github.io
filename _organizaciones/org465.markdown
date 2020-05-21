@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Parroquia Santisima Trinidad y org vecinal"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Chacarita de los Padres"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Alejandra Sánchez 091997349"
+
+otros_contactos: ""
+horario: "18 hs."
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Deportivo Celiar"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cruz de Carrasco"
-actividades: "Olla"
-necesidades: "También precisan verduras, implementos de cocina, sanitarios, garrafa/anafe o similar."
-telefono_contacto: "098238589"
-direccion: "Camino Oncativo 2918 (Casona Covicruz)"
+barrio: "Montevideo"
+actividades: "Flor de Maroñas"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "097 412 466"
 
-otros_contactos: "Donaciones: 099102799 - 099629422"
-horario: "12 hs"
-aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
+otros_contactos: ""
+horario: "lunes a viernes de 19 a 20 hs. Sabado y Domingo de 17 a 18 hs"
+aclaraciones: "Llevar recipiente, se entrega para el núcleo familiar. Se reciben donaciones de lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
 cuenta_bancaria: ""
 
 ---

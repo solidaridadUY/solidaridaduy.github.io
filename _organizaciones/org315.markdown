@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asentamiento Fortaleza del Cerro"
-date: 2020-05-12 12:21:54 -0300
+title: "Comisión Vecinal barrio El Tobogán"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Merienda"
-necesidades: "Leche, azúcar, cocoa, alimentos para merienda"
-telefono_contacto: "097311550 Paola"
-direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
+barrio: "Montevideo"
+actividades: "Cerro"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios"
+direccion: "092309306"
 
-otros_contactos: "097545426 Carla 
-097537971 Ximena"
-horario: "18 hs"
-aclaraciones: "Llevar vasito"
+otros_contactos: "094086035
+Lita"
+horario: "20 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

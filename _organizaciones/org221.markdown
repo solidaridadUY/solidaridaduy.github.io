@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "096262971 096021742 "
-direccion: "Colman y Pororó"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Punto de Donación"
+telefono_contacto: "Pulpa de tomate, lentejas, tapabocas, guantes"
+direccion: "099527443"
 
 otros_contactos: ""
-horario: "20 Hs."
-aclaraciones: ""
+horario: "8 a 15 hs"
+aclaraciones: "Hacen Olla en Antel Arena (Centenario y Serrato)"
 cuenta_bancaria: ""
 
 ---

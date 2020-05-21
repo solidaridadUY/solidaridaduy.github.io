@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Club Albion"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Ciudad de la Costa"
-actividades: "Canasta"
-necesidades: "Alimentos"
-telefono_contacto: "099604054"
-direccion: "Interbalnearia y Marquez Castro"
+barrio: "Canelones"
+actividades: "Ciudad de la Costa"
+necesidades: "Canasta"
+telefono_contacto: ""
+direccion: "099604054"
 
 otros_contactos: ""
 horario: ""

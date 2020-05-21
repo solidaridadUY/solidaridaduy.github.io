@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Resistencias de la Costa"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Costa de Oro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-telefono_contacto: "098 067 805 099 301 228 099 472 132 095 903 271"
-direccion: "Supermercado Kabe en El Pinar.  "
+barrio: "Canelones"
+actividades: "Costa de Oro"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "098 067 805 099 301 228 099 472 132 095 903 271"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "En Neptunia en Los Robles entre Coronilla y Av. Del Parque llamando a celulares de contacto."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

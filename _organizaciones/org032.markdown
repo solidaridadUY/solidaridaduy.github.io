@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Los conquistadores Apoya Grupo Misericordia"
-date: 2020-05-12 12:21:54 -0300
+title: "Bares Finisterre y El Hormiguero"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Villa la Colina"
-actividades: "Merienda"
-necesidades: "Alimentos y donaciones"
-telefono_contacto: "091 292 894"
-direccion: "Polideportivo: \"La Colina\" R8, km24"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Palermo"
+necesidades: "Punto de Donación"
+telefono_contacto: "Acopian donaciones para llevar a diferentes ollas"
+direccion: "099569017 095010898"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
 cuenta_bancaria: ""
 
 ---

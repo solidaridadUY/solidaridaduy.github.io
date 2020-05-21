@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Complejo Manga Chico km16"
-date: 2020-05-12 12:21:54 -0300
+title: "Movimiento Barrial Solidario"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Manga"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098 047 693 Adriana Ferreira"
-direccion: "Camino Maldonado km16 entre Monterroso y Carlos Camusso"
+barrio: "Montevideo"
+actividades: "Peñarol"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099783722"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Se realizan las ollas acorde a donaciones"
+horario: "Lunes 18hs Miercoles 18hs y Sábados 12hs"
+aclaraciones: "Hacen bonos de colaboración para colaborar con la compra de los artículos que más se necesitan (gas, huevo y carnes, productos de limpieza)"
 cuenta_bancaria: ""
 
 ---

@@ -1,15 +1,15 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Jóvenes FA-Treinta y Tres"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Paysandú"
-barrio: "No corresponde"
-actividades: "Realización de compras"
-necesidades: ""
-telefono_contacto: "098247858"
-direccion: "No corresponde"
+departamento: "Treinta y Trés"
+barrio: "Treinta y Trés"
+actividades: "No corresponde"
+necesidades: "Realización de compras"
+telefono_contacto: "No corresponde"
+direccion: "092365306  091665164  098864387"
 
 otros_contactos: ""
 horario: ""

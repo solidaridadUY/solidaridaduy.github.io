@@ -1,7 +1,7 @@
 ---
-nombre: "San Carlos"
+nombre: "Piriápolis"
 departamento: "Maldonado"
 ---
 
-Barrio San Carlos
+Barrio Piriápolis
 Departamento de Maldonado

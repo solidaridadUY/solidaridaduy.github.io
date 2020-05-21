@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "SUNCA"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "098301517"
-direccion: "Batlle y Ordoñez entre Lavalleja y Támaro"
+actividades: "Piriápolis"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099890028"
 
 otros_contactos: ""
-horario: ""
+horario: "12:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Olla"
-necesidades: "leche en polvo"
-telefono_contacto: "094368436 Ismael"
-direccion: "Blanco Acevedo 6159 esq. Florencia. Almacén Peladito"
+barrio: "Montevideo"
+actividades: "Bella Italia"
+necesidades: "Olla"
+telefono_contacto: "Leche en polvo, guantes y tapabocas"
+direccion: "093835462 Roberto"
 
-otros_contactos: "093867350 Loreley"
-horario: "20:30hs"
+otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
+horario: "20 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

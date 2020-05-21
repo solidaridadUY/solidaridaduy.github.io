@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Comité Bile Martínez"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Prado"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "092769462 094762392 098394643"
-direccion: "Islas Canarias 4264 esq. Juan Lavalle"
+barrio: "Montevideo"
+actividades: "Prado"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "092769462 094762392 098394643"
 
 otros_contactos: ""
 horario: ""

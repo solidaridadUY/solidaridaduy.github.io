@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Gimnasio Antoniello"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Unión Atlética"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099538917 (Eduardo Ballini)"
-direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
+barrio: "Montevideo"
+actividades: "Malvín"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "Santiago Armas (098 894 273)"
 
 otros_contactos: "094625416 (José Gumber)"
-horario: "11:00 a 14:00"
-aclaraciones: "Coordinados con club Unión Atlética"
+horario: "15:30 a 17:00"
+aclaraciones: "Coordinados con Gimnasio Antoniello"
 cuenta_bancaria: ""
 
 ---

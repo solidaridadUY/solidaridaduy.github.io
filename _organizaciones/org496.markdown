@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Colonia"
+barrio: "Colonia"
+actividades: "Nueva Helvecia"
+necesidades: "Olla"
+telefono_contacto: "091 471 165"
+direccion: ""
+
+otros_contactos: ""
+horario: "21hs"
+aclaraciones: "Entregan viandas a las 21hs. Realización de compras a población de riesgo"
+cuenta_bancaria: ""
+
+---

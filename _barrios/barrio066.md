@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Norte"
+nombre: "Centro"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro Norte
+Barrio Centro
 Departamento de Montevideo

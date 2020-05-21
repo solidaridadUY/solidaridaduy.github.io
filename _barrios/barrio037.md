@@ -1,7 +1,7 @@
 ---
-nombre: "La Barra"
+nombre: "Cerro Pelado"
 departamento: "Maldonado"
 ---
 
-Barrio La Barra
+Barrio Cerro Pelado
 Departamento de Maldonado

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os de la Gruta."
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinas/os de Instrucciones y Mendoza."
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Granos, verduras."
-telefono_contacto: "095229074 (Angélica)"
-direccion: "Gruta de Lourdes."
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "Carne, pan, verduras, frutas."
+direccion: "092548176 (Sara)"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Atienden a 70 personas, con porciones de 3 litros."
+horario: "20:00 hs"
+aclaraciones: "Atienden 65 personas aprox. La inciativa es de 2 parejas (vecinas del barrio) y lo realizan con sus ingresos únicamente."
 cuenta_bancaria: ""
 
 ---

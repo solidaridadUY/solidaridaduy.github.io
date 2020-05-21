@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Zonal Prado"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Brazo Oriental"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098409665, 099091891, 099073492"
-direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
+barrio: "Montevideo"
+actividades: "Prado"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: ""
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "Se coordinan donaciones"
+horario: "10 a 12hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

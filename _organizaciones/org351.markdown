@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité de Base \"Municipales\""
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Vecinas Aguada"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "ZONA B"
-actividades: "Punto de Donación"
-necesidades: "Piden mano de obra para confeccionar tapabocas"
-telefono_contacto: "Donaciones: 098405089 Virginia Ros"
-direccion: "No aplica"
+barrio: "Montevideo"
+actividades: "Aguada"
+necesidades: "Olla"
+telefono_contacto: "Salsa de tomate, verduras, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
+direccion: "099466670 Viky"
 
-otros_contactos: "Confección de Tapabocas:
-099290712
-Celsa Achá"
-horario: "Consultar telefónicamente"
-aclaraciones: ""
-cuenta_bancaria: "BROU
-00835501-00001
-Depósito cajeros: 196-0076329"
+otros_contactos: ""
+horario: "19hs."
+aclaraciones: "Aún no empezó a funcionar, están acopiando algo de alimentos para arrancar el 29 de abril en lo posible."
+cuenta_bancaria: ""
 
 ---

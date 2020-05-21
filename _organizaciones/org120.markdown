@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Atlético Cordón"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "No corresponde"
-direccion: "Av Carlos Ramirez entre Teller y Agustín Muñoz"
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "091923053"
 
 otros_contactos: ""
-horario: " 20.00 hs"
-aclaraciones: "Llevar tupper"
+horario: "Consultar telefónicamente"
+aclaraciones: "Se pueden coordinar retiros de donaciones vía telefónica"
 cuenta_bancaria: ""
 
 ---

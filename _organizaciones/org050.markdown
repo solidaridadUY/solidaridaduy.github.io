@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Aute"
-date: 2020-05-12 12:21:54 -0300
+title: "Adeom"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Punto de Donación"
-necesidades: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
-telefono_contacto: "092040449"
-direccion: "Av. Agraciada 2463"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "099759758"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Elaboración y reparto de alimentos para personal de servicios esenciales o en situación de vulnerabilidad."
+aclaraciones: "Reciben solo donaciones para canastas, no están haciendo ollas"
 cuenta_bancaria: ""
 
 ---

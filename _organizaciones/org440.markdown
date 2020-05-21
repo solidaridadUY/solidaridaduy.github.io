@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinxs y Colectivo ElePé"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Cañada Monzón"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Merienda"
-necesidades: "Leche en polvo, Pan y dulce de leche"
-telefono_contacto: "099239735"
-direccion: "Continuación Gruta de Lourdes."
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Cañada Monzón"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Valeria Maestrecasa 099531377"
 
-otros_contactos: "Leche en polvo"
-horario: "18 hs"
-aclaraciones: "Merendero Nuestro Sueño"
+otros_contactos: ""
+horario: "De 15 a 20 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

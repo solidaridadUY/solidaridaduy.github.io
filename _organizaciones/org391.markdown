@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Brigada Feminista"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Piriápolis"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099890028"
-direccion: "Tucumán esquina Sanabria"
+barrio: "Maldonado"
+actividades: "Maldonado"
+necesidades: "Merienda"
+telefono_contacto: "Leche en polvo, cocoa, galletas, frutas, harina, azúcar, maicena, mermeladas, dulces"
+direccion: "Gabriela: 098395475"
 
 otros_contactos: ""
-horario: "12:00"
-aclaraciones: ""
+horario: "16:30 a 18:00"
+aclaraciones: "Llevar recipiente, termo o botella para el chocolate. Iniciativa en situación de urgencia"
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "GEMU (Generación Evangélica Misionera del Uruguay)"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Toledo"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Pipo
+094010573"
+
+otros_contactos: ""
+horario: "Miércoles 20hs
+Sábado 16hs"
+aclaraciones: "Trabajan con niñxs todos los sábados desde hace años. Comienzan a hacer vianda para los niñxs y se suman varias personas del barrio. Ponen de su bolsillo. Tienen un centro de rehabilitación. "
+cuenta_bancaria: ""
+
+---

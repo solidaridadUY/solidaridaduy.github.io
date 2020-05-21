@@ -1,7 +1,7 @@
 ---
-nombre: "Chuy"
-departamento: "Rocha"
+nombre: "No corresponde"
+departamento: "Paysandú"
 ---
 
-Barrio Chuy
-Departamento de Rocha
+Barrio No corresponde
+Departamento de Paysandú

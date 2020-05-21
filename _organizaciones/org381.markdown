@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo Social"
-date: 2020-05-12 12:21:54 -0300
+title: "Maldonado Solidario"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Pan de Azúcar"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "098194632"
-direccion: ""
+barrio: "Maldonado"
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos perecederos y no perecederos, carnes, frutas, verduras, productos de higiene personal y artículos de limpieza."
+direccion: "099814994 y 099390621"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Realizan canastas para entregar semanalmente. Se arman en función del grupo familiar que lo necesite. Comunicarse telefónicamente."
 cuenta_bancaria: ""
 
 ---

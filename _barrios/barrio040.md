@@ -1,7 +1,7 @@
 ---
-nombre: "Pan de Azúcar"
+nombre: "La Barra"
 departamento: "Maldonado"
 ---
 
-Barrio Pan de Azúcar
+Barrio La Barra
 Departamento de Maldonado

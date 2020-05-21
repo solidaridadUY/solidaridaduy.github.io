@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Inciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinxs y Colectivo ElePé"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099239735"
-direccion: "Primero de mayo"
+barrio: "Canelones"
+actividades: "Las Piedras"
+necesidades: "Merienda"
+telefono_contacto: "Leche en polvo, Pan y dulce de leche"
+direccion: "099239735"
 
-otros_contactos: ""
-horario: "17-20 hs"
-aclaraciones: ""
+otros_contactos: "Leche en polvo"
+horario: "18 hs"
+aclaraciones: "Merendero Nuestro Sueño"
 cuenta_bancaria: ""
 
 ---

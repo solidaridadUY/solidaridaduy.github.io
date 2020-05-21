@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Minimarket Al Sur"
-date: 2020-05-12 12:21:54 -0300
+title: "Ni todo está perdido"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Canelones y W. Ferreira"
+barrio: "Montevideo"
+actividades: "Pocitos"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "091006810 Angie"
 
-otros_contactos: "094053638"
-horario: "Lunes a Jueves 8:00 a 22:00, Viernes 8:00 a 00:00, Sábados 10:00 a 00:00"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: ""
+aclaraciones: "Se reciben aportes en esa dirección, se coordinan retiros, depósitos y entregas al celular"
 cuenta_bancaria: ""
 
 ---

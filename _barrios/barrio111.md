@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Pocitos"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Pocitos
 Departamento de Montevideo

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular La cantera"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Maldonado"
-barrio: "Balneario Buenos Aires"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Washington: 098217236"
-direccion: "Calle 38 esquina Calle 49"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Malvín Norte"
+necesidades: "Olla"
+telefono_contacto: "También precisan verduras"
+direccion: "095 636 657"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Levantan donaciones en Maldonado. Coordinar con Miguel: 091731889"
+horario: "19:30hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

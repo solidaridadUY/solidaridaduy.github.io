@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Movimiento Codos a la Obra"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Maldonado"
-barrio: "Kennedy"
-actividades: "Merienda"
-necesidades: "Salsa de tomate y leche en polvo"
-telefono_contacto: "PABLO: 093300170"
-direccion: "Calle San Pablo esquina Isabel De Castilla"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Punta de Rieles"
+necesidades: "Merienda"
+telefono_contacto: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
+direccion: "095495706
+Stefany"
 
-otros_contactos: ""
-horario: "12:00 almuerzo y a las 16:00 merienda"
-aclaraciones: "Llevar recipiente"
+otros_contactos: "25119629"
+horario: "17hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

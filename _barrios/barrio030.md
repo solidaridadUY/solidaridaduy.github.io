@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio 14 de febrero"
-departamento: "Maldonado"
+nombre: "Ismael Cortinas"
+departamento: "Flores"
 ---
 
-Barrio Barrio 14 de febrero
-Departamento de Maldonado
+Barrio Ismael Cortinas
+Departamento de Flores

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "COLECTIVO TRANS"
-date: 2020-05-12 12:21:54 -0300
+title: "Club FiatLux"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Olla"
-necesidades: "Reciben alimentos no perecederos, verduras, condimentos, etc."
-telefono_contacto: "095206931 099211688"
-direccion: "Manuel Meléndez 4017 entre León Pérez y Santiago Sierra"
+departamento: "Tacuarembó"
+barrio: "Tacuarembó"
+actividades: "Tacuarembó"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "46320615"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: ""
+aclaraciones: "Hacen ollas a veces pero no tienen día ni horario fijo"
 cuenta_bancaria: ""
 
 ---

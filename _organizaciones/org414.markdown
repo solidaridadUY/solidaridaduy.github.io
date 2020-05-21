@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Nucleo del liceo 74"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal Barrio Natal "
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo Verdisol"
-actividades: "Olla"
-necesidades: "Aportes a través de cuenta y alimentos"
-telefono_contacto: "092120727"
-direccion: "La tablada"
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "Alimentos (salsa de tomate, verduras y harina), leña y artículos de limpieza"
+direccion: "Micaela de León
+097 236 234
+"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: ""
+horario: "Sábados a las 18 hs y Domingos 14hs"
+aclaraciones: "Por ahora atienden a pocas familias. Es necesario llevar recipiente."
 cuenta_bancaria: ""
 
 ---

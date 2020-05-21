@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Cabaña Anaya"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Paso de la Arena"
-actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "094762392
-Leonel Cardozo"
-direccion: "Lomas de Zamora 2512"
+barrio: "Montevideo"
+actividades: "Cerro Norte"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "095599303
+Fabiana"
 
 otros_contactos: ""
-horario: "A partir de las 17hs"
-aclaraciones: "Contacto  para inscribirse: 099 974 499"
+horario: "20hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

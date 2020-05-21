@@ -1,25 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla Municipal 2"
-date: 2020-05-12 12:21:54 -0300
+title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Alimentos
-tapabocas, guantes
-
-"
-telefono_contacto: "099768310
-25151656
-Karla Pereira
-"
-direccion: "Pasaje A 2288, entre chicago y los ÁNGELES"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Las Piedras"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos"
+direccion: "097069405 (Virginia)
+091282021 (Mariana)
+095770714 (José)"
 
 otros_contactos: ""
-horario: "De noche"
-aclaraciones: ""
+horario: "20:00"
+aclaraciones: "Iniciativa en situación de urgencia"
 cuenta_bancaria: ""
 
 ---

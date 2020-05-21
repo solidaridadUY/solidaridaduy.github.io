@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Maldonado Solidario"
-date: 2020-05-12 12:21:54 -0300
+title: "SHUGU"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Punto de Donación"
-necesidades: "Alimentos perecederos y no perecederos, carnes, frutas, verduras, productos de higiene personal y artículos de limpieza."
-telefono_contacto: "099814994 y 099390621"
-direccion: ""
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "098301517"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Realizan canastas para entregar semanalmente. Se arman en función del grupo familiar que lo necesite. Comunicarse telefónicamente."
+horario: "10:00 a 16:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Plazita Acción Direkta"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinxs en Club Aguada"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: ""
-direccion: "Paysandú y Gaboto"
+barrio: "Montevideo"
+actividades: "Aguada"
+necesidades: "Merienda"
+telefono_contacto: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+direccion: "098520925"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Acercarse con recipiente"
+horario: "17:00 hs"
+aclaraciones: "En lo posible se solicita agendarse antes de ir."
 cuenta_bancaria: ""
 
 ---

@@ -1,18 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinos núcleo liceo"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Merienda"
-necesidades: "Leche en polvo, guantes y tapabocas"
-telefono_contacto: "093835462 Roberto"
-direccion: "Felisberto Hernandez 3538 BIS"
+barrio: "Montevideo"
+actividades: "Lezica"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Kristie Barreiro: 098993951
+"
 
-otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
-horario: "17hs"
+otros_contactos: ""
+horario: "20hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

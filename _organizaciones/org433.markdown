@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Colectivo Elepé y Vecinxs"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "095610063 - 093763288"
-direccion: "Sin espacio físico específico"
+barrio: "Canelones"
+actividades: "\"18 de Mayo\""
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099239735"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Sábado y domingo:olla. Iniciativa incluida en la categoría \"olla\" de esta página. También arman canastas"
+horario: "Todo el dia"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
+nombre: "Arroyo Seco"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Italia
+Barrio Arroyo Seco
 Departamento de Montevideo

@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "A la olla con los profes"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "San José"
-barrio: "Playa Pascual"
-actividades: "Olla"
-necesidades: "Personas que colaboren en la cocina para rotar  "
-telefono_contacto: "Sophia Bellotti 092983301"
-direccion: "Comisión Vecinal Playa Pascual Avda. Río de la Plata Parada 3"
+barrio: "San José"
+actividades: "Playa Pascual"
+necesidades: "Punto de Donación"
+telefono_contacto: "Reciben donaciones de Alimentos no perecederos y ropa de abrigo"
+direccion: "Sophia Bellotti 092983301"
 
 otros_contactos: ""
-horario: "12 a 14:00 hs"
+horario: "08.30 a 14:00hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

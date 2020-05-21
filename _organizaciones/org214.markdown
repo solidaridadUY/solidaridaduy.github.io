@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Nicolás"
-direccion: "Royal Instrucciones 1200 A D2 "
+barrio: "Montevideo"
+actividades: "Barrio Lavalleja"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "13:30 hs"
+horario: " 20:30 hs "
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club FiatLux"
-date: 2020-05-12 12:21:54 -0300
+title: "METELE QUE SON PASTELES"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "46320615"
-direccion: "Sarandí 354"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Cerrito de la Victoria"
+necesidades: "Canasta"
+telefono_contacto: ""
+direccion: "094476451 091211765 098000052 099757609"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Hacen ollas a veces pero no tienen día ni horario fijo"
+otros_contactos: "Municipio D"
+horario: "15 a 18 hrs "
+aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
 cuenta_bancaria: ""
 
 ---

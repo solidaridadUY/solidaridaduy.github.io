@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Olla solidaria Cancha del Rosario"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "097968054 Natalia"
+
+otros_contactos: ""
+horario: "19 hs."
+aclaraciones: "Atienden 200 personas aprox."
+cuenta_bancaria: ""
+
+---

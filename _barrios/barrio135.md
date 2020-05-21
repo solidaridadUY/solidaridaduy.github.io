@@ -1,7 +1,7 @@
 ---
-nombre: "J. E. Rodó"
-departamento: "Soriano"
+nombre: "Barra de Chuy"
+departamento: "Rocha"
 ---
 
-Barrio J. E. Rodó
-Departamento de Soriano
+Barrio Barra de Chuy
+Departamento de Rocha

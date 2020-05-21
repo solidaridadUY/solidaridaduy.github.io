@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "COVITA"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Salto"
+barrio: "Salto"
+actividades: "La Tablada"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "092090339"
+
+otros_contactos: ""
+horario: "Consultar telefónicamente"
+aclaraciones: "Se sirve cena"
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Maestras Feministas"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Punto de Donación"
-necesidades: "pañales, frazadas, toallas higiénicas, productos de limpieza y aseo personal, alimentos no perecederos."
-telefono_contacto: "099951050"
-direccion: "No corresponde"
+barrio: "Montevideo"
+actividades: "Las Acacias"
+necesidades: "Olla"
+telefono_contacto: "Carne y verduras"
+direccion: "094576043"
 
-otros_contactos: "099821950"
-horario: "Durante el día."
-aclaraciones: "Coordinar vía telefónica con Bárbara o Irene."
+otros_contactos: ""
+horario: "Se hacen meriendas todos los días a las 17 hs. Cenas los martes y viernes a partir de las 20 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

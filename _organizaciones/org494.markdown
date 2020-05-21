@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Cooperativa de trabajo Pa Lante Caif Desde el Pie"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "San José"
+barrio: "San José"
+actividades: "Ciudad del Plata"
+necesidades: "Merienda"
+telefono_contacto: ""
+direccion: "Maxi 091756871 Sabrina 095019279"
+
+otros_contactos: ""
+horario: "Se entregan de 14.00 a 15.00 horas "
+aclaraciones: "Atienden 120 personas, reciben donaciones en el Caif, los  días de merienda están desde las 12.00 horas.  "
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Manos Solidarias"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Villa Alegría"
+necesidades: "Merienda"
+telefono_contacto: "Leche en Polvo
+Harina 
+Azúcar"
+direccion: "Marina Rivero
+094840392"
+
+otros_contactos: ""
+horario: "De tarde"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

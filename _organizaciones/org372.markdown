@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Kennedy"
-actividades: "Olla"
-necesidades: "Salsa de tomate y leche en polvo"
-telefono_contacto: "PABLO: 093300170"
-direccion: "Calle San Pablo esquina Isabel De Castilla"
+barrio: "Maldonado"
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "Gonni: 099487998"
 
 otros_contactos: ""
-horario: "12:00 almuerzo y a las 16:00 merienda"
-aclaraciones: "Llevar recipiente"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

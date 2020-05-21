@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Canasta amiga"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Plaza Medellín"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Apoyo económico"
-telefono_contacto: "099997818, 098553359, 099421362"
-direccion: "No corresponde"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Barrio Sur"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "098520248"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Contactarse para realizar donaciones."
-cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
+otros_contactos: "093524166"
+horario: "21hs"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
+cuenta_bancaria: ""
 
 ---

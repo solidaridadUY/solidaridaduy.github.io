@@ -1,25 +1,25 @@
 ---
 layout: organizacion
 
-title: "Matilde Pacheco"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla y meriendas"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Artículos para olla, y limpieza.
-leche
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "Leche"
+direccion: "Venancio Vargas
+Mariana Massarino
+094213482
+097470966
 "
-telefono_contacto: "094950962
-María Rosario Bitancourt
-094970039
-Laura Rosande
-"
-direccion: "Matilde Pacheco Nº 36, esq. Luciano Lira."
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: ""
+horario: "Jueves de noche (reparten viandas).
+Domingos 19:30 hs"
+aclaraciones: "Reciben donaciones del colectivo Clara Jackson
+"
 cuenta_bancaria: ""
 
 ---

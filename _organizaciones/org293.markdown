@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Organización vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casco del Cerro"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "096875768
-Juan Rodríguez"
-direccion: "Carlos María Ramírez esq. Chile"
+barrio: "Montevideo"
+actividades: "Cerro Norte"
+necesidades: "Olla"
+telefono_contacto: "Alimentos"
+direccion: "096539004
+Gladys"
 
 otros_contactos: ""
-horario: "19 hs"
+horario: "Sábado y Domingo 12hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

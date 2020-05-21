@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
-departamento: "Salto"
+nombre: "Fray Bentos"
+departamento: "Río Negro"
 ---
 
-Barrio Salto
-Departamento de Salto
+Barrio Fray Bentos
+Departamento de Río Negro

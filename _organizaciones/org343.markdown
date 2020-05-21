@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de jóvenes Castores y Horneros"
-date: 2020-05-12 12:21:54 -0300
+title: "Reus al Sur"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Canasta"
-necesidades: "Los alimentos que se reciben son no perecederos"
-telefono_contacto: "096 444 222 
-097 447 728 
-098 745 042"
-direccion: ""
+barrio: "Montevideo"
+actividades: "Barrio Sur"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "091820811"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: ""
+otros_contactos: "098180171"
+horario: "19:00 a 20.00 hs"
+aclaraciones: "Llevar recipiente. En lo posible, usar tapabocas. Concurrir lo más temprano posible."
 cuenta_bancaria: ""
 
 ---

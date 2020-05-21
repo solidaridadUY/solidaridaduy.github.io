@@ -1,7 +1,7 @@
 ---
-nombre: "Reducto"
+nombre: "Plácido Ellauri"
 departamento: "Montevideo"
 ---
 
-Barrio Reducto
+Barrio Plácido Ellauri
 Departamento de Montevideo

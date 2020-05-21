@@ -1,7 +1,7 @@
 ---
-nombre: "Paysandú"
-departamento: "Paysandú"
+nombre: "Villa García"
+departamento: "Montevideo"
 ---
 
-Barrio Paysandú
-Departamento de Paysandú
+Barrio Villa García
+Departamento de Montevideo

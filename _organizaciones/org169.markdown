@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Montevideo al Sur"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099228148"
-direccion: "Paraguay 1150 esquina Maldonado"
+barrio: "Montevideo"
+actividades: "Barrio Sur"
+necesidades: "Punto de Donación"
+telefono_contacto: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
+direccion: "099228148"
 
 otros_contactos: ""
-horario: "19 hs"
+horario: "9.00 a 0.00 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

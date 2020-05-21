@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Capilla Cruz Alta"
-date: 2020-05-12 12:21:54 -0300
+title: "Faustino \"Chimango\""
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Olla"
-necesidades: "Verduras, Frutas, Alimentos no perecederos, Carne"
-telefono_contacto: "094873926
-"
-direccion: "Filipinas 3774 entre Charcas y Rusia"
+barrio: "Montevideo"
+actividades: "Cerro"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "099196315  
+Mario Ivo"
 
-otros_contactos: "098840704"
-horario: "18:30 a 20:00hs"
-aclaraciones: "Venta económica:  Martes, Jueves y Viernes 14 a 18 hs"
+otros_contactos: ""
+horario: "15 a 19 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

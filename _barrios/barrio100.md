@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Nuevo Verdisol
 Departamento de Montevideo

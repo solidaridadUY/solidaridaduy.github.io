@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Vecines"
-date: 2020-05-12 12:21:54 -0300
+title: "Asociación Civil Barrio y Cultura"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: "Alimentos para comida de olla"
-telefono_contacto: "091994815 (Marcela) - 099920303"
-direccion: "Agaces y Irureta Goyena"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Canasta"
+telefono_contacto: "Leche en polvo"
+direccion: "094 804 648"
 
-otros_contactos: ""
-horario: "16:30 a 19:00 hs"
-aclaraciones: "Pasan a buscar donaciones en la zona. Entregan plato"
+otros_contactos: "098231098"
+horario: "Turismo: Lunes a viernes de 13 a 16hs"
+aclaraciones: "Resto de las semanas: L a S de 10 a 16 hs"
 cuenta_bancaria: ""
 
 ---

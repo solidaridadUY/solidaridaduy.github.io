@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Merendero"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Flores"
-barrio: "Trinidad"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "098360975 092010950"
-direccion: "Club Arroyo Grande. En Trinidad: Gral. Flores 454"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Playa Grande"
+necesidades: "Merienda"
+telefono_contacto: "Alimentos no perecederos,  leche y pan"
+direccion: "094254015"
 
 otros_contactos: ""
-horario: "Mediodía y Noche"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Almuerzo - sábados y domingos 13 hs. Merienda - todos los días 18 hs. Cena- todos los días de 19 a 21 hs. LLEVAR TAZA, TUPPER Y CUBIERTOS"
 cuenta_bancaria: ""
 
 ---

@@ -1,20 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asentamiento Fortaleza del Cerro"
-date: 2020-05-12 12:21:54 -0300
+title: "Faustino \"Chimango\""
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "097311550 Paola"
-direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
+barrio: "Montevideo"
+actividades: "Cerro"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "099196315  
+Mario Ivo"
 
-otros_contactos: "097545426 Carla 
-097537971 Ximena"
-horario: ""
-aclaraciones: ""
+otros_contactos: ""
+horario: "18 hs"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Merendero Cooperativo Las Bóvedas Ciudad Vieja"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Ciudad Vieja"
+necesidades: "Merienda"
+telefono_contacto: "Leche en Polvo"
+direccion: "094610400 Bea
+097490097 Santiago
+099151141 Magdalena"
+
+otros_contactos: "merenderolasbovedasciudadvieja@gmail.com"
+horario: "17hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

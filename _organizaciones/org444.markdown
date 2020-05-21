@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Olla Cañada Monzón"
-date: 2020-05-12 12:21:54 -0300
+title: "Inter Sindical PIT-CNT"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Flores"
-barrio: "Cañada Monzón"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Valeria Maestrecasa 099531377"
-direccion: "19 de Abril 294 Bis"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Santa Lucía"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "098691711        092213138  092249381"
 
 otros_contactos: ""
-horario: "De 15 a 20 hs"
+horario: "17 a 20hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

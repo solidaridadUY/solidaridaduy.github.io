@@ -1,7 +1,7 @@
 ---
-nombre: "Zona D"
+nombre: "Villa Dolores"
 departamento: "Montevideo"
 ---
 
-Barrio Zona D
+Barrio Villa Dolores
 Departamento de Montevideo

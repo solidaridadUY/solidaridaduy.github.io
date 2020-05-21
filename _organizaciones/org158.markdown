@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Social y Deportivo Villa Española"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "091705967"
-direccion: "Agaces e Irureta goyena"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Canasta"
+telefono_contacto: "Se reciben donaciones, se entregan canastas"
+direccion: "099584844"
 
-otros_contactos: "098464819"
-horario: "A diario, contactar vía telefónica "
-aclaraciones: ""
+otros_contactos: "094612415"
+horario: "Durante el día."
+aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 
 ---

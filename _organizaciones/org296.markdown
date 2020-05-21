@@ -1,19 +1,18 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Club Sayago"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Olla"
-necesidades: "Alimentos"
-telefono_contacto: "096539004
-Gladys"
-direccion: "Vizcaya y Santa Cruz de la Sierra"
+barrio: "Montevideo"
+actividades: "Sayago"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "Gimena Fernández 096778461"
 
-otros_contactos: ""
-horario: "Sábado y Domingo 12hs"
+otros_contactos: "23591125"
+horario: "9 a 13 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

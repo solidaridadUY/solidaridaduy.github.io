@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero San Martín"
-date: 2020-05-12 12:21:54 -0300
+title: "Escuela Experimental"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "098357287 Miguelina"
-direccion: "Los Transparentes 301"
+barrio: "Montevideo"
+actividades: "Malvín"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos"
+direccion: "094163327"
 
 otros_contactos: ""
-horario: "Lunes a Jueves 15hs, Viernes a Domingo 18hs."
-aclaraciones: ""
+horario: "10 a 12"
+aclaraciones: "Dirigida a familias de la escuela 219 y 274"
 cuenta_bancaria: ""
 
 ---

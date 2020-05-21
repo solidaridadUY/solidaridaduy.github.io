@@ -1,23 +1,24 @@
 ---
 layout: organizacion
 
-title: "La Cantera 2"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Municipal 2"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Alimentos y artículos de limpieza
-Leña
-Aceites
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Olla"
+telefono_contacto: "Alimentos
+tapabocas, guantes
+
 "
-telefono_contacto: "Fanny Lopez
-094 074 033
+direccion: "099768310
+25151656
+Karla Pereira
 "
-direccion: "Pasaje Vecinal 1 5293 entre Carmelo Colman y Petrona Viera"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "De noche"
 aclaraciones: ""
 cuenta_bancaria: ""
 

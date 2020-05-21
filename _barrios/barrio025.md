@@ -1,7 +1,7 @@
 ---
-nombre: "Cañada Monzón"
-departamento: "Flores"
+nombre: "Nueva Helvecia"
+departamento: "Colonia"
 ---
 
-Barrio Cañada Monzón
-Departamento de Flores
+Barrio Nueva Helvecia
+Departamento de Colonia

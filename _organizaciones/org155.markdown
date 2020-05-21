@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "El Tundra Bar"
-date: 2020-05-12 12:21:54 -0300
+title: "Comisión Fomento Estrella del cerro"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "29091578"
-direccion: "Durazno 902 esq. Convención"
+barrio: "Montevideo"
+actividades: "Casabó"
+necesidades: "Punto de Donación"
+telefono_contacto: "En particular, alimentos no perecederos"
+direccion: "094641143 Sonia"
 
-otros_contactos: ""
-horario: "12:00hs"
-aclaraciones: ""
+otros_contactos: "092297795"
+horario: " 8 a 12 hs"
+aclaraciones: "Se puede coordinar telefónicamente para retirar donaciones"
 cuenta_bancaria: ""
 
 ---

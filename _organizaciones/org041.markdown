@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Guaycurú"
-date: 2020-05-12 12:21:54 -0300
+title: "iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "099 458 417"
-direccion: "Evaristo Ciganda 1397 BIS"
+barrio: "Montevideo"
+actividades: "Cruz de Carrasco"
+necesidades: "Olla"
+telefono_contacto: "También precisan verduras, implementos de cocina, sanitarios, garrafa/anafe o similar."
+direccion: "098238589"
 
-otros_contactos: ""
-horario: "De 10 a 12 hs y de 17.30 a 19.30 hs"
-aclaraciones: "Pueden ir a buscar donaciones a domicilio"
+otros_contactos: "Donaciones: 099102799 - 099629422"
+horario: "12 hs"
+aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
 cuenta_bancaria: ""
 
 ---

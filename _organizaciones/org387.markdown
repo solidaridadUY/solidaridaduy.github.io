@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SHUGU"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "098301517"
-direccion: "Michelini 1073 esquina Bergalli"
+actividades: "Balneario Buenos Aires"
+necesidades: "Olla"
+telefono_contacto: "Carne, verduras, alimentos en general, artículos de higiene y limpieza, implementos de bioseguridad"
+direccion: "Karina 091401565"
 
 otros_contactos: ""
-horario: "10:00 a 16:00"
-aclaraciones: ""
+horario: "20:00 a 21:00"
+aclaraciones: "Lllevar recipiente para la vianda. Los días viernes se entregan canastas"
 cuenta_bancaria: ""
 
 ---

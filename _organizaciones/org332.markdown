@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "097113175"
-direccion: "Luis Batlle Berres, Manzana C, Casa 19"
+barrio: "Montevideo"
+actividades: "Pajas Blancas"
+necesidades: "Punto de Donación"
+telefono_contacto: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
+direccion: "094569111"
 
-otros_contactos: "093846063"
-horario: "19hs"
-aclaraciones: "Llevar vianda"
+otros_contactos: ""
+horario: "11 a 13:30hs"
+aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
 cuenta_bancaria: ""
 
 ---

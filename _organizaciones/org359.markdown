@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Club Bella Vista"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Capurro"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099167275 098456226"
-direccion: "Av. Agraciada 3100 esquina Ascencio (Sede Bella Vista)"
+barrio: "Montevideo"
+actividades: "Capurro"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "099 202 923 - 2309 16 20 - 2304 93 06"
 
 otros_contactos: ""
-horario: "12hs"
-aclaraciones: "Llevar tupper. Un sólo representante por familia"
+horario: "11 a 14hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

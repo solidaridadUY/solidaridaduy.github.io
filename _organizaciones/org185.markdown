@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinos de La Tablada"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Abayubá"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "Mirtha Gao"
-direccion: "Cno de la Justicia y Abayubá"
+barrio: "Montevideo"
+actividades: "Conciliación"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Augusto 099894189 "
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "13 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Frente Amplio Casa Central"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Paysandú"
-barrio: "Paysandú"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "096 121 815"
-direccion: "Coordinar telefónicamente"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Centro"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "DANIELA: 098995491"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Llevar tupper"
+horario: "Martes y Jueves de 10:00 a 12:00, Lunes, Miércoles y Viernes de 16:00 a 18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

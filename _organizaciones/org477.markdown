@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Teatro de Barrio Lavalleja "
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Barrio Lavalleja"
+necesidades: "Punto de Donación"
+telefono_contacto: "Leche en polvo, cocoa, lentejas, azúcar, sal, carne, condimentos, polvo de hornear, pulpa de tomate, frutas, verduras, guantes, alcohol gel"
+direccion: "098865307 Florencia  094357002  Hugo 099781693 Lucía (zona Centro)      "
+
+otros_contactos: ""
+horario: "14 a 17 hs"
+aclaraciones: "Retiran a domicilio coordinando previamente por telefóno"
+cuenta_bancaria: "Colectivo Abitab N° 109575"
+
+---

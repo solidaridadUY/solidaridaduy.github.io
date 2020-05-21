@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Ándale taquería"
-date: 2020-05-12 12:21:54 -0300
+title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Olla"
-necesidades: "No corresponde"
-telefono_contacto: "099456647"
-direccion: "Salto 1200"
+barrio: "Montevideo"
+actividades: "Barrio Sur"
+necesidades: "Canasta"
+telefono_contacto: "Alimentos no perecederos para canastas y merienda"
+direccion: "098697902 Camila Sosa"
 
-otros_contactos: ""
-horario: "12:00 hs"
-aclaraciones: "Entregan viandas"
-cuenta_bancaria: ""
+otros_contactos: "099005299 Sofía Raffaelli"
+horario: "Consultar telefónicamente"
+aclaraciones: "Donaciones para canastas los días jueves"
+cuenta_bancaria: "Raíces I BROU caja de ahorros pesos ($) 001930334-00001"
 
 ---

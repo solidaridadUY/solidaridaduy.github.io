@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "094827612 (María)"
-direccion: "Complejo Libertad - Vivienda 34 D - La Pilarica"
+barrio: "Canelones"
+actividades: "Las Piedras"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "094637367 - 092327637"
 
 otros_contactos: ""
 horario: ""

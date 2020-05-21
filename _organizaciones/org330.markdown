@@ -1,19 +1,20 @@
 ---
 layout: organizacion
 
-title: "Ferretería \"El Destino\""
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Los Bulevares"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: ""
-direccion: "Ideario Artiguista 1865"
+barrio: "Montevideo"
+actividades: "Pajas Blancas"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos, frutas y verduras, productos de limpieza"
+direccion: "099171729 Aníbal"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "Lunes y Miércoles:18hs.
+Sábados y Domingos:13hs"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Caja de ahorro BROU 000665700-00001"
 
 ---

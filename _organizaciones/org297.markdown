@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Club Sayago"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "094881721
-Antonio
-"
-direccion: "Salón Barrio Artigas (Santin C. Rossi 4563)"
+barrio: "Montevideo"
+actividades: "Sayago"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Gimena Fernández 096778461"
 
-otros_contactos: "095976666 Pablo"
-horario: "13.30 hs"
-aclaraciones: ""
+otros_contactos: "23591125"
+horario: "12 hs"
+aclaraciones: "Entrega de viandas"
 cuenta_bancaria: ""
 
 ---

@@ -1,0 +1,19 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Marconi"
+necesidades: "Olla"
+telefono_contacto: "Verduras, frutas, carne, alimentos no perecederos"
+direccion: "097130568 Alejandra Trillo"
+
+otros_contactos: ""
+horario: "20 hs"
+aclaraciones: "Algunos días tuvieron que suspenderla por falta de insumos para cocinar"
+cuenta_bancaria: ""
+
+---

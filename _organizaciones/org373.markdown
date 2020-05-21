@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Zonal Tino Barrios"
-date: 2020-05-12 12:21:54 -0300
+title: "Kavlin Centro Cultural"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Cerro Pelado"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "092370142"
-direccion: "SIERRA DE LAS CAÑAS ESQUINA VERDUN"
+barrio: "Maldonado"
+actividades: "Punta del Este"
+necesidades: "Punto de Donación"
+telefono_contacto: "Ropa de abrigo, frazadas, alimentos no perecederos"
+direccion: "095919092"
 
-otros_contactos: ""
-horario: "15:00 a 19:00"
-aclaraciones: ""
+otros_contactos: "42253866"
+horario: ""
+aclaraciones: "Reciben donaciones coordinando por teléfono y retiran a domicilio coordinando en este número: 094910906. Para donar carne o verduras coordinar con: 091056711."
 cuenta_bancaria: ""
 
 ---

@@ -2,18 +2,18 @@
 layout: organizacion
 
 title: "Red Solidaria Barrio Lavalleja"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099709823"
-direccion: "Av de las instrucciones 1200 A, apto 2"
+barrio: "Montevideo"
+actividades: "Barrio Lavalleja"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "098865307-Florencia"
 
-otros_contactos: ""
-horario: "12 a 17 hrs"
-aclaraciones: ""
+otros_contactos: "094357002  Hugo"
+horario: "Durante el día"
+aclaraciones: "Pueden pasar a retirar donaciones"
 cuenta_bancaria: ""
 
 ---

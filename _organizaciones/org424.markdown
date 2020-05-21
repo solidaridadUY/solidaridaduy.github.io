@@ -1,25 +1,24 @@
 ---
 layout: organizacion
 
-title: "Olla 1º de Mayo"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla y meriendas"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Alimentos
-tapabocas, guantes
-
+barrio: "Montevideo"
+actividades: "Casavalle"
+necesidades: "Merienda"
+telefono_contacto: "Leche"
+direccion: "Venancio Vargas
+Mariana Massarino
+094213482
+097470966
 "
-telefono_contacto: "Lorena  094931905
-Paola
-097965603
-"
-direccion: "San Jacinto y Toledo"
 
 otros_contactos: ""
-horario: "Se entregan viandas entre las 20 y las 22 hs"
-aclaraciones: ""
+horario: "17.30 hs"
+aclaraciones: "Reciben donaciones del colectivo Clara Jackson
+"
 cuenta_bancaria: ""
 
 ---

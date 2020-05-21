@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo de amigos"
-date: 2020-05-12 12:21:54 -0300
+title: "SOMOS - Acción en Red"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Particular que dona"
-necesidades: "Alimentos y fondos para compra de alimentos"
-telefono_contacto: "099162365"
-direccion: "No corresponde"
+barrio: "Montevideo"
+actividades: "No corresponde"
+necesidades: "Retiro de donaciones"
+telefono_contacto: "Todo tipo de donaciones y fondos"
+direccion: "Ver redes más abajo"
 
-otros_contactos: ""
+otros_contactos: "e-mail: somos@somosaccion.uy"
 horario: "No corresponde"
-aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
-cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
+aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
+cuenta_bancaria: ""
 
 ---

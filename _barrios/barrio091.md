@@ -1,7 +1,7 @@
 ---
-nombre: "Maroñas"
+nombre: "Malvín"
 departamento: "Montevideo"
 ---
 
-Barrio Maroñas
+Barrio Malvín
 Departamento de Montevideo

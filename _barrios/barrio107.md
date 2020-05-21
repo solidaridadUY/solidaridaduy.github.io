@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio Paso Molino
 Departamento de Montevideo

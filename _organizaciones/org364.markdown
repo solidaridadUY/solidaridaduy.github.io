@@ -1,20 +1,19 @@
 ---
 layout: organizacion
 
-title: "Rotisería El Garrison"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "Villa Muñoz"
-actividades: "Merienda"
-necesidades: ""
-telefono_contacto: "092310955"
-direccion: "Domingo Aramburú 1840 esquina Democracia"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Hipodromo"
+necesidades: "Merienda"
+telefono_contacto: "Leche en polvo azúcar y cocoa"
+direccion: "CAROL: 094838005"
 
 otros_contactos: ""
-horario: "8 a 11hs
-18 a 19:30hs"
-aclaraciones: "Café con leche y tostadas con manteca"
+horario: "16:30 a 17:30"
+aclaraciones: "LLEVAR BOLSA PARA PAN O TORTAS Y RECIPIENTE PARA LA LECHE"
 cuenta_bancaria: ""
 
 ---

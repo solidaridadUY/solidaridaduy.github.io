@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Félix Vidarte"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Popular Vecines"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos secos y verduras "
-telefono_contacto: "095496658"
-direccion: "República Argentina esq. Pando"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Olla"
+telefono_contacto: "Alimentos para comida de olla"
+direccion: "091994815 (Marcela) - 099920303"
 
 otros_contactos: ""
-horario: "19 a 21"
-aclaraciones: "Contactar por Whatsapp"
+horario: "16:30 a 19:00 hs"
+aclaraciones: "Pasan a buscar donaciones en la zona. Entregan plato"
 cuenta_bancaria: ""
 
 ---

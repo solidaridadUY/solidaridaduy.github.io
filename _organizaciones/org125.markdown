@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa ciudadana: CANASTAS UY"
-date: 2020-05-12 12:21:54 -0300
+title: "Pizzería Los Dos Hermanos"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: "Ofrecer trabajo voluntario en el armado de las canastas."
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+barrio: "Montevideo"
+actividades: "Nuevo París"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "23071388"
 
-otros_contactos: "@CanastasUy en IG"
-horario: ""
-aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
+otros_contactos: ""
+horario: " 13hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

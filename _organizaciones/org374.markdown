@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Brigada Feminista"
-date: 2020-05-12 12:21:54 -0300
+title: "Grupo de Estudiantes de Educación Social"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Punto de Donación"
-necesidades: "Principalmente leche en polvo. También cocoa, galletas, frutas, harina, azúcar, maicena, mermeladas, dulces"
-telefono_contacto: "Gabriela: 098395475"
-direccion: "Isabel de Castilla y Minas B. Kennedy"
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "091096399"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Reciben donaciones y retiran a domicilio"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

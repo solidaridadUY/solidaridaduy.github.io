@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Pascual"
-departamento: "San José"
+nombre: "Rivera"
+departamento: "Rivera"
 ---
 
-Barrio Playa Pascual
-Departamento de San José
+Barrio Rivera
+Departamento de Rivera

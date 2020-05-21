@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Frente Amplio Casa Central"
-date: 2020-05-12 12:21:54 -0300
+title: "Colón F.C. y Los Fantasmas se Divierten"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "DANIELA: 098995491"
-direccion: "AV. LUIS BATLLE Y ORDOÑEZ 1213"
+barrio: "Maldonado"
+actividades: "San Carlos"
+necesidades: "Olla"
+telefono_contacto: "VERDURAS, FIDEOS, ARROZ, CARNE, PULPA DE TOMATE"
+direccion: "095550320"
 
 otros_contactos: ""
-horario: "Lunes a Viernes 10:00 a 12:00 y 16:00 a 18:00"
-aclaraciones: ""
+horario: "Todos los días 19:00 a 21:00"
+aclaraciones: "RECIBEN DONACIONES DE 17:00 A 19:00 Y RETIRAN A DOMICILIO"
 cuenta_bancaria: ""
 
 ---

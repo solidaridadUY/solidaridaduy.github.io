@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal: Belén Facundo y Pablo"
-date: 2020-05-12 12:21:54 -0300
+title: "iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "La Comercial"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "092206725"
-direccion: "Juan Paullier 2255 esq. Coquimbo  (frente a Jueves 5)"
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Olla"
+telefono_contacto: "Reciben donaciones en puntos de donacion del barrio"
+direccion: "-"
 
 otros_contactos: ""
-horario: "13 hs y 20 hs"
+horario: "Lunes a Viernes 12:30 a 14:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

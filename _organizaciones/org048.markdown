@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Centro Salesiano"
-date: 2020-05-12 12:21:54 -0300
+title: "Unidos Centro Educativo"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros"
-actividades: "Canasta"
-necesidades: ""
-telefono_contacto: "2355 5684"
-direccion: "No corresponde"
+barrio: "Montevideo"
+actividades: "Villa Española"
+necesidades: "Canasta"
+telefono_contacto: "Alimentos, productos de limpieza e higiene, donaciones económicas"
+direccion: "091203982"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "BBVA - CC $ 9927 19836 Centro Salesiano Aires Puros"
+horario: "Lunes a Viernes"
+aclaraciones: "Tienen nexo con la iniciativa Involucrate"
+cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Trinidad"
+nombre: "Cañada Monzón"
 departamento: "Flores"
 ---
 
-Barrio Trinidad
+Barrio Cañada Monzón
 Departamento de Flores

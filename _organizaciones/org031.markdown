@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Lomas 3 Baby Fútbol"
-date: 2020-05-12 12:21:54 -0300
+title: "Merendero Los conquistadores Apoya Grupo Misericordia"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Canelones"
-barrio: "Lomas de Solymar"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y productos de limpieza"
-telefono_contacto: "098925931 092725742"
-direccion: "Calle 2 esquina Tiburón"
+barrio: "Canelones"
+actividades: "Villa la Colina"
+necesidades: "Merienda"
+telefono_contacto: "Alimentos y donaciones"
+direccion: "091 292 894"
 
-otros_contactos: " "
-horario: "Miércoles y Viernes de 18 a 20 hs."
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

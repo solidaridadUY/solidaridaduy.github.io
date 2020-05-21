@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vilardevoz"
-date: 2020-05-12 12:21:54 -0300
+title: "Club Yale"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Reducto"
-actividades: "Punto de Donación"
-necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
-telefono_contacto: "No corresponde"
-direccion: "Paraguay 1190"
+barrio: "Montevideo"
+actividades: "Jacinto Vera"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "091526172"
 
 otros_contactos: ""
-horario: " 14 a 18 hrs"
-aclaraciones: ""
+horario: "Durante el día."
+aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 
 ---

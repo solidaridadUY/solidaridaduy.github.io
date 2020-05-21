@@ -1,19 +1,18 @@
 ---
 layout: organizacion
 
-title: "Club Social y Deportivo Iriarte"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
-actividades: "Olla"
-necesidades: "Verduras y Carne"
-telefono_contacto: "095109490
-Walter"
-direccion: "Tampico esquina Emancipación"
+barrio: "Montevideo"
+actividades: "Causeglia"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "093665410 María José"
 
 otros_contactos: ""
-horario: "A partir de 12hs"
+horario: "20 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

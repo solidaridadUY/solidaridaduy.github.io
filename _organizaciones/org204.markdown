@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité 26 de Julio"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Canelones"
-barrio: "Suárez"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "093 687 106"
-direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Tres Cruces"
+necesidades: "Punto de Donación"
+telefono_contacto: " Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
+direccion: "099440037"
 
 otros_contactos: ""
-horario: "Coordinar donaciones por mensaje de WhatsApp o llamar"
-aclaraciones: ""
+horario: "17 a 20hs"
+aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
 cuenta_bancaria: ""
 
 ---

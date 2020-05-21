@@ -2,17 +2,17 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "099242821 Nestor"
-direccion: "Paralela a Estados Unidos 2604 esquina Pastor Smith"
+barrio: "Montevideo"
+actividades: "Causeglia"
+necesidades: "Merienda"
+telefono_contacto: ""
+direccion: "093665410 María José"
 
 otros_contactos: ""
-horario: "12:30hs"
+horario: "17 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

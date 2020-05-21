@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "REDALCO"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Punto de Donación"
-necesidades: "Dinero para entregar canastas de verduras y frutas"
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+departamento: "Paysandú"
+barrio: "Paysandú"
+actividades: "Paysandú"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "096 121 815"
 
 otros_contactos: ""
-horario: "No corresponde"
-aclaraciones: "Con cada donación de $500 se colabora con 18 kg de frutas y verduras aportando 50 platos sanos y nutritivos para llevar a aquellas familias que en este contexto de emergencia necesitan."
-cuenta_bancaria: "BROU 00178550600001"
+horario: ""
+aclaraciones: "Llevar tupper"
+cuenta_bancaria: ""
 
 ---

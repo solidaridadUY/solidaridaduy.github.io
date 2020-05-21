@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jornada Solidaria"
-date: 2020-05-12 12:21:54 -0300
+title: "Olla Comunitaria"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
-barrio: "Barrio 14 de febrero"
-actividades: "Olla"
-necesidades: "Carne, verduras, fideos, aceite"
-telefono_contacto: "ROMINA: 095566398"
-direccion: "FRENTE A CANCHA DE BABY BARCELONA"
+barrio: "Maldonado"
+actividades: "La Capuera"
+necesidades: "Olla"
+telefono_contacto: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
+direccion: "092817617"
 
 otros_contactos: ""
-horario: "18:00"
-aclaraciones: "Llevar recipiente, bolsa para el pan, botella para la leche. Retiran donaciones a domicilio"
+horario: "12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

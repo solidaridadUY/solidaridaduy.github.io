@@ -1,20 +1,23 @@
 ---
 layout: organizacion
 
-title: "Barrio Unido"
-date: 2020-05-12 12:21:54 -0300
+title: "Campaña solidaria: trabajadores de la peatonal sarandí junto a vecines de Ciudad Vieja"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Ombúes"
-actividades: "Olla"
-necesidades: "Artículos de limpieza, artículos sanitarios, salsa y carne"
-telefono_contacto: "098646492
-Mariana"
-direccion: "Asentamiento Barrio Unido (bajo el puente)"
+barrio: "Montevideo"
+actividades: "Ciudad Vieja"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos
+Artículos de higiene
+Implementos de prevención (tapabocas, guantes)"
+direccion: "094505509"
 
-otros_contactos: ""
-horario: "Mediodía"
-aclaraciones: "Cuando se reparten canastas no hacen olla"
+otros_contactos: "sutre.donaciones@gmail.com"
+horario: "12 a 14hs"
+aclaraciones: "Escuela de Cine del Uruguay
+Cinemateca Uruguaya
+Espacio Bijam"
 cuenta_bancaria: ""
 
 ---

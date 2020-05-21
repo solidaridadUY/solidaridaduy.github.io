@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "SOMOS - Acción en Red"
-date: 2020-05-12 12:21:54 -0300
+title: "RED DE MERENDEROS"
+date: 2020-05-21 15:09:43 -0300
 
-departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Retiro de donaciones"
-necesidades: "Todo tipo de donaciones y fondos"
-telefono_contacto: "Ver redes más abajo"
-direccion: "No corresponde"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Barros Blancos"
+necesidades: "Merienda"
+telefono_contacto: ""
+direccion: "095509142"
 
-otros_contactos: "e-mail: somos@somosaccion.uy"
-horario: "No corresponde"
-aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
+otros_contactos: ""
+horario: "Coordinar previamente por teléfono"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

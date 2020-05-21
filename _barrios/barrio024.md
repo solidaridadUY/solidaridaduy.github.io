@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio La Figurita"
-departamento: "Flores"
+nombre: "Juan Lacaze"
+departamento: "Colonia"
 ---
 
-Barrio Barrio La Figurita
-Departamento de Flores
+Barrio Juan Lacaze
+Departamento de Colonia

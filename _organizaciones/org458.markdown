@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-05-21 15:09:43 -0300
+
+departamento: "Montevideo"
+barrio: "Montevideo"
+actividades: "Cerrito de la Victoria"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "092650082 Beatriz Blanco
+"
+
+otros_contactos: ""
+horario: "12 hs."
+aclaraciones: "Atienden 300 personas entre los dos días, los viernes se reúnen a las 10.30 en el Centro Cultural Guyunusa a planificar las comidas de sábado y Domingo. Las colaboraciones han bajado mucho, no quieren cerrar la olla y desde hace unos días consiguieron un carrito y salen a vender tortas fritas en la feria para ayudar a solventar gastos."
+cuenta_bancaria: ""
+
+---

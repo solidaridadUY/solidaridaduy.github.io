@@ -1,7 +1,7 @@
 ---
-nombre: "La Capuera"
+nombre: "Hipodromo"
 departamento: "Maldonado"
 ---
 
-Barrio La Capuera
+Barrio Hipodromo
 Departamento de Maldonado

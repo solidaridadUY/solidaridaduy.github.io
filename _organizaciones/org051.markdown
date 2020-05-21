@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Adeom"
-date: 2020-05-12 12:21:54 -0300
+title: "Comité Cuaró"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: ""
-telefono_contacto: "099759758"
-direccion: "Canelones 1330"
+barrio: "Montevideo"
+actividades: "Bella Vista"
+necesidades: "Canasta"
+telefono_contacto: "Se recibe alimentos no
+perecederos, juguetes, ropa,
+apoyo transporte"
+direccion: "099204370"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Reciben solo donaciones para canastas, no están haciendo ollas"
-cuenta_bancaria: ""
+otros_contactos: "099869454"
+horario: "15 a 19hs"
+aclaraciones: ""
+cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
 
 ---

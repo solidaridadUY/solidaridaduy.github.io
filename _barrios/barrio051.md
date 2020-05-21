@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Sur"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Barrio Sur
+Barrio Aires Puros
 Departamento de Montevideo

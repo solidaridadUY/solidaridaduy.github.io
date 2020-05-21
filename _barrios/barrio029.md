@@ -1,7 +1,7 @@
 ---
-nombre: "Balneario Buenos Aires"
-departamento: "Maldonado"
+nombre: "Flores"
+departamento: "Flores"
 ---
 
-Barrio Balneario Buenos Aires
-Departamento de Maldonado
+Barrio Flores
+Departamento de Flores

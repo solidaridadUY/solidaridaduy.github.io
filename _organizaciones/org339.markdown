@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "Asociación Bioquímica Uruguaya"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Las Torres"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "094175038 Gabriel"
-direccion: "Los Nogales 2733"
+barrio: "Montevideo"
+actividades: "Centro"
+necesidades: "Particular que dona"
+telefono_contacto: "Dinero para producción de desinfectantes para población vulnerable"
+direccion: "2903 1321
+"
 
-otros_contactos: ""
-horario: "19 hs"
+otros_contactos: "secretaria.abu@gmail.com"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "$ 1566766-00003 
+USD 1566766-00001"
 
 ---

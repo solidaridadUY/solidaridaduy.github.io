@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Paso Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Paso Carrasco
 Departamento de Montevideo

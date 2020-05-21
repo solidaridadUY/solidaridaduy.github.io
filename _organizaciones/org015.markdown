@@ -2,14 +2,14 @@
 layout: organizacion
 
 title: "Capilla Santo Domingo"
-date: 2020-05-12 12:21:54 -0300
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-telefono_contacto: "098291299"
-direccion: "Camino Maldonado 5842 y Venecia"
+barrio: "Montevideo"
+actividades: "Punta de Rieles"
+necesidades: "Punto de Donación"
+telefono_contacto: "Alimentos no perecederos"
+direccion: "098291299"
 
 otros_contactos: ""
 horario: ""

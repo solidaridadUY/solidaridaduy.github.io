@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-12 12:21:54 -0300
+title: "SERPAJ"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
-actividades: "Punto de Donación"
-necesidades: "Se reciben donaciones de cualquier tipo para hacer olla popular"
-telefono_contacto: "094097964  095495396  094900817"
-direccion: "Consultar telefónicamente"
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "24085301"
 
 otros_contactos: ""
-horario: "Durante el día"
+horario: "Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

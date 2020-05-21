@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Palermo"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Palermo
 Departamento de Montevideo

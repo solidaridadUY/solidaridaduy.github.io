@@ -1,18 +1,18 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Parque de los Fogones"
-date: 2020-05-12 12:21:54 -0300
+title: "Iniciativa Vecinal: Monte de la Francesa"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
-actividades: "Olla"
-necesidades: ""
-telefono_contacto: "094951553"
-direccion: "Parque de los Fogones - Av. Millán y Martin Ximeno"
+barrio: "Montevideo"
+actividades: "Colón"
+necesidades: "Olla"
+telefono_contacto: ""
+direccion: "Luis 094036883"
 
 otros_contactos: ""
-horario: "Sabados y Domingos"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

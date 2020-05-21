@@ -1,7 +1,7 @@
 ---
-nombre: "Maldonado"
+nombre: "Kennedy"
 departamento: "Maldonado"
 ---
 
-Barrio Maldonado
+Barrio Kennedy
 Departamento de Maldonado

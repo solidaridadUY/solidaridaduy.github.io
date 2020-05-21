@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Maldonado Solidario"
-date: 2020-05-12 12:21:54 -0300
+title: "SUNCA"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Realización de compras"
-necesidades: "No aplica"
-telefono_contacto: "99814995 y 099390621"
-direccion: ""
+actividades: "Maldonado"
+necesidades: "Punto de Donación"
+telefono_contacto: ""
+direccion: "098301517"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Hacen las compras y otros trámites que necesiten personas mayores o enfermas"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

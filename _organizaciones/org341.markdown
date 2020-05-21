@@ -1,19 +1,19 @@
 ---
 layout: organizacion
 
-title: "Seregnistas - FA"
-date: 2020-05-12 12:21:54 -0300
+title: "Plazita Acción Direkta"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Punto de Donación"
-necesidades: ""
+barrio: "Montevideo"
+actividades: "Cordón"
+necesidades: "Olla"
 telefono_contacto: ""
-direccion: "Avda del Libertador 1678"
+direccion: ""
 
 otros_contactos: ""
-horario: "17 a 18hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Acercarse con recipiente"
 cuenta_bancaria: ""
 
 ---

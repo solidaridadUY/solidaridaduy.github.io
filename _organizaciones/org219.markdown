@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Boix Merino - Organización Barrial La Bombonera"
-date: 2020-05-12 12:21:54 -0300
+title: "Vecinos Euskalerría"
+date: 2020-05-21 15:09:43 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Olla"
-necesidades: "Garrafa"
-telefono_contacto: "095578924 Paola
-094889164 Javier
-0998994666 Joaquin"
-direccion: "Calle 2 2240."
+barrio: "Montevideo"
+actividades: "Malvín Norte"
+necesidades: "Olla"
+telefono_contacto: "Alimentos no perecederos y verduras"
+direccion: "095425068  093301890  095628133"
 
 otros_contactos: ""
 horario: ""
-aclaraciones: "Reciben donaciones todos los días de 9:30 a 19:00 en Menorca 1905 y calle 4"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---
