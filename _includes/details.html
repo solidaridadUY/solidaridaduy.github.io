@@ -1,0 +1,57 @@
+<div class="details__scroll">
+  <div class="details__title">
+    <a href="{{ include.post.url | relative_url }}" target="_blank">Ver detalle</a>
+  </div>
+  <table class="details__table">
+    <tbody>
+      <tr>
+          <td class="title">Actividad:</td>
+          <td>{{include.post.actividades}}</td>
+      </tr>
+      <tr>
+          <td class="title">Departamento:</td>
+          <td>{{include.post.departamento}}</td>
+      </tr>
+      <tr>
+          <td class="title">Barrio:</td>
+          <td>{{include.post.barrio}}</td>
+      </tr>
+      <tr>
+          <td class="title">Dirección:</td>
+          <td>{{include.post.direccion}}</td>
+      </tr>
+      <tr>
+          <td class="title">Teléfono:</td>
+          <td>{{include.post.telefono_contacto}}</td>
+      </tr>
+      <tr>
+          <td class="title">Necesidades:</td>
+          <td>{{include.post.necesidades}}</td>
+      </tr>
+      {% if include.post.otros_contactos != blank and include.post.otros_contactos != "" %}
+      <tr>
+          <td class="title">Otros contactos:</td>
+          <td>{{include.post.otros_contactos}}</td>
+      </tr>
+      {% endif %}
+      {% if include.post.horario != blank and include.post.horario != "" %}
+      <tr>
+          <td class="title">Horario:</td>
+          <td>{{include.post.horario}}</td>
+      </tr>
+      {% endif %}
+      {% if include.post.aclaraciones != blank and include.post.aclaraciones != "" %}
+      <tr>
+          <td class="title">Aclaraciones:</td>
+          <td>{{include.post.aclaraciones}}</td>
+      </tr>
+      {% endif %}
+      {% if include.post.cuenta_bancaria != blank and include.post.cuenta_bancaria != "" %}
+      <tr>
+          <td class="title">Cuenta bancaria:</td>
+          <td>{{include.post.cuenta_bancaria}}</td>
+      </tr>
+      {% endif %}
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,67 @@
+<article class="box-item details__container">
+  <div class="box-body">
+    <div class="box-barrio">
+      <span class="post-meta">{barrio}, {departamento}</span>
+    </div>
+    <h3>
+      <a class="post-link" data-toggle="#details-{index}" href="{url}">
+        {title}
+      </a>
+    </h3>
+    <p>{actividades}</p>
+  </div>
+
+  <div id="details-{index}" class="details__box hide">
+    <button class="details__back" data-toggle="#details-{index}"></button>
+    <div class="details__scroll">
+      <div class="details__title">
+        <a href="{url}" target="_blank">Ver detalle</a>
+      </div>
+      <table class="details__table">
+        <tbody>
+          <tr>
+              <td class="title">Actividad:</td>
+              <td>{actividades}</td>
+          </tr>
+          <tr>
+              <td class="title">Departamento:</td>
+              <td>{departamento}</td>
+          </tr>
+          <tr>
+              <td class="title">Barrio:</td>
+              <td>{barrio}</td>
+          </tr>
+          <tr>
+              <td class="title">Dirección:</td>
+              <td>{direccion}</td>
+          </tr>
+          <tr>
+              <td class="title">Teléfono:</td>
+              <td>{telefono_contacto}</td>
+          </tr>
+          <tr>
+              <td class="title">Necesidades:</td>
+              <td>{necesidades}</td>
+          </tr>
+          <tr>
+              <td class="title">Otros contactos:</td>
+              <td>{otros_contactos}</td>
+          </tr>
+          <tr>
+              <td class="title">Horario:</td>
+              <td>{horario}</td>
+          </tr>
+          <tr>
+              <td class="title">Aclaraciones:</td>
+              <td>{aclaraciones}</td>
+          </tr>
+          <tr>
+              <td class="title">Cuenta bancaria:</td>
+              <td>{cuenta_bancaria}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</article>

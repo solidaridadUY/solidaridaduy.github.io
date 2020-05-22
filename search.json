@@ -3,14 +3,19 @@
 [
   {% for post in site.organizaciones %}
     {
-
+      "index": "{{ forloop.index }}",
       "title"    		: "{{ post.title | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "departamento"    : "{{ post.departamento }}",
       "barrio" 			: "{{ post.barrio }}",
       "actividades"     : "{{ post.actividades }}",
-      "necesidades"		: "{{ post.necesidades }}"
-
+      "necesidades":"{{ post.necesidades | default: 'Sin especificar' }}",
+      "direccion":"{{ post.direccion | escape | default: 'Sin especificar' }}",
+      "telefono_contacto":"{{ post.telefono_contacto | escape | default: 'Sin especificar' }}",
+      "otros_contactos":"{{ post.otros_contactos | escape | default: 'Sin especificar' }}",
+      "horario":"{{ post.horario | escape | default: 'Sin especificar' }}",
+      "aclaraciones":"{{ post.aclaraciones | escape | default: 'Sin especificar' }}",
+      "cuenta_bancaria":"{{ post.cuenta_bancaria | strip_newlines | escape | default: 'Sin especificar' }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
