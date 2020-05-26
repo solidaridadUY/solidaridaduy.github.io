@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Vecinas atrás del SACUDE"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casabó"
-necesidades: "Olla"
-telefono_contacto: "Productos de limpieza, alimentos"
-direccion: "097322340
-Jonathan"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Aceite, sal, pulpa de tomate y verduras"
+telefono_contacto: "Fanny Lopez
+094 074 033
+"
+direccion: "Pasaje Vecinal 1 5293 entre Carmelo Colman y Petrona Viera"
 
 otros_contactos: ""
-horario: "Jueves 19hs, Domingo 13hs"
+horario: "Todos los días - Tarde/noche"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Vecinos núcleo liceo"
-date: 2020-05-21 15:09:43 -0300
+title: "Movida Solidaria del Barrio"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Lezica"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "Kristie Barreiro: 098993951
-"
+barrio: "La Boyada"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos para merienda y olla"
+telefono_contacto: "Melany 093818052"
+direccion: "Camino de las tropas 5162"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: ""
+horario: "Lunes Miércoles y Viernes - 17hs"
+aclaraciones: "No reciben donaciones suficientes para la cantidad de niñxs que atienden. Los Viernes intentan hacer olla para 40 familias pero no tienen suficientes donaciones. "
 cuenta_bancaria: ""
 
 ---

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Club Social y Deportivo Villa Española"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Española"
-necesidades: "Canasta"
-telefono_contacto: "Se reciben donaciones, se entregan canastas"
-direccion: "099584844"
+barrio: "Villa Española"
+actividades: "Canasta"
+necesidades: "Alimentos y Artículos de Higiene Personal"
+necesidades_especificas: "Se reciben donaciones, se entregan canastas"
+telefono_contacto: "099584844"
+direccion: "Camino Corrales 3148"
 
 otros_contactos: "094612415"
-horario: "Durante el día."
+horario: " - Durante el día."
 aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 

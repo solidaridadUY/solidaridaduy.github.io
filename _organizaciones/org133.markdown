@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Alexandra Club Gourmet"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Parque Rodó"
-necesidades: "Olla"
-telefono_contacto: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
-direccion: "099171766"
+barrio: "Parque Rodó"
+actividades: "Olla"
+necesidades: "Artículos de limpieza y de higiene personal"
+necesidades_especificas: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
+telefono_contacto: "099171766"
+direccion: "Pablo de María 1056"
 
 otros_contactos: ""
-horario: "12.00 a 14.00 hs"
+horario: "Lunes Miércoles y Viernes - 12.00 a 14.00 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

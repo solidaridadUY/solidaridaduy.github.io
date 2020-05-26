@@ -1,7 +1,7 @@
 ---
-nombre: "Pinamar Norte"
+nombre: "Pando"
 departamento: "Canelones"
 ---
 
-Barrio Pinamar Norte
+Barrio Pando
 Departamento de Canelones

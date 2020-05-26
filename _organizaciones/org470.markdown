@@ -1,20 +1,21 @@
 ---
 layout: organizacion
 
-title: "Manos Solidarias"
-date: 2020-05-21 15:09:43 -0300
+title: "Comité Palermo"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Villa Alegría"
-necesidades: "Olla"
-telefono_contacto: "Carne
-Verdura"
-direccion: "Marina Rivero
-094840392"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Montevideo"
+barrio: "Palermo"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Isabel 093 739 044"
+direccion: "Maldonado 1587"
 
 otros_contactos: ""
-horario: "De noche"
+horario: "Martes - 15 a 19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

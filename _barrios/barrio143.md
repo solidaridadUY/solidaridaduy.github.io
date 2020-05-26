@@ -1,7 +1,7 @@
 ---
-nombre: "La Tablada"
+nombre: "Barrio Caballero"
 departamento: "Salto"
 ---
 
-Barrio La Tablada
+Barrio Barrio Caballero
 Departamento de Salto

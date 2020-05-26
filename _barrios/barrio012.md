@@ -1,7 +1,7 @@
 ---
-nombre: "Montes de Solymar"
+nombre: "Lomas de Solymar"
 departamento: "Canelones"
 ---
 
-Barrio Montes de Solymar
+Barrio Lomas de Solymar
 Departamento de Canelones

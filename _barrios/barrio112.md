@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "Peñarol"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio Peñarol
 Departamento de Montevideo

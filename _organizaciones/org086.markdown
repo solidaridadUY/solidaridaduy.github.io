@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Bella Italia"
-necesidades: "Olla"
-telefono_contacto: "leche en polvo"
-direccion: "094368436 Ismael"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "leche en polvo"
+telefono_contacto: "094368436 Ismael"
+direccion: "Blanco Acevedo 6159 esq. Florencia. Almacén Peladito"
 
 otros_contactos: "093867350 Loreley"
-horario: "20:30hs"
+horario: "Jueves y Viernes - 20:30hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

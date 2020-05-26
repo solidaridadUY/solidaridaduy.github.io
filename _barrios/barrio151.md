@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "Salto"
+departamento: "Salto"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio Salto
+Departamento de Salto

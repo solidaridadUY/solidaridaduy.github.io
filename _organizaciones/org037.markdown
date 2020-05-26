@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "CECOED"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Salto"
 barrio: "Salto"
-actividades: "Salto"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
-direccion: "092350389 47327359"
+actividades: "Punto de Donación"
+necesidades: ""
+necesidades_especificas: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
+telefono_contacto: "092350389 47327359"
+direccion: "Avda. Luis Batlle Berres esq. Enrique Amorín"
 
 otros_contactos: ""
-horario: ""
+horario: "Consultar telefónicamente - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

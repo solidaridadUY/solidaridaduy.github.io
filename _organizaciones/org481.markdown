@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Merendero Corazoncitos"
-date: 2020-05-21 15:09:43 -0300
+title: "Malumbe"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Salto"
-barrio: "Salto"
-actividades: "Salto Nuevo Sur"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "097732521"
+barrio: "Don Atilio"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "091792945"
+direccion: "Rincon casi 17mts"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: "En situación de urgencia."
-cuenta_bancaria: "tarjeta mi dinero para recibir donaciones 3.395.167-8"
+horario: "Lunes a Viernes - Consultar telefónicamente"
+aclaraciones: "merienda y cena"
+cuenta_bancaria: ""
 
 ---

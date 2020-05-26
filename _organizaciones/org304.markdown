@@ -1,20 +1,23 @@
 ---
 layout: organizacion
 
-title: "Liverpool Fútbol Club"
-date: 2020-05-21 15:09:43 -0300
+title: "Club Social y Deportivo Iriarte"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "24/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Belvedere"
-necesidades: "Punto de Donación"
-telefono_contacto: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
-direccion: "099641831"
+barrio: "Belvedere"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Verduras y Carne"
+telefono_contacto: "095109490
+Walter"
+direccion: "Tampico esquina Emancipación"
 
-otros_contactos: "099687490
-098429091"
-horario: "A partir de las 17hs"
-aclaraciones: "Olla a las 20:00hs"
+otros_contactos: ""
+horario: " - A partir de 12hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

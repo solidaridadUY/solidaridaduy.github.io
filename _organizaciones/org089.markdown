@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Brigada José Artigas"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Bella Italia"
-necesidades: "Olla"
-telefono_contacto: "Carne y verdura, alcohol en gel, tapabocas y guantes. Demandan cocineros"
-direccion: "095775335 Adrián"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Carne y verdura, alcohol en gel, tapabocas y guantes. Demandan cocineros"
+telefono_contacto: "095775335 Adrián"
+direccion: "Carlomagno esq. Victor Manuel. Mercadito Bella Italia"
 
 otros_contactos: ""
-horario: "12hs"
+horario: "Lunes a Viernes - 12hs"
 aclaraciones: ""
 cuenta_bancaria: "BROU Caja de ahorro en pesos Nº 110171769-00001"
 

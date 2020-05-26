@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Pocitos"
-necesidades: "Retiro de donaciones"
-telefono_contacto: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
-direccion: "098220931"
+barrio: "Pocitos"
+actividades: "Retiro de donaciones"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
+telefono_contacto: "098220931"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Cerrito de la Victoria"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Cerrito de la Victoria
 Departamento de Montevideo

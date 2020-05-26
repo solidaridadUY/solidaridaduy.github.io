@@ -2,18 +2,21 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Borro"
-necesidades: "Olla"
-telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
-direccion: "096276625, 096652675"
+fecha_actualizacion: "23/05/2020"
+
+departamento: "Maldonado"
+barrio: "Hipodromo"
+actividades: "Merienda"
+necesidades: "Alimentos"
+necesidades_especificas: "Leche en polvo azúcar y cocoa"
+telefono_contacto: "CAROL: 094838005"
+direccion: "Chanaes esquina Boanes. Frente a la plaza."
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: "Todos los días - 16:30 a 17:30"
+aclaraciones: "LLEVAR BOLSA PARA PAN O TORTAS Y RECIPIENTE PARA LA LECHE"
 cuenta_bancaria: ""
 
 ---

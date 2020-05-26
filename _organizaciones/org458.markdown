@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla solidaria Cancha del Rosario"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cerrito de la Victoria"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "092650082 Beatriz Blanco
-"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "097968054 Natalia"
+direccion: "Gustavo Volpe y Senda 14."
 
 otros_contactos: ""
-horario: "12 hs."
-aclaraciones: "Atienden 300 personas entre los dos días, los viernes se reúnen a las 10.30 en el Centro Cultural Guyunusa a planificar las comidas de sábado y Domingo. Las colaboraciones han bajado mucho, no quieren cerrar la olla y desde hace unos días consiguieron un carrito y salen a vender tortas fritas en la feria para ayudar a solventar gastos."
+horario: "Lunes a Viernes - 19 hs."
+aclaraciones: "Atienden 200 personas aprox."
 cuenta_bancaria: ""
 
 ---

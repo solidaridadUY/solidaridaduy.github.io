@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Cté de Base Félix Vidarte"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "095610063 - 093763288"
+barrio: "Las Piedras"
+actividades: "Canasta"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "095496658"
+direccion: "Rep. Argentina esq. Pando"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Lunes a Viernes:meriendas. Iniciativa incluida en la categoría \"merienda\" de esta página. También arman canastas"
+horario: "Martes y Jueves - 19 a 21hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

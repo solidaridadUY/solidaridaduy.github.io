@@ -1,7 +1,7 @@
 ---
-nombre: "Pajas Blancas"
+nombre: "Monarca"
 departamento: "Montevideo"
 ---
 
-Barrio Pajas Blancas
+Barrio Monarca
 Departamento de Montevideo

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Bella Italia"
-necesidades: "Olla"
-telefono_contacto: "Leche en Polvo"
-direccion: "097030441 Gabriela"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Leche en Polvo"
+telefono_contacto: "097030441 Gabriela"
+direccion: "Manuel Perez 6129 esq. Curis"
 
 otros_contactos: ""
-horario: "20hs"
+horario: "Martes y Miércoles - 20hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

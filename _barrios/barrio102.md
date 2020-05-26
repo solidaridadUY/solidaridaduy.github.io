@@ -1,7 +1,7 @@
 ---
-nombre: "Palermo"
+nombre: "No corresponde"
 departamento: "Montevideo"
 ---
 
-Barrio Palermo
+Barrio No corresponde
 Departamento de Montevideo

@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Olla popular ITUZAINGO"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "20/05/2020"
+
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "Lourdes Perera 096001040"
+direccion: "Gral Artigas entre Treinta y Tres y Champagnat (Salón Parroquial)"
+
+otros_contactos: ""
+horario: "Lunes a Viernes - A partir de las 19hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

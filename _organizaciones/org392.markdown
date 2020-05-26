@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Mas que lonja - Cuerda de tambores"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "5/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Buceo"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "En el lugar"
+barrio: "Villa García"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "094649196 092822695 094987832"
+direccion: "Club S. y D. Los Zorzales Km 20.200 parada 17"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: ""
+horario: "Todos los días - 14:00 a 18:00 hs"
+aclaraciones: "Además de recibir, también pueden pasar a retirar las donaciones"
 cuenta_bancaria: ""
 
 ---

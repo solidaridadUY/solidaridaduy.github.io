@@ -1,19 +1,24 @@
 ---
 layout: organizacion
 
-title: "Olla Vecinas Aguada"
-date: 2020-05-21 15:09:43 -0300
+title: "Familia y amigos de la Escuela 45 Leonor Hourticou"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "28/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Aguada"
-necesidades: "Olla"
-telefono_contacto: "Salsa de tomate, verduras, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
-direccion: "099466670 Viky"
+barrio: "La Comercial"
+actividades: "Punto de Donación"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Artículos de Limpieza y leche en polvo"
+telefono_contacto: "098882634
+099260489
+099183432"
+direccion: "Nicaragua 2298 Daniela de Santiago y a domicilio"
 
-otros_contactos: ""
-horario: "19hs."
-aclaraciones: "Aún no empezó a funcionar, están acopiando algo de alimentos para arrancar el 29 de abril en lo posible."
+otros_contactos: "escuela45lh@gmail.com"
+horario: "Consultar telefónicamente - Se coordina telefónicamente"
+aclaraciones: "Arman canastas para las familias de las Escuelas que están en más dificultad."
 cuenta_bancaria: ""
 
 ---

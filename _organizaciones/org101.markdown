@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Cuerpo docente Liceo Número 2"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Rivera"
 barrio: "Rivera"
-actividades: "Rivera"
-necesidades: "Canasta"
-telefono_contacto: ""
-direccion: "094955669"
+actividades: "Canasta"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "094955669"
+direccion: "Barrio Rivera Chico"
 
 otros_contactos: ""
-horario: ""
+horario: "Consultar telefónicamente - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

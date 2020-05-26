@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Seregnistas - FA"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Las Torres"
-necesidades: "Olla"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: ""
 telefono_contacto: ""
-direccion: "094175038 Gabriel"
+direccion: "Avda del Libertador 1678"
 
 otros_contactos: ""
-horario: "19 hs"
+horario: "Martes y Jueves - 17 a 18hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

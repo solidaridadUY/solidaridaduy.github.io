@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Pascual"
-departamento: "San José"
+nombre: "Patulé"
+departamento: "Salto"
 ---
 
-Barrio Playa Pascual
-Departamento de San José
+Barrio Patulé
+Departamento de Salto

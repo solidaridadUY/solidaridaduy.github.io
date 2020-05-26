@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Salón Comunal \"Para Todos\""
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Solidaria Villa García - 8 de Marzo"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Seis de Diciembre"
-necesidades: "Merienda"
-telefono_contacto: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
-direccion: "Angel Lozano
-097346881"
+barrio: "Villa García"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Fruta, recipientes"
+telefono_contacto: "097501285 Lourdes"
+direccion: "El Pesebre esquina Pasaje Central (Biblioteca Comunitaria 8 de Marzo)"
 
 otros_contactos: ""
-horario: "13 a 14hs"
+horario: "Todos los días - A partir de 19hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

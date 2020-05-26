@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
-departamento: "Montevideo"
+nombre: "San Carlos"
+departamento: "Maldonado"
 ---
 
-Barrio Aires Puros
-Departamento de Montevideo
+Barrio San Carlos
+Departamento de Maldonado

@@ -1,7 +1,7 @@
 ---
-nombre: "La Paloma"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio La Paloma
+Barrio Jacinto Vera
 Departamento de Montevideo

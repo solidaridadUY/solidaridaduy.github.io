@@ -1,7 +1,7 @@
 ---
-nombre: "Pan de Azúcar"
+nombre: "La Capuera"
 departamento: "Maldonado"
 ---
 
-Barrio Pan de Azúcar
+Barrio La Capuera
 Departamento de Maldonado

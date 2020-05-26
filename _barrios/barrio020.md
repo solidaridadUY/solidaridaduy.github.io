@@ -1,7 +1,7 @@
 ---
-nombre: "Todos"
+nombre: "Suárez"
 departamento: "Canelones"
 ---
 
-Barrio Todos
+Barrio Suárez
 Departamento de Canelones

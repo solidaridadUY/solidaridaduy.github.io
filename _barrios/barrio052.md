@@ -1,7 +1,7 @@
 ---
-nombre: "Arroyo Seco"
+nombre: "Abayubá"
 departamento: "Montevideo"
 ---
 
-Barrio Arroyo Seco
+Barrio Abayubá
 Departamento de Montevideo

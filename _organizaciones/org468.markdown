@@ -1,21 +1,22 @@
 ---
 layout: organizacion
 
-title: "GEMU (Generación Evangélica Misionera del Uruguay)"
-date: 2020-05-21 15:09:43 -0300
+title: "Mundo Alegre"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Toledo"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "Pipo
-094010573"
+fecha_actualizacion: "16/05/2020"
+
+departamento: "Maldonado"
+barrio: "Kennedy"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: "Alcohol y frutas"
+telefono_contacto: "Estrella: 092242879"
+direccion: "Calle s/n casi San Pablo"
 
 otros_contactos: ""
-horario: "Miércoles 20hs
-Sábado 16hs"
-aclaraciones: "Trabajan con niñxs todos los sábados desde hace años. Comienzan a hacer vianda para los niñxs y se suman varias personas del barrio. Ponen de su bolsillo. Tienen un centro de rehabilitación. "
+horario: "Todos los días - 07:00 a 20:00"
+aclaraciones: "Se brinda almuerzo, merienda y cena."
 cuenta_bancaria: ""
 
 ---

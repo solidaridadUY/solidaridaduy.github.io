@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Comunitaria"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "La Capuera"
-necesidades: "Olla"
-telefono_contacto: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
-direccion: "092817617"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Rocha"
+barrio: "Barra de Chuy"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: ""
+telefono_contacto: "091 362 750"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "12:00"
-aclaraciones: ""
+horario: " - Durante el día"
+aclaraciones: "Contactar vía telefónica para solicitar apoyo."
 cuenta_bancaria: ""
 
 ---

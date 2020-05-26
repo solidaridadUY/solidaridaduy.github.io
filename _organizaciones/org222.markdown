@@ -1,19 +1,24 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Popular La Cachimba"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Española"
-necesidades: "Olla"
-telefono_contacto: "Pulpa de tomate, lentejas, tapabocas, guantes"
-direccion: "099527443"
+barrio: "Tres Ombúes"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: ""
+telefono_contacto: "094954016
+Deisy"
+direccion: "Gregorio Camino Esq. Heredia Vivienda 3"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: ""
+otros_contactos: "095580808 Banki
+091967299 Johny"
+horario: "Todos los días - 17hs"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

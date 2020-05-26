@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Mujeres en Alerta"
-date: 2020-05-21 15:09:43 -0300
+title: "Club Sportivo Artigas"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Ciudad de la Costa"
-necesidades: "Olla"
-telefono_contacto: "Juegos/juguetes"
-direccion: "091786159 Sofía - 094972263 Karen"
+barrio: "Sauce"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Se reciben alimentos y donaciones hasta el 03/04"
+telefono_contacto: "099240201 092487833"
+direccion: "Ruta 6 km 34.500"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Comunicarse antes por teléfono para anotarse para comidas"
+horario: "Sábado - 19.30 hs"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

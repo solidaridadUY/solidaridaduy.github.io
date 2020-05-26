@@ -1,7 +1,7 @@
 ---
-nombre: "Maldonado"
+nombre: "La Barra"
 departamento: "Maldonado"
 ---
 
-Barrio Maldonado
+Barrio La Barra
 Departamento de Maldonado

@@ -1,7 +1,7 @@
 ---
-nombre: "Young"
-departamento: "Río Negro"
+nombre: "ZONA B"
+departamento: "Montevideo"
 ---
 
-Barrio Young
-Departamento de Río Negro
+Barrio ZONA B
+Departamento de Montevideo

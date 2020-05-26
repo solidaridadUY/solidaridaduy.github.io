@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "C.A. Juventud de Las Piedras."
-date: 2020-05-21 15:09:43 -0300
+title: "Club de Niños/as Trampolines (ONG El Abrojo)"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "098729120"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: " 099699322"
+direccion: "Wilson Ferreira Aldunate esq. Espínola"
 
 otros_contactos: ""
-horario: ""
+horario: "Lunes a Viernes - 9 a 15hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

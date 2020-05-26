@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Grupo de jóvenes Castores y Horneros"
-date: 2020-05-21 15:09:43 -0300
+title: "FEUU"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Centro"
-necesidades: "Canasta"
-telefono_contacto: "Los alimentos que se reciben son no perecederos"
-direccion: "096 444 222 
-097 447 728 
-098 745 042"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "091334368
+092005664"
+direccion: "Arenal Grande 1422 esq. C. Coronel Brandzen"
 
-otros_contactos: ""
-horario: ""
+otros_contactos: "feuu.uruguay@gmail.com"
+horario: "Martes y Jueves - 16:30 a 19:00hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

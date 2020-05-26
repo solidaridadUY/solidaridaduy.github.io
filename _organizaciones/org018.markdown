@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "C.A.Villa Teresa"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "28/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Nuevo París"
-necesidades: "Olla"
-telefono_contacto: "Fruta, productos sanitarios"
-direccion: "094951553 Martin"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Fruta, productos sanitarios"
+telefono_contacto: "094951553 Martin"
+direccion: "Islas Canarias 4978"
 
 otros_contactos: ""
-horario: "9 a 16hs"
+horario: "Todos los días - 9 a 16hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,18 +1,22 @@
 ---
 layout: organizacion
 
-title: "Comisión 4 de Marzo"
-date: 2020-05-21 15:09:43 -0300
+title: "Brigada Crece desde el Pie"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "13/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casabó"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094395329 Flabio"
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: ""
+necesidades_especificas: ""
+telefono_contacto: "094286063
+Anselmo"
+direccion: "Romeo Gavioli esquina Minotto di Cocco "
 
 otros_contactos: ""
-horario: "20hs"
+horario: "Todos los días - 18.30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

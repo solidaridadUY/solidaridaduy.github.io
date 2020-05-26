@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Seis de Diciembre"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Seis de Diciembre
 Departamento de Montevideo

@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "C S y D Wanderers Pando"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "20/05/2020"
+
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "097976887/ 092875432/ 098129036"
+direccion: "Cancha wanderers, calle Florida al lado del Estadio Municipal, Barrio estadio. "
+
+otros_contactos: ""
+horario: "Lunes a Viernes - A partir de las 16hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

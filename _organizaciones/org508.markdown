@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal vecinxs Barrio Talar y Barrio Villa del Bosque"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
+
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "Morena Romero 098292925/ María Suarez 097409864"
+direccion: "Washington Furriol entre Calle 7 y Calle 8 - Plaza \"Unión\" barrio Talar"
+
+otros_contactos: ""
+horario: "Todos los días - "
+aclaraciones: "Los sabados también funciona merendero"
+cuenta_bancaria: ""
+
+---

@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Popular COVIESSU"
-date: 2020-05-21 15:09:43 -0300
+title: "Merendero San Martín"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Paso de las Duranas"
-necesidades: "Olla"
-telefono_contacto: "Reciben donaciones de 17 a 20hs"
-direccion: "094259028 (Fátima), 099462986 (Florencio), 093815676 (Leonardo)"
+barrio: "Santa Catalina"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "098357287 Miguelina"
+direccion: "Los Transparentes 301"
 
 otros_contactos: ""
-horario: "Sábados y Domingos 19:30hs"
-aclaraciones: "Llevar vianda"
+horario: "Todos los días - Lunes a Jueves 15hs, Viernes a Domingo 18hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

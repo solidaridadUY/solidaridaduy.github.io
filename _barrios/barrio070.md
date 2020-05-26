@@ -1,7 +1,7 @@
 ---
-nombre: "Chacarita de los Padres"
+nombre: "Centro"
 departamento: "Montevideo"
 ---
 
-Barrio Chacarita de los Padres
+Barrio Centro
 Departamento de Montevideo

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Santa Catalina"
-necesidades: "Olla"
-telefono_contacto: "Se reciben alimentos"
-direccion: "092726853"
+barrio: "Santa Catalina"
+actividades: "Olla"
+necesidades: ""
+necesidades_especificas: "Se reciben alimentos"
+telefono_contacto: "092726853"
+direccion: "Caminos Santa Catalina y los Murallones"
 
 otros_contactos: ""
-horario: "Consultar horario"
+horario: " - Consultar horario"
 aclaraciones: ""
 cuenta_bancaria: ""
 

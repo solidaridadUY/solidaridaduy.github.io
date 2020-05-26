@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Club Brandi"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Conciliación"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no percederos, productos de higiene y limpieza"
-direccion: "098964527 096450004"
+barrio: "Conciliación"
+actividades: "Punto de Donación"
+necesidades: ""
+necesidades_especificas: "Alimentos no percederos, productos de higiene y limpieza"
+telefono_contacto: "098964527 096450004"
+direccion: "Adolfo Rodriguez 6738"
 
 otros_contactos: ""
-horario: "A partir de las 13 hs"
+horario: "Todos los días - A partir de las 13 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

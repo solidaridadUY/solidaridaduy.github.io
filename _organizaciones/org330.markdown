@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Pajas Blancas"
-necesidades: "Olla"
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, productos de limpieza"
-direccion: "099171729 Aníbal"
+barrio: "Pajas Blancas"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
+telefono_contacto: "094569111"
+direccion: "Centro Juvenil Kelé Kelé"
 
 otros_contactos: ""
-horario: "Lunes y Miércoles:18hs.
-Sábados y Domingos:13hs"
-aclaraciones: ""
-cuenta_bancaria: "Caja de ahorro BROU 000665700-00001"
+horario: "Lunes a Viernes - 11 a 13:30hs"
+aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
+cuenta_bancaria: ""
 
 ---

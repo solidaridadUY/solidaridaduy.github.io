@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Colectivo Peñarolense"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094746309"
+fecha_actualizacion: "19/05/2020"
 
-otros_contactos: ""
-horario: "21hs"
-aclaraciones: ""
+departamento: "Río Negro"
+barrio: "Young"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Carne, salsa de tomate, pan"
+telefono_contacto: "098 613 534"
+direccion: "Asencio esq. Larrañaga"
+
+otros_contactos: "098 281 807 (solo llamadas)"
+horario: "Miércoles - 21hs"
+aclaraciones: "Ncesidad de articulos de limpieza para acondicionar las ollas y utensillos, así como de papel film"
 cuenta_bancaria: ""
 
 ---

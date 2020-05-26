@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Merendero Los conquistadores Apoya Grupo Misericordia"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Villa la Colina"
-necesidades: "Merienda"
-telefono_contacto: "Alimentos y donaciones"
-direccion: "091 292 894"
+barrio: "Villa la Colina"
+actividades: "Merienda"
+necesidades: ""
+necesidades_especificas: "Alimentos y donaciones"
+telefono_contacto: "091 292 894"
+direccion: "Polideportivo: \"La Colina\" R8, km24"
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

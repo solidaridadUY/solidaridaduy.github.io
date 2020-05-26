@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Parque Rodó"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Parque Rodó
 Departamento de Montevideo

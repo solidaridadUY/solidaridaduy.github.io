@@ -1,7 +1,7 @@
 ---
-nombre: "Aires Puros"
-departamento: "Montevideo"
+nombre: "Punta Negra"
+departamento: "Maldonado"
 ---
 
-Barrio Aires Puros
-Departamento de Montevideo
+Barrio Punta Negra
+Departamento de Maldonado

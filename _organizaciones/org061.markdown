@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Club Estudiantes de la Unión"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Unión"
-necesidades: "Olla"
-telefono_contacto: "Verduras, frutas, aceite, papas, y alimentos no perecederos"
-direccion: "094460660"
+barrio: "Unión"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Verduras, frutas, aceite, papas, y alimentos no perecederos"
+telefono_contacto: "094460660"
+direccion: "Cabrera y Pernas"
 
 otros_contactos: "lalogarmen2@gmail.com"
-horario: "20hs"
+horario: "Martes y Sábados - 20hs"
 aclaraciones: "Cuentan con disponibilidad horaria y locomoción para ir por las donaciones"
 cuenta_bancaria: ""
 

@@ -1,19 +1,24 @@
 ---
 layout: organizacion
 
-title: "Movida Solidaria del Barrio"
-date: 2020-05-21 15:09:43 -0300
+title: "Asentamiento 24 de Enero"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "La Boyada"
-necesidades: "Merienda"
-telefono_contacto: "Alimentos para merienda y olla"
-direccion: "Melany 093818052"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Verduras y carne"
+telefono_contacto: "Patricia
+ 097 941 244
+"
+direccion: "Instrucciones y Durán"
 
 otros_contactos: ""
-horario: "17hs"
-aclaraciones: "No reciben donaciones suficientes para la cantidad de niñxs que atienden. Los Viernes intentan hacer olla para 40 familias pero no tienen suficientes donaciones. "
+horario: "Todos los días - A partir de 19:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

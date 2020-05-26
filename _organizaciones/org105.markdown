@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "SUAP"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Centro"
-necesidades: "Punto de Donación"
-telefono_contacto: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
-direccion: "29011982"
+barrio: "Centro"
+actividades: "Punto de Donación"
+necesidades: ""
+necesidades_especificas: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
+telefono_contacto: "29011982"
+direccion: "Local Fuecys (Río Negro 1210)"
 
 otros_contactos: ""
-horario: "10 a 17 hs"
+horario: "Lunes a Jueves - 10 a 17 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

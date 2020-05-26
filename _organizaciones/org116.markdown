@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Vecinas"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: "Verdura, carne y pan."
-direccion: "095410570 (Laura o Natalia)"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Verdura, carne y pan."
+telefono_contacto: "095410570 (Laura o Natalia)"
+direccion: "Elisa Menéndez y Cno. Carmelo Colman"
 
 otros_contactos: ""
-horario: "19:30 a 20:30 hs"
+horario: "Miércoles a Sábado - 19:30 a 20:30 hs"
 aclaraciones: "Atienden a 150 personas por día (tienen intenciones de ampliar los días, pero no cuentan con los recursos)."
 cuenta_bancaria: ""
 

@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "SUNCA"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "2/05/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Maldonado"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "098301517"
+barrio: "Piriápolis"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "099890028"
+direccion: "Tucumán esquina Sanabria"
 
 otros_contactos: ""
-horario: ""
+horario: "Lunes Miércoles y Viernes - 12:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

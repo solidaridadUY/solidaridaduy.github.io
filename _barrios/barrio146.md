@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
+nombre: "Ceibal"
 departamento: "Salto"
 ---
 
-Barrio Salto
+Barrio Ceibal
 Departamento de Salto

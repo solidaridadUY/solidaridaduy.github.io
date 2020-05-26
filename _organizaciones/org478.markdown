@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla popular Yambo Kenia"
-date: 2020-05-21 15:09:43 -0300
+title: "Merendero Corazoncitos"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Sayago"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "Celia tél 097189755  Carlos 097983311"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Salto"
+barrio: "Salto Nuevo Sur"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "097732521"
+direccion: "juan carlos gomez 2600 viv 1"
 
 otros_contactos: ""
-horario: "13 hs."
-aclaraciones: "Atienden un promedio de 100 personas"
+horario: "Todos los días - Todo el día"
+aclaraciones: "En situación de urgencia. Dueña de casa recibe todo el día"
 cuenta_bancaria: ""
 
 ---

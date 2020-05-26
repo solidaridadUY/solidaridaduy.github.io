@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Club Sayago"
-date: 2020-05-21 15:09:43 -0300
+title: "Jóvenes del Cerro"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Sayago"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "Gimena Fernández 096778461"
+barrio: "Cerro"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
+telefono_contacto: "091794830"
+direccion: "FOICA (Grecia esq. Holanda)"
 
-otros_contactos: "23591125"
-horario: "12 hs"
-aclaraciones: "Entrega de viandas"
+otros_contactos: "092673044 - 099650642"
+horario: " - Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
+aclaraciones: "Para coordinar retiro, coordinar telefónicamente o desde las redes: Facebook e Instagram"
 cuenta_bancaria: ""
 
 ---

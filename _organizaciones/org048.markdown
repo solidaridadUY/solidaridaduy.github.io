@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Unidos Centro Educativo"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Española"
-necesidades: "Canasta"
-telefono_contacto: "Alimentos, productos de limpieza e higiene, donaciones económicas"
-direccion: "091203982"
+barrio: "Villa Española"
+actividades: "Canasta"
+necesidades: ""
+necesidades_especificas: "Alimentos, productos de limpieza e higiene, donaciones económicas"
+telefono_contacto: "091203982"
+direccion: "Francisco Vázquez Cores 3247"
 
 otros_contactos: ""
-horario: "Lunes a Viernes"
+horario: " - Lunes a Viernes"
 aclaraciones: "Tienen nexo con la iniciativa Involucrate"
 cuenta_bancaria: ""
 

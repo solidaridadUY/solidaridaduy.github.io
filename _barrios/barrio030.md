@@ -1,7 +1,7 @@
 ---
-nombre: "Ismael Cortinas"
+nombre: "Cañada Monzón"
 departamento: "Flores"
 ---
 
-Barrio Ismael Cortinas
+Barrio Cañada Monzón
 Departamento de Flores

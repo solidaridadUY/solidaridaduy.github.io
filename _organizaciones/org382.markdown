@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Maldonado Solidario"
-date: 2020-05-21 15:09:43 -0300
+title: "SUNCA"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Maldonado"
-necesidades: "Realización de compras"
-telefono_contacto: "No aplica"
-direccion: "99814995 y 099390621"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "098301517"
+direccion: "Batlle y Ordoñez entre Lavalleja y Támaro"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Hacen las compras y otros trámites que necesiten personas mayores o enfermas"
+horario: " - "
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

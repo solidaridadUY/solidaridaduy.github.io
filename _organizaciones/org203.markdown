@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Comité 26 de Julio"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Suárez"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "093 687 106"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Montevideo"
+barrio: "Tres Cruces"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: " Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
+telefono_contacto: "099440037"
+direccion: "Cufré 1800 esquina Ferrer Serra"
 
 otros_contactos: ""
-horario: "Coordinar donaciones por mensaje de WhatsApp o llamar"
-aclaraciones: ""
+horario: "Jueves Viernes y Sábados - 17 a 20hs"
+aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casco del Cerro"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "096875768
-Juan Rodríguez"
+barrio: "La Boyada"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos"
+telefono_contacto: "094769211
+Beatriz"
+direccion: "La Boyada 1887 esquina 17 mts"
 
 otros_contactos: ""
-horario: "19 hs"
+horario: "Domingo - 17 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

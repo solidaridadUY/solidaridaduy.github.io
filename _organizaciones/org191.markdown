@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "C. A. La Blanqueada"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Larrañaga,La Blanqueada,Parque Rodó"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "099258845"
+barrio: "Larrañaga,La Blanqueada,Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "099258845"
+direccion: "Emilio Frugoni 1043 esq. Isla de Flores (Brownies Luis) y Emilio Raña 2915 esq Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: "En Brownies Luis martes y miércoles de 17 a 18 hs. En Club Paysandú martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs."
+horario: "Lunes a Viernes - En Brownies Luis martes y miércoles de 17 a 18 hs. En Club Paysandú martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs."
 aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto o por redes sociales."
 cuenta_bancaria: ""
 

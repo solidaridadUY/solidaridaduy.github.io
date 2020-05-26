@@ -1,7 +1,7 @@
 ---
-nombre: "Brazo Oriental"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Brazo Oriental
+Barrio Bella Italia
 Departamento de Montevideo

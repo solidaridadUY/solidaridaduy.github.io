@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Club Layva"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Dolores"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
-direccion: "099337003"
+barrio: "Villa Dolores"
+actividades: "Punto de Donación"
+necesidades: ""
+necesidades_especificas: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "Julio César 1466"
 
 otros_contactos: "099629958  094204040"
-horario: "Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
+horario: "Miércoles y Sábados - Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
 aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
 cuenta_bancaria: ""
 

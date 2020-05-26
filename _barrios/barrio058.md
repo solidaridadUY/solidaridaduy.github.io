@@ -1,7 +1,7 @@
 ---
-nombre: "Borro"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Borro
+Barrio Barrio Sur
 Departamento de Montevideo

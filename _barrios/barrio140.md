@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Quiroga"
-departamento: "Salto"
+nombre: "Barra de Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Barrio Quiroga
-Departamento de Salto
+Barrio Barra de Chuy
+Departamento de Rocha

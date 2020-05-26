@@ -2,18 +2,21 @@
 layout: organizacion
 
 title: "Vecinas/os de Instrucciones y Mendoza."
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: "Carne, pan, verduras, frutas."
-direccion: "092548176 (Sara)"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Verduras, arroz, fideos y salsa."
+telefono_contacto: "092548176 (Sara)"
+direccion: "Club Arapey, Instrucciones y Mendoza"
 
 otros_contactos: ""
-horario: "20:00 hs"
-aclaraciones: "Atienden 65 personas aprox. La inciativa es de 2 parejas (vecinas del barrio) y lo realizan con sus ingresos únicamente."
+horario: "Martes Jueves y Sábado - 20:00hs"
+aclaraciones: "Son 5 personas, no tienen capacidad de recibir más personas. A la iniciativa concurren principalmente adultxs mayores y niñxs, concurren 100 aprox."
 cuenta_bancaria: ""
 
 ---

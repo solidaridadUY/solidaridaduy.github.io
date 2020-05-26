@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Merendero"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Playa Grande"
-necesidades: "Merienda"
-telefono_contacto: "Alimentos no perecederos,  leche y pan"
-direccion: "094254015"
+barrio: "Playa Grande"
+actividades: "Merienda"
+necesidades: ""
+necesidades_especificas: "Alimentos no perecederos,  leche y pan"
+telefono_contacto: "094254015"
+direccion: "Calle 26 entre 2 y 3"
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: "Almuerzo - sábados y domingos 13 hs. Merienda - todos los días 18 hs. Cena- todos los días de 19 a 21 hs. LLEVAR TAZA, TUPPER Y CUBIERTOS"
 cuenta_bancaria: ""
 

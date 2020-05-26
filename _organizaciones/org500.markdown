@@ -1,0 +1,24 @@
+---
+layout: organizacion
+
+title: "Salón Comunal Barrial"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "20/05/2020"
+
+departamento: "Montevideo"
+barrio: "Puntas de Sayago"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Carne
+Verdura"
+telefono_contacto: "095503999
+Melany"
+direccion: "Puntas de Sayago entre Sur y Este. Frente a plaza."
+
+otros_contactos: ""
+horario: "Lunes y Miércoles - 20hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

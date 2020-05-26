@@ -2,19 +2,23 @@
 layout: organizacion
 
 title: "Comité Cuaró"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Bella Vista"
-necesidades: "Canasta"
-telefono_contacto: "Se recibe alimentos no
+barrio: "Bella Vista"
+actividades: "Canasta"
+necesidades: ""
+necesidades_especificas: "Se recibe alimentos no
 perecederos, juguetes, ropa,
 apoyo transporte"
-direccion: "099204370"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq
+Dufort y Álvarez"
 
 otros_contactos: "099869454"
-horario: "15 a 19hs"
+horario: "Martes Miércoles y Jueves - 15 a 19hs"
 aclaraciones: ""
 cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
 

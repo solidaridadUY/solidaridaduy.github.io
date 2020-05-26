@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Nucleo del liceo 74"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla de Todos: Vecinxs de Plácido Ellauri "
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Nuevo Verdisol"
-necesidades: "Punto de Donación"
-telefono_contacto: "Aportes a través de cuenta y alimentos"
-direccion: "092120727"
+barrio: "Plácido Ellauri"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Higiene Personal"
+necesidades_especificas: ""
+telefono_contacto: "094630049
+Lourdes"
+direccion: "José Ramírez entre Timbúes y Tubichas"
 
 otros_contactos: ""
-horario: "Coordinar vía telefónica"
-aclaraciones: ""
+horario: "Domingo - A partir de las 19:30"
+aclaraciones: "Comparten donaciones con otras dos ollas del barrio: Marconi y Barrio Borro"
 cuenta_bancaria: ""
 
 ---

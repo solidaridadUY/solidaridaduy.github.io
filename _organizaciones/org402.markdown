@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Malvín Norte"
-date: 2020-05-21 15:09:43 -0300
+title: "Solidarios Unidos seis barrios"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Malvín Norte"
-necesidades: "Punto de Donación"
-telefono_contacto: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
-direccion: "093301890 "
+barrio: "Piedras Blancas"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "092927150 María"
+direccion: "Rafael y Teniente Galeano (frente a la barraca)"
 
-otros_contactos: "095628133"
-horario: "11:00 a 17:00"
-aclaraciones: ""
+otros_contactos: ""
+horario: "Consultar telefónicamente - 17 hs."
+aclaraciones: "También reparten cena. Llevar Tupper"
 cuenta_bancaria: ""
 
 ---

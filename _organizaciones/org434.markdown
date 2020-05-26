@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Colectivo Elepé y Vecinxs"
-date: 2020-05-21 15:09:43 -0300
+title: "Manos Unidas"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "099239735"
+fecha_actualizacion: "6/04/2020"
 
-otros_contactos: "Carne, pollo, alitas, gallina, etc"
-horario: "Todo el dia"
-aclaraciones: "Placita barrial"
+departamento: "Flores"
+barrio: "Trinidad"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: "Carne"
+telefono_contacto: "Ruben Montaño 098280668"
+direccion: "Batlle 1057"
+
+otros_contactos: ""
+horario: "Sábado - De 16:30 a 22 hs aproximadamente"
+aclaraciones: "Con la vianda se entrega pan, 2 litros de leche y fruta"
 cuenta_bancaria: ""
 
 ---

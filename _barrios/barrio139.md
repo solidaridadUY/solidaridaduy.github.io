@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio la Estrella"
-departamento: "Salto"
+nombre: "Rivera"
+departamento: "Rivera"
 ---
 
-Barrio Barrio la Estrella
-Departamento de Salto
+Barrio Rivera
+Departamento de Rivera

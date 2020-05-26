@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "FEUU"
-date: 2020-05-21 15:09:43 -0300
+title: "Vecinxs en Club Aguada"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cordón"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "091334368
-092005664"
+barrio: "Aguada"
+actividades: "Merienda"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+telefono_contacto: "098520925"
+direccion: " Avda. San Martín 2261"
 
-otros_contactos: "feuu.uruguay@gmail.com"
-horario: "16:30 a 19:00hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "Sábados y Domingos - 17:00 hs"
+aclaraciones: "En lo posible se solicita agendarse antes de ir."
 cuenta_bancaria: ""
 
 ---

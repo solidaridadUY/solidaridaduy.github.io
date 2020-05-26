@@ -1,7 +1,7 @@
 ---
-nombre: "Cañada Monzón"
-departamento: "Flores"
+nombre: "Rosario"
+departamento: "Colonia"
 ---
 
-Barrio Cañada Monzón
-Departamento de Flores
+Barrio Rosario
+Departamento de Colonia

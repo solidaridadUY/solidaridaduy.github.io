@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Villa Española"
-date: 2020-05-21 15:09:43 -0300
+title: "Comisión vecinal Asociación Civil La Tablada"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "13/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Española"
-necesidades: "Olla"
-telefono_contacto: "Olla grande, salsa de tomate, carne, verduras, sal, leche en polvo, azucar"
-direccion: "097698085
-Leticia"
+barrio: "Nuevo Verdisol"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "092120727
+Cristian Rocha"
+direccion: "Continuación Cornelio Guerra 1294 bis"
 
 otros_contactos: ""
-horario: "A partir de 17hs"
+horario: "Todos los días - Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

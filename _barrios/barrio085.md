@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
+nombre: "La Boyada"
 departamento: "Montevideo"
 ---
 
-Barrio Larrañaga
+Barrio La Boyada
 Departamento de Montevideo

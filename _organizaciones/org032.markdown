@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Bares Finisterre y El Hormiguero"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Palermo"
-necesidades: "Punto de Donación"
-telefono_contacto: "Acopian donaciones para llevar a diferentes ollas"
-direccion: "099569017 095010898"
+barrio: "Palermo"
+actividades: "Punto de Donación"
+necesidades: ""
+necesidades_especificas: "Acopian donaciones para llevar a diferentes ollas"
+telefono_contacto: "099569017 095010898"
+direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "Consultar telefónicamente - Consultar telefónicamente"
 aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
 cuenta_bancaria: ""
 

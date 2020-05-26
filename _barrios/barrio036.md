@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Barrio B9"
 departamento: "Maldonado"
 ---
 
-Barrio Centro
+Barrio Barrio B9
 Departamento de Maldonado

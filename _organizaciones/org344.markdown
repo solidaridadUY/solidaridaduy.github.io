@@ -1,19 +1,28 @@
 ---
 layout: organizacion
 
-title: "Vecinxs en Club Aguada"
-date: 2020-05-21 15:09:43 -0300
+title: "Ecomité"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "26/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Aguada"
-necesidades: "Merienda"
-telefono_contacto: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
-direccion: "098520925"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
+telefono_contacto: "099384525
+Sofía 
+099735767
+Chantal"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "17:00 hs"
-aclaraciones: "En lo posible se solicita agendarse antes de ir."
-cuenta_bancaria: ""
+horario: "Todos los días - Consultar telefónicamente"
+aclaraciones: "Coordinar para retiro de donaciones"
+cuenta_bancaria: "BROU 
+110080467 - 00001
+
+600-0993555"
 
 ---

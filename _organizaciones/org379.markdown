@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Grupo Social"
-date: 2020-05-21 15:09:43 -0300
+title: "Maldonado Solidario"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "La Barra"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "094436206"
+actividades: "Realización de compras"
+necesidades: "Otros"
+necesidades_especificas: "No aplica"
+telefono_contacto: "99814995 y 099390621"
+direccion: ""
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: " - "
+aclaraciones: "Hacen las compras y otros trámites que necesiten personas mayores o enfermas"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Patulé"
+nombre: "Barrio la Estrella"
 departamento: "Salto"
 ---
 
-Barrio Patulé
+Barrio Barrio la Estrella
 Departamento de Salto

@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
+nombre: "Borro"
 departamento: "Montevideo"
 ---
 
-Barrio Casabó
+Barrio Borro
 Departamento de Montevideo

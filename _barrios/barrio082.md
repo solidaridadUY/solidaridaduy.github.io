@@ -1,7 +1,7 @@
 ---
-nombre: "La Comercial"
+nombre: "Flor de Maroñas"
 departamento: "Montevideo"
 ---
 
-Barrio La Comercial
+Barrio Flor de Maroñas
 Departamento de Montevideo

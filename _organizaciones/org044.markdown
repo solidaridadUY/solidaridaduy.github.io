@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Ollas y Canastas Solidarias"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cerrito de la Victoria"
-necesidades: "Olla"
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, Artículos de limpieza, tuppers, cubiertos descartables"
-direccion: "098422915 099841142 094807175 099927956 091252622"
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos no perecederos, frutas y verduras, Artículos de limpieza, tuppers, cubiertos descartables"
+telefono_contacto: "098422915 099841142 094807175 099927956 091252622"
+direccion: ""
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: "Llevar tupper.                                                                                                                                   Por más información sobre las ollas que realiza esta organización, visitar sus redes sociales."
 cuenta_bancaria: ""
 

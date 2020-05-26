@@ -1,7 +1,7 @@
 ---
-nombre: "Pocitos"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Pocitos
+Barrio Paso Molino
 Departamento de Montevideo

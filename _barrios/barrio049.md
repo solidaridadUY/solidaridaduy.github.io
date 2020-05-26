@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
-departamento: "Montevideo"
+nombre: "Punta del Este"
+departamento: "Maldonado"
 ---
 
-Barrio Aguada
-Departamento de Montevideo
+Barrio Punta del Este
+Departamento de Maldonado

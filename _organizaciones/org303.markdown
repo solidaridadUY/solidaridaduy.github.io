@@ -1,21 +1,22 @@
 ---
 layout: organizacion
 
-title: "Liverpool Fútbol Club"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal "
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "24/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Belvedere"
-necesidades: "Olla"
-telefono_contacto: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
-direccion: "099641831"
+barrio: "Belvedere"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "095633449 Virginia"
+direccion: "Emancipación esquina Aldao"
 
-otros_contactos: "099687490
-098429091"
-horario: "20:00 a 21:00"
-aclaraciones: "Asistir con recipiente
-1 persona por familia"
+otros_contactos: ""
+horario: "Lunes a Sábado - A partir de 17hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

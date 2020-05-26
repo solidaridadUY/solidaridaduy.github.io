@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Piedras Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Piedras Blancas
 Departamento de Montevideo

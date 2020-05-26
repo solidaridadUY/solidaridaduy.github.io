@@ -1,7 +1,7 @@
 ---
-nombre: "Don Atilio"
-departamento: "Salto"
+nombre: "Lascano"
+departamento: "Rocha"
 ---
 
-Barrio Don Atilio
-Departamento de Salto
+Barrio Lascano
+Departamento de Rocha

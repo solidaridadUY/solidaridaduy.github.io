@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Colonia"
-barrio: "Colonia"
-actividades: "Nueva Helvecia"
-necesidades: "Olla"
-telefono_contacto: "091 471 165"
-direccion: ""
+fecha_actualizacion: "21/05/2020"
+
+departamento: "Montevideo"
+barrio: "Manga"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "Tony Viera 096252293  / Sra Selva 097323510"
+direccion: " Vigía 5368"
 
 otros_contactos: ""
-horario: "21hs"
-aclaraciones: "Entregan viandas a las 21hs. Realización de compras a población de riesgo"
+horario: "Consultar telefónicamente - "
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

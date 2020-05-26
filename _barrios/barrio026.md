@@ -1,7 +1,7 @@
 ---
-nombre: "Rosario"
+nombre: "Juan Lacaze"
 departamento: "Colonia"
 ---
 
-Barrio Rosario
+Barrio Juan Lacaze
 Departamento de Colonia

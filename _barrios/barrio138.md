@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Caballero"
-departamento: "Salto"
+nombre: "Young"
+departamento: "Río Negro"
 ---
 
-Barrio Barrio Caballero
-Departamento de Salto
+Barrio Young
+Departamento de Río Negro

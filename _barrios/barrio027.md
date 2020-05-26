@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio La Figurita"
-departamento: "Flores"
+nombre: "Nueva Helvecia"
+departamento: "Colonia"
 ---
 
-Barrio Barrio La Figurita
-Departamento de Flores
+Barrio Nueva Helvecia
+Departamento de Colonia

@@ -1,7 +1,7 @@
 ---
-nombre: "Casco del Cerro"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Casco del Cerro
+Barrio Buceo
 Departamento de Montevideo

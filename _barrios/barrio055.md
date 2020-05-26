@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
+nombre: "Aires Puros"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Italia
+Barrio Aires Puros
 Departamento de Montevideo

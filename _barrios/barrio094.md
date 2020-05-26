@@ -1,7 +1,7 @@
 ---
-nombre: "Maracaná"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Maracaná
+Barrio Los Bulevares
 Departamento de Montevideo

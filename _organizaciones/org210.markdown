@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Malvín Norte"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Jardines del Hipódromo"
-necesidades: "Olla"
-telefono_contacto: "Lo que diariamente más falta es carne, frutas/verduras y pan."
-direccion: "099734480"
+barrio: "Malvín Norte"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
+telefono_contacto: "093301890 "
+direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
 
-otros_contactos: ""
-horario: "martes y jueves 20hs"
-aclaraciones: "Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
-cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
+otros_contactos: "095628133"
+horario: "Viernes Sábado y Domingo - 17:00"
+aclaraciones: "Las donaciones se reciben de lunes a jueves de 11:00 a 17:00. Dependiendo de las donaciones, también se arman canastas y se preparan meriendas."
+cuenta_bancaria: ""
 
 ---

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "El Tundra Bar"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Centro"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "29091578"
+barrio: "Centro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "29091578"
+direccion: "Durazno 902 esq. Convención"
 
 otros_contactos: ""
-horario: "12:00hs"
+horario: "Lunes - 12:00hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

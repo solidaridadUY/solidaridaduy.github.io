@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal: Monte de la Francesa"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Colón"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "Luis 094036883"
+barrio: "Colón"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Luis 094036883"
+direccion: "Monte de la Francesa - Lanús y Yegros"
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

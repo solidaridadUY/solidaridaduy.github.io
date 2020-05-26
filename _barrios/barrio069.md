@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Norte"
+nombre: "Causeglia"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro Norte
+Barrio Causeglia
 Departamento de Montevideo

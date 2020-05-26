@@ -1,24 +1,24 @@
 ---
 layout: organizacion
 
-title: "Olla y meriendas"
-date: 2020-05-21 15:09:43 -0300
+title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Merienda"
-telefono_contacto: "Leche"
-direccion: "Venancio Vargas
-Mariana Massarino
-094213482
-097470966
-"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Otros"
+necesidades: "Alimentos"
+necesidades_especificas: "Alimentos no perecederos"
+telefono_contacto: "097069405 (Virginia)
+091282021 (Mariana)
+095770714 (José)"
+direccion: "Barrios San Marcos, Razzetti y Pilarica"
 
 otros_contactos: ""
-horario: "17.30 hs"
-aclaraciones: "Reciben donaciones del colectivo Clara Jackson
-"
+horario: "Todos los días - 20 hs"
+aclaraciones: "Grupo creado para publicar pedidos de ayuda y cosas que tengamos para donar, zona Las Piedras, La Paz, Progreso"
 cuenta_bancaria: ""
 
 ---

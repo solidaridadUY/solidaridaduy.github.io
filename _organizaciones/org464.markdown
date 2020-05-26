@@ -1,19 +1,24 @@
 ---
 layout: organizacion
 
-title: "Colectivo Peñarolense"
-date: 2020-05-21 15:09:43 -0300
+title: "GEMU (Generación Evangélica Misionera del Uruguay)"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Unión"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: ""
+fecha_actualizacion: "14/05/2020"
+
+departamento: "Canelones"
+barrio: "Toledo"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "Pipo
+094010573"
+direccion: "Pedro Villagrán 794"
 
 otros_contactos: ""
-horario: "20hs"
-aclaraciones: ""
+horario: "Miércoles y Sábado - Miércoles 20hs
+Sábado 16hs"
+aclaraciones: "Trabajan con niñxs todos los sábados desde hace años. Comienzan a hacer vianda para los niñxs y se suman varias personas del barrio. Ponen de su bolsillo. Tienen un centro de rehabilitación. "
 cuenta_bancaria: ""
 
 ---

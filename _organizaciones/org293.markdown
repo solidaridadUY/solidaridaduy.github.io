@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Canasta amiga"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cerro Norte"
-necesidades: "Olla"
-telefono_contacto: "Alimentos"
-direccion: "096539004
-Gladys"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Canasta"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: "Apoyo económico"
+telefono_contacto: "099997818, 098553359, 099421362"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Sábado y Domingo 12hs"
-aclaraciones: ""
-cuenta_bancaria: ""
+horario: "Consultar telefónicamente - "
+aclaraciones: "Contactarse para realizar donaciones."
+cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
 
 ---

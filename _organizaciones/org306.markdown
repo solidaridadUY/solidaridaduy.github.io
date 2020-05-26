@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Club Social y Deportivo Iriarte"
-date: 2020-05-21 15:09:43 -0300
+title: "Parroquia San Alberto Hurtado"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Belvedere"
-necesidades: "Olla"
-telefono_contacto: "Verduras y Carne"
-direccion: "095109490
-Walter"
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Para cocinar comidas calientes, salsa de tomate, arroz, etc"
+telefono_contacto: "095683306
+María y José"
+direccion: "Sierra Leona 144"
 
 otros_contactos: ""
-horario: "A partir de 12hs"
+horario: "Sábados y Domingos - 13 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

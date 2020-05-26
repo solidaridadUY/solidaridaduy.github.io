@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Paso Carrasco Solidario"
-date: 2020-05-21 15:09:43 -0300
+title: "Club Progreso - Estación Atlántida"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Paso Carrasco"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "No corresponde"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Canelones"
+barrio: "Atlántida"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "098047394"
+direccion: "Avenida Monseñor José Orsali, esquina Calle 41 (frente a carnicería progreso)"
 
 otros_contactos: ""
-horario: "Martes 11hs"
-aclaraciones: "Llevar recipiente"
+horario: " - 12:30 a 14hs"
+aclaraciones: "Vianda solidaria desde 12:30 hasta 14hs,  anotarse previamente por telefono, llevar recipiente"
 cuenta_bancaria: ""
 
 ---

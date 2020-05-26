@@ -1,7 +1,7 @@
 ---
-nombre: "La Boyada"
+nombre: "Cruz de Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio La Boyada
+Barrio Cruz de Carrasco
 Departamento de Montevideo

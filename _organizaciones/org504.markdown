@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Vecinas de Punta Negra"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "21/05/2020"
+
+departamento: "Maldonado"
+barrio: "Punta Negra"
+actividades: "Merienda"
+necesidades: "Alimentos y Artículos de Higiene Personal"
+necesidades_especificas: "Cacao, Leche, azúcar mascabo, avena, canela, jengibre en polvo, fariña"
+telefono_contacto: "Lorena: 099627648"
+direccion: "Porto Alegre entre Bogotá y EE.UU"
+
+otros_contactos: ""
+horario: "Miércoles - 16 hs"
+aclaraciones: "Se reparte chocolate en una camioneta por todo Punta Negra"
+cuenta_bancaria: ""
+
+---

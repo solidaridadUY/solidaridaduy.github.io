@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Ombúes"
+nombre: "Santa Catalina"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Ombúes
+Barrio Santa Catalina
 Departamento de Montevideo

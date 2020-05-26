@@ -1,7 +1,7 @@
 ---
-nombre: "Las Torres"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Las Torres
+Barrio La Teja
 Departamento de Montevideo

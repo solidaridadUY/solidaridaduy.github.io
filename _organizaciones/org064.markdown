@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Belvedere"
-necesidades: "Merienda"
-telefono_contacto: "Tipo de alimentos para merienda"
-direccion: "095626343"
+barrio: "Belvedere"
+actividades: "Merienda"
+necesidades: "Alimentos"
+necesidades_especificas: "Leche en polvo"
+telefono_contacto: "095626343"
+direccion: "Esmeralda frente a la vía esq. Emancipación"
 
 otros_contactos: ""
-horario: "16:30 hs hasta 19hs aprox"
+horario: "Lunes Miércoles y Viernes - 16:30 hs hasta 19hs aprox"
 aclaraciones: ""
 cuenta_bancaria: ""
 

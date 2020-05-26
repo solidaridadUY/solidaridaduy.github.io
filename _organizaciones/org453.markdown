@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Barrio Nuevo Comienzo"
-date: 2020-05-21 15:09:43 -0300
+title: "Merendero Cooperativo Las Bóvedas Ciudad Vieja"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "15/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Santa Catalina"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "096894000
-Adrian"
+barrio: "Ciudad Vieja"
+actividades: "Merienda"
+necesidades: "Alimentos"
+necesidades_especificas: "Leche en Polvo"
+telefono_contacto: "094610400 Bea
+097490097 Santiago
+099151141 Magdalena"
+direccion: "Rambla 25 de Agosto 566 entre Ituzaingó y Juan Carlos Gómez, COVICIVI"
 
-otros_contactos: ""
-horario: "19.30 hs"
+otros_contactos: "merenderolasbovedasciudadvieja@gmail.com"
+horario: "Sábado - 17hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

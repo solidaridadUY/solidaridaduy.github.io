@@ -1,7 +1,7 @@
 ---
-nombre: "Sauce"
+nombre: "Progreso"
 departamento: "Canelones"
 ---
 
-Barrio Sauce
+Barrio Progreso
 Departamento de Canelones

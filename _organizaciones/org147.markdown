@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "La Castilla"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Ciudad Vieja"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-direccion: "098141813"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Perez Castellano 1368"
 
 otros_contactos: "094053638"
-horario: "10 a 22hs"
+horario: "Todos los días - 10 a 22hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Modistas"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Rivera"
 barrio: "Rivera"
-actividades: "Rivera"
-necesidades: "Empresa que dona"
+actividades: "Empresa que dona"
+necesidades: ""
+necesidades_especificas: ""
 telefono_contacto: ""
 direccion: ""
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: "Donan tapabocas hechos a mano. Comunicarse por Facebook"
 cuenta_bancaria: ""
 

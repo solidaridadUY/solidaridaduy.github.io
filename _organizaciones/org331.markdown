@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
-date: 2020-05-21 15:09:43 -0300
+title: "Cooperativa COVI 30 de Setiembre"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Pajas Blancas"
-necesidades: "Olla"
-telefono_contacto: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
-direccion: "094569111"
+barrio: "Tomkinson"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "098565224
+Carlos"
+direccion: "Cno Buffa 2531 entre Servidumbre y 5 de Enero"
 
 otros_contactos: ""
-horario: "Mediodía"
-aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
+horario: "Sábado - 19:30hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

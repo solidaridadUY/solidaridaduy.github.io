@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Comité García Lorca"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Jacinto Vera"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "099 704 126"
+barrio: "Jacinto Vera"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "099 704 126"
+direccion: "Colorado 2212 casi Cufré"
 
 otros_contactos: ""
-horario: "17 a 19 hs."
+horario: "Lunes a Viernes - 17 a 19 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

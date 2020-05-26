@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Club Ceibal"
-date: 2020-05-21 15:09:43 -0300
+title: "COVITA"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Salto"
-barrio: "Salto"
-actividades: "Ceibal"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "099469891"
+barrio: "La Tablada"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "092090339"
+direccion: "pasaje rodirguez vivienda 1"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: ""
+horario: "Lunes a Viernes - Consultar telefónicamente"
+aclaraciones: "Se sirve cena"
 cuenta_bancaria: ""
 
 ---

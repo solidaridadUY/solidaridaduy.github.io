@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Barrio Unido"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "28/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Tres Ombúes"
-necesidades: "Olla"
-telefono_contacto: "Artículos de limpieza, artículos sanitarios, salsa y carne"
-direccion: "098646492
-Mariana"
+barrio: "Las Torres"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "094175038 Gabriel"
+direccion: "Los Nogales 2733"
 
 otros_contactos: ""
-horario: "Mediodía"
-aclaraciones: "Cuando se reparten canastas no hacen olla"
+horario: "Todos los días - 19 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

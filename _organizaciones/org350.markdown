@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Minervas Colectivo Feminista"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Vecinas Aguada"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "26/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cordón"
-necesidades: "Merienda"
-telefono_contacto: ""
-direccion: "096129858
-Noelia"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: "Precisan ayuda con garrafa o dinero para gas. Salsa de tomate, verduras, carne, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
+telefono_contacto: "099466670 Viky"
+direccion: "Marcelino Berthelot y Ramón del Valle Inclán."
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "Consultar telefónicamente - Se coordina telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Rivera"
-departamento: "Rivera"
+nombre: "Zona D"
+departamento: "Montevideo"
 ---
 
-Barrio Rivera
-Departamento de Rivera
+Barrio Zona D
+Departamento de Montevideo

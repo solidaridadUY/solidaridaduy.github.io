@@ -1,7 +1,7 @@
 ---
-nombre: "La Paz"
+nombre: "Jaureguiberry"
 departamento: "Canelones"
 ---
 
-Barrio La Paz
+Barrio Jaureguiberry
 Departamento de Canelones

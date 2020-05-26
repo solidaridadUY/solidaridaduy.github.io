@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 22 de Mayo"
-date: 2020-05-21 15:09:43 -0300
+title: "Vecinas/os Barrio 22 de Mayo."
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "097584915"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Productos de higiene , pañales y gestión menstrual"
+telefono_contacto: "Bettina
+097744891"
+direccion: "Guzman Papini esq. Las Piedras."
 
-otros_contactos: "097287764"
-horario: "Reparten a partir de las 20 / 20:30 hs"
-aclaraciones: ""
+otros_contactos: "97287764"
+horario: "Lunes Miércoles y Viernes - 16:00 a 20:00"
+aclaraciones: "Iniciativa llevada adelante por dos vecinas. Prácticamente no están recibiendo donaciones por lo cual disminuyeron la frecuencia diaria a tres veces por semana. Comenzaron atendiendo a 160 personas, ha ido disminuyendo a medida que las donaciones han bajado."
 cuenta_bancaria: ""
 
 ---

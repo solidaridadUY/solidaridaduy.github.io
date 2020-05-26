@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio Nuevo Verdisol
 Departamento de Montevideo

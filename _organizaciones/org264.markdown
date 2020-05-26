@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Centro Juvenil Coop. Tunguele"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Montes de Solymar"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "099 668 862  Majo 091785537"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Colonia"
+barrio: "Nueva Helvecia"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "091 471 165"
+direccion: "Av Gilomen 1448"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Se reciben alimentos y art. de limpieza para familias que los necesiten."
+horario: "Todos los días -  21 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Jaureguiberry"
+nombre: "Empalme Olmos"
 departamento: "Canelones"
 ---
 
-Barrio Jaureguiberry
+Barrio Empalme Olmos
 Departamento de Canelones

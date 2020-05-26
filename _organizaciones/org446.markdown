@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Mandalavos"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Lomas de Solymar"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "094 992 782"
+fecha_actualizacion: "12/05/2020"
+
+departamento: "Montevideo"
+barrio: "Maracaná"
+actividades: "Merienda"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "097628859
+Doris"
+direccion: "No corresponde, se lleva merienda a domicilio"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Coordinación telefónica"
+horario: "Todos los días - 17 hs"
+aclaraciones: "Llevan la merienda a la casa de los niños "
 cuenta_bancaria: ""
 
 ---

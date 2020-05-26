@@ -1,7 +1,7 @@
 ---
-nombre: "Peñarol"
+nombre: "Paso Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio Peñarol
+Barrio Paso Carrasco
 Departamento de Montevideo

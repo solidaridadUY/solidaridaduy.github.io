@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Mundo Alegre"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Kennedy"
-necesidades: "Olla"
-telefono_contacto: "Alcohol y frutas"
-direccion: "Estrella: 092242879"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos"
+telefono_contacto: "Cuqui 096205476"
+direccion: "Pasaje A entre Gambeta e Instrucciones"
 
 otros_contactos: ""
-horario: "07:00 a 20:00"
-aclaraciones: "Se brinda almuerzo, merienda y cena."
+horario: "Lunes a Viernes - 17 hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

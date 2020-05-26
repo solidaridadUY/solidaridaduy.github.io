@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Club Bella Vista"
-date: 2020-05-21 15:09:43 -0300
+title: "Centro Social y Deportivo Victoria"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Bella Vista"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "099167275 098456226"
+barrio: "Jacinto Vera"
+actividades: "Olla"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: ""
+telefono_contacto: "091773513"
+direccion: "Requena 2716"
 
 otros_contactos: ""
-horario: "12hs"
-aclaraciones: "Llevar tupper. Un sólo representante por familia"
+horario: "Lunes Jueves y Sábado - 20hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

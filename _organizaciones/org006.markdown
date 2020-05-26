@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Bar DALE GAUCHO"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "La Teja"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094413087 Luis"
+barrio: "La Teja"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "094413087 Luis"
+direccion: "Emilio Romero 952 esq Heredia"
 
 otros_contactos: ""
-horario: "13 a 15 hs"
+horario: "Martes y Jueves - 13 a 15 hs"
 aclaraciones: " Llevar vianda "
 cuenta_bancaria: ""
 

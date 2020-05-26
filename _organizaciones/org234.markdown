@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "Centro Juvenil Mandalavos (ONG El Abrojo)"
-date: 2020-05-21 15:09:43 -0300
+title: "Oratorio y Centro Juvenil El Carmen (Salesianos)"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094922782"
+barrio: "Las Piedras"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "096101665 - 098942185"
+direccion: "Treinta y Tres esq. Wilson Ferreira Aldunate"
 
 otros_contactos: ""
-horario: "11 a 15hs"
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

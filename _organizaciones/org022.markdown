@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casabó"
-necesidades: "Olla"
-telefono_contacto: "Alimentos para olla"
-direccion: "092405789 "
+barrio: "Casabó"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Alimentos para olla"
+telefono_contacto: "092405789 "
+direccion: "Continuación Perú 2540 esq. Pasaje Solano"
 
 otros_contactos: "096557454 Sonia"
-horario: "13 hs"
+horario: "Sábados y Domingos - 13 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 
