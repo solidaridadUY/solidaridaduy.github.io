@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Alegría"
+nombre: "Todos"
 departamento: "Canelones"
 ---
 
-Barrio Villa Alegría
+Barrio Todos
 Departamento de Canelones

@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Vecinxs en Club Aguada"
-date: 2020-05-21 15:09:43 -0300
+title: "Comité 28 de Noviembre"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "26/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Aguada"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
-direccion: "098520925"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+necesidades: "Apoyo económico"
+necesidades_especificas: ""
+telefono_contacto: ""
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Están decayendo en donaciones y materiales de embalaje, etc. Precisan vehiculos de vez en cuando para arrimar canastas."
-cuenta_bancaria: ""
+horario: "Todos los días - -"
+aclaraciones: ""
+cuenta_bancaria: "BROU
+001126179-0004"
 
 ---

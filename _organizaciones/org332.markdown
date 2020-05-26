@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
-date: 2020-05-21 15:09:43 -0300
+title: "Barrio Unido"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "24/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Pajas Blancas"
-necesidades: "Punto de Donación"
-telefono_contacto: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
-direccion: "094569111"
+barrio: "Tres Ombúes"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Artículos de limpieza, artículos sanitarios, salsa y carne"
+telefono_contacto: "098646492
+Mariana"
+direccion: "Asentamiento Barrio Unido (bajo el puente)"
 
 otros_contactos: ""
-horario: "11 a 13:30hs"
-aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
+horario: "Todos los días - Mediodía"
+aclaraciones: "Cuando se reparten canastas no hacen olla"
 cuenta_bancaria: ""
 
 ---

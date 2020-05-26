@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Autoservice La Esquina"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Barrio Sur"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-direccion: "098141813"
+barrio: "Barrio Sur"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Carlos Gardel y Gutierrez Ruiz"
 
 otros_contactos: "094053638"
-horario: " 10:00 a 21:00hs"
+horario: "Lunes a Sábado -  10:00 a 21:00hs"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

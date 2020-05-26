@@ -1,7 +1,7 @@
 ---
-nombre: "Tomkinson"
+nombre: "Puntas de Sayago"
 departamento: "Montevideo"
 ---
 
-Barrio Tomkinson
+Barrio Puntas de Sayago
 Departamento de Montevideo

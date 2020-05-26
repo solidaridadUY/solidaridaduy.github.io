@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Asentamiento Fortaleza del Cerro"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Causeglia"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "093665410 María José"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "097311550 Paola"
+direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
 
-otros_contactos: ""
-horario: "20 hs"
-aclaraciones: ""
+otros_contactos: "097545426 Carla 
+097537971 Ximena"
+horario: "Sábados y Domingos - 19hs"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

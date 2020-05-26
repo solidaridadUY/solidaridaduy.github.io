@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Teatro de Barrio Lavalleja "
-date: 2020-05-21 15:09:43 -0300
+title: "Merendero Corazoncitos"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Barrio Lavalleja"
-necesidades: "Punto de Donación"
-telefono_contacto: "Leche en polvo, cocoa, lentejas, azúcar, sal, carne, condimentos, polvo de hornear, pulpa de tomate, frutas, verduras, guantes, alcohol gel"
-direccion: "098865307 Florencia  094357002  Hugo 099781693 Lucía (zona Centro)      "
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Salto"
+barrio: "Salto Nuevo Sur"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "097732521"
+direccion: "juan carlos gomez 2600 viv 1"
 
 otros_contactos: ""
-horario: "14 a 17 hs"
-aclaraciones: "Retiran a domicilio coordinando previamente por telefóno"
-cuenta_bancaria: "Colectivo Abitab N° 109575"
+horario: "Lunes a Sábado - 20hs"
+aclaraciones: "En situación de urgencia."
+cuenta_bancaria: "tarjeta mi dinero para recibir donaciones 3.395.167-8"
 
 ---

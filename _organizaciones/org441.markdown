@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Municipio - Casa de la Cultura"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Soriano"
-barrio: "Soriano"
-actividades: "J. E. Rodó"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: ""
+fecha_actualizacion: "13/05/2020"
+
+departamento: "Canelones"
+barrio: "Pinamar Norte"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "097 979 372"
+direccion: "Calle 53 y Tropa Vieja"
 
 otros_contactos: ""
-horario: "8 a 18 hs"
-aclaraciones: "Van a acopiar alimentos para prever necesidad de realizar Olla Popular"
+horario: " - Reciben donaciones de 9 a 11hs."
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

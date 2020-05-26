@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Club Atlético Atenas"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "15/04/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Barrio Benedetti"
-necesidades: "Olla"
-telefono_contacto: "Verduras, especialmente papas"
-direccion: "César: 099751823"
+barrio: "San Carlos"
+actividades: "Otros"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: ""
+direccion: "SEDE SOCIAL CLUB ATENAS"
 
 otros_contactos: ""
-horario: "20:00"
-aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
+horario: "Todos los días - 8:30"
+aclaraciones: "Desayuno"
 cuenta_bancaria: ""
 
 ---

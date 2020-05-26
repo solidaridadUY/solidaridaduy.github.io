@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Berro"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Malvín Norte"
-necesidades: "Olla"
-telefono_contacto: "Carne y verdura"
-direccion: "092630371 (Rosa)"
+barrio: "Jardines del Hipódromo"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Lo que diariamente más falta es carne, frutas/verduras y pan."
+telefono_contacto: "099734480"
+direccion: "David Chiossoni 3585"
 
-otros_contactos: "096205657"
-horario: "20:00hs"
-aclaraciones: "Llevar recipiente"
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: " - martes y jueves 20hs"
+aclaraciones: "Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
+cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
 
 ---

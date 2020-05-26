@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro"
+nombre: "Casco del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro
+Barrio Casco del Cerro
 Departamento de Montevideo

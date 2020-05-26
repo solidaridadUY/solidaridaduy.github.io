@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Bar Kfe"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Parque Rodó"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "092 915 246"
+barrio: "Brazo Oriental"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "098409665, 099091891, 099073492"
+direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
 
 otros_contactos: ""
-horario: "20 hs"
-aclaraciones: ""
+horario: "Domingo - 20hs"
+aclaraciones: "Se coordinan donaciones"
 cuenta_bancaria: ""
 
 ---

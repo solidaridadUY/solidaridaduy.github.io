@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Panadería \"El Oeste\""
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "20/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Los Bulevares"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: ""
+barrio: "Pajas Blancas"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: "Alimentos no perecederos, frutas y verduras, productos de limpieza"
+telefono_contacto: "099171729 Aníbal"
+direccion: "Club Pablan Leal de Ibarra y Pajas Blancas"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "Lunes Miércoles Sábados y Domingos - Lunes y Miércoles:18hs.
+Sábados y Domingos:13hs"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "Caja de ahorro BROU 000665700-00001"
 
 ---

@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Cooperativa de trabajo Pa Lante Caif Desde el Pie"
-date: 2020-05-21 15:09:43 -0300
+title: "Jóvenes FA-Treinta y Tres"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "San José"
-barrio: "San José"
-actividades: "Ciudad del Plata"
-necesidades: "Merienda"
-telefono_contacto: ""
-direccion: "Maxi 091756871 Sabrina 095019279"
+fecha_actualizacion: "19/05/2020"
 
-otros_contactos: ""
-horario: "Se entregan de 14.00 a 15.00 horas "
-aclaraciones: "Atienden 120 personas, reciben donaciones en el Caif, los  días de merienda están desde las 12.00 horas.  "
+departamento: "Treinta y Trés"
+barrio: "No corresponde"
+actividades: "Realización de compras"
+necesidades: ""
+necesidades_especificas: ""
+telefono_contacto: "092365306  091665164  098864387"
+direccion: ""
+
+otros_contactos: "No corresponde"
+horario: "Todos los días - "
+aclaraciones: "Realización de compras a población de riesgo"
 cuenta_bancaria: ""
 
 ---

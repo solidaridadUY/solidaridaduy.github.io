@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Lavalleja"
+nombre: "Aguada"
 departamento: "Montevideo"
 ---
 
-Barrio Barrio Lavalleja
+Barrio Aguada
 Departamento de Montevideo

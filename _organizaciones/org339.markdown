@@ -1,21 +1,22 @@
 ---
 layout: organizacion
 
-title: "Asociación Bioquímica Uruguaya"
-date: 2020-05-21 15:09:43 -0300
+title: "Plazita Acción Direkta"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Centro"
-necesidades: "Particular que dona"
-telefono_contacto: "Dinero para producción de desinfectantes para población vulnerable"
-direccion: "2903 1321
-"
+barrio: "Cordón"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: ""
+direccion: "Paysandú y Gaboto"
 
-otros_contactos: "secretaria.abu@gmail.com"
-horario: ""
-aclaraciones: ""
-cuenta_bancaria: "$ 1566766-00003 
-USD 1566766-00001"
+otros_contactos: ""
+horario: " - "
+aclaraciones: "Acercarse con recipiente"
+cuenta_bancaria: ""
 
 ---

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa ciudadana: CANASTAS UY"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "No corresponde"
-necesidades: "Canasta"
-telefono_contacto: "Ofrecer trabajo voluntario en el armado de las canastas."
+barrio: "No corresponde"
+actividades: "Canasta"
+necesidades: ""
+necesidades_especificas: "Ofrecer trabajo voluntario en el armado de las canastas."
+telefono_contacto: "No corresponde"
 direccion: "No corresponde"
 
 otros_contactos: "@CanastasUy en IG"
-horario: ""
+horario: " - "
 aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
 cuenta_bancaria: ""
 

@@ -1,21 +1,22 @@
 ---
 layout: organizacion
 
-title: "Merendero Cooperativo Las Bóvedas Ciudad Vieja"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal Rayito de sol"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Ciudad Vieja"
-necesidades: "Merienda"
-telefono_contacto: "Leche en Polvo"
-direccion: "094610400 Bea
-097490097 Santiago
-099151141 Magdalena"
+barrio: "Casavalle"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Maira 093566208"
+direccion: "Gustavo Volpe 4920 bis esquina Senda 17"
 
-otros_contactos: "merenderolasbovedasciudadvieja@gmail.com"
-horario: "17hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "Lunes a Viernes - 17 hs."
+aclaraciones: "Atienden 140 niños aprox."
 cuenta_bancaria: ""
 
 ---

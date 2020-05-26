@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Olla popular Gustavo Rodríguez"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
+
+departamento: "Canelones"
+barrio: "Suárez"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "097129897/"
+direccion: "Jose Enrique Rodó 1975, a una cuadra de plaza de las madres."
+
+otros_contactos: ""
+horario: "Miércoles y Domingo - "
+aclaraciones: ""
+cuenta_bancaria: "Colectivo Abitab nombre \"Olla Popular Gustavo Rodríguez\" Nro de cuenta: 109883"
+
+---

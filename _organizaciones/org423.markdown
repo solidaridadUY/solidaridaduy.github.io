@@ -1,25 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla y meriendas"
-date: 2020-05-21 15:09:43 -0300
+title: "Plenario Intersindical de Las Piedras (PIT-CNT)"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: "Leche"
-direccion: "Venancio Vargas
-Mariana Massarino
-094213482
-097470966
-"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "095211684 (Sebastián Remedios)"
+direccion: "Leandro Gómez 589 esq. Av. Artigas"
 
 otros_contactos: ""
-horario: "Jueves de noche (reparten viandas).
-Domingos 19:30 hs"
-aclaraciones: "Reciben donaciones del colectivo Clara Jackson
-"
+horario: "Lunes a Viernes - 10 a 13 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

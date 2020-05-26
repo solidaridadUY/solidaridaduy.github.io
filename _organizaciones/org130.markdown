@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Barrio Sur"
-necesidades: "Canasta"
-telefono_contacto: "Alimentos no perecederos para canastas y merienda"
-direccion: "098697902 Camila Sosa"
+barrio: "Barrio Sur"
+actividades: "Canasta"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Alimentos no perecederos para canastas y merienda"
+telefono_contacto: "098697902 Camila Sosa"
+direccion: "Zelmar Michelini 993"
 
 otros_contactos: "099005299 Sofía Raffaelli"
-horario: "Consultar telefónicamente"
+horario: "Todos los días - Consultar telefónicamente"
 aclaraciones: "Donaciones para canastas los días jueves"
 cuenta_bancaria: "Raíces I BROU caja de ahorros pesos ($) 001930334-00001"
 

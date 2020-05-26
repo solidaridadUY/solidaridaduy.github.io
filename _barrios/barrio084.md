@@ -1,7 +1,7 @@
 ---
-nombre: "La Teja"
+nombre: "Jardines del Hipódromo"
 departamento: "Montevideo"
 ---
 
-Barrio La Teja
+Barrio Jardines del Hipódromo
 Departamento de Montevideo

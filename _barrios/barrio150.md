@@ -1,7 +1,7 @@
 ---
-nombre: "J. E. Rodó"
-departamento: "Soriano"
+nombre: "Puentes Blancos"
+departamento: "Salto"
 ---
 
-Barrio J. E. Rodó
-Departamento de Soriano
+Barrio Puentes Blancos
+Departamento de Salto

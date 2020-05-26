@@ -1,18 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Villa García - 8 de Marzo"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Popular Villa Española"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa García"
-necesidades: "Olla"
-telefono_contacto: "Fruta, recipientes"
-direccion: "097501285 Lourdes"
+barrio: "Villa Española"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Olla grande, salsa de tomate, carne, verduras, sal, leche en polvo, azucar"
+telefono_contacto: "097698085
+Leticia"
+direccion: "Agaces 3966 bis esquina Irureta Goyena"
 
 otros_contactos: ""
-horario: "A partir de 19hs"
+horario: "Todos los días - A partir de 17hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

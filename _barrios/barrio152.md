@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Treinta y Trés"
+nombre: "Salto Nuevo Sur"
+departamento: "Salto"
 ---
 
-Barrio No corresponde
-Departamento de Treinta y Trés
+Barrio Salto Nuevo Sur
+Departamento de Salto

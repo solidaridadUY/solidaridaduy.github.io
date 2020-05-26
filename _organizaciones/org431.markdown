@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Inciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Colectivo Elepé"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: "Verduras"
-direccion: "099239735"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "099239735"
+direccion: "Capitan Perez esq Torres Garcia"
 
 otros_contactos: ""
-horario: "11-14 hs"
-aclaraciones: ""
+horario: "Martes y Jueves - Después de las 19 hs"
+aclaraciones: "Local de Colectivo ElePé"
 cuenta_bancaria: ""
 
 ---

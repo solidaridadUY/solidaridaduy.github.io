@@ -1,7 +1,7 @@
 ---
-nombre: "Balneario Buenos Aires"
-departamento: "Maldonado"
+nombre: "Ismael Cortinas"
+departamento: "Flores"
 ---
 
-Barrio Balneario Buenos Aires
-Departamento de Maldonado
+Barrio Ismael Cortinas
+Departamento de Flores

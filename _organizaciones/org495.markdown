@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Cooperativa de trabajo Pa Lante. Caif Desde el Pie "
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "San José"
-barrio: "San José"
-actividades: "Ciudad del Plata"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "Maxi 091756871 Sabrina 095019279"
+fecha_actualizacion: "21/05/2020"
+
+departamento: "Montevideo"
+barrio: "La Boyada"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos no perecederos para olla"
+telefono_contacto: "094 023 609"
+direccion: "Camino de las Tropas 4776"
 
 otros_contactos: ""
-horario: "Se entregan viandas de 12.30 a 13.00 horas"
-aclaraciones: "Se entregan 210 porciones,reciben donaciones en el Caif, los  días de olla están desde las 08.00 horas.    "
+horario: "Sábado - Mediodía"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

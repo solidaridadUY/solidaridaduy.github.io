@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Jornada Solidaria"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Comunitaria"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Barrio 14 de Febrero"
-necesidades: "Olla"
-telefono_contacto: "Carne, verduras, fideos, aceite"
-direccion: "ROMINA: 095566398"
+barrio: "La Capuera"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
+telefono_contacto: "092817617"
+direccion: "PARADA 9 CALLE LAS VIBORAS. EL NIDO."
 
 otros_contactos: ""
-horario: "18:00"
-aclaraciones: "Llevar recipiente, bolsa para pan y algo para la leche"
+horario: "Sábados y Domingos - 12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

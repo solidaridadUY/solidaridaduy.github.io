@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Mides e Intendencia de Rivera"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Rivera"
 barrio: "Rivera"
-actividades: "Rivera"
-necesidades: "Empresa que dona"
-telefono_contacto: "No corresponde"
-direccion: "IdR y MIDES Rivera"
+actividades: "Empresa que dona"
+necesidades: ""
+necesidades_especificas: "No corresponde"
+telefono_contacto: "IdR y MIDES Rivera"
+direccion: "Barrios: Rivera Chico, Misiones, La Arenera, Colegio Don Bosco"
 
 otros_contactos: ""
-horario: " 11 a 13 hs"
+horario: "Todos los días -  11 a 13 hs"
 aclaraciones: "Comedores departamentales. Llevar cédula y recipiente."
 cuenta_bancaria: ""
 

@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de las Duranas"
+nombre: "Palermo"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de las Duranas
+Barrio Palermo
 Departamento de Montevideo

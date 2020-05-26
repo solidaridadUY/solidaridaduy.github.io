@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Pizzeria El Triunfo"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Española"
-necesidades: "Empresa que dona"
-telefono_contacto: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-direccion: "098735539"
+barrio: "Villa Española"
+actividades: "Empresa que dona"
+necesidades: ""
+necesidades_especificas: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
+telefono_contacto: "098735539"
+direccion: "Himalaya 3148"
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
 cuenta_bancaria: ""
 

@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Canasta amiga"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Popular Club Sayago"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Rivera"
-necesidades: "Canasta"
-telefono_contacto: "Apoyo económico"
-direccion: "099997818, 098553359, 099421362"
+fecha_actualizacion: "30/04/2020"
 
-otros_contactos: ""
-horario: ""
-aclaraciones: "Contactarse para realizar donaciones."
-cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Gimena Fernández 096778461"
+direccion: "Camino Ariel 4961 y la Vía"
+
+otros_contactos: "23591125"
+horario: "Lunes a Viernes - 12 hs"
+aclaraciones: "Entrega de viandas"
+cuenta_bancaria: ""
 
 ---

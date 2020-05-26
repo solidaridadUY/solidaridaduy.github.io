@@ -2,18 +2,21 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "16/05/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Barrio Benedetti"
-necesidades: "Merienda"
-telefono_contacto: "Leche en polvo azúcar y cocoa"
-direccion: "César: 099751824"
+barrio: "Kennedy"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Higiene Personal"
+necesidades_especificas: "Salsa de tomate y leche en polvo"
+telefono_contacto: "PABLO: 093300170"
+direccion: "Calle San Pablo esquina Isabel De Castilla"
 
 otros_contactos: ""
-horario: "17:00"
-aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
+horario: "Todos los días - 12:00 almuerzo y a las 16:00 merienda"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

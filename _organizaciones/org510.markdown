@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Plaza 5"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
+
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Canasta"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: ""
+telefono_contacto: "Andrea 094805086 / Emanuel 092023585"
+direccion: "Ruta 75 esq Venancio Aires. También se reciben donaciones en W.Ferreira y Ruta 8 (Salón Brillantina) y Independencia 1023 (Candela Hogar) "
+
+otros_contactos: ""
+horario: " - "
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

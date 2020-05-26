@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Prado"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Prado
 Departamento de Montevideo

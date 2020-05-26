@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
-date: 2020-05-21 15:09:43 -0300
+title: "AFUTU Regional Colonia"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "No corresponde"
-necesidades: "Punto de Donación"
-telefono_contacto: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
-direccion: "097546731"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Colonia"
+barrio: "Juan Lacaze"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Canasta básica: Arroz, Aceite, Fideos, Azúcar, Cocoa, Salsa de Tomates, Harina, Grasa, Ph, Hipoclorito, Jabón neutro o antibacterial."
+telefono_contacto: "092252890 098942914"
+direccion: "Comunicarse telefónicamente y pasan a retirar la donación"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
+horario: " - "
+aclaraciones: "Donaciones para repartir a las familias de estudiantes en situación más vulnerable."
 cuenta_bancaria: ""
 
 ---

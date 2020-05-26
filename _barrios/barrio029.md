@@ -1,7 +1,7 @@
 ---
-nombre: "Flores"
+nombre: "Barrio La Figurita"
 departamento: "Flores"
 ---
 
-Barrio Flores
+Barrio Barrio La Figurita
 Departamento de Flores

@@ -1,18 +1,23 @@
 ---
 layout: organizacion
 
-title: "Parroquia Santisima Trinidad y Organización Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Manos Solidarias"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Chacarita de los Padres"
-necesidades: "Merienda"
-telefono_contacto: ""
-direccion: "Alejandra Sánchez 091997349"
+fecha_actualizacion: "18/05/2020"
+
+departamento: "Canelones"
+barrio: "Villa Alegría"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Carne
+Verdura"
+telefono_contacto: "Marina Rivero
+094840392"
+direccion: "Ciclamor Los Frenos 107 Villa Alegría"
 
 otros_contactos: ""
-horario: "16 hs."
+horario: "Sábado - De noche"
 aclaraciones: ""
 cuenta_bancaria: ""
 

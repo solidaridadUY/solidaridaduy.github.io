@@ -1,7 +1,7 @@
 ---
-nombre: "Villa la Colina"
+nombre: "Toledo"
 departamento: "Canelones"
 ---
 
-Barrio Villa la Colina
+Barrio Toledo
 Departamento de Canelones

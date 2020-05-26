@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Ferretería \"El Destino\""
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Los Bulevares"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: ""
+barrio: "Nuevo París"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "097113175"
+direccion: "Luis Batlle Berres, Manzana C, Casa 19"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: ""
+otros_contactos: "093846063"
+horario: "Lunes Miércoles y Viernes - 19hs"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

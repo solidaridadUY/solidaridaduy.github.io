@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
+nombre: "Punta de Rieles"
 departamento: "Montevideo"
 ---
 
-Barrio Sayago
+Barrio Punta de Rieles
 Departamento de Montevideo

@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "21/05/2020"
+
+departamento: "Maldonado"
+barrio: "Los Eucaliptus"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Adriana: 092918770"
+direccion: "Sector D"
+
+otros_contactos: ""
+horario: "Todos los días - "
+aclaraciones: "Sábados y domingos se da almuerzo"
+cuenta_bancaria: ""
+
+---

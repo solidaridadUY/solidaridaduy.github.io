@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "INVE 17"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Colón"
-necesidades: "Punto de Donación"
-telefono_contacto: "Donaciones para olla popular, también se reciben tapa bocas y productos de limpieza"
-direccion: "094068329 (Gladys)"
+barrio: "Colón"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Donaciones para olla popular, también se reciben tapa bocas y productos de limpieza"
+telefono_contacto: "094068329 (Gladys)"
+direccion: "Fernando Menck 5880, \"La quinta\""
 
 otros_contactos: "095798613"
-horario: "Consultar telefónicamente"
+horario: "Todos los días - Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

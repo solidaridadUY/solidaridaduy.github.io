@@ -1,7 +1,7 @@
 ---
-nombre: "Plácido Ellauri"
+nombre: "Paso de las Duranas"
 departamento: "Montevideo"
 ---
 
-Barrio Plácido Ellauri
+Barrio Paso de las Duranas
 Departamento de Montevideo

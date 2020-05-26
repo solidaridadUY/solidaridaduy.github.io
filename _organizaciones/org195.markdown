@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "SOMOS - Acción en Red"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "No corresponde"
-necesidades: "Retiro de donaciones"
-telefono_contacto: "Todo tipo de donaciones y fondos"
-direccion: "Ver redes más abajo"
+barrio: "No corresponde"
+actividades: "Retiro de donaciones"
+necesidades: ""
+necesidades_especificas: "Todo tipo de donaciones y fondos"
+telefono_contacto: "Ver redes más abajo"
+direccion: "No corresponde"
 
 otros_contactos: "e-mail: somos@somosaccion.uy"
-horario: "No corresponde"
+horario: " - No corresponde"
 aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
 cuenta_bancaria: ""
 

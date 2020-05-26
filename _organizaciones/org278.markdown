@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Asociación de Familiares y Víctimas de la Delincuencia"
-date: 2020-05-21 15:09:43 -0300
+title: "Juan Lacaze Deportes"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "No corresponde"
-necesidades: "Canasta"
-telefono_contacto: ""
-direccion: "098989724"
+fecha_actualizacion: "6/04/2020"
 
-otros_contactos: "096227593"
-horario: ""
-aclaraciones: "Mandar mensaje por whatsapp con: nombre completo, dirección, barrio, donación a realizar, días y horarios a retirar."
+departamento: "Colonia"
+barrio: "Juan Lacaze"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Reciben donaciones"
+telefono_contacto: "095314901"
+direccion: "CUOPYC José Pedro Varela y Puerto Sauce"
+
+otros_contactos: "091690041 091685963 099076206 098942914"
+horario: " - Sábados"
+aclaraciones: "Entregan vianda, 1 litro de agua jane y 2 jabones"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "SHUGU"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "16/05/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Maldonado"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "098301517"
+barrio: "Balneario Buenos Aires"
+actividades: "Olla"
+necesidades: "Alimentos perecederos y no perecederos, ropa, artículos de higiene y de limpieza, implementos de bioseguridad"
+necesidades_especificas: "Carne, verduras, alimentos en general, artículos de higiene y limpieza, implementos de bioseguridad"
+telefono_contacto: "Karina 091401565"
+direccion: "Calle 25 y 54, escuelita de futbol."
 
 otros_contactos: ""
-horario: "10:00 a 16:00"
-aclaraciones: ""
+horario: "Todos los días - 20:00 a 21:00"
+aclaraciones: "Lllevar recipiente para la vianda. Los días viernes se entregan canastas"
 cuenta_bancaria: ""
 
 ---

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Lomas 3 Baby Fútbol"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Lomas de Solymar"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "098925931 092725742"
+barrio: "Lomas de Solymar"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+necesidades_especificas: ""
+telefono_contacto: "098925931 092725742"
+direccion: "Calle 2 esquina Tiburón"
 
 otros_contactos: " "
-horario: "18 a 20 hs."
+horario: "Miércoles y Viernes - 18 a 20 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

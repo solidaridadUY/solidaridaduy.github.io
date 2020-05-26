@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Tres Ombúes"
-necesidades: "Olla"
-telefono_contacto: "Salsa de tomate, arroz, harina, fideos, aceite, verduras, carne"
-direccion: "098867410 Miriam"
+barrio: "Marconi"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Verduras, frutas, carne, alimentos no perecederos"
+telefono_contacto: "097130568 Alejandra Trillo"
+direccion: "Abel Chiflet 4002 esquina Guarapirú"
 
 otros_contactos: ""
-horario: "14 hs."
-aclaraciones: "Algunos dias si reciben donaciones, hacen meriendas, son unos 40 niños los que la reciben en esos casos"
+horario: "Todos los días - 20 hs"
+aclaraciones: "Algunos días tuvieron que suspenderla por falta de insumos para cocinar. En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

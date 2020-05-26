@@ -1,7 +1,7 @@
 ---
-nombre: "Las Piedras"
+nombre: "Lagomar"
 departamento: "Canelones"
 ---
 
-Barrio Las Piedras
+Barrio Lagomar
 Departamento de Canelones

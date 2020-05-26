@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Comité Palermo"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla popular Yambo Kenia"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "19/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Palermo"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "Isabel 093 739 044"
+barrio: "Sayago"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Celia tél 097189755  Carlos 097983311"
+direccion: "Centro  Cultural Yambo Kenia, Batlle y Ordóñez esquina Araure."
 
 otros_contactos: ""
-horario: "15 a 19 hs"
-aclaraciones: ""
+horario: "jueves a domingo - 13 hs."
+aclaraciones: "Atienden un promedio de 100 personas"
 cuenta_bancaria: ""
 
 ---

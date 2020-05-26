@@ -1,21 +1,22 @@
 ---
 layout: organizacion
 
-title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Olla"
-telefono_contacto: "Alimentos no perecederos"
-direccion: "097069405 (Virginia)
-091282021 (Mariana)
-095770714 (José)"
+barrio: "Las Piedras"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "095610063 - 093763288"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
-horario: "20:00"
-aclaraciones: "Iniciativa en situación de urgencia"
+horario: "Lunes a Viernes - "
+aclaraciones: "Sábado y domingo:olla. Iniciativa incluida en la categoría \"olla\" de esta página. También arman canastas"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Suárez"
+nombre: "Santa Lucía"
 departamento: "Canelones"
 ---
 
-Barrio Suárez
+Barrio Santa Lucía
 Departamento de Canelones

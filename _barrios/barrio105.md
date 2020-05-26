@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Pajas Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Pajas Blancas
 Departamento de Montevideo

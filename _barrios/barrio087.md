@@ -1,7 +1,7 @@
 ---
-nombre: "Las Acacias"
+nombre: "La Paloma"
 departamento: "Montevideo"
 ---
 
-Barrio Las Acacias
+Barrio La Paloma
 Departamento de Montevideo

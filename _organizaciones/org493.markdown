@@ -2,18 +2,21 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Salto"
-barrio: "Salto"
-actividades: "Puentes Blancos"
-necesidades: "Olla"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Colonia"
+barrio: "Nueva Helvecia"
+actividades: "Realización de compras"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "091 471 165"
 telefono_contacto: ""
-direccion: "091933711"
+direccion: "No corresponde."
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Almuerzo y merienda"
+horario: "Todos los días - No corresponde"
+aclaraciones: "Realización de compras a población de riesgo. Tienen una olla en Gilomen 1448 a las 21 hs todos los días"
 cuenta_bancaria: ""
 
 ---

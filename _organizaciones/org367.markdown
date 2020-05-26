@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Atenas"
-date: 2020-05-21 15:09:43 -0300
+title: "Zonal Tino Barrios"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "15/04/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "San Carlos"
-necesidades: "Otros"
-telefono_contacto: ""
-direccion: ""
+barrio: "Cerro Pelado"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "092370142"
+direccion: "SIERRA DE LAS CAÑAS ESQUINA VERDUN"
 
 otros_contactos: ""
-horario: "8:30"
-aclaraciones: "Desayuno"
+horario: "Martes Miércoles y Jueves - 15:00 a 19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

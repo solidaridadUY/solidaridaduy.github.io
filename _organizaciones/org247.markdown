@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "REDALCO"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Canelones"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "cel: 091950027"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Montevideo"
+barrio: "No corresponde"
+actividades: "Punto de Donación"
+necesidades: "Apoyo económico"
+necesidades_especificas: "Dinero para entregar canastas de verduras y frutas"
+telefono_contacto: "No corresponde"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
-cuenta_bancaria: ""
+horario: " - No corresponde"
+aclaraciones: "Con cada donación de $500 se colabora con 18 kg de frutas y verduras aportando 50 platos sanos y nutritivos para llevar a aquellas familias que en este contexto de emergencia necesitan."
+cuenta_bancaria: "BROU 00178550600001"
 
 ---

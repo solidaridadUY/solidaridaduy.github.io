@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Vecinas/os de la Gruta."
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: "Granos, verduras."
-direccion: "095229074 (Angélica)"
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Granos, verduras."
+telefono_contacto: "095229074 (Angélica)"
+direccion: "Gruta de Lourdes."
 
 otros_contactos: ""
-horario: ""
+horario: "Miercoles, sábados y domingos. - "
 aclaraciones: "Atienden a 70 personas, con porciones de 3 litros."
 cuenta_bancaria: ""
 

@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Jóvenes FA-Treinta y Tres"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Treinta y Trés"
-barrio: "Treinta y Trés"
-actividades: "No corresponde"
-necesidades: "Realización de compras"
-telefono_contacto: "No corresponde"
-direccion: "092365306  091665164  098864387"
+barrio: "No corresponde"
+actividades: "Realización de compras"
+necesidades: ""
+necesidades_especificas: "No corresponde"
+telefono_contacto: "092365306  091665164  098864387"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: "Realización de compras a población de riesgo"
 cuenta_bancaria: ""
 

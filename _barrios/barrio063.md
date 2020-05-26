@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
+nombre: "Brazo Oriental"
 departamento: "Montevideo"
 ---
 
-Barrio Casavalle
+Barrio Brazo Oriental
 Departamento de Montevideo

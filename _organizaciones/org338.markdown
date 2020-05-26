@@ -1,18 +1,23 @@
 ---
 layout: organizacion
 
-title: "Seregnistas - FA"
-date: 2020-05-21 15:09:43 -0300
+title: "Grupo de jóvenes Castores y Horneros"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Aguada"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
+barrio: "Centro"
+actividades: "Canasta"
+necesidades: "Alimentos y Artículos de Higiene Personal"
+necesidades_especificas: "Los alimentos que se reciben son no perecederos"
+telefono_contacto: "096 444 222 
+097 447 728 
+098 745 042"
 direccion: ""
 
 otros_contactos: ""
-horario: "17 a 18hs"
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

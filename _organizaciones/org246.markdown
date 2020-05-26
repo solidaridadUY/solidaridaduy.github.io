@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Progreso Solidario"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
 barrio: "Canelones"
-actividades: "Progreso"
-necesidades: "Canasta"
-telefono_contacto: ""
-direccion: "099472132 - 095903271"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "cel: 091950027"
+direccion: "Calle Ancha esq. Monegal"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: ""
+horario: " - "
+aclaraciones: "Donaciones se coordinan al contacto o se entregan en la dirección"
 cuenta_bancaria: ""
 
 ---

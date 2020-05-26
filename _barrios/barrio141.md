@@ -1,7 +1,7 @@
 ---
-nombre: "Ceibal"
-departamento: "Salto"
+nombre: "Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Ceibal
-Departamento de Salto
+Barrio Chuy
+Departamento de Rocha

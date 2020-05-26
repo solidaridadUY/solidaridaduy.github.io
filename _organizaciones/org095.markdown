@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "El abrojo"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Las Piedras"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos"
-direccion: "099699322"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Alimentos no perecederos"
+telefono_contacto: "099699322"
+direccion: "Wilson Ferreira Aldunate 712"
 
 otros_contactos: ""
-horario: "9 a 15 hs"
+horario: "Lunes a Viernes - 9 a 15 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

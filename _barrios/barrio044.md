@@ -1,7 +1,7 @@
 ---
-nombre: "Piriápolis"
+nombre: "Los Eucaliptus"
 departamento: "Maldonado"
 ---
 
-Barrio Piriápolis
+Barrio Los Eucaliptus
 Departamento de Maldonado

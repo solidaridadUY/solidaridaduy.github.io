@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Barrio Lavalleja"
-necesidades: "Merienda"
-telefono_contacto: "Alimentos"
-direccion: "Cuqui 096205476"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Salto"
+barrio: "Barrio la Estrella"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: "Ropa de abrigo"
+telefono_contacto: "099505028"
+direccion: "Cervantes y Lavalleja"
 
 otros_contactos: ""
-horario: "17 hs."
+horario: "Miércoles - Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

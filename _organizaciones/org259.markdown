@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Club los Zorzales"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Monarca"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094649196"
+barrio: "Villa García"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "094649196"
+direccion: "Club los Zorzales, Ruta 8 Brigadier Gral Juan Antonio Lavalleja."
 
 otros_contactos: ""
-horario: "Lunes a viernes a partir de las 19:30"
+horario: "Lunes a Viernes - 17:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

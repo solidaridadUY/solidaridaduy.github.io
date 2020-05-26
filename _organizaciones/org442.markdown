@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Manos Unidas"
-date: 2020-05-21 15:09:43 -0300
+title: "El Abrojo / Mandalavos"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Rocha"
-barrio: "Rocha"
-actividades: "Lascano"
-necesidades: "Olla"
-telefono_contacto: "Alimentos no perecederos"
-direccion: "091 075 363"
+fecha_actualizacion: "13/05/2020"
+
+departamento: "Canelones"
+barrio: "Lomas de Solymar"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "094 992 782"
+direccion: "Av. Instrucciones del Año XIII (al fondo del comedor estudiantil)."
 
 otros_contactos: ""
-horario: "Durante el día"
-aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+horario: " - "
+aclaraciones: "Coordinación telefónica"
 cuenta_bancaria: ""
 
 ---

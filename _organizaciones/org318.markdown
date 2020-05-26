@@ -1,20 +1,24 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Cabaña Anaya"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Paso de la Arena"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094762392
-Leonel Cardozo"
+barrio: "Cerro Norte"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "095051344
+Allison"
+direccion: "Camino Cibils y Fco Siti (al lado de la Gomería)"
 
-otros_contactos: ""
-horario: "A partir de las 20hs"
-aclaraciones: "Contacto  para inscribirse: 099 974 499"
+otros_contactos: "096933066
+Milka"
+horario: "Lunes a Jueves - 18:30hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Comité Victor Deri"
-date: 2020-05-21 15:09:43 -0300
+title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Pinamar"
-necesidades: "Canasta"
-telefono_contacto: ""
-direccion: "095639475 - 097530556"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Montevideo"
+barrio: "No corresponde"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
+telefono_contacto: "097546731"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "17 a 19"
-aclaraciones: "Se van a buscar las donaciones"
+horario: " - "
+aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
 cuenta_bancaria: ""
 
 ---

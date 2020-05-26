@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Cooperativa EKO y Vos Con Voz"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
-necesidades: "Retiro de donaciones"
-telefono_contacto: "En particular, alimentos no perecederos"
-direccion: "094990652"
+barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
+actividades: "Retiro de donaciones"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "En particular, alimentos no perecederos"
+telefono_contacto: "094990652"
+direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) en Aires Puros.  Zonas Parque Batlle hasta Malvín, Parque Rodó, Cordón, Centro: coordinar telefónicamente"
 
 otros_contactos: "094566630"
-horario: " 9 a 14 hs"
+horario: "Lunes a Viernes -  9 a 14 hs"
 aclaraciones: "Se puede coordinar telefónicamente "
 cuenta_bancaria: ""
 

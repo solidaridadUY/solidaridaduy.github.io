@@ -1,7 +1,7 @@
 ---
-nombre: "Puntas de Manga"
+nombre: "Plácido Ellauri"
 departamento: "Montevideo"
 ---
 
-Barrio Puntas de Manga
+Barrio Plácido Ellauri
 Departamento de Montevideo

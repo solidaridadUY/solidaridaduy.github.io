@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Lucía"
+nombre: "Pinamar Norte"
 departamento: "Canelones"
 ---
 
-Barrio Santa Lucía
+Barrio Pinamar Norte
 Departamento de Canelones

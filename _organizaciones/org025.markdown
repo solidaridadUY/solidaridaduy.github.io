@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Red Solidaria"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Dolores"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos y artículos de limpieza"
-direccion: "094204040 099629958 099337003"
+barrio: "Villa Dolores"
+actividades: "Punto de Donación"
+necesidades: ""
+necesidades_especificas: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "094204040 099629958 099337003"
+direccion: "Julio César 1466"
 
 otros_contactos: ""
-horario: "11 a 13 hs y de 16 a 18 hs"
+horario: "Sábado - 11 a 13 hs y de 16 a 18 hs"
 aclaraciones: "Pasan a buscar las donaciones en esos horarios"
 cuenta_bancaria: ""
 

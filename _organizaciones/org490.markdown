@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Cooperativa de trabajo Pa Lante Caif Desde el Pie"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Salto"
-barrio: "Salto"
-actividades: "Barrio Caballero"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "091647293"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "San José"
+barrio: "Ciudad del Plata"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "Maxi 091756871 Sabrina 095019279"
+direccion: " Caif Desde el Pie. Manzana 17 Calle Los Pinos Barrio Monte Grande Km 29.500 Ruta 1 Vieja"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: ""
+horario: "Martes - Se entregan de 14.00 a 15.00 horas "
+aclaraciones: "Atienden 120 personas, reciben donaciones en el Caif, los  días de merienda están desde las 12.00 horas.  "
 cuenta_bancaria: ""
 
 ---

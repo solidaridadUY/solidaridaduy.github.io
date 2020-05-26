@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Club Sportivo Artigas"
-date: 2020-05-21 15:09:43 -0300
+title: "Complejo Manga Chico km16"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Sauce"
-necesidades: "Olla"
-telefono_contacto: "Se reciben alimentos y donaciones hasta el 03/04"
-direccion: "099240201 092487833"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Montevideo"
+barrio: "Manga"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "098 047 693 Adriana Ferreira"
+direccion: "Camino Maldonado km16 entre Monterroso y Carlos Camusso"
 
 otros_contactos: ""
-horario: "19.30 hs"
-aclaraciones: "Llevar tupper"
+horario: " - "
+aclaraciones: "Se realizan las ollas acorde a donaciones. En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

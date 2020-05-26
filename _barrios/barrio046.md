@@ -1,7 +1,7 @@
 ---
-nombre: "Punta del Este"
+nombre: "Pan de Azúcar"
 departamento: "Maldonado"
 ---
 
-Barrio Punta del Este
+Barrio Pan de Azúcar
 Departamento de Maldonado

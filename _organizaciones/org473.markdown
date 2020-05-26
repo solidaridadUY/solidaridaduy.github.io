@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Teatro de Barrio Lavalleja "
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Río Negro"
-barrio: "Río Negro"
-actividades: "Young"
-necesidades: "Olla"
-telefono_contacto: "Carne, salsa de tomate, pan"
-direccion: "098 613 534"
+fecha_actualizacion: "19/05/2020"
 
-otros_contactos: "098 281 807 (solo llamadas)"
-horario: "21hs"
-aclaraciones: "Ncesidad de articulos de limpieza para acondicionar las ollas y utensillos, así como de papel film"
-cuenta_bancaria: ""
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Leche en polvo, cocoa, lentejas, azúcar, sal, carne, condimentos, polvo de hornear, pulpa de tomate, frutas, verduras, guantes, alcohol gel"
+telefono_contacto: "098865307 Florencia  094357002  Hugo 099781693 Lucía (zona Centro)      "
+direccion: "Instrucciones esquina Carlos María Silva"
+
+otros_contactos: ""
+horario: "Martes Jueves y Sábado - 14 a 17 hs"
+aclaraciones: "Retiran a domicilio coordinando previamente por telefóno"
+cuenta_bancaria: "Colectivo Abitab N° 109575"
 
 ---

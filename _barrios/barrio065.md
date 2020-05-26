@@ -1,7 +1,7 @@
 ---
-nombre: "Causeglia"
+nombre: "Capurro"
 departamento: "Montevideo"
 ---
 
-Barrio Causeglia
+Barrio Capurro
 Departamento de Montevideo

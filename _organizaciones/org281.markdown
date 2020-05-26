@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "AFUTU Regional Colonia"
-date: 2020-05-21 15:09:43 -0300
+title: "Anfiteatro Fortaleza"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Colonia"
-barrio: "Colonia"
-actividades: "Juan Lacaze"
-necesidades: "Punto de Donación"
-telefono_contacto: "Canasta básica: Arroz, Aceite, Fideos, Azúcar, Cocoa, Salsa de Tomates, Harina, Grasa, Ph, Hipoclorito, Jabón neutro o antibacterial."
-direccion: "092252890 098942914"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "096398305 Juan Carlos"
+direccion: "Holanda y Dinamarca"
 
 otros_contactos: ""
-horario: ""
-aclaraciones: "Donaciones para repartir a las familias de estudiantes en situación más vulnerable."
+horario: "Todos los días - 20:30 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

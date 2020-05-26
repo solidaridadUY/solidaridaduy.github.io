@@ -1,7 +1,7 @@
 ---
-nombre: "Puentes Blancos"
+nombre: "Barrio Quiroga"
 departamento: "Salto"
 ---
 
-Barrio Puentes Blancos
+Barrio Barrio Quiroga
 Departamento de Salto

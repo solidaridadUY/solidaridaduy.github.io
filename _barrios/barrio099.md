@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Marconi"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Marconi
 Departamento de Montevideo

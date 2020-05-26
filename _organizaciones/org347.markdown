@@ -1,20 +1,23 @@
 ---
 layout: organizacion
 
-title: "Comité 28 de Noviembre"
-date: 2020-05-21 15:09:43 -0300
+title: "Minervas Colectivo Feminista"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "26/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "ZONA B"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: ""
+barrio: "Cordón"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y Artículos de Higiene Personal"
+necesidades_especificas: ""
+telefono_contacto: "096129858
+Noelia"
+direccion: "Ferrer Serra 1930 esquina Democracia"
 
 otros_contactos: ""
-horario: "-"
+horario: "Consultar telefónicamente - "
 aclaraciones: ""
-cuenta_bancaria: "BROU
-001126179-0004"
+cuenta_bancaria: ""
 
 ---

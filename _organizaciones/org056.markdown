@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "METELE QUE SON PASTELES"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cerrito de la Victoria"
-necesidades: "Canasta"
-telefono_contacto: ""
-direccion: "094476451 091211765 098000052 099757609"
+barrio: "Cerrito de la Victoria"
+actividades: "Canasta"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "094476451 091211765 098000052 099757609"
+direccion: "Joaquín Artigas 3326 (local de la murga)"
 
 otros_contactos: "Municipio D"
-horario: "15 a 18 hrs "
+horario: "Consultar telefónicamente - 15 a 18 hrs "
 aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
 cuenta_bancaria: ""
 

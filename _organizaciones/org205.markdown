@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Arerunguá"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Centro"
-necesidades: "Punto de Donación"
-telefono_contacto: "Ropa"
-direccion: "092143478"
+barrio: "Jardines del Hipódromo"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
+telefono_contacto: "096 880 946"
+direccion: "José Piendibene 3642 esq. Lacio"
 
 otros_contactos: ""
-horario: "10 a 17 hs"
-aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
+horario: " - sábados y domingos, arranca a las 17 aprox"
+aclaraciones: "Llevar vianda, casa de familia"
 cuenta_bancaria: ""
 
 ---

@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Mujeres del Oeste
+Nucleo Sindical CAPI Los Teritos"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casco del Cerro"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "095331455
-Luis Callejas"
+barrio: "La Paloma"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "096605650
+Mari"
+direccion: "Alianza 2254 y Congreso de Ávalos"
 
-otros_contactos: ""
-horario: "19 hs"
+otros_contactos: "092980493"
+horario: "Sábados y Domingos - 13:30hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Brigada Crece desde el Pie"
-date: 2020-05-21 15:09:43 -0300
+title: "Colectivo Peñarolense"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "15/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Nuevo París"
-necesidades: "Punto de Donación"
-telefono_contacto: "Carne, ropa de niños y adultos, de abrigo y frazadas "
-direccion: "094286063
-Anselmo"
+barrio: "La Teja"
+actividades: "Olla"
+necesidades: ""
+necesidades_especificas: ""
+telefono_contacto: ""
+direccion: "Benito Riqueto esq. Rivera"
 
 otros_contactos: ""
-horario: "Coordinar telefónicamente"
-aclaraciones: "Entregan ropa a la gente que necesita, 85% de la población de la zona de muy bajos recursos."
+horario: "Miércoles - 10:30 a 13:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

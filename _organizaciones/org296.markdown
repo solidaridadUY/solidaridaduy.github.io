@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Club Sayago"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Popular Plaza Medellín"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Sayago"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "Gimena Fernández 096778461"
+barrio: "Barrio Sur"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "098520248"
+direccion: "Plaza Medellín (Zelmar Michelini y Carlos Gardel)"
 
-otros_contactos: "23591125"
-horario: "9 a 13 hs"
-aclaraciones: ""
+otros_contactos: "093524166"
+horario: "Viernes - 21hs"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
 cuenta_bancaria: ""
 
 ---

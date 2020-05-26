@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Movimiento Codos a la Obra"
-date: 2020-05-21 15:09:43 -0300
+title: "Salón Comunal \"Para Todos\""
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "5/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Punta de Rieles"
-necesidades: "Merienda"
-telefono_contacto: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
-direccion: "095495706
-Stefany"
+barrio: "Seis de Diciembre"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
+telefono_contacto: "Angel Lozano
+097346881"
+direccion: "Calle 6 entre Camino Carlos María de Pena y Av Islas Canarias"
 
-otros_contactos: "25119629"
-horario: "17hs"
+otros_contactos: ""
+horario: "Lunes a Viernes - 19hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

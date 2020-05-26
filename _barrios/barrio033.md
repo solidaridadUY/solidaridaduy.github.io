@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio 14 de Febrero"
-departamento: "Maldonado"
+nombre: "Trinidad"
+departamento: "Flores"
 ---
 
-Barrio Barrio 14 de Febrero
-Departamento de Maldonado
+Barrio Trinidad
+Departamento de Flores

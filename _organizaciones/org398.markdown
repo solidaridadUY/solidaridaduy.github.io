@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Salón Comunal \"Para Todos\""
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Malvín Norte"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "5/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Seis de Diciembre"
-necesidades: "Olla"
-telefono_contacto: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
-direccion: "Angel Lozano
-097346881"
+barrio: "Malvín Norte"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
+telefono_contacto: "093301890 "
+direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
 
-otros_contactos: ""
-horario: "19hs"
+otros_contactos: "095628133"
+horario: "Lunes a Jueves - 11:00 a 17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

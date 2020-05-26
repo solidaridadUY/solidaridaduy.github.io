@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cerro"
-necesidades: "Canasta"
-telefono_contacto: "En particular, alimentos no perecederos"
-direccion: "091944342 "
+barrio: "Cerro"
+actividades: "Canasta"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: "En particular, alimentos no perecederos"
+telefono_contacto: "091944342 "
+direccion: "Grecia y Viacaba"
 
 otros_contactos: "098759845 099834255"
-horario: " 17 a 19 hs"
+horario: "Lunes Miércoles y Viernes -  17 a 19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

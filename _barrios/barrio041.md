@@ -1,7 +1,7 @@
 ---
-nombre: "La Capuera"
+nombre: "Kennedy"
 departamento: "Maldonado"
 ---
 
-Barrio La Capuera
+Barrio Kennedy
 Departamento de Maldonado

@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Ciudad Vieja
 Departamento de Montevideo

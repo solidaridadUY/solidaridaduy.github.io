@@ -1,21 +1,22 @@
 ---
 layout: organizacion
 
-title: "Familia y amigos de la Escuela 45 Leonor Hourticou"
-date: 2020-05-21 15:09:43 -0300
+title: "Bar Kfe"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "28/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "La Comercial"
-necesidades: "Punto de Donación"
-telefono_contacto: "Artículos de Limpieza y leche en polvo"
-direccion: "098882634
-099260489
-099183432"
+barrio: "Parque Rodó"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "092 915 246"
+direccion: "Edil Hugo Prato 2289"
 
-otros_contactos: "escuela45lh@gmail.com"
-horario: "Se coordina telefónicamente"
-aclaraciones: "Arman canastas para las familias de las Escuelas que están en más dificultad."
+otros_contactos: ""
+horario: "Sábado - 20 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,21 +1,21 @@
 ---
 layout: organizacion
 
-title: "Manos Solidarias"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Villa Alegría"
-necesidades: "Merienda"
-telefono_contacto: "Leche en Polvo
-Harina 
-Azúcar"
-direccion: "Marina Rivero
-094840392"
+fecha_actualizacion: "19/05/2020"
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos"
+telefono_contacto: "Cuqui 096205476"
+direccion: "Pasaje A entre Gambeta e Instrucciones"
 
 otros_contactos: ""
-horario: "De tarde"
+horario: "Viernes Sábado y Domingo - 19 hs."
 aclaraciones: ""
 cuenta_bancaria: ""
 

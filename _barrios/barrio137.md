@@ -1,7 +1,7 @@
 ---
-nombre: "Lascano"
-departamento: "Rocha"
+nombre: "Fray Bentos"
+departamento: "Río Negro"
 ---
 
-Barrio Lascano
-Departamento de Rocha
+Barrio Fray Bentos
+Departamento de Río Negro

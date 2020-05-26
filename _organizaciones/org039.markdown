@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "MIRAMAR BBC"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "5/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Buceo"
-necesidades: "Canasta"
-telefono_contacto: "Alimentos en general para armar canastas."
-direccion: "099926182"
+barrio: "Buceo"
+actividades: "Canasta"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Alimentos en general para armar canastas."
+telefono_contacto: "099926182"
+direccion: "Santiago Gadea 3537"
 
 otros_contactos: ""
-horario: "10 a 12 hs y 17:30 a 19:00 hs"
+horario: "Lunes a Viernes - 10 a 12 hs y 17:30 a 19:00 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

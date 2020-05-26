@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Barros Blancos"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "094 485 351, 092 876 371"
+barrio: "Barros Blancos"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "091959275 Verónica"
+direccion: "Ruta 8 km 26.500"
 
 otros_contactos: ""
-horario: "Sábados 19 hs y Domingos 13.30 hs."
+horario: "Jueves - 17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

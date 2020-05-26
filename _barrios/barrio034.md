@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio B9"
+nombre: "Balneario Buenos Aires"
 departamento: "Maldonado"
 ---
 
-Barrio Barrio B9
+Barrio Balneario Buenos Aires
 Departamento de Maldonado

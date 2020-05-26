@@ -2,18 +2,21 @@
 layout: organizacion
 
 title: "Vecinas/os Barrio 1° y 22 de Mayo. Iniciativa \"Pancitas felices\". Olla y merienda"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: "Productos de higiene personal, pañales y gestión menstrual"
-direccion: "Bettina
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Productos de higiene personal, pañales y gestión menstrual"
+telefono_contacto: "Bettina
 097744891"
+direccion: "Salón 1° de Mayo, Calle las Piedras."
 
 otros_contactos: ""
-horario: "Mediodía y merienda"
+horario: "Sábados y Domingos - Mediodía y merienda"
 aclaraciones: "Atienden a 110 niños, 4 personas adultas"
 cuenta_bancaria: ""
 

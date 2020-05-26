@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Club Baby Fútbol Maroñas"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "21/05/2020"
+
+departamento: "Montevideo"
+barrio: "Flor de Maroñas"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Reciben Donaciones"
+telefono_contacto: "094098579"
+direccion: "Sede club de Baby Futbol Flor de Maroñas "
+
+otros_contactos: ""
+horario: "Lunes a Viernes - Después de las 17hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

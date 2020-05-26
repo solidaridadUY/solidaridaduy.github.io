@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
-date: 2020-05-21 15:09:43 -0300
+title: "Lista 939 FA"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Barros Blancos"
-necesidades: "Merienda"
-telefono_contacto: ""
-direccion: "094 485 351, 092 876 371"
+barrio: "Barros Blancos"
+actividades: "Canasta"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "094345006"
+direccion: "Ruta 8 Km. 25.500 - Calle Las Magnolias entre Caputti y Las Violetas"
 
 otros_contactos: ""
-horario: "17:00"
+horario: "Consultar telefónicamente - Coordinar por teléfono"
 aclaraciones: ""
 cuenta_bancaria: ""
 

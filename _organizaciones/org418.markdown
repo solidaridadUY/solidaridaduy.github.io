@@ -1,20 +1,25 @@
 ---
 layout: organizacion
 
-title: "El Muni"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Casavalle"
-necesidades: "Olla"
-telefono_contacto: "
+barrio: "Casavalle"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: "Alimentos, guantes.
+No tiene techo para cocinar.
 "
-direccion: "095225494
-Cristian Freire"
+telefono_contacto: "096746354
+Marcela
+"
+direccion: "Andrés Masali esq. Héctor Castro"
 
 otros_contactos: ""
-horario: "Sábados al mediodía y Domingos de noche"
+horario: "Todos los días - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

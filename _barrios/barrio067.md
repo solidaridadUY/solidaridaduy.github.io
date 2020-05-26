@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
+nombre: "Casavalle"
 departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
+Barrio Casavalle
 Departamento de Montevideo

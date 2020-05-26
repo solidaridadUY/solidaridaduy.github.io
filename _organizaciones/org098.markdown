@@ -2,19 +2,22 @@
 layout: organizacion
 
 title: "Comité Parque Rodó"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "26/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Parque Rodó"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "099440874 Santiago
+barrio: "Parque Rodó"
+actividades: "Punto de Donación"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: ""
+telefono_contacto: "099440874 Santiago
 099421627 Paloma
 095382471 Joaquin"
+direccion: "Gonzalo Ramírez y Eduardo Acevedo"
 
 otros_contactos: ""
-horario: "17 a 19"
+horario: "Consultar telefónicamente - 17 a 19"
 aclaraciones: "Acopio de donaciones para las ollas de la zona de la coordinadora B"
 cuenta_bancaria: ""
 

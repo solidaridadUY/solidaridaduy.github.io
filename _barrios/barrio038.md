@@ -1,7 +1,7 @@
 ---
-nombre: "Hipodromo"
+nombre: "Centro"
 departamento: "Maldonado"
 ---
 
-Barrio Hipodromo
+Barrio Centro
 Departamento de Maldonado

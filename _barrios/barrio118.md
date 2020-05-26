@@ -1,7 +1,7 @@
 ---
-nombre: "Seis de Diciembre"
+nombre: "Puntas de Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Seis de Diciembre
+Barrio Puntas de Manga
 Departamento de Montevideo

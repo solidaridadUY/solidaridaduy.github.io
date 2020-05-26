@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "Zonal Prado"
-date: 2020-05-21 15:09:43 -0300
+title: "Iniciativa Vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Prado"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: ""
+barrio: "Borro"
+actividades: "Olla"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "096276625, 096652675"
+direccion: "Dr. Enrique Claveaux (Plaza de Palos)"
 
 otros_contactos: ""
-horario: "10 a 12hs"
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

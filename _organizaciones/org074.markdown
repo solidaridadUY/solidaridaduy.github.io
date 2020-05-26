@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Salón comunitario \"San Antonio\""
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Barrio Lavalleja"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "096951220"
+barrio: "Barrio Lavalleja"
+actividades: "Punto de Donación"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "096951220"
+direccion: "Yucutujá 1250 esq. Santos"
 
 otros_contactos: ""
-horario: ""
+horario: "Consultar telefónicamente - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

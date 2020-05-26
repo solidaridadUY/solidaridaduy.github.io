@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Escuela Experimental"
-date: 2020-05-21 15:09:43 -0300
+title: "CASCO"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Malvín"
-necesidades: "Punto de Donación"
-telefono_contacto: "Alimentos no perecederos"
-direccion: "094163327"
+barrio: "Villa del Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "094555994
+Debora / Evo"
+direccion: "Gibraltar 4246 bis esquina Japón"
 
 otros_contactos: ""
-horario: "10 a 12"
-aclaraciones: "Dirigida a familias de la escuela 219 y 274"
+horario: "Lunes a Sábado - 20 hs"
+aclaraciones: "Llevar recipiente y cubiertos"
 cuenta_bancaria: ""
 
 ---

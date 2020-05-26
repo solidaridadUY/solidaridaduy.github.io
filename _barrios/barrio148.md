@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad del Plata"
-departamento: "San José"
+nombre: "La Tablada"
+departamento: "Salto"
 ---
 
-Barrio Ciudad del Plata
-Departamento de San José
+Barrio La Tablada
+Departamento de Salto

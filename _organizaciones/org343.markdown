@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Reus al Sur"
-date: 2020-05-21 15:09:43 -0300
+title: "Vecinxs en Club Aguada"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "25/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Barrio Sur"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "091820811"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+telefono_contacto: "098520925"
+direccion: "Casa particular en Aguada. Contactarse al teléfono para coordinar."
 
-otros_contactos: "098180171"
-horario: "19:00 a 20.00 hs"
-aclaraciones: "Llevar recipiente. En lo posible, usar tapabocas. Concurrir lo más temprano posible."
+otros_contactos: ""
+horario: "Todos los días - Consultar telefónicamente"
+aclaraciones: "Están decayendo en donaciones y materiales de embalaje, etc. Precisan vehiculos de vez en cuando para arrimar canastas."
 cuenta_bancaria: ""
 
 ---

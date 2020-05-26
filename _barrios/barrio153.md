@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Treinta y Trés"
+nombre: "Ciudad del Plata"
+departamento: "San José"
 ---
 
-Barrio No corresponde
-Departamento de Treinta y Trés
+Barrio Ciudad del Plata
+Departamento de San José

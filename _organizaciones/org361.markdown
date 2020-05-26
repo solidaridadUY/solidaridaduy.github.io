@@ -1,20 +1,22 @@
 ---
 layout: organizacion
 
-title: "Rotisería El Garrison"
-date: 2020-05-21 15:09:43 -0300
+title: "Comité 13 de diciembre"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa Muñoz"
-necesidades: "Merienda"
+barrio: "Puntas de Manga"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
 telefono_contacto: ""
-direccion: "092310955"
+direccion: "José Belloni 6032 entre Berro y Antares"
 
 otros_contactos: ""
-horario: "8 a 11hs
-18 a 19:30hs"
-aclaraciones: "Café con leche y tostadas con manteca"
+horario: "Sábados y Domingos - 20hs"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

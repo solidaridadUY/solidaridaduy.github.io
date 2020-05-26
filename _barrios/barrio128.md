@@ -1,7 +1,7 @@
 ---
-nombre: "ZONA B"
+nombre: "Villa del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio ZONA B
+Barrio Villa del Cerro
 Departamento de Montevideo

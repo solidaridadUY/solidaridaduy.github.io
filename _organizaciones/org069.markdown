@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "PIT-CNT"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Santa Lucía"
-necesidades: "Otros"
-telefono_contacto: ""
-direccion: "098691711 092213138  092249381"
+barrio: "Santa Lucía"
+actividades: "Otros"
+necesidades: "Alimentos no perecederos"
+necesidades_especificas: ""
+telefono_contacto: "098691711 092213138  092249381"
+direccion: "Ramon Irigoyen entre 18 de Julio y Julio Mitre"
 
 otros_contactos: ""
-horario: "de 17:00 a 20:00 hrs"
+horario: "Todos los días - de 17:00 a 20:00 hrs"
 aclaraciones: "coordinar vía telefónica para retirar viandas"
 cuenta_bancaria: ""
 

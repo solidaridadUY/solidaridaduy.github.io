@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Centro
+Barrio Casabó
 Departamento de Montevideo

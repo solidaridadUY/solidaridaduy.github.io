@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Grupo Social"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "16/04/2020"
 
 departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Piriápolis"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "099612647"
+barrio: "Punta del Este"
+actividades: "Punto de Donación"
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+necesidades_especificas: ""
+telefono_contacto: "094436206"
+direccion: ""
 
 otros_contactos: ""
-horario: ""
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

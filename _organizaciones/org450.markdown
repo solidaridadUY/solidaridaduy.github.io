@@ -1,20 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Barrio Nuevo Comienzo"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "12/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Maracaná"
-necesidades: "Merienda"
-telefono_contacto: ""
-direccion: "097628859
-Doris"
+barrio: "Santa Catalina"
+actividades: "Merienda"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "096287379
+Leandro"
+direccion: "     Camino DellaZoppa atrás del Complejo de Cerro entre Burdeos y San Fuentes"
 
 otros_contactos: ""
-horario: "17 hs"
-aclaraciones: "Llevan la merienda a la casa de los niños "
+horario: "Todos los días - 10 hs"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

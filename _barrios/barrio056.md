@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
+nombre: "Arroyo Seco"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Vista
+Barrio Arroyo Seco
 Departamento de Montevideo

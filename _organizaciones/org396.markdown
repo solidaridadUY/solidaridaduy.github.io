@@ -1,19 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "El Abrojo Paso Joven SOCAT"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "5/05/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Villa García"
-necesidades: "Punto de Donación"
-telefono_contacto: ""
-direccion: "094649196 092822695 094987832"
+barrio: "Paso Carrasco"
+actividades: "Olla"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Alimentos no perecederos"
+telefono_contacto: "098103973"
+direccion: "Vaz Ferreira 52
+"
 
 otros_contactos: ""
-horario: "14:00 a 18:00 hs"
-aclaraciones: "Además de recibir, también pueden pasar a retirar las donaciones"
+horario: "Lunes a Viernes - 13:00 a 18:00"
+aclaraciones: "Coordinación telefónica"
 cuenta_bancaria: ""
 
 ---

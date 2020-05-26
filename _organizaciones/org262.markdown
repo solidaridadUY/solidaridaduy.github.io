@@ -1,18 +1,21 @@
 ---
 layout: organizacion
 
-title: "A la olla con los profes"
-date: 2020-05-21 15:09:43 -0300
+title: "OLLA POPULAR - Vecines"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "San José"
-barrio: "San José"
-actividades: "Playa Pascual"
-necesidades: "Punto de Donación"
-telefono_contacto: "Reciben donaciones de Alimentos no perecederos y ropa de abrigo"
-direccion: "Sophia Bellotti 092983301"
+fecha_actualizacion: "6/04/2020"
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: ""
+direccion: "Grecia esq. Barcelona"
 
 otros_contactos: ""
-horario: "08.30 a 14:00hs"
+horario: " - "
 aclaraciones: ""
 cuenta_bancaria: ""
 

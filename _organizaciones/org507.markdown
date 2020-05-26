@@ -1,0 +1,22 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "22/05/2020"
+
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Olla"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
+telefono_contacto: "097744539/ 092338132"
+direccion: "Ruta 8 km 23.700 (sobre la ruta)"
+
+otros_contactos: ""
+horario: "Lunes Jueves y Viernes - 19hs"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

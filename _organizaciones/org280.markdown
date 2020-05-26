@@ -1,19 +1,22 @@
 ---
 layout: organizacion
 
-title: "Juan Lacaze Deportes"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla Popular COVIESSU"
+date: 2020-05-26 20:22:32 -0300
 
-departamento: "Colonia"
-barrio: "Colonia"
-actividades: "Juan Lacaze"
-necesidades: "Olla"
-telefono_contacto: "Reciben donaciones"
-direccion: "095314901"
+fecha_actualizacion: "6/04/2020"
 
-otros_contactos: "091690041 091685963 099076206 098942914"
-horario: "Sábados"
-aclaraciones: "Entregan vianda, 1 litro de agua jane y 2 jabones"
+departamento: "Montevideo"
+barrio: "Paso de las Duranas"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: "Reciben donaciones de 17 a 20hs"
+telefono_contacto: "094259028 (Fátima), 099462986 (Florencio), 093815676 (Leonardo)"
+direccion: "Duque de los Abruzos esquina Domingo Torres (ex Club La Espada)"
+
+otros_contactos: ""
+horario: " - Sábados y Domingos 19:30hs"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

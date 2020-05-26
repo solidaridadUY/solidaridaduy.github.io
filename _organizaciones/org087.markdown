@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Bella Italia"
-necesidades: "Olla"
-telefono_contacto: "Leche en polvo, guantes y tapabocas"
-direccion: "093835462 Roberto"
+barrio: "Bella Italia"
+actividades: "Olla"
+necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
+necesidades_especificas: "Leche en polvo, guantes y tapabocas"
+telefono_contacto: "093835462 Roberto"
+direccion: "Felisberto Hernandez 3538 BIS"
 
 otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
-horario: "20 hs"
+horario: "Sábados y Domingos - 20 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

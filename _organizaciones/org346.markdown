@@ -1,25 +1,26 @@
 ---
 layout: organizacion
 
-title: "Ecomité"
-date: 2020-05-21 15:09:43 -0300
+title: "Comité de Base \"Municipales\""
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "26/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "ZONA B"
-necesidades: "Punto de Donación"
-telefono_contacto: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
-direccion: "099384525
-Sofía 
-099735767
-Chantal"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+necesidades: "Apoyo económico, Alimentos, Artículos de Higiene Personal"
+necesidades_especificas: "Piden mano de obra para confeccionar tapabocas"
+telefono_contacto: "Donaciones: 098405089 Virginia Ros"
+direccion: "No aplica"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente"
-aclaraciones: "Coordinar para retiro de donaciones"
-cuenta_bancaria: "BROU 
-110080467 - 00001
-
-600-0993555"
+otros_contactos: "Confección de Tapabocas:
+099290712
+Celsa Achá"
+horario: "Todos los días - Consultar telefónicamente"
+aclaraciones: ""
+cuenta_bancaria: "BROU
+00835501-00001
+Depósito cajeros: 196-0076329"
 
 ---

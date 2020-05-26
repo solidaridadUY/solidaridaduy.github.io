@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
-necesidades: "Realización de compras"
-telefono_contacto: "No corresponde"
-direccion: "099440874"
+barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
+actividades: "Realización de compras"
+necesidades: ""
+necesidades_especificas: "No corresponde"
+telefono_contacto: "099440874"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente"
+horario: "Consultar telefónicamente - Consultar telefónicamente"
 aclaraciones: "Realización de compras a adultos mayores"
 cuenta_bancaria: ""
 

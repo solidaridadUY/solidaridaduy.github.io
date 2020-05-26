@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Cooperativa COVI 30 de Setiembre"
-date: 2020-05-21 15:09:43 -0300
+title: "Olla La vía"
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "28/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Tomkinson"
-necesidades: "Olla"
-telefono_contacto: ""
-direccion: "098565224
-Carlos"
+barrio: "Maracaná"
+actividades: "Olla"
+necesidades: "Alimentos"
+necesidades_especificas: ""
+telefono_contacto: "2314 4678"
+direccion: "La Vía 1544"
 
-otros_contactos: ""
-horario: "19:30hs"
+otros_contactos: "091898472"
+horario: "Sábado - 19 hs"
 aclaraciones: ""
 cuenta_bancaria: ""
 

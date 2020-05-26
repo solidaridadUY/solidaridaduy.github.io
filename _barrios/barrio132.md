@@ -1,7 +1,7 @@
 ---
-nombre: "Fray Bentos"
-departamento: "Río Negro"
+nombre: "Villa Muñoz"
+departamento: "Montevideo"
 ---
 
-Barrio Fray Bentos
-Departamento de Río Negro
+Barrio Villa Muñoz
+Departamento de Montevideo

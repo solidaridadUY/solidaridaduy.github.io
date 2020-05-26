@@ -1,19 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+title: "Ferretería \"El Destino\""
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "La Teja"
-necesidades: "Olla"
+barrio: "Los Bulevares"
+actividades: "Punto de Donación"
+necesidades: "Todo tipo de donaciones"
+necesidades_especificas: ""
 telefono_contacto: ""
-direccion: "091775583
-Paola"
+direccion: "Ideario Artiguista 1865"
 
 otros_contactos: ""
-horario: ""
+horario: "Consultar telefónicamente - Consultar telefónicamente"
 aclaraciones: ""
 cuenta_bancaria: ""
 

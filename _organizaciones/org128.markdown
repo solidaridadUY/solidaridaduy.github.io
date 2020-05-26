@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Intendencia de Canelones"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Canelones"
-barrio: "Canelones"
-actividades: "Todos"
-necesidades: "Canasta"
-telefono_contacto: "No aplica"
-direccion: "Ver aclaraciones adicionales"
+barrio: "Todos"
+actividades: "Canasta"
+necesidades: ""
+necesidades_especificas: "No aplica"
+telefono_contacto: "Ver aclaraciones adicionales"
+direccion: "A domicilio"
 
 otros_contactos: "092173550"
-horario: "Durante el día"
+horario: "Todos los días - Durante el día"
 aclaraciones: "092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
 cuenta_bancaria: ""
 

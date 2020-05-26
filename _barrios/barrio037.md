@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Pelado"
+nombre: "Barrio Benedetti"
 departamento: "Maldonado"
 ---
 
-Barrio Cerro Pelado
+Barrio Barrio Benedetti
 Departamento de Maldonado

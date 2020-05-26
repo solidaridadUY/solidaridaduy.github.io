@@ -1,7 +1,7 @@
 ---
-nombre: "La Barra"
+nombre: "Hipodromo"
 departamento: "Maldonado"
 ---
 
-Barrio La Barra
+Barrio Hipodromo
 Departamento de Maldonado

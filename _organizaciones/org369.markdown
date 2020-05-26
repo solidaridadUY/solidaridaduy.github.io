@@ -2,18 +2,21 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "2/05/2020"
 
 departamento: "Maldonado"
 barrio: "Maldonado"
-actividades: "Kennedy"
-necesidades: "Olla"
-telefono_contacto: "Salsa de tomate y leche en polvo"
-direccion: "PABLO: 093300170"
+actividades: "Punto de Donación"
+necesidades: "Alimentos y Artículos de Limpieza"
+necesidades_especificas: ""
+telefono_contacto: "Gonni: 099487998"
+direccion: ""
 
 otros_contactos: ""
-horario: "12:00 almuerzo y a las 16:00 merienda"
-aclaraciones: "Llevar recipiente"
+horario: " - "
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

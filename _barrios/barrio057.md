@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
+nombre: "Barrio Lavalleja"
 departamento: "Montevideo"
 ---
 
-Barrio Belvedere
+Barrio Barrio Lavalleja
 Departamento de Montevideo

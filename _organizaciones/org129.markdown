@@ -2,17 +2,20 @@
 layout: organizacion
 
 title: "Ándale taquería"
-date: 2020-05-21 15:09:43 -0300
+date: 2020-05-26 20:22:32 -0300
+
+fecha_actualizacion: "6/04/2020"
 
 departamento: "Montevideo"
-barrio: "Montevideo"
-actividades: "Centro"
-necesidades: "Olla"
-telefono_contacto: "No corresponde"
-direccion: "099456647"
+barrio: "Centro"
+actividades: "Olla"
+necesidades: ""
+necesidades_especificas: "No corresponde"
+telefono_contacto: "099456647"
+direccion: "Salto 1200"
 
 otros_contactos: ""
-horario: "12:00 hs"
+horario: "Lunes a Viernes - 12:00 hs"
 aclaraciones: "Entregan viandas"
 cuenta_bancaria: ""
 
