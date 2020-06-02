@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - departamentos.html
   - bolsa.html
+  - departamentos.html
   - about.markdown
   - contacto.html
 
