@@ -67,7 +67,7 @@ collections:
   departamentos:
     output: true
   barrios:
-    output: true
+    output: false
   trabajos:
     output: true
 
