@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - bolsa.html
+  #- bolsa.html
   - departamentos.html
   - unirse.html
   - about.markdown
@@ -66,8 +66,8 @@ collections:
     output: true
   departamentos:
     output: true
-  barrios:
-    output: false
+  #barrios:
+   # output: true
   trabajos:
     output: true
 
