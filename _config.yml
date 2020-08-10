@@ -36,8 +36,8 @@ plugins:
 
 header_pages:
   #- bolsa.html
-  - departamentos.html
-  - unirse.html
+  #- departamentos.html
+  #- unirse.html
   - about.markdown
   - contacto.html
 
