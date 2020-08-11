@@ -1,7 +1,7 @@
 ---
-nombre: "Lascano"
-departamento: "Rocha"
+nombre: "No corresponde"
+departamento: "Paysandú"
 ---
 
-Barrio Lascano
-Departamento de Rocha
+Barrio No corresponde
+Departamento de Paysandú

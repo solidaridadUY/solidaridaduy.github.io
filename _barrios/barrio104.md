@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo Verdisol"
+nombre: "Maracaná"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo Verdisol
+Barrio Maracaná
 Departamento de Montevideo

@@ -1,5 +1,5 @@
 ---
-nombre: "Soriano"
+nombre: "Salto"
 ---
 
-Departamento de Soriano
+Departamento de Salto

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Liceo de Tala"
-date: 2020-05-26 20:22:32 -0300
+title: "SERPAJ"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Tala"
+departamento: "Montevideo"
+barrio: "Cordón"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos de olla"
-telefono_contacto: "095417092"
-direccion: "Liceo de Tala"
+donaciones: "Alimentos no perecederos"
+necesidades: ""
+telefono_contacto: "24085301"
+direccion: "Requena 1642 entre 18 de Julio y Colonia"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Durante el día"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

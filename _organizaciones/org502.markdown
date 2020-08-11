@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla popular ITUZAINGO"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "20/05/2020"
+title: "Otra Colectiva"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Canelones"
-barrio: "Pando"
-actividades: "Olla"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: ""
-telefono_contacto: "Lourdes Perera 096001040"
-direccion: "Gral Artigas entre Treinta y Tres y Champagnat (Salón Parroquial)"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+donaciones: "Artículos de Higiene Personal"
+necesidades: "Reciben donaciones de artículos de higiene para mujeres, tampones, toallitas, entre otros"
+telefono_contacto: "(Day Bovio)094399618"
+direccion: ""
 
-otros_contactos: ""
-horario: "Lunes a Viernes - A partir de las 19hs"
-aclaraciones: ""
+otros_contactos: "(Vale Barranco)094586497"
+horario: "(LUN-DOM)"
+aclaraciones: "Contacto por mail: otracolectiva@gmail.com"
 cuenta_bancaria: ""
 
 ---

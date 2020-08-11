@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité Parque Rodó"
-date: 2020-05-26 20:22:32 -0300
+title: "Mesa intersocial Paysandú"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
-
-departamento: "Montevideo"
-barrio: "Parque Rodó"
+departamento: "Paysandú"
+barrio: "Paysandú"
 actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "099440874 Santiago
-099421627 Paloma
-095382471 Joaquin"
-direccion: "Gonzalo Ramírez y Eduardo Acevedo"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "098307154"
+direccion: "Levantan a domicilio"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente - 17 a 19"
-aclaraciones: "Acopio de donaciones para las ollas de la zona de la coordinadora B"
+otros_contactos: "099486640"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

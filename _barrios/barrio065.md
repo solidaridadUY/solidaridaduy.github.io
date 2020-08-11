@@ -1,7 +1,7 @@
 ---
-nombre: "Capurro"
+nombre: "Bella Vista"
 departamento: "Montevideo"
 ---
 
-Barrio Capurro
+Barrio Bella Vista
 Departamento de Montevideo

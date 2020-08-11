@@ -1,24 +1,21 @@
 ---
 layout: organizacion
 
-title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
-date: 2020-05-26 20:22:32 -0300
+title: "Barrio Nuevo Comienzo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "097069405 (Virginia)
-091282021 (Mariana)
-095770714 (José)"
-direccion: "Barrios San Marcos, Razzetti y Pilarica"
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Leandro)096287379
+"
+direccion: "     Camino DellaZoppa atrás del Complejo de Cerro entre Burdeos y San Fuentes"
 
 otros_contactos: ""
-horario: "Todos los días - 20:00"
-aclaraciones: "Iniciativa en situación de urgencia"
+horario: "(LUN-DOM)10:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

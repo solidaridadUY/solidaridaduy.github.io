@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Vecinxs en Club Aguada"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "091775583
-Paola"
-direccion: "Carlos Teller 5063"
+barrio: "Aguada"
+actividades: "Merienda"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+telefono_contacto: "098520925"
+direccion: " Avda. San Martín 2261"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+horario: "(SAB-DOM)17:00"
+aclaraciones: "En lo posible se solicita agendarse antes de ir."
 cuenta_bancaria: ""
 
 ---

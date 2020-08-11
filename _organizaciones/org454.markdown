@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinos organizados "
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "20/05/2020"
-
-departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
+departamento: "Salto"
+barrio: "Barrio Quiroga"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Artículos de limpieza e higiene personal"
-telefono_contacto: "092650082 Beatriz Blanco
-"
-direccion: "Centro Cultural Guyunusa: San Martín esquina León Pérez"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "47341631"
+direccion: "Caif del barrio. Raul Richard Bourcereaux esquina  Adolfo Claverie"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 12 hs."
-aclaraciones: "En situación de urgencia"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

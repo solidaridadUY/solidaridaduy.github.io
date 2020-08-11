@@ -1,7 +1,7 @@
 ---
-nombre: "Tres Ombúes"
+nombre: "Puntas de Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Tres Ombúes
+Barrio Puntas de Manga
 Departamento de Montevideo

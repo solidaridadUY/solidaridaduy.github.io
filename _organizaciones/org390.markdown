@@ -1,22 +1,23 @@
 ---
 layout: organizacion
 
-title: "Movimiento Codos a la Obra"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "5/05/2020"
+title: "Olla Nuevo Ellauri"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
+barrio: "Casavalle"
 actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
-telefono_contacto: "095495706
-Stefany"
-direccion: "Servidumbre 7075 (Salón comunal Club Punta de Rieles)"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos, guantes.
+No tiene techo para cocinar.
+"
+telefono_contacto: "(Marcela)096746354
 
-otros_contactos: "25119629"
-horario: "Martes - 17hs"
+"
+direccion: "Andrés Masali esq. Héctor Castro"
+
+otros_contactos: "(Fabián)097361043"
+horario: "(LUN-VIE)17:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

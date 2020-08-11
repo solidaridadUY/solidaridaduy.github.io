@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Cooperativa EKO y Vos Con Voz"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/04/2020"
+title: "Super Lupín"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
-actividades: "Retiro de donaciones"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "En particular, alimentos no perecederos"
-telefono_contacto: "094990652"
-direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) en Aires Puros.  Zonas Parque Batlle hasta Malvín, Parque Rodó, Cordón, Centro: coordinar telefónicamente"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Perez Castellanos y Sarandí"
 
-otros_contactos: "094566630"
-horario: "Lunes a Viernes -  9 a 14 hs"
-aclaraciones: "Se puede coordinar telefónicamente "
+otros_contactos: "094053638"
+horario: "(LUN-DOM)08:00-19:00"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

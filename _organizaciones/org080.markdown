@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "El rancho"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Merendero Estrella de Oro"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
+barrio: "Piedras Blancas"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "23051061"
-direccion: "Heredia y Martin Berindague"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Salsa  de tomate,cebolla, morrón, lentejas "
+telefono_contacto: "(Yessica)096098776 "
+direccion: "Clemente Ruggia y Ma del Rosario Ramos (salón de la cancha)"
 
-otros_contactos: "094524282"
-horario: "Todos los días - 11 a 13 hs"
-aclaraciones: ""
+otros_contactos: ""
+horario: ""
+aclaraciones: "En situación de urgencia. Aceptan ropa "
 cuenta_bancaria: ""
 
 ---

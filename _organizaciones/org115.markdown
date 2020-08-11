@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Grupo de madres de la escuela."
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/05/2020"
+title: "Olla Popular"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
+barrio: "Nuevo París"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
 necesidades: "Alimentos"
-necesidades_especificas: "Leche, azúcar, maizena, frutas, salsa y carne."
-telefono_contacto: "096138220 (Leticia)"
-direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
+telefono_contacto: "097065641"
+direccion: "Turubí y Carlos de la Vega"
 
 otros_contactos: ""
-horario: "Todos los días - 17hs (merienda de L a V)
-18hs (olla S y D)"
-aclaraciones: "La propuesta va variando de acuerdo a las donaciones que se reciben. Atiende aprox 60 - 70 personas (organizado por 4 vecinos/as)."
+horario: "(MAR)13:30,(JUE)13:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

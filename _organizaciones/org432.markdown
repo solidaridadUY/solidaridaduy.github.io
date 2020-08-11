@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinxs y Colectivo ElePé"
-date: 2020-05-26 20:22:32 -0300
+title: "Parroquia Santisima Trinidad y Organización Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Montevideo"
+barrio: "Chacarita de los Padres"
 actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche en polvo, Pan y dulce de leche"
-telefono_contacto: "099239735"
-direccion: "Continuación Gruta de Lourdes."
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos "
+telefono_contacto: "(Carminia de Souza)091051795"
+direccion: "Géminis 6370"
 
-otros_contactos: "Leche en polvo"
-horario: "Todos los días - 18 hs"
-aclaraciones: "Merendero Nuestro Sueño"
+otros_contactos: ""
+horario: "(LUN-DOM)16:00"
+aclaraciones: "En situación de urgencia. Con pocas donaciones, el merendero está en dificultades para la continuidad"
 cuenta_bancaria: ""
 
 ---

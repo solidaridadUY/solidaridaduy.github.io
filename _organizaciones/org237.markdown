@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla Comunitaria"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Maldonado"
+barrio: "La Capuera"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "093714093"
-direccion: "Frente a la Escuela 173 (Campisteguy)"
+donaciones: "Alimentos"
+necesidades: "Fideos, arroz, pulpa de tomate, aceite, porotos y lentejas"
+telefono_contacto: "092817617"
+direccion: "PARADA 9 CALLE LAS VIBORAS. EL NIDO."
 
 otros_contactos: ""
-horario: " - "
+horario: "(SAB-DOM)12:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

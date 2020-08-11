@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 1° y 22 de Mayo. Iniciativa \"Pancitas felices\". Olla y merienda"
-date: 2020-05-26 20:22:32 -0300
+title: "Intendencia de Canelones"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/05/2020"
+departamento: "Canelones"
+barrio: "Todos"
+actividades: "Canasta"
+donaciones: ""
+necesidades: "No aplica"
+telefono_contacto: "Ver aclaraciones adicionales"
+direccion: "A domicilio"
 
-departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Productos de higiene personal, pañales y gestión menstrual"
-telefono_contacto: "Bettina
-097744891"
-direccion: "Salón 1° de Mayo, Calle las Piedras."
-
-otros_contactos: ""
-horario: "Sábados y Domingos - Mediodía y merienda"
-aclaraciones: "Atienden a 110 niños, 4 personas adultas"
+otros_contactos: "092173550"
+horario: "(LUN-DOM)"
+aclaraciones: "Durante el día. 092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
 cuenta_bancaria: ""
 
 ---

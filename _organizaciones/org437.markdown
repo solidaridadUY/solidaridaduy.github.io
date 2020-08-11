@@ -1,22 +1,22 @@
 ---
 layout: organizacion
 
-title: "Municipio - Casa de la Cultura"
-date: 2020-05-26 20:22:32 -0300
+title: "Manos Solidarias"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Soriano"
-barrio: "J. E. Rodó"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Casa de la Cultura"
+departamento: "Canelones"
+barrio: "Villa Alegría"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "
+Harina 
+"
+telefono_contacto: "(Marina Rivero)094840392"
+direccion: "Ciclamor Los Frenos 107 Villa Alegría"
 
 otros_contactos: ""
-horario: "Viernes - 8 a 18 hs"
-aclaraciones: "Van a acopiar alimentos para prever necesidad de realizar Olla Popular"
+horario: "(MAR)13:00-17:00,(JUE)13:00-17:00"
+aclaraciones: "En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

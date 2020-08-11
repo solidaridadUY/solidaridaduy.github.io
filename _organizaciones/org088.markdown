@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Complejo Juana de América"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Club 25 de agosto"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
+barrio: "Villa Dolores"
 actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Guantes y tapabocas para voluntarios/as"
-telefono_contacto: "098124387 Natalia"
-direccion: "Complejo Juana de América. Salón comunal"
+donaciones: ""
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "José L. Bado 3186"
 
-otros_contactos: "098638765 Luciana"
-horario: "Martes Jueves y Sábado - 10 a 12 y 17 a 19hs"
-aclaraciones: ""
+otros_contactos: "099629958,094204040"
+horario: "(MIE)17:00-18:00,(SAB)12:00-13:00"
+aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
 cuenta_bancaria: ""
 
 ---

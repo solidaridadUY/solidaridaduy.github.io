@@ -1,22 +1,23 @@
 ---
 layout: organizacion
 
-title: "Aute"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Comité Cuaró"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
+barrio: "Bella Vista"
 actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
-telefono_contacto: "092040449"
-direccion: "Av. Agraciada 2463"
+donaciones: ""
+necesidades: "Se recibe alimentos no
+perecederos, juguetes, ropa,
+apoyo transporte"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq
+Dufort y Álvarez"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: "Elaboración y reparto de alimentos para personal de servicios esenciales o en situación de vulnerabilidad."
-cuenta_bancaria: ""
+otros_contactos: "099869454"
+horario: "(MAR)15:00-19:00,(MIE)15:00-19:00,(JUE)15:00-19:00"
+aclaraciones: ""
+cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
 
 ---

@@ -1,5 +1,5 @@
 ---
-nombre: "Tacuarembó"
+nombre: "San José"
 ---
 
-Departamento de Tacuarembó
+Departamento de San José

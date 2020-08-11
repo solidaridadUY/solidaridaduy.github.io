@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "ATAMM"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinos núcleo liceo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Maldonado"
-barrio: "Maldonado"
+departamento: "Montevideo"
+barrio: "Lezica"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098301517"
-direccion: "Rincón 1264 esquina Tamaro"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Kristie Barreiro)098993951
+"
+direccion: "Cornelio Guerra casi Antonio Rubio"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 08:00 a 18:00"
+horario: "(LUN-DOM)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

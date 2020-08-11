@@ -1,7 +1,7 @@
 ---
-nombre: "Kennedy"
+nombre: "Cerro Pelado"
 departamento: "Maldonado"
 ---
 
-Barrio Kennedy
+Barrio Cerro Pelado
 Departamento de Maldonado

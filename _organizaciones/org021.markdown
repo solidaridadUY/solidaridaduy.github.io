@@ -2,21 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
 barrio: "Casabó"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche, azúcar, cocoa, harina, dulce, manteca, huevos, pan, galletitas, etc."
-telefono_contacto: "092405789 "
-direccion: "Continuación Perú 2540 esq. Pasaje Solano"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Nicolás)093819595 "
+direccion: "Senegal 3785 esq. Charcas."
 
-otros_contactos: "096557454 Sonia"
-horario: "Lunes a Viernes - 16.30 hs"
-aclaraciones: ""
+otros_contactos: "(Santiago)098314195
+"
+horario: "(LUN)20:00,(MIE)20:00,(VIE)20:00"
+aclaraciones: "Entrega de vianda"
 cuenta_bancaria: ""
 
 ---

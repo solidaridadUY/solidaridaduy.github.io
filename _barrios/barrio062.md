@@ -1,7 +1,7 @@
 ---
-nombre: "Borro"
+nombre: "Barrio Lavalleja"
 departamento: "Montevideo"
 ---
 
-Barrio Borro
+Barrio Barrio Lavalleja
 Departamento de Montevideo

@@ -1,22 +1,23 @@
 ---
 layout: organizacion
 
-title: "Unidos Centro Educativo"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Comité Cuaró"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
+barrio: "Bella Vista"
 actividades: "Canasta"
-necesidades: ""
-necesidades_especificas: "Alimentos, productos de limpieza e higiene, donaciones económicas"
-telefono_contacto: "091203982"
-direccion: "Francisco Vázquez Cores 3247"
+donaciones: "Alimentos no perecederos,Ropa de abrigo"
+necesidades: "Se recibe alimentos no
+perecederos, juguetes, ropa,
+apoyo transporte"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq
+Dufort y Álvarez"
 
-otros_contactos: ""
-horario: " - Lunes a Viernes"
-aclaraciones: "Tienen nexo con la iniciativa Involucrate"
-cuenta_bancaria: ""
+otros_contactos: "099869454"
+horario: "(MAR)15:00-19:00,(MIE)15:00-19:00,(JUE)15:00-19:00"
+aclaraciones: ""
+cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Colectivo Peñarolense"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "18/05/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
+departamento: "Montevideo"
+barrio: "Manga"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "094746309"
-direccion: "Torres Garcia 791 esq. Valdenegro"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Tony Viera)096252293,(Selva)097323510"
+direccion: " Vigía 5368"
 
 otros_contactos: ""
-horario: "Jueves - 21hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

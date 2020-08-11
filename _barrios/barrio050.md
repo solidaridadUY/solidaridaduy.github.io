@@ -1,7 +1,7 @@
 ---
-nombre: "Punta Negra"
+nombre: "Playa Grande"
 departamento: "Maldonado"
 ---
 
-Barrio Punta Negra
+Barrio Playa Grande
 Departamento de Maldonado

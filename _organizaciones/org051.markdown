@@ -1,25 +1,21 @@
 ---
 layout: organizacion
 
-title: "Comité Cuaró"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "COLECTIVO TRANS"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Vista"
-actividades: "Canasta"
+barrio: "Cerrito de la Victoria"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
 necesidades: ""
-necesidades_especificas: "Se recibe alimentos no
-perecederos, juguetes, ropa,
-apoyo transporte"
-telefono_contacto: "099204370"
-direccion: "Hermanos Gil 1051 esq
-Dufort y Álvarez"
+telefono_contacto: "(Colette)098088088
+"
+direccion: "Manuel Meléndez 4017 entre León Pérez y Santiago Sierra"
 
-otros_contactos: "099869454"
-horario: "Martes Miércoles y Jueves - 15 a 19hs"
+otros_contactos: "099211688"
+horario: "(MAR),(JUE)"
 aclaraciones: ""
-cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
+cuenta_bancaria: ""
 
 ---

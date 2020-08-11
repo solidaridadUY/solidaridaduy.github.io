@@ -1,7 +1,7 @@
 ---
-nombre: "Punta de Rieles"
+nombre: "Paso Molino"
 departamento: "Montevideo"
 ---
 
-Barrio Punta de Rieles
+Barrio Paso Molino
 Departamento de Montevideo

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Librería Diomedes"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Salón Cabeza"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "2403 4713"
-direccion: "Bulevar España 2129 esquina Pablo de María"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Reconquista 352"
 
-otros_contactos: ""
-horario: "Martes y Jueves -  20.30 hs"
-aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
+otros_contactos: "094053638"
+horario: "(LUN-DOM)08:00-20:30"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

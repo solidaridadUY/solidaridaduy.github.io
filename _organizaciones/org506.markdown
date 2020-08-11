@@ -1,25 +1,20 @@
 ---
 layout: organizacion
 
-title: "\"Merendero Pancitas Felices\" Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/05/2020"
+title: "Unidos somos más"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Especialmente leche en polvo"
-telefono_contacto: "Sandra
-093368150"
-direccion: "Salón 1° de Mayo, 
-Calle las Piedras."
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Aceite y Carne. Materiales para aislar del frío el espacio que usan"
+telefono_contacto: "(Morena)096723863 "
+direccion: "Estanislao Vega esquina Juan Acosta"
 
 otros_contactos: ""
-horario: "martes jueves sábados y domingo - Martes y jueves de 16:00 a 17:00 (entrega de merienda). 
-Sábados y domingos de14:00 a 15:00 entrega de almuerzo y merienda."
-aclaraciones: "Atienden a 121 niñxs y 6 adultxs (2 en situación de discapacidad). Lista cerrada para recibir más niñxs."
+horario: "(LUN-SAB)19:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

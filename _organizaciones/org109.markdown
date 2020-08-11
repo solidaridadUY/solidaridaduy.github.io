@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Mercado Popular de Subsistencia"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Olla"
-necesidades: ""
-necesidades_especificas: "Se reciben alimentos"
-telefono_contacto: "092726853"
-direccion: "Caminos Santa Catalina y los Murallones"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+donaciones: ""
+necesidades: "Alimentos no perecederos, Productos de limpieza, Dinero, Transporte de productos"
+telefono_contacto: "099281748"
+direccion: "No Corresponde"
 
-otros_contactos: ""
-horario: " - Consultar horario"
-aclaraciones: ""
-cuenta_bancaria: ""
+otros_contactos: "098825512"
+horario: "(LUN-DOM)"
+aclaraciones: "Coordinar via telefónica"
+cuenta_bancaria: "Cuenta Brou Nº 000594817-00003"
 
 ---

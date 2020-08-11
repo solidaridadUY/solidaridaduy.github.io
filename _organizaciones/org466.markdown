@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Manos Solidarias"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla Los Sueños"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "18/05/2020"
-
-departamento: "Canelones"
-barrio: "Villa Alegría"
+departamento: "Montevideo"
+barrio: "Manga"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Carne
-Verdura"
-telefono_contacto: "Marina Rivero
-094840392"
-direccion: "Ciclamor Los Frenos 107 Villa Alegría"
+donaciones: ""
+necesidades: ""
+telefono_contacto: "098254171"
+direccion: "Braulio López esquina Alfredo Zitarrosa , Barrio \"Los sueños\" "
 
 otros_contactos: ""
-horario: "Sábado - De noche"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Desayuno, almuerzo, merienda y cena."
 cuenta_bancaria: ""
 
 ---

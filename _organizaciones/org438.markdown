@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Manos Unidas"
-date: 2020-05-26 20:22:32 -0300
+title: "Mundo Alegre"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "11/05/2020"
-
-departamento: "Rocha"
-barrio: "Lascano"
+departamento: "Maldonado"
+barrio: "Kennedy"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "091 075 363"
-direccion: ""
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Alcohol y frutas"
+telefono_contacto: "(Estrella)092242879"
+direccion: "Calle s/n casi San Pablo"
 
 otros_contactos: ""
-horario: "Todos los días - Durante el día"
-aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+horario: "(LUN-DOM)07:00-20:00"
+aclaraciones: "Se brinda almuerzo, merienda y cena."
 cuenta_bancaria: ""
 
 ---

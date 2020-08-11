@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Popular Plaza Medellín"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
-telefono_contacto: "097546731"
-direccion: "No aplica"
+barrio: "Barrio Sur"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos"
+telefono_contacto: "098520248"
+direccion: "Carlos Gardel 1194 (Asociación Cultural Cuareim 1080)"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
+otros_contactos: "093524166"
+horario: "(JUE)20:30,(VIE)20:30"
+aclaraciones: "Reciben donaciones en todos los almacenes del barrio"
 cuenta_bancaria: ""
 
 ---

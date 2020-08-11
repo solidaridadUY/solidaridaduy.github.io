@@ -1,7 +1,7 @@
 ---
-nombre: "Chuy"
-departamento: "Rocha"
+nombre: "Zona D"
+departamento: "Montevideo"
 ---
 
-Barrio Chuy
-Departamento de Rocha
+Barrio Zona D
+Departamento de Montevideo

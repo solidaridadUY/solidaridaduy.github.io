@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio la Estrella"
-departamento: "Salto"
+nombre: "Fray Bentos"
+departamento: "Río Negro"
 ---
 
-Barrio Barrio la Estrella
-Departamento de Salto
+Barrio Fray Bentos
+Departamento de Río Negro

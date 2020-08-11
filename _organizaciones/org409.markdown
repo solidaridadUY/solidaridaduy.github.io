@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Manos Unidas"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "12/05/2020"
-
-departamento: "Montevideo"
-barrio: "Casabó"
+departamento: "Rocha"
+barrio: "Lascano"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Productos de limpieza, alimentos"
-telefono_contacto: "097322340
-Jonathan"
-direccion: "Burdeos 2911 esquina 17 Metros"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "091075363"
+direccion: ""
 
 otros_contactos: ""
-horario: "Jueves y Domingo - Jueves 19hs, Domingo 13hs"
-aclaraciones: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
 cuenta_bancaria: ""
 
 ---

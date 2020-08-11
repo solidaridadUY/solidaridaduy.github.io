@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Paysandú"
+nombre: "Villa Dolores"
+departamento: "Montevideo"
 ---
 
-Barrio No corresponde
-Departamento de Paysandú
+Barrio Villa Dolores
+Departamento de Montevideo

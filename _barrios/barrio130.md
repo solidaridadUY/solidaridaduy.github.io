@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Española"
+nombre: "Seis de Diciembre"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Española
+Barrio Seis de Diciembre
 Departamento de Montevideo

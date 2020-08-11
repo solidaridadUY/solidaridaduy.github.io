@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de las Duranas"
+nombre: "Nuevo Verdisol"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de las Duranas
+Barrio Nuevo Verdisol
 Departamento de Montevideo

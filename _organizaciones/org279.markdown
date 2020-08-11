@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "AFUTU Regional Colonia"
-date: 2020-05-26 20:22:32 -0300
+title: "Plena Conciencia"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Colonia"
-barrio: "Juan Lacaze"
+departamento: "Montevideo"
+barrio: "Zona D"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Canasta básica: Arroz, Aceite, Fideos, Azúcar, Cocoa, Salsa de Tomates, Harina, Grasa, Ph, Hipoclorito, Jabón neutro o antibacterial."
-telefono_contacto: "092252890 098942914"
-direccion: "Comunicarse telefónicamente y pasan a retirar la donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Se reciben donaciones para ollas, meriendas y canastas"
+telefono_contacto: "098121219"
+direccion: "Coordinar telefónicamente"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: "Donaciones para repartir a las familias de estudiantes en situación más vulnerable."
+otros_contactos: "0914656045"
+horario: ""
+aclaraciones: "Las donaciones se destinan a las iniciativas: Centro Guyunusa, Ex alumnos del Misericordista, CEC, Club SnBox"
 cuenta_bancaria: ""
 
 ---

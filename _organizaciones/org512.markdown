@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal "
-date: 2020-05-26 20:22:32 -0300
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Empalme Olmos"
+departamento: "Montevideo"
+barrio: "Casabó"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos/cuchillos/garrafas/otros articulos"
-telefono_contacto: "098608151/ 094462745"
-direccion: "Ruta 82 entre Juan Zorrilla de San Martín y Lorenzo Latorre, Club Unión de Empalme Olmos"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Sonia)091641143"
+direccion: "Austria 3220 esq. José Canas"
 
 otros_contactos: ""
-horario: "Todos los días - A partir de las 19hs"
-aclaraciones: "Hasta el 20/05 en Club Ferro pero fue robada y se quedaron sin nada, mudaron las instalaciones pero siguen necesitando articulos.  En situación de urgencia"
+horario: "(SAB)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

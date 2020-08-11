@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos Unidos"
-date: 2020-05-26 20:22:32 -0300
+title: "Centro Juvenil Mandalavos (ONG El Abrojo)"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "José"
-direccion: "Silva 3993 Entre Costanera y Fuentes"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "094922782"
+direccion: "Instrucciones del Año XIII esq. Garibaldi"
 
 otros_contactos: ""
-horario: "Todos los días - De noche"
+horario: "(LUN-VIE)11:00-15:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

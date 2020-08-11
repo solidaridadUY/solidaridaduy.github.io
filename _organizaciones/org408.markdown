@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Movida Solidaria del Barrio"
-date: 2020-05-26 20:22:32 -0300
+title: "Municipio - Casa de la Cultura"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/05/2020"
-
-departamento: "Montevideo"
-barrio: "La Boyada"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos para merienda y olla"
-telefono_contacto: "Melany 093818052"
-direccion: "Camino de las tropas 5162"
+departamento: "Soriano"
+barrio: "J. E. Rodó"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Casa de la Cultura"
 
 otros_contactos: ""
-horario: "Lunes Miércoles y Viernes - 17hs"
-aclaraciones: "No reciben donaciones suficientes para la cantidad de niñxs que atienden. Los Viernes intentan hacer olla para 40 familias pero no tienen suficientes donaciones. "
+horario: "(VIE)08:00-18:00"
+aclaraciones: "Van a acopiar alimentos para prever necesidad de realizar Olla Popular"
 cuenta_bancaria: ""
 
 ---

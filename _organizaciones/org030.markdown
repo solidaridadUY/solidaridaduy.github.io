@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Lomas 3 Baby Fútbol"
-date: 2020-05-26 20:22:32 -0300
+title: "Bares Finisterre y El Hormiguero"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Lomas de Solymar"
+departamento: "Montevideo"
+barrio: "Palermo"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "098925931 092725742"
-direccion: "Calle 2 esquina Tiburón"
+donaciones: ""
+necesidades: "Acopian donaciones para llevar a diferentes ollas"
+telefono_contacto: "099569017,095010898"
+direccion: "José Enrique Rodó 1799 (Bar Finisterre)  / San Salvador 1644 (Bar Hormiguero)"
 
-otros_contactos: " "
-horario: "Miércoles y Viernes - 18 a 20 hs."
-aclaraciones: ""
+otros_contactos: ""
+horario: ""
+aclaraciones: "Personalmente en los bares o lo pasan a buscar si es cerca (andan en bici) - Cordón y Palermo"
 cuenta_bancaria: ""
 
 ---

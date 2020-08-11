@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Movimiento Codos a la Obra"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "25/05/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
 barrio: "Punta de Rieles"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
-telefono_contacto: "095495706
-Stefany"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Leche en polvo, carne, papa, zanahoria, salsa de tomate"
+telefono_contacto: "(Stefany)095495706
+"
 direccion: "Servidumbre 7075 (Salón comunal Club Punta de Rieles)"
 
 otros_contactos: "25119629"
-horario: "Sábado - 13hs"
+horario: "(SAB)13:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

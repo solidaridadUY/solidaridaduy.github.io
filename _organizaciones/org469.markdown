@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "C S y D Wanderers Pando"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "097976887,092875432,098129036"
+direccion: "Cancha wanderers, calle Florida al lado del Estadio Municipal, Barrio estadio. "
 
-departamento: "Río Negro"
-barrio: "Young"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Carne, salsa de tomate, pan"
-telefono_contacto: "098 613 534"
-direccion: "Asencio esq. Larrañaga"
-
-otros_contactos: "098 281 807 (solo llamadas)"
-horario: "Miércoles - 21hs"
-aclaraciones: "Ncesidad de articulos de limpieza para acondicionar las ollas y utensillos, así como de papel film"
+otros_contactos: ""
+horario: "(LUN-VIE)16:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

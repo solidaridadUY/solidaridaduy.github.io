@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Alexandra Club Gourmet"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Almacén Juan"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Olla"
-necesidades: "Artículos de limpieza y de higiene personal"
-necesidades_especificas: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
-telefono_contacto: "099171766"
-direccion: "Pablo de María 1056"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Reconquista 247"
 
-otros_contactos: ""
-horario: "Lunes Miércoles y Viernes - 12.00 a 14.00 hs"
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "(LUN-DOM)08:00-20:30"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

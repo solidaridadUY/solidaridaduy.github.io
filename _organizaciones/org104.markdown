@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Cuerpo docente Liceo Número 3"
-date: 2020-05-26 20:22:32 -0300
+title: "Plaza de Murallones"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Canasta"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: ""
-telefono_contacto: "095252930"
-direccion: "Reyles y Tranqueras"
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Fabián)092726853
+"
+direccion: "Camino Santa Catalina esq. Los Murallones"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
+horario: "(MAR)20:00,(JUE)20:00"
+aclaraciones: "Llamar antes de ir"
 cuenta_bancaria: ""
 
 ---

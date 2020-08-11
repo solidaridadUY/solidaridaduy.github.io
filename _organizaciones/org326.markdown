@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Panadería \"El Oeste\""
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Comité 28 de Noviembre"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Los Bulevares"
+barrio: "ZONA B"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
+donaciones: "Apoyo económico"
+necesidades: ""
 telefono_contacto: ""
-direccion: "Ideario Artiguista (Frente a Red Market)"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Consultar telefónicamente"
+horario: "(LUN-DOM)"
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "BROU
+001126179-0004"
 
 ---

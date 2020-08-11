@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité 13 de diciembre"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Puntas de Manga"
+departamento: "Maldonado"
+barrio: "Piriápolis"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "José Belloni 6032 entre Berro y Antares"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "099890028"
+direccion: "Tucumán esquina Sanabria"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 20hs"
-aclaraciones: "Llevar recipiente"
+horario: "(LUN)12:00,(MIE)12:00,(VIE)12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

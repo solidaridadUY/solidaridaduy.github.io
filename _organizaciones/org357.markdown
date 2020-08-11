@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Capurro"
-date: 2020-05-26 20:22:32 -0300
+title: "SHUGU"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "23/04/2020"
-
-departamento: "Montevideo"
-barrio: "Capurro"
+departamento: "Maldonado"
+barrio: "Maldonado"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
-direccion: "Capurro 922 (Club Capurro)"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "098301517"
+direccion: "Michelini 1073 esquina Bergalli"
 
 otros_contactos: ""
-horario: "Sábado - 11 a 14hs"
+horario: "(LUN-VIE)10:00-16:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

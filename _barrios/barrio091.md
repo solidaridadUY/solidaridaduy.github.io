@@ -1,7 +1,7 @@
 ---
-nombre: "Las Acacias"
+nombre: "Jardines del Hipódromo"
 departamento: "Montevideo"
 ---
 
-Barrio Las Acacias
+Barrio Jardines del Hipódromo
 Departamento de Montevideo

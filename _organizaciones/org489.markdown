@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla en Marconi"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "Puentes Blancos"
+departamento: "Montevideo"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091933711"
-direccion: "pasaje 17mts 337 esquina varela"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Luis Coitiño)095543142
+"
+direccion: "Simón del Pino esq Aparicio Saravia"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - Consultar telefónicamente"
-aclaraciones: "Almuerzo y merienda"
+horario: "(LUN-DOM)19:00"
+aclaraciones: "Se entregan viandas"
 cuenta_bancaria: ""
 
 ---

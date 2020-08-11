@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Quiroga"
-departamento: "Salto"
+nombre: "Young"
+departamento: "Río Negro"
 ---
 
-Barrio Barrio Quiroga
-Departamento de Salto
+Barrio Young
+Departamento de Río Negro

@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Salón Comunal Barrial"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "20/05/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Puntas de Sayago"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Carne
-Verdura"
-telefono_contacto: "095503999
-Melany"
-direccion: "Puntas de Sayago entre Sur y Este. Frente a plaza."
+barrio: "Barrio Lavalleja"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Mario Lanuse)094896412"
+direccion: "Los Olvidados 2 25 metros 1463"
 
 otros_contactos: ""
-horario: "Lunes y Miércoles - 20hs"
+horario: "(LUN-SAB)13:00-17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

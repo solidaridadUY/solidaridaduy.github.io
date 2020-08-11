@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal vecinxs Barrio Talar y Barrio Villa del Bosque"
-date: 2020-05-26 20:22:32 -0300
+title: "Barrio Antel"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Pando"
+departamento: "Montevideo"
+barrio: "Cerrito de la Victoria"
 actividades: "Olla"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: ""
-telefono_contacto: "Morena Romero 098292925/ María Suarez 097409864"
-direccion: "Washington Furriol entre Calle 7 y Calle 8 - Plaza \"Unión\" barrio Talar"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo"
+telefono_contacto: "(Silvia)097095530 "
+direccion: "Lancaster 4234"
 
 otros_contactos: ""
-horario: "Todos los días - "
-aclaraciones: "Los sabados también funciona merendero"
+horario: "(DOM)20:00-21:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

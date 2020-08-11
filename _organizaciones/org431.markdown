@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Colectivo Elepé"
-date: 2020-05-26 20:22:32 -0300
+title: "Parroquia Santisima Trinidad y org vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "099239735"
-direccion: "Capitan Perez esq Torres Garcia"
+departamento: "Montevideo"
+barrio: "Chacarita de los Padres"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Alejandra Sánchez)091997349"
+direccion: "Géminis 6370"
 
 otros_contactos: ""
-horario: "Martes y Jueves - Después de las 19 hs"
-aclaraciones: "Local de Colectivo ElePé"
+horario: "(LUN-DOM)18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

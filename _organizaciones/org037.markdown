@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "CECOED"
-date: 2020-05-26 20:22:32 -0300
+title: "iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
+departamento: "Montevideo"
+barrio: "Cruz de Carrasco"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Pulpa de tomate y lentejas/porotos/garbanzos"
+telefono_contacto: "(Martín)099659422,(Alejo)099442125"
+direccion: "Camino Oncativo 2918 (Casona Covicruz)"
 
-departamento: "Salto"
-barrio: "Salto"
-actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Alimentos no perecedores, artículos de higiene personal y ambiental, pañales de adultos/as y niños/as"
-telefono_contacto: "092350389 47327359"
-direccion: "Avda. Luis Batlle Berres esq. Enrique Amorín"
-
-otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
+otros_contactos: "099102799,099629422"
+horario: "(SAB)12:00"
+aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
 cuenta_bancaria: ""
 
 ---

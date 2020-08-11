@@ -1,26 +1,20 @@
 ---
 layout: organizacion
 
-title: "Jóvenes del Barrio "
-date: 2020-05-26 20:22:32 -0300
+title: "Asociación Civil Rebeldía Organizada"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/05/2020"
+departamento: "San José"
+barrio: "Ciudad del Plata"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Carne, verdura, fruta, alimentos secos, gas"
+telefono_contacto: "091655068"
+direccion: "Av. Malecón y Av. Las Perlas"
 
-departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos (arroz, fideos, salsa, verduras, leche, aceite, harina, granos), leña y artículos de limpieza (alcohol en gel, jabón líquido, jabón neutro)"
-telefono_contacto: "Camila
-091886933"
-direccion: "Los Angeles 5229"
-
-otros_contactos: "Micaela
-097 236 234
-"
-horario: "Sábados y Domingos - 12 hs"
-aclaraciones: "Asisten 30 personas. 
-La olla se realiza en base a donaciones que llegan y la búsqueda de almacén en almacén. Se realiza fracciones de jabón y agua Jane."
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: "(LUN),(MIE),(VIE)"
+aclaraciones: "Tienen una lista de espera de 200 personas, les llevan las viandas a domicilio"
+cuenta_bancaria: "Caja de ahorro en pesos N°:0011925137-00001 (BROU). Red Pagos N° 72456.  Abitab : N° 109451 "
 
 ---

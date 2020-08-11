@@ -1,22 +1,24 @@
 ---
 layout: organizacion
 
-title: "Ferretería \"El Destino\""
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Ecomité"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Los Bulevares"
+barrio: "ZONA B"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Ideario Artiguista 1865"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
+telefono_contacto: "(Sofía )099384525,(Chantal)099735767
+"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Consultar telefónicamente"
-aclaraciones: ""
-cuenta_bancaria: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Coordinar para retiro de donaciones"
+cuenta_bancaria: "BROU 
+110080467 - 00001
+
+600-0993555"
 
 ---

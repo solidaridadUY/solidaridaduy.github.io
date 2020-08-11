@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Atenas"
-date: 2020-05-26 20:22:32 -0300
+title: "Movimiento Codos a la Obra"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "15/04/2020"
+departamento: "Montevideo"
+barrio: "Punta de Rieles"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Leche en polvo"
+telefono_contacto: "(Stefany)095495706
+"
+direccion: "Servidumbre 7075 (Salón comunal Club Punta de Rieles)"
 
-departamento: "Maldonado"
-barrio: "San Carlos"
-actividades: "Otros"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "SEDE SOCIAL CLUB ATENAS"
-
-otros_contactos: ""
-horario: "Todos los días - 8:30"
-aclaraciones: "Desayuno"
+otros_contactos: "25119629"
+horario: "(MAR)17:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

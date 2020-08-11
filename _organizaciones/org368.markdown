@@ -1,22 +1,22 @@
 ---
 layout: organizacion
 
-title: "Brigada Feminista"
-date: 2020-05-26 20:22:32 -0300
+title: "INVE 17"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "23/05/2020"
-
-departamento: "Maldonado"
-barrio: "Kennedy"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche en polvo, cocoa y harina"
-telefono_contacto: "Gabriela: 098395475"
-direccion: "Isabel de Castilla y Minas B. Kennedy"
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Gladys)094068329
+"
+direccion: "Fernando Menck 5880  -INVE 17
+"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: "Reciben donaciones y retiran a domicilio"
+horario: "(LUN-DOM)18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

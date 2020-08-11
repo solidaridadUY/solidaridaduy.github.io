@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo Social"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla Solidaria Villa García - 8 de Marzo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "16/04/2020"
-
-departamento: "Maldonado"
-barrio: "Piriápolis"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "099612647"
-direccion: ""
+departamento: "Montevideo"
+barrio: "Villa García"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Fruta, recipientes"
+telefono_contacto: "(Lourdes)097501285 "
+direccion: "El Pesebre esquina Pasaje Central (Biblioteca Comunitaria 8 de Marzo)"
 
 otros_contactos: ""
-horario: " - "
+horario: "(LUN-DOM)19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

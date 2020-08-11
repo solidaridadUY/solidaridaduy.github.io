@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vilardevoz"
-date: 2020-05-26 20:22:32 -0300
+title: "Jóvenes FA-Flores"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
+departamento: "Flores"
+barrio: "Flores"
+actividades: "Retiro de donaciones"
+donaciones: "Artículos de limpieza"
+necesidades: ""
+telefono_contacto: "091270507"
+direccion: "No corresponde"
 
-departamento: "Montevideo"
-barrio: "Reducto"
-actividades: "Punto de Donación"
-necesidades: "Otros"
-necesidades_especificas: "Piden donaciones de mates, termos y bombillas para refugiados."
-telefono_contacto: "No corresponde"
-direccion: "Paraguay 1190"
-
-otros_contactos: ""
-horario: " -  14 a 18 hrs"
+otros_contactos: "091397626"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

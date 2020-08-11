@@ -1,7 +1,7 @@
 ---
-nombre: "Puntas de Sayago"
+nombre: "Pérez Castellanos"
 departamento: "Montevideo"
 ---
 
-Barrio Puntas de Sayago
+Barrio Pérez Castellanos
 Departamento de Montevideo

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "La Peña Parrilla"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Jacinto Vera"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "2203 0311"
-direccion: "Pedernal 2151"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Carne, solo consiguen gallina por costo. Piden 4 o 5 bondiolas o alguna variación de carne. También harina, azúcar, leche en polvo."
+telefono_contacto: "097992973,099239735"
+direccion: "Bolivia esq. Instrucciones del Año XIII"
 
 otros_contactos: ""
-horario: "Miércoles, Viernes y Domingo - Entre 13 y 16hs"
-aclaraciones: "Llevar Vianda"
+horario: "(JUE)20:00,(DOM)12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

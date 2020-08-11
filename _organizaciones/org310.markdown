@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asentamiento Fortaleza del Cerro"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "25/04/2020"
+title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Leche, azúcar, cocoa, alimentos para merienda"
-telefono_contacto: "097311550 Paola"
-direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
+barrio: "Pajas Blancas"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Aceite, salsa de tomate, carne, pollo, pescado"
+telefono_contacto: "094569111"
+direccion: "Cancha de Baby Fútbol del PABLAN "
 
-otros_contactos: "097545426 Carla 
-097537971 Ximena"
-horario: "Lunes a Viernes - 18 hs"
-aclaraciones: "Llevar vasito"
+otros_contactos: "(Lía)091006542 "
+horario: "(MAR)12:00,(JUE)12:00,(SAB)12:00"
+aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
 cuenta_bancaria: ""
 
 ---

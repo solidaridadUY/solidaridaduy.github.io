@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Seregnistas - FA"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Avda del Libertador 1678"
+barrio: "Brazo Oriental"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Verduras, carne y leña"
+telefono_contacto: "098409665,099091891,099073492"
+direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
 
 otros_contactos: ""
-horario: "Martes y Jueves - 17 a 18hs"
-aclaraciones: ""
+horario: "(MIE)20:00,(DOM)20:00"
+aclaraciones: "Se coordinan donaciones"
 cuenta_bancaria: ""
 
 ---

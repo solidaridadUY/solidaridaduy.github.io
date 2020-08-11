@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Unión Atlética"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Malvín Norte"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "Santiago Armas (098 894 273)"
-direccion: "Club Unión Atlética, Velsen 4509"
+barrio: "Malvín Norte"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
+telefono_contacto: "093301890 "
+direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Miércoles y Viernes - 15:30 a 17:00"
-aclaraciones: "Coordinados con Gimnasio Antoniello"
+otros_contactos: "095628133"
+horario: "(VIE-DOM)17:00"
+aclaraciones: "Las donaciones se reciben de lunes a jueves de 11:00 a 17:00. Dependiendo de las donaciones, también se arman canastas y se preparan meriendas."
 cuenta_bancaria: ""
 
 ---

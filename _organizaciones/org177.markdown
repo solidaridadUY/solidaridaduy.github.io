@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Tablado Lavalleja"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Gimnasio Antoniello"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Bety 094085023"
-direccion: "Teatro Barrio Lavalleja - Camino Edison y Av. de las Instrucciones"
+barrio: "Buceo"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: ""
+telefono_contacto: "(Eduardo Ballini)099538917 "
+direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
 
-otros_contactos: ""
-horario: "Sábados y Domingos - Consultar telefónicamente"
-aclaraciones: ""
+otros_contactos: "(José Gumber)094625416 "
+horario: "(MAR)11:00-14:00,(JUE)11:00-14:00,(SAB)11:00-14:00"
+aclaraciones: "Coordinados con club Unión Atlética"
 cuenta_bancaria: ""
 
 ---

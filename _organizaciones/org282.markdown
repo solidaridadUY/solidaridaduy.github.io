@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Merendero San Martín"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Liverpool Fútbol Club"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098357287 Miguelina"
-direccion: "Los Transparentes 301"
+barrio: "Paso Molino"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Víctor Rodríguez)097374250"
+direccion: "Avenida Agraciada 4186 (Sede)"
 
 otros_contactos: ""
-horario: "Todos los días - Lunes a Jueves 15hs, Viernes a Domingo 18hs."
-aclaraciones: ""
+horario: "(LUN-SAB)20:00"
+aclaraciones: "Reciben y van a buscar donaciones para otras ollas de la zona"
 cuenta_bancaria: ""
 
 ---

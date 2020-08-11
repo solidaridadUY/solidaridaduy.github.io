@@ -1,7 +1,7 @@
 ---
-nombre: "Malvín"
+nombre: "Larrañaga"
 departamento: "Montevideo"
 ---
 
-Barrio Malvín
+Barrio Larrañaga
 Departamento de Montevideo

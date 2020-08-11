@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Club Layva"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Bella Italia"
-actividades: "Olla"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Leche en polvo, guantes y tapabocas"
-telefono_contacto: "093835462 Roberto"
-direccion: "Felisberto Hernandez 3538 BIS"
+barrio: "Villa Dolores"
+actividades: "Punto de Donación"
+donaciones: ""
+necesidades: "Alimentos no perecederos y artículos de limpieza"
+telefono_contacto: "099337003"
+direccion: "Julio César 1466"
 
-otros_contactos: "095820596 Juan Pablo. 096488282 Luis"
-horario: "Sábados y Domingos - 20 hs"
-aclaraciones: ""
+otros_contactos: "099629958,094204040"
+horario: "(MIE)17:00-18:00,(SAB)12:00-13:00"
+aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
 cuenta_bancaria: ""
 
 ---

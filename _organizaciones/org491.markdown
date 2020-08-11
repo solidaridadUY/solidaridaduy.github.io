@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Cooperativa de trabajo Pa Lante. Caif Desde el Pie "
-date: 2020-05-26 20:22:32 -0300
+title: "Santa María"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "San José"
-barrio: "Ciudad del Plata"
+departamento: "Montevideo"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Maxi 091756871 Sabrina 095019279"
-direccion: " Caif Desde el Pie. Manzana 17 Calle Los Pinos Barrio Monte Grande  Km 29.500 Ruta 1 Vieja"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Daniela)097367243,(Susana)093842904,(Melani)095201399
+"
+direccion: "Camino Colman y Dionisio Triyo pays. En plaza precaria."
 
 otros_contactos: ""
-horario: "Sábado - Se entregan viandas de 12.30 a 13.00 horas"
-aclaraciones: "Se entregan 210 porciones,reciben donaciones en el Caif, los  días de olla están desde las 08.00 horas.    "
+horario: "(LUN-SAB)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

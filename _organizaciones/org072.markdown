@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Red Solidaria Barrio Lavalleja"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
 barrio: "Barrio Lavalleja"
-actividades: "Olla"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
 necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: "098865307 (Florencia)"
-direccion: "Av de las instrucciones Esq Silva, Teatro del Barrio"
+telefono_contacto: "(Florencia)098865307 "
+direccion: "No corresponde"
 
-otros_contactos: "094357002 Hugo"
-horario: "Lunes a Sábado - Lunes a Viernes: 12 a 14 hs y 17:30 a 19:30. Sábado: 16hrs"
-aclaraciones: ""
+otros_contactos: "(Hugo)094357002 "
+horario: ""
+aclaraciones: "Pueden pasar a retirar donaciones"
 cuenta_bancaria: ""
 
 ---

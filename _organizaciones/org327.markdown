@@ -1,22 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Comité de Base \"Municipales\""
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "097113175"
-direccion: "Luis Batlle Berres, Manzana C, Casa 19"
+barrio: "ZONA B"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: "Piden mano de obra para confeccionar tapabocas. También aceptan apoyo económico"
+telefono_contacto: "(Virginia Ros)098405089 "
+direccion: "No aplica"
 
-otros_contactos: "093846063"
-horario: "Lunes Miércoles y Viernes - 19hs"
-aclaraciones: "Llevar vianda"
-cuenta_bancaria: ""
+otros_contactos: "(Celsa Achá)099290712
+"
+horario: "(LUN-DOM)"
+aclaraciones: ""
+cuenta_bancaria: "BROU
+00835501-00001
+Depósito cajeros: 196-0076329"
 
 ---

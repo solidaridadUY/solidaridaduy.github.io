@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Salón Cabeza"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Minimarket Al Sur"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
+barrio: "Centro"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
 telefono_contacto: "098141813"
-direccion: "Reconquista 352"
+direccion: "Canelones y W. Ferreira"
 
 otros_contactos: "094053638"
-horario: "Todos los días - 8 a 20:30"
+horario: "(LUN-JUE)08:00-22:00,(VIE)08:00-00:00,(SAB)10:00-00:00"
 aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 

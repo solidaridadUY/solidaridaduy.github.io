@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Grupo de madres de la escuela."
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
+barrio: "Casavalle"
 actividades: "Merienda"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
-telefono_contacto: "099834255"
-direccion: "Asentamiento Fortaleza"
+donaciones: "Alimentos"
+necesidades: "Leche, azúcar, maizena, frutas, salsa y carne."
+telefono_contacto: "(Leticia)096138220 "
+direccion: "Calle F 5610 frente a la escuela Junquillos (Barrio 24 de enero Instrucciones entre Domingo Arena y Duran)"
 
-otros_contactos: "092728754"
-horario: "Consultar telefónicamente - "
-aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
+otros_contactos: ""
+horario: "(LUN-VIE)17:00"
+aclaraciones: "La propuesta va variando de acuerdo a las donaciones que se reciben. Atiende aprox 60 - 70 personas (organizado por 4 vecinos/as). Últimamente no están llegando a cubrir el merendero por falta de leche."
 cuenta_bancaria: ""
 
 ---

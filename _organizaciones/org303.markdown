@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal "
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "24/04/2020"
+title: "Club Rapido La Teja"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
+barrio: "La Teja"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "095633449 Virginia"
-direccion: "Emancipación esquina Aldao"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "094473942 "
+direccion: "Burdeos y Dinamarca"
 
 otros_contactos: ""
-horario: "Lunes a Sábado - A partir de 17hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

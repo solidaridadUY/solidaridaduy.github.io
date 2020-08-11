@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Murallones 
-Santa Catalina"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal "
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Santa Catalina"
+barrio: "Belvedere"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092726853
-Fabián"
-direccion: "Calle 26 de Octubre (Frente a la plaza)"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Virginia)095633449 "
+direccion: "Emancipación esquina Aldao"
 
 otros_contactos: ""
-horario: "Martes y Jueves - 20hs"
-aclaraciones: "Llamar antes de ir"
+horario: "(LUN-SAB)17:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

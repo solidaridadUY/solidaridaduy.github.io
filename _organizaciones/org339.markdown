@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Plazita Acción Direkta"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Rotisería El Garrison"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Paysandú y Gaboto"
+barrio: "Villa Muñoz"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "092310955"
+direccion: "Domingo Aramburú 1840 esquina Democracia"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Acercarse con recipiente"
+horario: "(LUN-DOM)08:00-11:00,(LUN-DOM)18:00-19:30"
+aclaraciones: "Café con leche y tostadas con manteca"
 cuenta_bancaria: ""
 
 ---

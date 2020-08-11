@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Los Pinos Baby"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, les robaron y perdieron alimentos"
-telefono_contacto: "José Carlos"
-direccion: "Ruta 8 km 26 - Cancha Los Pinos"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Pasaje F, entre Av. Instrucciones y Gambeta (A 1 cuadra del liceo 60)"
 
 otros_contactos: ""
-horario: "Sábado - Consular telefónicamente"
+horario: "(LUN)18:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

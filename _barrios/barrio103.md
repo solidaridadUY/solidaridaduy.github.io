@@ -1,7 +1,7 @@
 ---
-nombre: "Nuevo París"
+nombre: "Manga"
 departamento: "Montevideo"
 ---
 
-Barrio Nuevo París
+Barrio Manga
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Casavalle"
+nombre: "Borro"
 departamento: "Montevideo"
 ---
 
-Barrio Casavalle
+Barrio Borro
 Departamento de Montevideo

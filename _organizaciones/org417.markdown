@@ -1,28 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla Municipal 2"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/05/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos
-tapabocas, guantes
-
+barrio: "Maracaná"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Doris)097628859
 "
-telefono_contacto: "099768310
-25151656
-Karla Pereira
-"
-direccion: "Pasaje A 2288, entre chicago y los ÁNGELES"
+direccion: "No corresponde, se lleva merienda a domicilio"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - De noche"
-aclaraciones: ""
+horario: "(LUN-DOM)17:00"
+aclaraciones: "Llevan la merienda a la casa de los niños "
 cuenta_bancaria: ""
 
 ---

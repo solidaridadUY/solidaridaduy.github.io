@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Vecinas Aguada"
-date: 2020-05-26 20:22:32 -0300
+title: "Kavlin Centro Cultural"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
+departamento: "Maldonado"
+barrio: "Punta del Este"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Carne, verduras y leche en polvo. Ropa de abrigo"
+telefono_contacto: "095919092"
+direccion: ""
 
-departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Olla"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "Salsa de tomate, verduras, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
-telefono_contacto: "099466670 Viky"
-direccion: "Marcelino Berthelot y Ramón del Valle Inclán."
-
-otros_contactos: ""
-horario: "Consultar telefónicamente - 19hs."
-aclaraciones: ""
+otros_contactos: "42253866"
+horario: ""
+aclaraciones: "Reciben donaciones coordinando por teléfono y retiran a domicilio coordinando en este número: 094910906. Para donar carne o verduras coordinar con: 091056711."
 cuenta_bancaria: ""
 
 ---

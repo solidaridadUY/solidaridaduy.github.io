@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Plenario Intersindical de Las Piedras (PIT-CNT)"
-date: 2020-05-26 20:22:32 -0300
+title: "A la olla con los profes"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095211684 (Sebastián Remedios)"
-direccion: "Leandro Gómez 589 esq. Av. Artigas"
+departamento: "San José"
+barrio: "Playa Pascual"
+actividades: "Punto de Donación"
+donaciones: ""
+necesidades: "Alimentos no perecederos y ropa de abrigo"
+telefono_contacto: "(Sophia Bellotti)092983301"
+direccion: "Domicilio Avda Río de la Plata 2 y 1/2 Playa Pascual "
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 10 a 13"
-aclaraciones: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Coordinar telefónicamente antes de ir al punto de donación"
 cuenta_bancaria: ""
 
 ---

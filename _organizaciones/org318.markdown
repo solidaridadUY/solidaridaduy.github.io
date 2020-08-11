@@ -1,24 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Asociación Bioquímica Uruguaya"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "095051344
-Allison"
-direccion: "Camino Cibils y Fco Siti (al lado de la Gomería)"
+barrio: "Centro"
+actividades: "Particular que dona"
+donaciones: "Apoyo económico"
+necesidades: "Dinero para producción de desinfectantes para población vulnerable"
+telefono_contacto: "29031321
+"
+direccion: ""
 
-otros_contactos: "096933066
-Milka"
-horario: "Lunes a Jueves - 18:30hs"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: ""
+cuenta_bancaria: "$ 1566766-00003 
+USD 1566766-00001"
 
 ---

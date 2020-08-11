@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "OLLA POPULAR - Vecines"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Popular COVIESSU"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
+barrio: "Paso de las Duranas"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Grecia esq. Barcelona"
+donaciones: "Alimentos"
+necesidades: "Reciben donaciones de 17 a 20hs"
+telefono_contacto: "(Fátima)094259028,(Florencio)099462986,(Leonardo)093815676 "
+direccion: "Duque de los Abruzos esquina Domingo Torres (ex Club La Espada)"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+horario: "(SAB-DOM)19:30"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

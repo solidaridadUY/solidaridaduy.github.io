@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Los Sueños"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "21/05/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Manga"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
+donaciones: "Alimentos"
 necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: "098254171"
-direccion: "Braulio López esquina Alfredo Zitarrosa , Barrio \"Los sueños\" "
+telefono_contacto: "(Mario Lanuse)094896412"
+direccion: "Los Ovidados 2  25 metros y calle C"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: "Desayuno, almuerzo, merienda y cena."
+horario: "(SAB-DOM)20:00-00:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

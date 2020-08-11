@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Gimnasio Antoniello"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Buceo"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "099538917 (Eduardo Ballini)"
-direccion: "Escuela Japón, Pérez Gomar 2219 esq. Espinosa."
+barrio: "Las Acacias"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos"
+telefono_contacto: "(Oscar Rolón)099734480"
+direccion: "David Chiossoni 3585"
 
-otros_contactos: "094625416 (José Gumber)"
-horario: "Martes Jueves y Sábados - 11:00 a 14:00"
-aclaraciones: "Coordinados con club Unión Atlética"
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: "(MAR)19:00,(JUE)19:00"
+aclaraciones: "En situación de urgencia. Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
+cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
 
 ---

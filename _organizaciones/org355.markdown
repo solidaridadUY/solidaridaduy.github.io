@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Grupo Social"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Brazo Oriental"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "098409665, 099091891, 099073492"
-direccion: "Guillermo Tell 4022 esq. Darwin (Delta Patin Club)"
+departamento: "Maldonado"
+barrio: "Punta del Este"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos,Artículos de limpieza"
+necesidades: ""
+telefono_contacto: "094436206"
+direccion: ""
 
 otros_contactos: ""
-horario: "Domingo - 20hs"
-aclaraciones: "Se coordinan donaciones"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

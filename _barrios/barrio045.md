@@ -1,7 +1,7 @@
 ---
-nombre: "Maldonado"
+nombre: "La Capuera"
 departamento: "Maldonado"
 ---
 
-Barrio Maldonado
+Barrio La Capuera
 Departamento de Maldonado

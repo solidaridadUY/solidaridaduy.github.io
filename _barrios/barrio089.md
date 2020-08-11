@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
+nombre: "Ituzaingó"
 departamento: "Montevideo"
 ---
 
-Barrio Larrañaga
+Barrio Ituzaingó
 Departamento de Montevideo

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Grupo de amigos"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla lo de Ica. Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Particular que dona"
-necesidades: ""
-necesidades_especificas: "Alimentos y fondos para compra de alimentos"
-telefono_contacto: "099162365"
-direccion: "No corresponde"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Papas, Cebolla, Morrón, Boniato, Lentejas, Salsas de Tomate, Caldos de Gallina, Sal, Adobo, Pimentón, Orégano"
+telefono_contacto: "(Lucas)093602640"
+direccion: "Calle F  3957 Realojo 25 de agosto"
 
-otros_contactos: ""
-horario: " - No corresponde"
-aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
-cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
+otros_contactos: "(Maruja)098221047"
+horario: "(SAB-DOM)17:00-19:30"
+aclaraciones: "En situación de urgencia. Necesitan alimentos frescos (verduras, carne), solo acceden a alimentos no perecederos. Casa de Ica"
+cuenta_bancaria: ""
 
 ---

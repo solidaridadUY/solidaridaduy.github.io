@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
-date: 2020-05-26 20:22:32 -0300
+title: "Proyecto Tío Julio"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Barros Blancos"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Lentejas, porotos, verduras y carne"
-telefono_contacto: "091959275 Verónica"
-direccion: "Ruta 8 km 26.500"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Julio)"
+direccion: "Pasaje 121 1178"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - Sábados 19 hs y Domingos 13.30 hs."
+horario: "(LUN-DOM)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

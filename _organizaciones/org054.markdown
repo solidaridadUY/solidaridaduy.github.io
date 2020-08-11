@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "COLECTIVO TRANS"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Centro Cultural Totó y vecinos/as del barrio"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Olla"
+barrio: "Nuevo París"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
 necesidades: ""
-necesidades_especificas: "Reciben alimentos no perecederos, verduras, condimentos, etc."
-telefono_contacto: "095206931 099211688"
-direccion: "Manuel Meléndez 4017 entre León Pérez y Santiago Sierra"
+telefono_contacto: "097426604"
+direccion: "No corresponde"
 
-otros_contactos: ""
-horario: " - "
+otros_contactos: "098429757"
+horario: "(LUN-DOM)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

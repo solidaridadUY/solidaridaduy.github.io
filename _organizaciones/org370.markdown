@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Kavlin Centro Cultural"
-date: 2020-05-26 20:22:32 -0300
+title: "Salón Comunal \"Para Todos\""
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "20/05/2020"
+departamento: "Montevideo"
+barrio: "Seis de Diciembre"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
+telefono_contacto: "(Angel Lozano)097346881"
+direccion: "Calle 6 entre Camino Carlos María de Pena y Av Islas Canarias"
 
-departamento: "Maldonado"
-barrio: "Punta del Este"
-actividades: "Punto de Donación"
-necesidades: "Alimentos, Artículos de Limpieza, Artículos de Higiene, Vestimenta, Abrigo"
-necesidades_especificas: "Carne, verduras y leche en polvo"
-telefono_contacto: "095919092"
-direccion: ""
-
-otros_contactos: "42253866"
-horario: "Consultar telefónicamente - "
-aclaraciones: "Reciben donaciones coordinando por teléfono y retiran a domicilio coordinando en este número: 094910906. Para donar carne o verduras coordinar con: 091056711."
+otros_contactos: ""
+horario: "(SAB)13:00-14:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

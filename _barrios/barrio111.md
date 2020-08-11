@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Molino"
+nombre: "Pajas Blancas"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Molino
+Barrio Pajas Blancas
 Departamento de Montevideo

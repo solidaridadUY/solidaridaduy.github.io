@@ -1,7 +1,7 @@
 ---
-nombre: "Sauce"
+nombre: "Salinas"
 departamento: "Canelones"
 ---
 
-Barrio Sauce
+Barrio Salinas
 Departamento de Canelones

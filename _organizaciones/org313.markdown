@@ -1,23 +1,21 @@
 ---
 layout: organizacion
 
-title: "Comisión Vecinal barrio El Tobogán"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "9/05/2020"
+title: "Barrio Unido"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
+barrio: "Tres Ombúes"
 actividades: "Olla"
-necesidades: "Alimentos y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios"
-telefono_contacto: "092309306"
-direccion: "Luis Troccoli s/n esquina pasaje A."
+donaciones: "Todo tipo de donaciones"
+necesidades: "Artículos de limpieza, artículos sanitarios, salsa y carne"
+telefono_contacto: "(Mariana)098646492
+"
+direccion: "Asentamiento Barrio Unido: Curusú Continuación Laureles y Continuación Mármol (Ruta 1 y Pantanoso). "
 
-otros_contactos: "094086035
-Lita"
-horario: "Martes y Jueves - 20 hs"
-aclaraciones: ""
+otros_contactos: "(Nadia Vilar)099816094"
+horario: "(LUN-VIE)12:00"
+aclaraciones: "En julio esperan cerrar la olla pero continuar con merendero para niños y adolescentes como hace 10 años. "
 cuenta_bancaria: ""
 
 ---

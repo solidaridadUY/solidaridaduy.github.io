@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Familia y amigos de la Escuela 45 Leonor Hourticou"
-date: 2020-05-26 20:22:32 -0300
+title: "Grupo Social"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "28/04/2020"
-
-departamento: "Montevideo"
-barrio: "La Comercial"
+departamento: "Maldonado"
+barrio: "San Carlos"
 actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Artículos de Limpieza y leche en polvo"
-telefono_contacto: "098882634
-099260489
-099183432"
-direccion: "Nicaragua 2298 Daniela de Santiago y a domicilio"
+donaciones: "Alimentos no perecederos,Artículos de limpieza"
+necesidades: ""
+telefono_contacto: "099502341"
+direccion: ""
 
-otros_contactos: "escuela45lh@gmail.com"
-horario: "Consultar telefónicamente - Se coordina telefónicamente"
-aclaraciones: "Arman canastas para las familias de las Escuelas que están en más dificultad."
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

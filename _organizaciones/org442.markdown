@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "El Abrojo / Mandalavos"
-date: 2020-05-26 20:22:32 -0300
+title: "Teatro de Barrio Lavalleja "
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "13/05/2020"
-
-departamento: "Canelones"
-barrio: "Lomas de Solymar"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "094 992 782"
-direccion: "Av. Instrucciones del Año XIII (al fondo del comedor estudiantil)."
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Leche en polvo, cocoa, lentejas, azúcar, sal, carne, condimentos, polvo de hornear, pulpa de tomate, frutas, verduras, guantes, alcohol gel"
+telefono_contacto: "(Florencia)098865307,(Hugo)094357002,(Lucía)099781693    "
+direccion: "Instrucciones esquina Carlos María Silva"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Coordinación telefónica"
-cuenta_bancaria: ""
+horario: "(MAR)14:00-17:00,(JUE)14:00-17:00,(SAB)14:00-17:00"
+aclaraciones: "Retiran a domicilio coordinando previamente por telefóno"
+cuenta_bancaria: "Colectivo Abitab N° 109575"
 
 ---

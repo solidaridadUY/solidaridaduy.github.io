@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Asentamiento Fortaleza del Cerro"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos"
-telefono_contacto: "096539004
-Gladys"
-direccion: "Vizcaya y Santa Cruz de la Sierra"
+barrio: "Cerro"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Leche, azúcar, cocoa, alimentos para merienda"
+telefono_contacto: "(Paola)097311550 "
+direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
 
-otros_contactos: ""
-horario: " - Sábado y Domingo 12hs"
-aclaraciones: ""
+otros_contactos: "(Carla)097545426,(Ximena)097537971 "
+horario: "(LUN-VIE)18:00"
+aclaraciones: "Llevar vasito"
 cuenta_bancaria: ""
 
 ---

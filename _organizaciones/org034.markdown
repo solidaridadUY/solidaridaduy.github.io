@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "DJ's y Olimpo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Flores"
-barrio: "Trinidad"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "098360975 092010950"
-direccion: "Club Arroyo Grande. En Trinidad: Gral. Flores 454"
+departamento: "Tacuarembó"
+barrio: "Tacuarembó"
+actividades: "Canasta"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "092838233 097435635"
+direccion: "Calle 245"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - Mediodía y Noche"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

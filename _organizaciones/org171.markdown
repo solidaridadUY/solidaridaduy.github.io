@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA-Flores"
-date: 2020-05-26 20:22:32 -0300
+title: "Sindicato COMESA"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
+departamento: "Montevideo"
+barrio: "Conciliación"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Claudio Vera)099584720 "
+direccion: "Martin Ximeno 875 esq. Millán"
 
-departamento: "Flores"
-barrio: "Flores"
-actividades: "Retiro de donaciones"
-necesidades: "Artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "091270507"
-direccion: "No corresponde"
-
-otros_contactos: "091397626"
-horario: "Consultar telefónicamente - "
+otros_contactos: ""
+horario: "(MAR)13:00,(JUE)13:00,(SAB)13:00,(DOM)13:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

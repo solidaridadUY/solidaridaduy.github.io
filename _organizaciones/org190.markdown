@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal Todos Juntos"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Capurro"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Larrañaga,La Blanqueada"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: "098324142"
-direccion: "Emilio Raña 2915 esq. Juan Cabal (Club Paysandú)"
+barrio: "Capurro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Alimentos no perecederos y verduras"
+telefono_contacto: "099202923,23091620,23049306"
+direccion: "Capurro 930 (Sindicato de trabajadores de la industria química)"
 
 otros_contactos: ""
-horario: "Martes Miércoles y Jueves - Martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs"
-aclaraciones: "Coordinar telefónicamente por retiro de donaciones. DIstribuyen las donaciones en distintas ollas de Montevideo."
+horario: "(LUN-VIE)18:00-20:00,(SAB)11:00-12:00"
+aclaraciones: "Llevar tupper"
 cuenta_bancaria: ""
 
 ---

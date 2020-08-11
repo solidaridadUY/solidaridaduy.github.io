@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Barrio Unido"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "24/04/2020"
+title: "Familia y amigos de la Escuela 45 Leonor Hourticou"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Ombúes"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Artículos de limpieza, artículos sanitarios, salsa y carne"
-telefono_contacto: "098646492
-Mariana"
-direccion: "Asentamiento Barrio Unido (bajo el puente)"
+barrio: "La Comercial"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Artículos de Limpieza y leche en polvo"
+telefono_contacto: "098882634,099260489,099183432"
+direccion: "Nicaragua 2298 Daniela de Santiago y a domicilio"
 
 otros_contactos: ""
-horario: "Todos los días - Mediodía"
-aclaraciones: "Cuando se reparten canastas no hacen olla"
+horario: ""
+aclaraciones: "Arman canastas para las familias de las Escuelas que están en más dificultad."
 cuenta_bancaria: ""
 
 ---

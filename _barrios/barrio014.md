@@ -1,7 +1,7 @@
 ---
-nombre: "Pando"
+nombre: "Neptunia Norte"
 departamento: "Canelones"
 ---
 
-Barrio Pando
+Barrio Neptunia Norte
 Departamento de Canelones

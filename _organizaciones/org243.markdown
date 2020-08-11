@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "A la olla con los profes"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095647959"
-direccion: "Sin espacio físico específico"
+departamento: "San José"
+barrio: "Playa Pascual"
+actividades: "Punto de Donación"
+donaciones: ""
+necesidades: "Alimentos no perecederos y ropa de abrigo"
+telefono_contacto: "(Sophia Bellotti)092983301"
+direccion: "Comisión Vecinal Playa Pascual Avda. Río de la Plata Parada 3"
 
 otros_contactos: ""
-horario: " - "
+horario: "(LUN)08:30-14:00,(MIE)08:30-14:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

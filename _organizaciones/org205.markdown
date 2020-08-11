@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Jardines del Hipódromo"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos y otro tipo de donaciones (actualmente están faltando sobre todo verduras)"
-telefono_contacto: "096 880 946"
-direccion: "José Piendibene 3642 esq. Lacio"
+barrio: "La Boyada"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "092912571"
+direccion: "La Boyada"
 
 otros_contactos: ""
-horario: " - sábados y domingos, arranca a las 17 aprox"
-aclaraciones: "Llevar vianda, casa de familia"
+horario: "(LUN-DOM)13:00-17:00"
+aclaraciones: "Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
 cuenta_bancaria: ""
 
 ---

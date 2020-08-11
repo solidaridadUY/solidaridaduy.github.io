@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Brigada Crece desde el Pie"
-date: 2020-05-26 20:22:32 -0300
+title: "Merendero Los pitufos"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "13/05/2020"
-
-departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: "Carne, ropa de niños y adultos, de abrigo y frazadas "
-telefono_contacto: "094286063
-Anselmo"
-direccion: "Romeo Gavioli 5874"
+departamento: "Salto"
+barrio: "Don Atilio"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "092921893"
+direccion: "Diagonal 10 Nº1027"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Coordinar telefónicamente"
-aclaraciones: "Entregan ropa a la gente que necesita, 85% de la población de la zona de muy bajos recursos."
+horario: "(LUN-VIE)"
+aclaraciones: "Se sirve cena"
 cuenta_bancaria: ""
 
 ---

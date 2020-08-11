@@ -1,26 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité de Base \"Municipales\""
-date: 2020-05-26 20:22:32 -0300
+title: "Zonal Tino Barrios"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
-
-departamento: "Montevideo"
-barrio: "ZONA B"
+departamento: "Maldonado"
+barrio: "Cerro Pelado"
 actividades: "Punto de Donación"
-necesidades: "Apoyo económico, Alimentos, Artículos de Higiene Personal"
-necesidades_especificas: "Piden mano de obra para confeccionar tapabocas"
-telefono_contacto: "Donaciones: 098405089 Virginia Ros"
-direccion: "No aplica"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "092370142"
+direccion: "SIERRA DE LAS CAÑAS ESQUINA VERDUN"
 
-otros_contactos: "Confección de Tapabocas:
-099290712
-Celsa Achá"
-horario: "Todos los días - Consultar telefónicamente"
+otros_contactos: ""
+horario: "(MAR-JUE)15:00-19:00"
 aclaraciones: ""
-cuenta_bancaria: "BROU
-00835501-00001
-Depósito cajeros: 196-0076329"
+cuenta_bancaria: ""
 
 ---

@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Minervas Colectivo Feminista"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
-
-departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "096129858
-Noelia"
-direccion: "Ferrer Serra 1930 esquina Democracia"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "(Gonni)099487998"
+direccion: ""
 
 otros_contactos: ""
-horario: "Sábado - Consultar telefónicamente"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

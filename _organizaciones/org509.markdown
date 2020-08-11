@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla popular Gustavo Rodríguez"
-date: 2020-05-26 20:22:32 -0300
+title: "Barrio Antel"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Suárez"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "097129897/"
-direccion: "Jose Enrique Rodó 1975, a una cuadra de plaza de las madres."
+departamento: "Montevideo"
+barrio: "Cerrito de la Victoria"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo"
+telefono_contacto: "(Silvia)097095530 "
+direccion: "Lancaster 4234"
 
 otros_contactos: ""
-horario: "Miércoles y Domingo - "
+horario: "(LUN-SAB)17:00-18:00"
 aclaraciones: ""
-cuenta_bancaria: "Colectivo Abitab nombre \"Olla Popular Gustavo Rodríguez\" Nro de cuenta: 109883"
+cuenta_bancaria: ""
 
 ---

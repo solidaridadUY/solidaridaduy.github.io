@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Minervas Colectivo Feminista"
-date: 2020-05-26 20:22:32 -0300
+title: "Brigada Feminista"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
-
-departamento: "Montevideo"
-barrio: "Cordón"
+departamento: "Maldonado"
+barrio: "Kennedy"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "096129858
-Noelia"
-direccion: "Ferrer Serra 1930 esquina Democracia"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo, cocoa y harina"
+telefono_contacto: "(Gabriela)098395475"
+direccion: "Isabel de Castilla y Minas B. Kennedy"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
+horario: ""
+aclaraciones: "Reciben donaciones y retiran a domicilio"
 cuenta_bancaria: ""
 
 ---

@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Adeom"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "COLECTIVO TRANS"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "099759758"
-direccion: "Canelones 1330"
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Verduras cebolla, morron, pulpa de tomate, sal, aceite "
+telefono_contacto: "(Colette)098088088
+"
+direccion: "Manuel Meléndez 4017 entre León Pérez y Santiago Sierra"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: "Reciben solo donaciones para canastas, no están haciendo ollas"
+otros_contactos: "099211688"
+horario: "(LUN),(MIE),(VIE)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

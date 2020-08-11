@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cté de Base Félix Vidarte"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095496658"
-direccion: "Rep. Argentina esq. Pando"
+departamento: "Montevideo"
+barrio: "Monarca"
+actividades: "Olla"
+donaciones: "Alimentos no perecederos"
+necesidades: ""
+telefono_contacto: "094649196"
+direccion: "Salón comunal Barrio Monarca; al lado de la Policlínica, en la calle Pasaje Central y la Calle 4, cerca de ruta 8.  "
 
 otros_contactos: ""
-horario: "Martes y Jueves - 19 a 21hs"
+horario: "(LUN-VIE)19:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Solidarios Unidos seis barrios"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
+barrio: "Bella Italia"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092927150 María"
-direccion: "Rafael y Teniente Galeano (frente a la barraca)"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Leche en polvo, guantes y tapabocas"
+telefono_contacto: "(Roberto)093835462 "
+direccion: "Felisberto Hernandez 3538 BIS"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente - Reparten Cena a las 20 hs."
-aclaraciones: "Llevar Tupper. También cubren merienda 17hs"
+otros_contactos: "(Juan Pablo)095820596,(Luis)096488282 "
+horario: "(SAB-DOM)20:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

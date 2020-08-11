@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Capurro"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "5/05/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Alimentos no perecederos y verduras"
-telefono_contacto: "099 202 923 - 2309 16 20 - 2304 93 06"
-direccion: "Capurro 930 (Sindicato de trabajadores de la industria química)"
+barrio: "Seis de Diciembre"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "092085983"
+direccion: "Tomás Gonzalez Padrón 5530"
 
 otros_contactos: ""
-horario: "Lunes a Sábado - Lunes a viernes: 18 a 20hs / Sábados: 11 a 12 hs"
-aclaraciones: "Llevar tupper"
+horario: "(LUN-DOM)"
+aclaraciones: "En la tarde. Dirigida a familias, de acuerdo a donaciones se van haciendo las meriendas."
 cuenta_bancaria: ""
 
 ---

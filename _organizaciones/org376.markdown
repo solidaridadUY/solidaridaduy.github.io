@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo Social"
-date: 2020-05-26 20:22:32 -0300
+title: "Club Deportivo Celiar"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "16/04/2020"
-
-departamento: "Maldonado"
-barrio: "La Barra"
+departamento: "Montevideo"
+barrio: "Flor de Maroñas"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "094436206"
-direccion: ""
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "097412466"
+direccion: "Ombú y Ulises Favaro"
 
 otros_contactos: ""
-horario: " - "
+horario: "(LUN-VIE)17:00-20:00,(SAB-DOM)16:00-18:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

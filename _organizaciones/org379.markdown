@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Maldonado Solidario"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinos núcleo liceo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Realización de compras"
-necesidades: "Otros"
-necesidades_especificas: "No aplica"
-telefono_contacto: "99814995 y 099390621"
-direccion: ""
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Kristie Barreiro)098993951
+"
+direccion: "Cornelio Guerra casi Antonio Rubio"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Hacen las compras y otros trámites que necesiten personas mayores o enfermas"
+horario: "(LUN-DOM)20:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

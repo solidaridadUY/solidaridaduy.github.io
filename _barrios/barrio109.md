@@ -1,7 +1,7 @@
 ---
-nombre: "Paso de la Arena"
+nombre: "Nuevo París"
 departamento: "Montevideo"
 ---
 
-Barrio Paso de la Arena
+Barrio Nuevo París
 Departamento de Montevideo

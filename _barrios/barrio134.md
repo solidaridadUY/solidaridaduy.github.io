@@ -1,7 +1,7 @@
 ---
-nombre: "Zona D"
+nombre: "Villa del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Zona D
+Barrio Villa del Cerro
 Departamento de Montevideo

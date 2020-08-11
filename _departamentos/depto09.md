@@ -1,5 +1,5 @@
 ---
-nombre: "Rocha"
+nombre: "Río Negro"
 ---
 
-Departamento de Rocha
+Departamento de Río Negro

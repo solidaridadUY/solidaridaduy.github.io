@@ -1,23 +1,21 @@
 ---
 layout: organizacion
 
-title: "Capilla Cruz Alta"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "9/05/2020"
+title: "Cooperativa COVI 30 de Setiembre"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
+barrio: "Tomkinson"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras, Frutas, Alimentos no perecederos, Carne"
-telefono_contacto: "094873926
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Carlos)098565224
 "
-direccion: "Filipinas 3774 entre Charcas y Rusia"
+direccion: "Cno Buffa 2531 entre Servidumbre y 5 de Enero"
 
-otros_contactos: "098840704"
-horario: "Miércoles Sábado y Domingo - 18:30 a 20:00hs"
-aclaraciones: "Venta económica:  Martes, Jueves y Viernes 14 a 18 hs"
+otros_contactos: ""
+horario: "(SAB)19:30"
+aclaraciones: "En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

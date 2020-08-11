@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Olla Solidaria Villa García - 8 de Marzo"
-date: 2020-05-26 20:22:32 -0300
+title: "Inciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Montevideo"
-barrio: "Villa García"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Fruta, recipientes"
-telefono_contacto: "097501285 Lourdes"
-direccion: "El Pesebre esquina Pasaje Central (Biblioteca Comunitaria 8 de Marzo)"
+donaciones: "Alimentos"
+necesidades: "Verduras"
+telefono_contacto: "099239735"
+direccion: "Dr.Puey y Av. El Dorado"
 
 otros_contactos: ""
-horario: "Todos los días - A partir de 19hs"
+horario: "(LUN-VIE)11:00-14:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

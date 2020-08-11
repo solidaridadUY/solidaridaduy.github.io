@@ -1,7 +1,7 @@
 ---
-nombre: "Pan de Azúcar"
+nombre: "Los Eucaliptus"
 departamento: "Maldonado"
 ---
 
-Barrio Pan de Azúcar
+Barrio Los Eucaliptus
 Departamento de Maldonado

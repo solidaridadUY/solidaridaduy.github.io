@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Mujeres en Alerta"
-date: 2020-05-26 20:22:32 -0300
+title: "CASCO"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Ciudad de la Costa"
+departamento: "Montevideo"
+barrio: "Villa del Cerro"
 actividades: "Olla"
-necesidades: "Alimentos y Artículos de Higiene Personal"
-necesidades_especificas: "Juegos/juguetes"
-telefono_contacto: "091786159 Sofía - 094972263 Karen"
-direccion: "Becú y Av. Giannattasio (Plaza 8 de Marzo)"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Débora)094555994
+"
+direccion: "Gibraltar 4246 bis esquina Japón"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Comunicarse antes por teléfono para anotarse para comidas"
+horario: "(LUN-SAB)20:00"
+aclaraciones: "Llevar recipiente y cubiertos"
 cuenta_bancaria: ""
 
 ---

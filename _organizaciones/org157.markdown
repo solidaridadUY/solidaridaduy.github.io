@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Montevideo al Sur"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091705967"
-direccion: "Agaces e Irureta goyena"
+barrio: "Barrio Sur"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
+telefono_contacto: "099228148"
+direccion: "Paraguay 1150 esquina Maldonado"
 
-otros_contactos: "098464819"
-horario: " - A diario, contactar vía telefónica "
+otros_contactos: ""
+horario: "(LUN-DOM)09:00-00:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "5/05/2020"
+title: "Ollas y Canastas Solidarias"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cruz de Carrasco"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: "También precisan verduras, implementos de cocina, sanitarios, garrafa/anafe o similar."
-telefono_contacto: "098238589"
-direccion: "Camino Oncativo 2918 (Casona Covicruz)"
+barrio: "Cerrito de la Victoria"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras, Artículos de limpieza, tuppers, cubiertos descartables"
+telefono_contacto: "098422915,099841142,094807175,099927956,091252622"
+direccion: "Gral Flores y Chimborazo (Club Santa Ana)"
 
-otros_contactos: "Donaciones: 099102799 - 099629422"
-horario: "Sábado - 12 hs"
-aclaraciones: "Es necesario llevar recipiente y concurrir una persona por familia"
+otros_contactos: ""
+horario: "(SAB)17:00"
+aclaraciones: "Llevar tupper.                                                                                                                                   Por más información sobre las ollas que realiza esta organización, visitar sus redes sociales."
 cuenta_bancaria: ""
 
 ---

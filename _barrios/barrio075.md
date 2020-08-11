@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Causeglia"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Causeglia
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Los Bulevares"
+nombre: "La Paloma"
 departamento: "Montevideo"
 ---
 
-Barrio Los Bulevares
+Barrio La Paloma
 Departamento de Montevideo

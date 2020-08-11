@@ -1,7 +1,7 @@
 ---
-nombre: "Salto"
+nombre: "Barrio Caballero"
 departamento: "Salto"
 ---
 
-Barrio Salto
+Barrio Barrio Caballero
 Departamento de Salto

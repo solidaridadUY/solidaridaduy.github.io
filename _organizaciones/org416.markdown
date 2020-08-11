@@ -1,26 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla 1º de Mayo"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/05/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
+barrio: "Los Bulevares"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos
-tapabocas, guantes
-
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Gerardo Ayala)093804377
 "
-telefono_contacto: "Lorena  094931905
-"
-direccion: "San Jacinto y Toledo"
+direccion: "Ideario Artiguista 1865"
 
-otros_contactos: "Paola 097965603"
-horario: "Lunes a Viernes - 20:00 a 22:00"
-aclaraciones: ""
+otros_contactos: ""
+horario: "(MIE)14:00,(SAB-DOM)14:00"
+aclaraciones: "Se reciben donaciones en puntos de donación del barrio"
 cuenta_bancaria: ""
 
 ---

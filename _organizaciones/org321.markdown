@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "FEUU"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "095599303
-Fabiana"
-direccion: "Joaquín Martori 9990"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "091334368,092005664"
+direccion: "Arenal Grande 1422 esq. C. Coronel Brandzen"
 
 otros_contactos: ""
-horario: "Martes y Jueves - 17hs"
+horario: "(MAR)16:30-19:00,(JUE)16:30-19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

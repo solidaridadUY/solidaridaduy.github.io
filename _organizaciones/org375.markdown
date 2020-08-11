@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Grupo Social"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "16/04/2020"
+departamento: "Montevideo"
+barrio: "Bella Italia"
+actividades: "Merienda"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Leche en polvo, guantes y tapabocas"
+telefono_contacto: "(Roberto)093835462 "
+direccion: "Felisberto Hernandez 3538 BIS"
 
-departamento: "Maldonado"
-barrio: "Pan de Azúcar"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "098194632"
-direccion: ""
-
-otros_contactos: ""
-horario: " - "
+otros_contactos: "(Juan Pablo)095820596,(Luis)096488282 "
+horario: "(SAB-DOM)17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

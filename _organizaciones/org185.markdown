@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos de La Tablada"
-date: 2020-05-26 20:22:32 -0300
+title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Augusto 099894189 "
-direccion: "Lecocq 934 esq Millán "
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Verónica)091959275 "
+direccion: "Ruta 8 km 26.500"
 
 otros_contactos: ""
-horario: "Lunes y Miércoles - 13 hs."
+horario: "(JUE)17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité Félix Vidarte"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal: Plaza Inve 17"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "Alimentos secos y verduras "
-telefono_contacto: "095496658"
-direccion: "República Argentina esq. Pando"
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Paula)094999829"
+direccion: "Inve 17 y La Quinta"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 19 a 21"
-aclaraciones: "Contactar por Whatsapp"
+horario: "(SAB-DOM)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

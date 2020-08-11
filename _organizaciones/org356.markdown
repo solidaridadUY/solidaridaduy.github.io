@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Centro Social y Deportivo Victoria"
-date: 2020-05-26 20:22:32 -0300
+title: "ATAMM"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Jacinto Vera"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: "091773513"
-direccion: "Requena 2716"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "098301517"
+direccion: "Rincón 1264 esquina Tamaro"
 
 otros_contactos: ""
-horario: "Lunes Jueves y Sábado - 20hs"
-aclaraciones: "Llevar recipiente"
+horario: "(LUN-VIE)08:00-18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

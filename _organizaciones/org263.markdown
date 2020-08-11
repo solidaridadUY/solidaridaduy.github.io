@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Centro Juvenil Coop. Tunguele"
-date: 2020-05-26 20:22:32 -0300
+title: "Anfiteatro Fortaleza"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Montes de Solymar"
-actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "099 668 862  Majo 091785537"
-direccion: "Coordinar telefónicamente"
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Juan Carlos)096398305 "
+direccion: "Holanda y Dinamarca"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Se reciben alimentos y art. de limpieza para familias que los necesiten."
+horario: "(LUN-DOM)20:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

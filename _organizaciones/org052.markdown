@@ -1,25 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité Cuaró"
-date: 2020-05-26 20:22:32 -0300
+title: "Club FiatLux"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Bella Vista"
+departamento: "Tacuarembó"
+barrio: "Tacuarembó"
 actividades: "Punto de Donación"
+donaciones: "Alimentos"
 necesidades: ""
-necesidades_especificas: "Se recibe alimentos no
-perecederos, juguetes, ropa,
-apoyo transporte"
-telefono_contacto: "099204370"
-direccion: "Hermanos Gil 1051 esq
-Dufort y Álvarez"
+telefono_contacto: "46320615"
+direccion: "Sarandí 354"
 
-otros_contactos: "099869454"
-horario: "Martes Miércoles y Jueves - 15 a 19hs"
-aclaraciones: ""
-cuenta_bancaria: "CAJA DE AHORRO EN PESOS: $ 00152324-00001 BROU"
+otros_contactos: ""
+horario: ""
+aclaraciones: "Hacen ollas a veces pero no tienen día ni horario fijo"
+cuenta_bancaria: ""
 
 ---

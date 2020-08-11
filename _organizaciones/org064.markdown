@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "19/05/2020"
+title: "Club Atlético Capurro"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche en polvo"
-telefono_contacto: "095626343"
-direccion: "Esmeralda frente a la vía esq. Emancipación"
+barrio: "Capurro"
+actividades: "Olla"
+donaciones: ""
+necesidades: "Se reciben alimentos"
+telefono_contacto: "099202923"
+direccion: "Capurro 922"
 
-otros_contactos: ""
-horario: "Lunes Miércoles y Viernes - 16:30 hs hasta 19hs aprox"
-aclaraciones: ""
+otros_contactos: "096496373   091802863"
+horario: "(SAB-DOM)11:00-15:00"
+aclaraciones: "De lunes a viernes de 15 a 18 hs se reciben alimentos"
 cuenta_bancaria: ""
 
 ---

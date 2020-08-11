@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Progreso Solidario"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "094637367 - 092327637"
-direccion: "Curva de Carlos Gardel - La Pilarica"
+barrio: "Progreso"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "099472132,095903271"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
-horario: " - "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

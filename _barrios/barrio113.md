@@ -1,7 +1,7 @@
 ---
-nombre: "Piedras Blancas"
+nombre: "Parque Rodó"
 departamento: "Montevideo"
 ---
 
-Barrio Piedras Blancas
+Barrio Parque Rodó
 Departamento de Montevideo

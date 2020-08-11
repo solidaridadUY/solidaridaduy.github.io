@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Jóvenes FA"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
-actividades: "Realización de compras"
-necesidades: ""
-necesidades_especificas: "No corresponde"
-telefono_contacto: "099440874"
-direccion: "No corresponde"
+barrio: "Maroñas"
+actividades: "Canasta"
+donaciones: "Alimentos no perecederos"
+necesidades: "Alimentos no perecederos y artículos de primera necesidad"
+telefono_contacto: "098524292"
+direccion: "Veracierto 3310"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente - Consultar telefónicamente"
-aclaraciones: "Realización de compras a adultos mayores"
+otros_contactos: "098948820"
+horario: "(JUE)14:00-18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

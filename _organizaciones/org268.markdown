@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Complejo Manga Chico km16"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Organización Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Manga"
+barrio: "Casco del Cerro"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "098 047 693 Adriana Ferreira"
-direccion: "Camino Maldonado km16 entre Monterroso y Carlos Camusso"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Luis Callejas)095332455"
+direccion: "Bulgaria 2272 y Japón - Local del abasto"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Se realizan las ollas acorde a donaciones. En situación de urgencia"
+horario: "(LUN)19:00,(JUE)19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

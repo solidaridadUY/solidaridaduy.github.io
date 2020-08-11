@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comisión vecinal Asociación Civil La Tablada"
-date: 2020-05-26 20:22:32 -0300
+title: "Manos Unidas"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "13/05/2020"
-
-departamento: "Montevideo"
-barrio: "Nuevo Verdisol"
+departamento: "Flores"
+barrio: "El Hospital"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Carne y verduras"
-telefono_contacto: "092120727
-Cristian Rocha"
-direccion: "Salón comunal La Piedrita. Cornelio Guerra S/N"
+donaciones: "Alimentos no perecederos"
+necesidades: "CARNE POLLO "
+telefono_contacto: "(Ruben Montaño)098280668"
+direccion: "Batlle 1057"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 18 hs."
-aclaraciones: "Reciben donaciones todos los días en el salón comunal"
+horario: "(SAB)19:30-20:00"
+aclaraciones: "Con la vianda se entrega pan, 2 litros de leche y fruta. 1 vez al mes reciben una canasta de alimentos no perecederos, y cada sábado cuando levantan la vianda se les entrega comida para la mascota"
 cuenta_bancaria: ""
 
 ---

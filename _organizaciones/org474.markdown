@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla popular Yambo Kenia"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "19/05/2020"
+title: "\"Merendero Pancitas Felices\" Vecinas del Barrio 1° de Mayo con apoyo de Brigada Estudiantil."
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Celia tél 097189755  Carlos 097983311"
-direccion: "Centro  Cultural Yambo Kenia, Batlle y Ordóñez esquina Araure."
+barrio: "Casavalle"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Platos y cubiertos"
+telefono_contacto: "(Sandra)093368150"
+direccion: "Salón 1° de Mayo, 
+Calle las Piedras."
 
 otros_contactos: ""
-horario: "jueves a domingo - 13 hs."
-aclaraciones: "Atienden un promedio de 100 personas"
+horario: "(MAR)16:00-17:00,(JUE)16:00-17:00,(SAB-DOM)14:00-15:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Bar Kfe"
-date: 2020-05-26 20:22:32 -0300
+title: "Grupo Social"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "28/04/2020"
-
-departamento: "Montevideo"
-barrio: "Parque Rodó"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "092 915 246"
-direccion: "Edil Hugo Prato 2289"
+departamento: "Maldonado"
+barrio: "Pan de Azúcar"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos,Artículos de limpieza"
+necesidades: ""
+telefono_contacto: "098194632"
+direccion: ""
 
 otros_contactos: ""
-horario: "Sábado - 20 hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

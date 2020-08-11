@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Autoservice La Esquina"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Maestras Feministas"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "No corresponde"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Carlos Gardel y Gutierrez Ruiz"
+donaciones: "Todo tipo de donaciones"
+necesidades: "pañales, frazadas, toallas higiénicas, productos de limpieza y aseo personal, alimentos no perecederos."
+telefono_contacto: "099951050"
+direccion: "No corresponde"
 
-otros_contactos: "094053638"
-horario: "Lunes a Sábado -  10:00 a 21:00hs"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: "099821950"
+horario: ""
+aclaraciones: "Coordinar vía telefónica con Bárbara o Irene."
 cuenta_bancaria: ""
 
 ---

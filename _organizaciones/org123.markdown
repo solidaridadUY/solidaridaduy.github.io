@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Chuy"
-date: 2020-05-26 20:22:32 -0300
+title: "Alexandra Club Gourmet"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
+departamento: "Montevideo"
+barrio: "Parque Rodó"
+actividades: "Olla"
+donaciones: "Artículos de limpieza,Artículos de Higiene Personal"
+necesidades: "Metálico o en insumos como tapabocas, guantes, bandejas, tenedores descartables, alcohol e hipoclorito. También llaman a voluntarios menores de 60 años."
+telefono_contacto: "099171766"
+direccion: "Pablo de María 1056"
 
-departamento: "Rocha"
-barrio: "Chuy,La Coronilla,Barra del Chuy,18 de Julio"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "091075382"
-direccion: "Coordinar telefónicamente"
-
-otros_contactos: "099951641"
-horario: "Todos los días - Durante el día"
-aclaraciones: "Contactar vía telefónica para acordar punto de entrega y solicitud de apoyo"
+otros_contactos: ""
+horario: "(LUN)12:00-14:00,(MIE)12:00-14:00,(VIE)12:00-14:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

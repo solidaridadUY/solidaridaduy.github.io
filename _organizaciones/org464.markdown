@@ -1,24 +1,21 @@
 ---
 layout: organizacion
 
-title: "GEMU (Generación Evangélica Misionera del Uruguay)"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "14/05/2020"
-
-departamento: "Canelones"
-barrio: "Toledo"
+departamento: "Montevideo"
+barrio: "La Boyada"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "Pipo
-094010573"
-direccion: "Pedro Villagrán 794"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Clodomira Jardín)094023609
+"
+direccion: "17 mts. 4961 esq Cno de Las Tropas"
 
 otros_contactos: ""
-horario: "Miércoles y Sábado - Miércoles 20hs
-Sábado 16hs"
-aclaraciones: "Trabajan con niñxs todos los sábados desde hace años. Comienzan a hacer vianda para los niñxs y se suman varias personas del barrio. Ponen de su bolsillo. Tienen un centro de rehabilitación. "
+horario: "(SAB)14:00"
+aclaraciones: "En situación de urgencia."
 cuenta_bancaria: ""
 
 ---

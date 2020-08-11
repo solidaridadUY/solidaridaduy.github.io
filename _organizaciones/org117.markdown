@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os Barrio 22 de Mayo."
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Jóvenes del Municipio B Apoyo: Consejo Vecinal 2"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Productos de higiene , pañales y gestión menstrual"
-telefono_contacto: "Bettina
-097744891"
-direccion: "Guzman Papini esq. Las Piedras."
+barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
+actividades: "Realización de compras"
+donaciones: ""
+necesidades: "No corresponde"
+telefono_contacto: "099405205"
+direccion: "No corresponde"
 
-otros_contactos: "97287764"
-horario: "Lunes Miércoles y Viernes - 16:00 a 20:00"
-aclaraciones: "Iniciativa llevada adelante por dos vecinas. Prácticamente no están recibiendo donaciones por lo cual disminuyeron la frecuencia diaria a tres veces por semana. Comenzaron atendiendo a 160 personas, ha ido disminuyendo a medida que las donaciones han bajado."
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Se toman pedidos desde las 9 hasta las 15hs.. Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
 cuenta_bancaria: ""
 
 ---

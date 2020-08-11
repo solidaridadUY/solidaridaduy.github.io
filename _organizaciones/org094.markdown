@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Solidaria Sumando Esfuerzo, Comisión 16 de Marzo."
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
+barrio: "Piedras Blancas"
 actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Alimentos no perecederos, artículos de limpieza e higiene personal y del hogar"
-telefono_contacto: "091269590"
-direccion: "Amandau 5722 esq. Eduardo Raíz"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "verduras y carne"
+telefono_contacto: "095952219,095078679"
+direccion: "No Corresponde"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - De 11 a 16 hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Comunicarse vía móvil para concretar"
 cuenta_bancaria: ""
 
 ---

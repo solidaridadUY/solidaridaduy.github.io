@@ -1,21 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Resistencias de la Costa"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Cerro"
+departamento: "Canelones"
+barrio: "Costa de Oro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "En particular, alimentos no perecederos"
-telefono_contacto: "091944342 "
-direccion: "Grecia y Viacaba"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "098067805,099301228,099472132,095903271"
+direccion: "Supermercado Kabe en El Pinar
+Los Robles entre Coronilla y Av. Del Parque.  En las cumbres de Neptunia.
+"
 
-otros_contactos: "098759845 099834255"
-horario: "Lunes Miércoles y Viernes -  17 a 19 hs"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

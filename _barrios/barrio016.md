@@ -1,7 +1,7 @@
 ---
-nombre: "Pinamar Norte"
+nombre: "Pinamar"
 departamento: "Canelones"
 ---
 
-Barrio Pinamar Norte
+Barrio Pinamar
 Departamento de Canelones

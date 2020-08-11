@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio 14 de Febrero"
-departamento: "Maldonado"
+nombre: "Minas"
+departamento: "Lavalleja"
 ---
 
-Barrio Barrio 14 de Febrero
-Departamento de Maldonado
+Barrio Minas
+Departamento de Lavalleja

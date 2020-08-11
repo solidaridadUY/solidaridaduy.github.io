@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Salón Comunal \"Para Todos\""
-date: 2020-05-26 20:22:32 -0300
+title: "Trabajadores y artistas del circo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "5/05/2020"
-
-departamento: "Montevideo"
-barrio: "Seis de Diciembre"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
-telefono_contacto: "Angel Lozano
-097346881"
-direccion: "Calle 6 entre Camino Carlos María de Pena y Av Islas Canarias"
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: "Alimentos para armar canastas"
+telefono_contacto: "(Jonathan Artigas)099216829"
+direccion: "Coordinar donaciones telefónicamente"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 19hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Trabajadores y familiares del circo uruguayos y de otros países de latinoamerica se encuentran sin ingresos y sin poder volver a sus países. Se mueven con el circo. Argentina, Ecuador, Montevideo, Canelones."
 cuenta_bancaria: ""
 
 ---

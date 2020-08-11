@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "30 de marzo"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casco del Cerro"
+barrio: "Casabó"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091004233
-Sr. Monzón"
-direccion: "China 2218 esquina Patagonia"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Néstor)099242821 "
+direccion: "Paralela a Estados Unidos 2604 esquina Pastor Smith"
 
 otros_contactos: ""
-horario: "Martes y Viernes - 13 hs"
+horario: "(SAB-DOM)12:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,26 +1,20 @@
 ---
 layout: organizacion
 
-title: "Campaña solidaria: trabajadores de la peatonal sarandí junto a vecines de Ciudad Vieja"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Club Bella Vista"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos
-Artículos de higiene
-Implementos de prevención (tapabocas, guantes)"
-telefono_contacto: "094505509"
-direccion: "Peatonal Sarandí 528 entre Ituzaingó y 33"
+barrio: "Bella Vista"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "099167275,098456226"
+direccion: "Av. Agraciada 3100 esquina Ascencio (Sede Bella Vista)"
 
-otros_contactos: "sutre.donaciones@gmail.com"
-horario: "Jueves - 12 a 14hs"
-aclaraciones: "Escuela de Cine del Uruguay
-Cinemateca Uruguaya
-Espacio Bijam"
+otros_contactos: ""
+horario: "(MIE)12:00,(VIE)12:00"
+aclaraciones: "Llevar tupper. Un sólo representante por familia. Los domingos funcionan en el club auriblanco (ver iniciativa en dicho club)"
 cuenta_bancaria: ""
 
 ---

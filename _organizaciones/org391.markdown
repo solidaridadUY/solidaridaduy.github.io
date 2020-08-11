@@ -1,22 +1,23 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "5/05/2020"
+title: "Clara Jackson y Vecinxs"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Villa García"
+barrio: "Casavalle"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "094649196 092822695 094987832"
-direccion: "Club S. y D. Los Zorzales Km 20.200 parada 17"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Venancio Vargas)094213482,(Mariana Massarino)097470966
+
+
+"
+direccion: "San Martin 5607  y Domingo Arena"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 13:00 a 15:00 hs"
-aclaraciones: ""
+horario: "(MAR)19:30,(JUE)19:30,(DOM)19:30"
+aclaraciones: "Cocinan en Colegio Clara Jackson y entregan en casa de vecinxs"
 cuenta_bancaria: ""
 
 ---

@@ -1,27 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla y meriendas"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Asentamiento Santa Catalina"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Leche"
-telefono_contacto: "Venancio Vargas
-Mariana Massarino
-094213482
-097470966
+barrio: "Santa Catalina"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Adrián)096894000
 "
-direccion: "San Martìn y Domingo Arena"
+direccion: "     Camino DellaZoppa atrás del Complejo de Cerro entre Burdeos y San Fuentes"
 
 otros_contactos: ""
-horario: "Jueves - 17.30 hs"
-aclaraciones: "Reciben donaciones del colectivo Clara Jackson
-"
+horario: "(MAR)19:30,(JUE)19:30,(SAB)19:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

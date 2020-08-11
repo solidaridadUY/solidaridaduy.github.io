@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "Nicolás"
-direccion: "Royal Instrucciones 1200 A D2 "
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Daniela)091600910,098907825"
+direccion: "Manuel Meléndez 808 esq. Dr. Pouey"
 
 otros_contactos: ""
-horario: "Domingo - 13:30 hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

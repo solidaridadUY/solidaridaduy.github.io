@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Anfiteatro Fortaleza"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal Barrio El Tobogán"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "096398305 Juan Carlos"
-direccion: "Holanda y Dinamarca"
+barrio: "Tres Ombúes"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Verduras, carne, cosas para merienda, ropa, abrigo"
+telefono_contacto: "(Micaela)094889797 "
+direccion: "Calera de las Huérfanas esquina Inclusa"
 
 otros_contactos: ""
-horario: "Todos los días - 20:30 hs"
-aclaraciones: ""
+horario: "(LUN-DOM)"
+aclaraciones: "De tarde. Sábado y Domingo se hace en Maracaná Sur"
 cuenta_bancaria: ""
 
 ---

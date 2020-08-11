@@ -1,7 +1,7 @@
 ---
-nombre: "Los Eucaliptus"
+nombre: "La Barra"
 departamento: "Maldonado"
 ---
 
-Barrio Los Eucaliptus
+Barrio La Barra
 Departamento de Maldonado

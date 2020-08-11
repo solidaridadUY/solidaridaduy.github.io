@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Zonal Tino Barrios"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "15/04/2020"
-
-departamento: "Maldonado"
-barrio: "Cerro Pelado"
+departamento: "Montevideo"
+barrio: "Villa García"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: ""
-telefono_contacto: "092370142"
-direccion: "SIERRA DE LAS CAÑAS ESQUINA VERDUN"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "094649196,092822695,094987832"
+direccion: "Club S. y D. Los Zorzales Km 20.200 parada 17"
 
 otros_contactos: ""
-horario: "Martes Miércoles y Jueves - 15:00 a 19:00"
-aclaraciones: ""
+horario: "(LUN-DOM)14:00-18:00"
+aclaraciones: "Además de recibir, también pueden pasar a retirar las donaciones"
 cuenta_bancaria: ""
 
 ---

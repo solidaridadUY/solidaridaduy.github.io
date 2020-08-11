@@ -1,24 +1,21 @@
 ---
 layout: organizacion
 
-title: "El Muni"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Comisión 4 de Marzo"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
+barrio: "Casabó"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "
-"
-telefono_contacto: "095225494
-Cristian Freire"
-direccion: "Los Ángeles y Curitiba"
+donaciones: "Todo tipo de donaciones"
+necesidades: "carne, aceite y pulpa de tomate"
+telefono_contacto: "(Flabio)094395329 "
+direccion: "Marruecos 246"
 
-otros_contactos: ""
-horario: "Sábados y Domingos - Sábados al mediodía y Domingos de noche"
-aclaraciones: ""
+otros_contactos: "(Carlos)091330697
+"
+horario: "(MAR)20:00,(VIE)20:00"
+aclaraciones: "En situación de urgencia. proximamente numero de cuenta de banco-preguntar"
 cuenta_bancaria: ""
 
 ---

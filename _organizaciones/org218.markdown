@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Vecinos Euskalerría"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Malvín Norte"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "Alimentos no perecederos y verduras"
-telefono_contacto: "095425068  093301890  095628133"
-direccion: "Costanera Euskalerría"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "093925021,095014751"
+direccion: "Treinta y Tres 4121 entre Juan y Ramón Ortíz"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

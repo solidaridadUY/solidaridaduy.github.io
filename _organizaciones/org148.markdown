@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Almacén La Moni"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Vilardevoz"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "Reducto"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Gonzalo Ramírez y Carlos Quijano"
+donaciones: "Otros"
+necesidades: "Piden donaciones de mates, termos y bombillas para refugiados."
+telefono_contacto: ""
+direccion: "Paraguay 1190"
 
-otros_contactos: "094053638"
-horario: "Lunes a Viernes -  De 10 a 14 hs y de 16 a 20 hs"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

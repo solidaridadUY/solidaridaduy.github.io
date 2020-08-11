@@ -1,22 +1,22 @@
 ---
 layout: organizacion
 
-title: "Viandas a domicilio"
-date: 2020-05-26 20:22:32 -0300
+title: "Organización vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
+departamento: "Montevideo"
+barrio: "Cerro Norte"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Antonio)094881721
 
-departamento: "Colonia"
-barrio: "Rosario"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099550034"
-direccion: "No aplica"
+"
+direccion: "Salón Barrio Artigas (Santin C. Rossi 4563)"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: "Comunicarse telefónicamente por viandas a domicilio"
+otros_contactos: "(Pablo)095976666 "
+horario: "(MIE)13:30,(SAB)13:30,(DOM)13:30"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asentamiento 24 de Enero"
-date: 2020-05-26 20:22:32 -0300
+title: "Centro Barrial Pinamar"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Montevideo"
-barrio: "Casavalle"
+departamento: "Canelones"
+barrio: "Pinamar Norte"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras y carne"
-telefono_contacto: "Patricia
- 097 941 244
-"
-direccion: "Instrucciones y Durán"
+donaciones: "Alimentos"
+necesidades: "Carne y leche en polvo"
+telefono_contacto: "(Luján)097979372 "
+direccion: "Calle 53 y Tropa Vieja"
 
 otros_contactos: ""
-horario: "Todos los días - A partir de 19:30"
-aclaraciones: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Reciben donaciones de 9 a 11hs."
 cuenta_bancaria: ""
 
 ---

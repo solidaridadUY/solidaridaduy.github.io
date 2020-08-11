@@ -1,7 +1,7 @@
 ---
-nombre: "Centro"
+nombre: "Capurro"
 departamento: "Montevideo"
 ---
 
-Barrio Centro
+Barrio Capurro
 Departamento de Montevideo

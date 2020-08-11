@@ -2,21 +2,20 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095610063 - 093763288"
-direccion: "Sin espacio físico específico"
+departamento: "Montevideo"
+barrio: "Cerrito de la Victoria"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Están faltando artículos de limpieza e higiene"
+telefono_contacto: "(Beatriz Blanco)092650082 
+"
+direccion: "Centro Cultural Guyunusa San Martín esquina León Pérez"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - "
-aclaraciones: "Sábado y domingo:olla. Iniciativa incluida en la categoría \"olla\" de esta página. También arman canastas"
+horario: "(SAB-DOM)12:00"
+aclaraciones: "En situación de urgencia. Atienden 300 personas entre los dos días, los viernes se reúnen a las 10.30 en el Centro Cultural Guyunusa a planificar las comidas de sábado y Domingo. Las colaboraciones han bajado mucho, no quieren cerrar la olla desde hace unos días consiguieron un carrito y salen a vender tortas fritas en la feria para ayudar a solventar gastos."
 cuenta_bancaria: ""
 
 ---

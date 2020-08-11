@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "DJ's y Olimpo"
-date: 2020-05-26 20:22:32 -0300
+title: "Club Deportivo Celiar"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
-actividades: "Canasta"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "092838233 097435635"
-direccion: "Calle 245"
+departamento: "Montevideo"
+barrio: "Flor de Maroñas"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Fideos, arroz, lentejas"
+telefono_contacto: "097412466"
+direccion: "Ombú y Ulises Favaro"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
+horario: "(LUN-VIE)19:00-20:00,(SAB-DOM)17:00-18:00"
+aclaraciones: "En situación de urgencia. Llevar recipiente, se entrega para el núcleo familiar. Se reciben donaciones de lunes a viernes de 17 a 20 hs; Sabado y Domingo de 16 a 18 hs."
 cuenta_bancaria: ""
 
 ---

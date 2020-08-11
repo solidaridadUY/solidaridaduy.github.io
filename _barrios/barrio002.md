@@ -1,7 +1,7 @@
 ---
-nombre: "Atlántida"
+nombre: "Barrio 18 de Mayo"
 departamento: "Canelones"
 ---
 
-Barrio Atlántida
+Barrio Barrio 18 de Mayo
 Departamento de Canelones

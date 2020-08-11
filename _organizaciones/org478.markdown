@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Merendero Corazoncitos"
-date: 2020-05-26 20:22:32 -0300
+title: "Plaza 5"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "Salto Nuevo Sur"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "097732521"
-direccion: "juan carlos gomez 2600 viv 1"
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: ""
+telefono_contacto: "(Andrea)094805086,(Emanuel)092023585"
+direccion: "Ruta 75 esq Venancio Aires. También se reciben donaciones en W.Ferreira y Ruta 8 (Salón Brillantina) y Independencia 1023 (Candela Hogar) "
 
 otros_contactos: ""
-horario: "Todos los días - Todo el día"
-aclaraciones: "En situación de urgencia. Dueña de casa recibe todo el día"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

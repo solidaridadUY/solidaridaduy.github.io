@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Almacén \"El Nogal\""
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "099242821 Nestor"
-direccion: "Paralela a Estados Unidos 2604 esquina Pastor Smith"
+barrio: "Los Bulevares"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Cimarrones 7655"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 12:30hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

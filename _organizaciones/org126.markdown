@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Pizzeria El Triunfo"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Cooperativa EKO y Vos Con Voz"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Empresa que dona"
-necesidades: ""
-necesidades_especificas: "Reciben donaciones de harina, salsa de tomate, cosas para pizza. Solo les queda materia prima para hacer una jornada más de reparto."
-telefono_contacto: "098735539"
-direccion: "Himalaya 3148"
+barrio: "Aires Puros,Parque Batlle,Pocitos,Buceo,Malvín,Parque Rodó,Cordón,Centro"
+actividades: "Retiro de donaciones"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "En particular, alimentos no perecederos"
+telefono_contacto: "094990652"
+direccion: "Local Vos con Voz (Bulevar José Batlle y Ordoñez 4503) en Aires Puros.  Zonas Parque Batlle hasta Malvín, Parque Rodó, Cordón, Centro: coordinar telefónicamente"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: "Para familias con niños/as reparten pizzetas por familia."
+otros_contactos: "094566630"
+horario: "(LUN-VIE)09:00-14:00"
+aclaraciones: "Se puede coordinar telefónicamente "
 cuenta_bancaria: ""
 
 ---

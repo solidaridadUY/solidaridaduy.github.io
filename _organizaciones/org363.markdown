@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "23/05/2020"
+title: "Brigada Feminista"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Maldonado"
-barrio: "Barrio Benedetti"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Verduras especialmente cebolla y zanahoria"
-telefono_contacto: "César: 099751823"
-direccion: "Comunal del Barrio"
+barrio: "Kennedy"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo, cocoa, galletas, frutas, harina, azúcar, maicena, mermeladas, dulces"
+telefono_contacto: "(Gabriela)098395475"
+direccion: "Isabel de Castilla y Minas B. Kennedy"
 
 otros_contactos: ""
-horario: "Lunes a Sábado - 20:00"
-aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
+horario: "(SAB-DOM)16:30-18:00"
+aclaraciones: "Llevar recipiente, termo o botella para el chocolate. "
 cuenta_bancaria: ""
 
 ---

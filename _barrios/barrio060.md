@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Vista"
+nombre: "Barrio El Tobogán"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Vista
+Barrio Barrio El Tobogán
 Departamento de Montevideo

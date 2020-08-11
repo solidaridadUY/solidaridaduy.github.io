@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Calle la Vía"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "12/05/2020"
+title: "Parroquia Santisima Trinidad y Organización Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos"
-telefono_contacto: "098442838
-Javier"
-direccion: "Calle La Vía 3648 esquina Gambia"
+barrio: "Chacarita de los Padres"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Alejandra Sánchez)091997349"
+direccion: "Géminis 6370"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 18 hs"
-aclaraciones: ""
+horario: "(LUN-DOM)16:00-19:00"
+aclaraciones: "Donaciones para merendero y olla popular"
 cuenta_bancaria: ""
 
 ---

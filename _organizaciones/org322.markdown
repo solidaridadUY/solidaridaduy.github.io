@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Rapido La Teja"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Reus al Sur"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "La Teja"
+barrio: "Barrio Sur"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "094473942 "
-direccion: "Burdeos y Dinamarca"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "091820811"
+direccion: "Club Atlético Atenas (Cebollatí 1434 esq. Santiago de Chile)"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+otros_contactos: "098180171"
+horario: "(LUN-MAR)19:00-20:00,(JUE-VIE)19:00-20:00"
+aclaraciones: "SE NECESITA LUGAR EN PALERMO PARA CONTINUAR CON LA OLLA.                                                                                  Llevar recipiente. En lo posible, usar tapabocas. Concurrir lo más temprano posible."
 cuenta_bancaria: ""
 
 ---

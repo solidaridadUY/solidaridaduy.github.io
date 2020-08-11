@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Brigada 1958"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Salón del Sol"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "091894724"
-direccion: "Cuareim 2301 Esq. Tajes"
+barrio: "Ciudad Vieja"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
+telefono_contacto: "098141813"
+direccion: "Cerrito 732"
 
-otros_contactos: "098651506"
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
+otros_contactos: "094053638"
+horario: "(LUN-DOM)09:00-18:00"
+aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
 cuenta_bancaria: ""
 
 ---

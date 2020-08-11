@@ -1,7 +1,7 @@
 ---
-nombre: "Tacuarembó"
-departamento: "Tacuarembó"
+nombre: "La Tablada"
+departamento: "Salto"
 ---
 
-Barrio Tacuarembó
-Departamento de Tacuarembó
+Barrio La Tablada
+Departamento de Salto

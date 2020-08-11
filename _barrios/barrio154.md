@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Pascual"
-departamento: "San José"
+nombre: "Ceibal"
+departamento: "Salto"
 ---
 
-Barrio Playa Pascual
-Departamento de San José
+Barrio Ceibal
+Departamento de Salto

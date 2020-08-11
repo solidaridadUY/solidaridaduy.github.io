@@ -1,7 +1,7 @@
 ---
-nombre: "Sayago"
+nombre: "Pocitos"
 departamento: "Montevideo"
 ---
 
-Barrio Sayago
+Barrio Pocitos
 Departamento de Montevideo

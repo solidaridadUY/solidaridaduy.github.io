@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Olla Vecinas Aguada"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Pajas Blancas"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
-telefono_contacto: "094569111"
-direccion: "Centro Juvenil Kelé Kelé"
+barrio: "Aguada"
+actividades: "Olla"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Salsa de tomate, verduras, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
+telefono_contacto: "(Viky)099466670 "
+direccion: "Marcelino Berthelot y Ramón del Valle Inclán."
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 11 a 13:30hs"
-aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

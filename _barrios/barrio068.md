@@ -1,7 +1,7 @@
 ---
-nombre: "Casco del Cerro"
+nombre: "Brazo Oriental"
 departamento: "Montevideo"
 ---
 
-Barrio Casco del Cerro
+Barrio Brazo Oriental
 Departamento de Montevideo

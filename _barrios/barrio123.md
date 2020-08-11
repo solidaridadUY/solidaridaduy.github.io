@@ -1,7 +1,7 @@
 ---
-nombre: "Seis de Diciembre"
+nombre: "Prado"
 departamento: "Montevideo"
 ---
 
-Barrio Seis de Diciembre
+Barrio Prado
 Departamento de Montevideo

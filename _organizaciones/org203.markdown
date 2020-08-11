@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité 26 de Julio"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Cruces"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: " Items más urgentes: harina, lentejas, arroz, azúcar, aceite y leche en polvo."
-telefono_contacto: "099440037"
-direccion: "Cufré 1800 esquina Ferrer Serra"
+barrio: "Villa Española"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Pulpa de tomate, lentejas, tapabocas, guantes"
+telefono_contacto: "099527443"
+direccion: "Av. Dámaso A. Larrañaga y Serrato (Antel Arena)"
 
 otros_contactos: ""
-horario: "Jueves Viernes y Sábados - 17 a 20hs"
-aclaraciones: "Los alimentos se reciben para colaborar con las canastas del PIT CNT y las ollas populares del barrio."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

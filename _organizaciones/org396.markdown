@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "El Abrojo Paso Joven SOCAT"
-date: 2020-05-26 20:22:32 -0300
+title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "5/05/2020"
-
-departamento: "Montevideo"
-barrio: "Paso Carrasco"
-actividades: "Olla"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "098103973"
-direccion: "Vaz Ferreira 52
-"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Otros"
+donaciones: "Alimentos"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "(Virginia)097069405,(Mariana)091282021,(José)095770714 "
+direccion: "Barrios San Marcos, Razzetti y Pilarica"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 13:00 a 18:00"
-aclaraciones: "Coordinación telefónica"
+horario: "(LUN-DOM)20:00"
+aclaraciones: "Grupo creado para publicar pedidos de ayuda y cosas que tengamos para donar, zona Las Piedras, La Paz, Progreso"
 cuenta_bancaria: ""
 
 ---

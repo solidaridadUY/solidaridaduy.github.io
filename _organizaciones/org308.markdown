@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Causeglia"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "093665410 María José"
-direccion: "Pasaje Pereda Solar 31 esquina Cuñatahí"
+barrio: "Nuevo París"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "097113175"
+direccion: "Luis Batlle Berres, Manzana C, Casa 19"
 
-otros_contactos: ""
-horario: "Miércoles y Sábado - 17 hs"
-aclaraciones: ""
+otros_contactos: "093846063"
+horario: "(LUN)19:00,(MIE)19:00,(VIE)19:00"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

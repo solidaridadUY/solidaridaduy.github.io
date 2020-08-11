@@ -1,7 +1,7 @@
 ---
-nombre: "Cordón"
+nombre: "Cerro Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Cordón
+Barrio Cerro Norte
 Departamento de Montevideo

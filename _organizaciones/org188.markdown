@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinas/os de la Gruta."
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Red Solidaria Arerunguá"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Granos, verduras."
-telefono_contacto: "095229074 (Angélica)"
-direccion: "Gruta de Lourdes."
+barrio: "Centro"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos"
+necesidades: "Ropa"
+telefono_contacto: "092143478"
+direccion: "Soriano 1384"
 
 otros_contactos: ""
-horario: "Miercoles, sábados y domingos. - "
-aclaraciones: "Atienden a 70 personas, con porciones de 3 litros."
+horario: "(LUN-VIE)10:00-17:00"
+aclaraciones: "Ellos tienen una red de personas que reparten en barrios de la periferia, trabajan con unos 40 referentes barriales de Montevideo"
 cuenta_bancaria: ""
 
 ---

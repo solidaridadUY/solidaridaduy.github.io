@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Movimiento de Participación Popular"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Librería Diomedes"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
+barrio: "Parque Rodó"
+actividades: "Olla"
+donaciones: "Alimentos"
 necesidades: ""
-necesidades_especificas: "Se reciben alimentos no perecederos, productos de limpieza e Higiene personal"
-telefono_contacto: "092999609"
-direccion: "Mercedes 1368"
+telefono_contacto: "(Jorge)24034713 "
+direccion: "Bulevar España 2129 esquina Pablo de María"
 
 otros_contactos: ""
-horario: "Todos los días - 9 a 18 hs"
-aclaraciones: "Se van a buscar a domicilio las donaciones o se reciben en el local. Contactarse vía Whatsapp para coordinar el retiro."
+horario: "(MAR)20:30,(JUE)20:30"
+aclaraciones: "Se reciben donaciones de 10.00 a 21.00"
 cuenta_bancaria: ""
 
 ---

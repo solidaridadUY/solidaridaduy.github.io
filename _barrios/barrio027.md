@@ -1,7 +1,7 @@
 ---
-nombre: "Nueva Helvecia"
-departamento: "Colonia"
+nombre: "Villa la Colina"
+departamento: "Canelones"
 ---
 
-Barrio Nueva Helvecia
-Departamento de Colonia
+Barrio Villa la Colina
+Departamento de Canelones

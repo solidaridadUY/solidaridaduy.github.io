@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "INVE 17"
-date: 2020-05-26 20:22:32 -0300
+title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "5/05/2020"
-
-departamento: "Montevideo"
-barrio: "Colón"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Gladys: 094068329
-"
-direccion: "Fernando Menck 5880  -INVE 17
-"
+donaciones: "Alimentos"
+necesidades: "Carne, lentejas, fideos"
+telefono_contacto: "(Virginia)097069405,(Mariana)091282021,(José)095770714 "
+direccion: "Barrios San Marcos, Razzetti y Pilarica"
 
 otros_contactos: ""
-horario: "Todos los días - 18hs"
-aclaraciones: ""
+horario: "(LUN-DOM)20:00"
+aclaraciones: "Iniciativa en situación de urgencia"
 cuenta_bancaria: ""
 
 ---

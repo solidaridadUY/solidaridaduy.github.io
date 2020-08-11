@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "San José"
-barrio: "Playa Pascual"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099146941"
-direccion: "Comisión Vecinal Playa Pascual Avda. Río de la Plata Parada 3"
+departamento: "Montevideo"
+barrio: "La Boyada"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos"
+telefono_contacto: "(Beatriz)094769211"
+direccion: "La Boyada 1887 esquina 17 mts"
 
 otros_contactos: ""
-horario: "Lunes Miércoles y Viernes - 12 a 14:00hs"
+horario: "(DOM)17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

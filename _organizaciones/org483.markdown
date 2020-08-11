@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinos organizados del asentamiento Patulé"
-date: 2020-05-26 20:22:32 -0300
+title: "La Carbonera"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "Patulé"
+departamento: "Montevideo"
+barrio: "Barrio La Carbonera"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Alimentos para olla"
-telefono_contacto: "097377257"
-direccion: "Catalan y Ramirez"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: ""
+telefono_contacto: "(Mauricio)097101241"
+direccion: "Hilario Cabrera 6106 esq. senda 6"
 
 otros_contactos: ""
-horario: "Domingo - Consultar telefónicamente"
-aclaraciones: "En situación de urgencia. se sirve cena (si hay donaciones)"
+horario: "(LUN)19:30,(MIE)19:30,(VIE)19:30"
+aclaraciones: "En situación de urgencia. Están teniendo muchas dificultades para continuar por falta de recursos."
 cuenta_bancaria: ""
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Club Cohami"
-date: 2020-05-26 20:22:32 -0300
+title: "RED DE MERENDEROS"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Conciliación"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "094624751"
-direccion: "Club cohami - Millan y Lecoq"
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "095509142"
+direccion: "Villa La Colina - Rincón esq. 25 de agosto frente al Huracán Siré"
 
 otros_contactos: ""
-horario: " - Sabados y Domingos"
+horario: "(SAB)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

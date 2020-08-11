@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Estudiantes de la Unión"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Jóvenes FA"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Unión"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras, frutas, aceite, papas, y alimentos no perecederos"
-telefono_contacto: "094460660"
-direccion: "Cabrera y Pernas"
+barrio: "Ciudad Vieja,Barrio Sur,Aguada,Centro"
+actividades: "Realización de compras"
+donaciones: ""
+necesidades: "No corresponde"
+telefono_contacto: "093302231"
+direccion: "No corresponde"
 
-otros_contactos: "lalogarmen2@gmail.com"
-horario: "Martes y Sábados - 20hs"
-aclaraciones: "Cuentan con disponibilidad horaria y locomoción para ir por las donaciones"
+otros_contactos: ""
+horario: "(LUN-DOM)19:00"
+aclaraciones: "Realización de compras a población de riesgo. Se toman pedidos de mandados hasta las 18 hs y se comienza a repartir a partir de las 19 hs."
 cuenta_bancaria: ""
 
 ---

@@ -2,22 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "12/05/2020"
-
-departamento: "Montevideo"
-barrio: "Los Bulevares"
+departamento: "Salto"
+barrio: "Barrio la Estrella"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "093804377
-Gerardo Ayala"
-direccion: "Ideario Artiguista 1865"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Ropa de abrigo"
+telefono_contacto: "099505028"
+direccion: "Cervantes y Lavalleja"
 
 otros_contactos: ""
-horario: "Miércoles Sábado y Domingo - 14 hs"
-aclaraciones: "Se reciben donaciones en puntos de donación del barrio"
+horario: "(MIE)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

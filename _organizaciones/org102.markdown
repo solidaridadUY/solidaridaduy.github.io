@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Modistas"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Rivera"
-barrio: "Rivera"
-actividades: "Empresa que dona"
-necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: ""
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+donaciones: ""
+necesidades: "Alimentos no perecederos y productos de limpieza"
+telefono_contacto: "096262917"
+direccion: "Carlos Ott 2060 Bis"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Donan tapabocas hechos a mano. Comunicarse por Facebook"
+horario: ""
+aclaraciones: "Arrimarse con la vianda. Coordinar entrega de donaciones vía movil."
 cuenta_bancaria: ""
 
 ---

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Malumbe"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Tres Ombúes"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Salsa de tomate, arroz, harina, fideos, aceite, verduras, carne"
-telefono_contacto: "098867410 Miriam"
-direccion: "Agustin Muñoz 4723"
+departamento: "Salto"
+barrio: "Don Atilio"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "091792945"
+direccion: "Diagonal 14 nº1050"
 
 otros_contactos: ""
-horario: "Domingo - 14 hs."
-aclaraciones: "Algunos dias si reciben donaciones, hacen meriendas, son unos 40 niños los que la reciben en esos casos. En situación de urgencia."
+horario: "(LUN-DOM)00:00-23:59"
+aclaraciones: "Dueño de casa recibe donaciones todo el día"
 cuenta_bancaria: ""
 
 ---

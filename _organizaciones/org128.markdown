@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Intendencia de Canelones"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Todos"
-actividades: "Canasta"
+departamento: "Montevideo"
+barrio: "Palermo"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
 necesidades: ""
-necesidades_especificas: "No aplica"
-telefono_contacto: "Ver aclaraciones adicionales"
-direccion: "A domicilio"
+telefono_contacto: "-"
+direccion: "Canelones 1552 esquina Salto"
 
-otros_contactos: "092173550"
-horario: "Todos los días - Durante el día"
-aclaraciones: "092385066 y 092173650 (Santa Lucía) 098587614 (Atlántida, Salinas, Floresta, Parque del Plata y Soca) 092208126 (Los cerrillos) 092214673 (ciudad de la costa) 092208975 (Nicolich) 099414869 (La Paz), 092404975 y 092207148 (Las Piedras) 092374345 (Migues, Montes, Tala, San Jacinto) 092198948 (Paso Carrasco)"
+otros_contactos: ""
+horario: "(LUN-DOM)12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "La Castilla"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Club Social y Deportivo Villa Española"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Perez Castellano 1368"
+barrio: "Villa Española"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: "Se reciben donaciones, se entregan canastas"
+telefono_contacto: "099584844"
+direccion: "Camino Corrales 3148"
 
-otros_contactos: "094053638"
-horario: "Todos los días - 10 a 22hs"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: "094612415"
+horario: ""
+aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 
 ---

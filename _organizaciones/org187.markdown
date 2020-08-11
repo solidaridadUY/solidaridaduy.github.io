@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Angel (almacén y flia)"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Montevideo"
-barrio: "Casavalle"
+departamento: "Canelones"
+barrio: "Suárez"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche y verduras."
-telefono_contacto: "092671301"
-direccion: "San Ramón, solar 6, Barrio 1 de Mayo (Galpón al costado del almacén)"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "093687106"
+direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 
-17:00 a 18:00 (olla)"
-aclaraciones: "Ángel y su flia tienen viven en el barrio 1° de Mayo y tienen un almacén, donde elaboran la comida y panes para la iniciativa. La iniciativa de Ángel y su flia actualmente funciona a partir de donaciones (las cuales se han dificultado en el último tiempo y lo cual limitado la capacidad de la iniciativa)."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

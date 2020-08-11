@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinxs en Club Aguada"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Montevideo"
-barrio: "Aguada"
+departamento: "Maldonado"
+barrio: "Hipodromo"
 actividades: "Merienda"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
-telefono_contacto: "098520925"
-direccion: " Avda. San Martín 2261"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo azúcar y cocoa"
+telefono_contacto: "(Carol)094838005"
+direccion: "Chanaes esquina Boanes. Frente a la plaza."
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 17:00 hs"
-aclaraciones: "En lo posible se solicita agendarse antes de ir."
+horario: "(LUN-DOM)16:30-17:30"
+aclaraciones: "LLEVAR BOLSA PARA PAN O TORTAS Y RECIPIENTE PARA LA LECHE"
 cuenta_bancaria: ""
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Inter Sindical PIT-CNT"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "13/05/2020"
-
-departamento: "Canelones"
-barrio: "Santa Lucía"
-actividades: "Punto de Donación"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
 necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "098691711        092213138  092249381"
-direccion: "Ramón Irigoyen entre 18 de Julio y Mitre. Local Inter Sindical del PIT-CNT"
+telefono_contacto: "(Cuqui)096205476"
+direccion: "Pasaje A entre Gambeta e Instrucciones"
 
 otros_contactos: ""
-horario: "Todos los días - 17 a 20hs"
+horario: "(VIE-DOM)19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

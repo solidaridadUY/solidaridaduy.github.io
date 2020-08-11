@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad Vieja"
+nombre: "Centro"
 departamento: "Montevideo"
 ---
 
-Barrio Ciudad Vieja
+Barrio Centro
 Departamento de Montevideo

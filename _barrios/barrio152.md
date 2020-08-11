@@ -1,7 +1,7 @@
 ---
-nombre: "Salto Nuevo Sur"
+nombre: "Barrio la Estrella"
 departamento: "Salto"
 ---
 
-Barrio Salto Nuevo Sur
+Barrio Barrio la Estrella
 Departamento de Salto

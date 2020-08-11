@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Angel (almacén y flia)"
-date: 2020-05-26 20:22:32 -0300
+title: "Lista 939 FA"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche y verduras."
-telefono_contacto: "092671301"
-direccion: "San Ramón, solar 6, Barrio 1 de Mayo (Galpón al costado del almacén)"
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "094345006"
+direccion: "Ruta 8 Km. 25.500 - Calle Las Magnolias entre Caputti y Las Violetas"
 
 otros_contactos: ""
-horario: "Todos los días - 8 a 10 hs"
-aclaraciones: "Ángel y su flia tienen vivienda en el barrio 1° de Mayo y tienen un almacén, donde elaboran la comida y panes para la iniciativa (han recibido donaciones) Inicitiva de Ángel y su flia, actualmente funciona a partir de donaciones e ingresos de la flia"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

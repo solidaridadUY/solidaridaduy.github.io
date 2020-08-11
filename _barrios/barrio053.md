@@ -1,7 +1,7 @@
 ---
-nombre: "Aguada"
-departamento: "Montevideo"
+nombre: "San Carlos"
+departamento: "Maldonado"
 ---
 
-Barrio Aguada
-Departamento de Montevideo
+Barrio San Carlos
+Departamento de Maldonado

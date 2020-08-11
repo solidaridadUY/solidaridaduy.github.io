@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinos núcleo liceo"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Calle la Vía"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Kristie Barreiro: 098993951
+barrio: "Casabó"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos"
+telefono_contacto: "(Javier)098442838
 "
-direccion: "Cornelio Guerra casi Antonio Rubio"
+direccion: "Calle La Vía 3648 esquina Gambia"
 
 otros_contactos: ""
-horario: "Todos los días - Consultar telefónicamente"
+horario: "(SAB-DOM)18:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

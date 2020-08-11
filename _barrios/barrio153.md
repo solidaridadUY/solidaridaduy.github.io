@@ -1,7 +1,7 @@
 ---
-nombre: "Ciudad del Plata"
-departamento: "San José"
+nombre: "Barrio Quiroga"
+departamento: "Salto"
 ---
 
-Barrio Ciudad del Plata
-Departamento de San José
+Barrio Barrio Quiroga
+Departamento de Salto

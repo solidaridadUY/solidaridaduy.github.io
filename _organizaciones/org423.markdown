@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Plenario Intersindical de Las Piedras (PIT-CNT)"
-date: 2020-05-26 20:22:32 -0300
+title: "Colectivo Peñarolense"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095211684 (Sebastián Remedios)"
-direccion: "Leandro Gómez 589 esq. Av. Artigas"
+departamento: "Montevideo"
+barrio: "La Teja"
+actividades: "Olla"
+donaciones: ""
+necesidades: ""
+telefono_contacto: ""
+direccion: "Benito Riqueto esq. Rivera"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 10 a 13 hs"
+horario: "(MIE)10:30-13:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

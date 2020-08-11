@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Monte de la Francesa"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Grupo de amigos"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Luis 094036883"
-direccion: "Monte de la Francesa - Lanús y Yegros"
+barrio: "No corresponde"
+actividades: "Particular que dona"
+donaciones: ""
+necesidades: "Alimentos y fondos para compra de alimentos"
+telefono_contacto: "099162365"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
-cuenta_bancaria: ""
+horario: ""
+aclaraciones: "Con donaciones a la cuenta compran alimentos que reparten a distintas ollas populares, principalmente por Marconi, Nuevo París y La Teja. También se pude coordinar con el número de contacto para que retiren donaciones a domicilio."
+cuenta_bancaria: "Itau 7805656 (Gabriela Peralta)"
 
 ---

@@ -2,20 +2,18 @@
 layout: organizacion
 
 title: "Comité Peñarol"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
 barrio: "Peñarol"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
+donaciones: "Alimentos no perecederos"
+necesidades: ""
 telefono_contacto: "095281659"
 direccion: "Aparicio Saravia y Shakespeare"
 
 otros_contactos: ""
-horario: "Miércoles y Viernes - 16 a 17 hs"
+horario: "(MIE)16:00-17:00"
 aclaraciones: "Se puede coordinar para retirar a domicilio."
 cuenta_bancaria: ""
 

@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Jóvenes del Cerro"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "25/04/2020"
+title: "Olla Popular Cabaña Anaya"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Se reciben alimentos, ropa de abrigo y artículos de limpieza"
-telefono_contacto: "091794830"
-direccion: "FOICA (Grecia esq. Holanda)"
+barrio: "Paso de la Arena"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Leonel Cardozo)094762392
+"
+direccion: "Lomas de Zamora 2512"
 
-otros_contactos: "092673044 - 099650642"
-horario: " - Martes y jueves de 17 a 19 hs. Miércoles y sábados de 10 a 13 hs"
-aclaraciones: "Para coordinar retiro, coordinar telefónicamente o desde las redes: Facebook e Instagram"
+otros_contactos: ""
+horario: "(LUN)20:00,(MIE)20:00,(VIE)20:00"
+aclaraciones: "Contacto  para inscribirse: 099 974 499"
 cuenta_bancaria: ""
 
 ---

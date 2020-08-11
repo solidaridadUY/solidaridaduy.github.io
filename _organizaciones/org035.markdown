@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Merendero"
-date: 2020-05-26 20:22:32 -0300
+title: "MIRAMAR BBC"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Maldonado"
-barrio: "Playa Grande"
-actividades: "Merienda"
-necesidades: ""
-necesidades_especificas: "Alimentos no perecederos,  leche y pan"
-telefono_contacto: "094254015"
-direccion: "Calle 26 entre 2 y 3"
+departamento: "Montevideo"
+barrio: "Buceo"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Alimentos en general para armar canastas."
+telefono_contacto: "099926182"
+direccion: "Santiago Gadea 3537"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Almuerzo - sábados y domingos 13 hs. Merienda - todos los días 18 hs. Cena- todos los días de 19 a 21 hs. LLEVAR TAZA, TUPPER Y CUBIERTOS"
+horario: "(LUN-VIE)10:00-12:00,(LUN-VIE)17:30-19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

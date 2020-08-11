@@ -1,7 +1,7 @@
 ---
-nombre: "No corresponde"
-departamento: "Treinta y Trés"
+nombre: "Patulé"
+departamento: "Salto"
 ---
 
-Barrio No corresponde
-Departamento de Treinta y Trés
+Barrio Patulé
+Departamento de Salto

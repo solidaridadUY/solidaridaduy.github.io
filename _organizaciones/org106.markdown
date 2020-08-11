@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asociación Civil Monte de la Francesa"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "AIDA SUR, Empleados del Nuevo Chopicón,, Agrupación I.F.A. y Pepe DÈlia"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
 barrio: "Colón"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: "093 753 642"
-direccion: "Iturbe y Lanus (en el teatro)"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Gabriel Crause)093678767"
+direccion: "Garzón y Lanús(Plaza Colón)"
 
-otros_contactos: "2320 8307"
-horario: "Lunes a Sábado - 15 a 19 hrs"
-aclaraciones: ""
+otros_contactos: ""
+horario: "(LUN-DOM)12:00,(LUN-DOM)18:00"
+aclaraciones: "Llevar Tupper o Vianda"
 cuenta_bancaria: ""
 
 ---

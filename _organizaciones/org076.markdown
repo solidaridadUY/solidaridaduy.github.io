@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Red Solidaria Barrio Lavalleja"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "El rancho"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098865307-Florencia"
-direccion: "No corresponde"
+barrio: "La Teja"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "23051061"
+direccion: "Heredia y Martin Berindague"
 
-otros_contactos: "094357002  Hugo"
-horario: "Consultar telefónicamente - Durante el día"
-aclaraciones: "Pueden pasar a retirar donaciones"
+otros_contactos: "094524282"
+horario: "(LUN-DOM)11:00-13:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

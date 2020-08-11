@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla Popular Prado"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "20/05/2020"
-
-departamento: "Maldonado"
-barrio: "Balneario Buenos Aires"
-actividades: "Canasta"
-necesidades: "Alimentos"
-necesidades_especificas: " Fideos , Polenta , Grasa , Aceite , Pulpa de Tomate , Lentejas , Sal , Azucar , Leche en Polvo , Cocoa , Jane , Jabón, Papel Higiénico, Atún y verduras : Zapallo , papa , boniato , cebolla , zanahoria y una fruta"
-telefono_contacto: "Amma: 099080813"
-direccion: "CALLE 42 ENTRE CALLE 48 y 49"
+departamento: "Montevideo"
+barrio: "Prado"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Juan Manuel)092472972
+"
+direccion: "Av. Agraciada esquina Zufriategui"
 
 otros_contactos: ""
-horario: "Todos los días - "
-aclaraciones: "Comunicarse vía telefónica para recibir canasta a domicilio"
+horario: "(LUN-DOM)19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

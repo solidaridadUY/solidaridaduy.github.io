@@ -1,7 +1,7 @@
 ---
-nombre: "Ismael Cortinas"
+nombre: "El Hospital"
 departamento: "Flores"
 ---
 
-Barrio Ismael Cortinas
+Barrio El Hospital
 Departamento de Flores

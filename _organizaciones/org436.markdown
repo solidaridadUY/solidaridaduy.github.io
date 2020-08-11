@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla Cañada Monzón"
-date: 2020-05-26 20:22:32 -0300
+title: "Manos Solidarias"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Flores"
-barrio: "Cañada Monzón"
+departamento: "Canelones"
+barrio: "Villa Alegría"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "Valeria Maestrecasa 099531377"
-direccion: "19 de Abril 294 Bis"
+donaciones: "Alimentos"
+necesidades: "Carne
+Verdura"
+telefono_contacto: "(Marina Rivero)094840392"
+direccion: "Ciclamor Los Frenos 107 Villa Alegría"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - De 15 a 20 hs"
-aclaraciones: ""
+horario: "(SAB)20:00-00:00"
+aclaraciones: "En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

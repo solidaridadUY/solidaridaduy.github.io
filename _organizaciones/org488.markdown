@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "COVITA"
-date: 2020-05-26 20:22:32 -0300
+title: "Galpón de Corrales"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "La Tablada"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092090339"
-direccion: "pasaje rodirguez vivienda 1"
+departamento: "Montevideo"
+barrio: "Villa Española"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos, Artículos de Limpieza, Artículos de Higiene"
+telefono_contacto: "(Gustavo)096762350  "
+direccion: "Camino Corrales 3041"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - Consultar telefónicamente"
-aclaraciones: "Se sirve cena"
+horario: "(SAB)17:00"
+aclaraciones: "Merendero: sabado 17hs - Olla: domingos 12hs. Forman parte de una coordinadora de ollas populares del barrio pero no sòlo. Coordinan los recursos. También tienen contacto con el PIT - CNT."
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Ceibal"
-departamento: "Salto"
+nombre: "Rivera"
+departamento: "Rivera"
 ---
 
-Barrio Ceibal
-Departamento de Salto
+Barrio Rivera
+Departamento de Rivera

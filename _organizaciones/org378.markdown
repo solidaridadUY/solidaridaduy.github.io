@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Maldonado Solidario"
-date: 2020-05-26 20:22:32 -0300
+title: "La Olla de Villa Española"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "16/05/2020"
-
-departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos perecederos y no perecederos, carnes, frutas, verduras, productos de higiene personal y artículos de limpieza."
-telefono_contacto: "099814994 y 099390621"
-direccion: ""
+departamento: "Montevideo"
+barrio: "Villa Española"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, pulpa de tomate, leche en polvo, cocoa, azúcar, carne"
+telefono_contacto: "(Leticia)097698085
+"
+direccion: "Agaces 3966 bis esquina Irureta Goyena"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: "Realizan canastas para entregar semanalmente. Se arman en función del grupo familiar que lo necesite. Comunicarse telefónicamente."
+horario: "(LUN-DOM)17:00"
+aclaraciones: "En situación de urgencia."
 cuenta_bancaria: ""
 
 ---

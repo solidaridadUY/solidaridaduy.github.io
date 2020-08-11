@@ -1,7 +1,7 @@
 ---
-nombre: "Tala"
+nombre: "Sauce"
 departamento: "Canelones"
 ---
 
-Barrio Tala
+Barrio Sauce
 Departamento de Canelones

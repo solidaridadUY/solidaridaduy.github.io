@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Asentamiento Fortaleza del Cerro"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "094881721
-Antonio
-"
-direccion: "Salón Barrio Artigas (Santin C. Rossi 4563)"
+barrio: "Cerro"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Paola)097311550 "
+direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
 
-otros_contactos: "095976666 Pablo"
-horario: "Miércoles Sábado y Domingo - 13.30 hs"
+otros_contactos: "(Carla)097545426,(Ximena)097537971 "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

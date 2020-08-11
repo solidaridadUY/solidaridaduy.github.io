@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asociación de Familiares y Víctimas de la Delincuencia"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Popular Club Sayago"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "098989724"
-direccion: "No aplica"
+barrio: "Sayago"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Gimena Fernández)096778461"
+direccion: "Camino Ariel 4961 y la Vía"
 
-otros_contactos: "096227593"
-horario: " - "
-aclaraciones: "Mandar mensaje por whatsapp con: nombre completo, dirección, barrio, donación a realizar, días y horarios a retirar."
+otros_contactos: "23591125"
+horario: "(LUN-VIE)12:00"
+aclaraciones: "Entrega de viandas"
 cuenta_bancaria: ""
 
 ---

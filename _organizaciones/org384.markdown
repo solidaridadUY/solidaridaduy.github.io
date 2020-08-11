@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla de Todos: Vecinxs de Plácido Ellauri "
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "16/05/2020"
-
-departamento: "Maldonado"
-barrio: "Balneario Buenos Aires"
+departamento: "Montevideo"
+barrio: "Plácido Ellauri"
 actividades: "Olla"
-necesidades: "Alimentos perecederos y no perecederos, ropa, artículos de higiene y de limpieza, implementos de bioseguridad"
-necesidades_especificas: "Carne, verduras, alimentos en general, artículos de higiene y limpieza, implementos de bioseguridad"
-telefono_contacto: "Karina 091401565"
-direccion: "Calle 25 y 54, escuelita de futbol."
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: ""
+telefono_contacto: "(Lourdes)094630049
+"
+direccion: "José Ramírez entre Timbúes y Tubichas"
 
 otros_contactos: ""
-horario: "Todos los días - 20:00 a 21:00"
-aclaraciones: "Lllevar recipiente para la vianda. Los días viernes se entregan canastas"
+horario: "(DOM)19:30"
+aclaraciones: "Comparten donaciones con otras dos ollas del barrio: Marconi y Barrio Borro"
 cuenta_bancaria: ""
 
 ---

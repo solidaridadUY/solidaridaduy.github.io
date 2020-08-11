@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Parroquia San Alberto Hurtado"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/05/2020"
+title: "Ferretería \"El Destino\""
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Para cocinar comidas calientes, salsa de tomate, arroz, etc"
-telefono_contacto: "095683306
-María y José"
-direccion: "Sierra Leona 144"
+barrio: "Los Bulevares"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Ideario Artiguista 1865"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 13 hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Club Sayago"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "30/04/2020"
+title: "Faustino \"Chimango\""
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
+barrio: "Cerro"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Gimena Fernández 096778461"
-direccion: "Camino Ariel 4961 y la Vía"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Mario Ivo)099196315  
+"
+direccion: "Bulgaria 4275 esq. Carlos M. Ramirez"
 
-otros_contactos: "23591125"
-horario: "Lunes a Viernes - 12 hs"
-aclaraciones: "Entrega de viandas"
+otros_contactos: ""
+horario: "(LUN)18:00,(JUE)18:00"
+aclaraciones: "Llevar vianda"
 cuenta_bancaria: ""
 
 ---

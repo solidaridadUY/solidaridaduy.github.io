@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Villa Española"
-date: 2020-05-26 20:22:32 -0300
+title: "Colectivo Elepé"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Olla grande, salsa de tomate, carne, verduras, sal, leche en polvo, azucar"
-telefono_contacto: "097698085
-Leticia"
-direccion: "Agaces 3966 bis esquina Irureta Goyena"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "099239735"
+direccion: "Capitan Perez esq Torres Garcia"
 
 otros_contactos: ""
-horario: "Todos los días - A partir de 17hs"
-aclaraciones: ""
+horario: "(MAR)19:00,(JUE)19:00"
+aclaraciones: "Local de Colectivo ElePé"
 cuenta_bancaria: ""
 
 ---

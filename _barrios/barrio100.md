@@ -1,7 +1,7 @@
 ---
-nombre: "Maroñas"
+nombre: "Los Bulevares"
 departamento: "Montevideo"
 ---
 
-Barrio Maroñas
+Barrio Los Bulevares
 Departamento de Montevideo

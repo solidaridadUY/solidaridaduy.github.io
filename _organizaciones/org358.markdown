@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Zonal Prado"
-date: 2020-05-26 20:22:32 -0300
+title: "SUNCA"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Prado"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "En las ferias, en las esquinas:
-Millán y Larrañaga
-Asencio y Zapicán"
+departamento: "Maldonado"
+barrio: "Maldonado"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "098301517"
+direccion: "Batlle y Ordoñez entre Lavalleja y Támaro"
 
 otros_contactos: ""
-horario: "Sábado - 10 a 12hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

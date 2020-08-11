@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Cté de Base Félix Vidarte"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Pulpa de tomate, lentejas, tapabocas, guantes"
-telefono_contacto: "099527443"
-direccion: "Av. Dámaso A. Larrañaga y Serrato (Antel Arena)"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "095496658"
+direccion: "Rep. Argentina esq. Pando"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
+horario: "(MAR)19:00-21:00,(JUE)19:00-21:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,21 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal Barrio El Tobogán"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "24/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Tres Ombúes"
+barrio: "Cerro Norte"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras, carne, cosas para merienda, ropa, abrigo"
-telefono_contacto: "094889797 Micaela"
-direccion: "Calera de las Huérfanas esquina Inclusa"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Allison)095051344
+"
+direccion: "Camino Cibils y Fco Siti (al lado de la Gomería)"
 
-otros_contactos: ""
-horario: "Lunes a Viernes - A partir de 19hs"
+otros_contactos: "(Milka)096933066
+"
+horario: "(LUN-JUE)18:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

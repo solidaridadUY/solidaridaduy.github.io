@@ -1,7 +1,7 @@
 ---
-nombre: "Pajas Blancas"
+nombre: "Marconi"
 departamento: "Montevideo"
 ---
 
-Barrio Pajas Blancas
+Barrio Marconi
 Departamento de Montevideo

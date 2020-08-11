@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinas de Punta Negra"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
+departamento: "Maldonado"
+barrio: "Punta Negra"
 actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos"
-telefono_contacto: "Cuqui 096205476"
-direccion: "Pasaje A entre Gambeta e Instrucciones"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: "Cacao, Leche, azúcar mascabo, avena, canela, jengibre en polvo, fariña"
+telefono_contacto: "(Lorena)99627648"
+direccion: "Porto Alegre entre Bogotá y EE.UU"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 17 hs."
-aclaraciones: ""
+horario: "(MIE)16:00"
+aclaraciones: "Se reparte chocolate en una camioneta por todo Punta Negra"
 cuenta_bancaria: ""
 
 ---

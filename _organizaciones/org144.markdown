@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Salón del Sol"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "El Tundra Bar"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Cerrito 732"
+barrio: "Centro"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "29091578"
+direccion: "Durazno 902 esq. Convención"
 
-otros_contactos: "094053638"
-horario: "Todos los días - 9 a 18hs"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: "(LUN)12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

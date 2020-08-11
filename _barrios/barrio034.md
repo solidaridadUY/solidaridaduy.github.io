@@ -1,7 +1,7 @@
 ---
-nombre: "Balneario Buenos Aires"
-departamento: "Maldonado"
+nombre: "Florida"
+departamento: "Florida"
 ---
 
-Barrio Balneario Buenos Aires
-Departamento de Maldonado
+Barrio Florida
+Departamento de Florida

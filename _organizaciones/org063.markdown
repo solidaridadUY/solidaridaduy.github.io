@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Royal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Jóvenes FA"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "093734042"
-direccion: "Yucutuja 1250"
+barrio: "Bella Vista"
+actividades: "Canasta"
+donaciones: ""
+necesidades: "Se recibe alimentos no perecederos, juguetes, ropa, apoyo transporte"
+telefono_contacto: "099204370"
+direccion: "Hermanos Gil 1051 esq Dufort y Álvarez"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente - 18 hs. "
-aclaraciones: "El horario puede cambiar, verificar telefónicamente"
-cuenta_bancaria: ""
+otros_contactos: "099869454"
+horario: "(MAR)15:00-19:00,(MIE)15:00-19:00,(VIE)15:00-19:00"
+aclaraciones: ""
+cuenta_bancaria: "Caja de ahorro en pesos (Brou) 000152324-00001"
 
 ---

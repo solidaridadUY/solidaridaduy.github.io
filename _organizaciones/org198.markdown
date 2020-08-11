@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Los Pinos Baby"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinos Unidos"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Barros Blancos"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "carne y verduras pero adquieren cercano a fechas"
-telefono_contacto: "092 663 361,
-099 748 875,
-098 557 244"
-direccion: "Ruta 8 km 26 - Cancha Los Pinos"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(José)"
+direccion: "Silva 3993 Entre Costanera y Fuentes"
 
 otros_contactos: ""
-horario: "Miércoles - 19hs"
-aclaraciones: "Últimos dos miércoles del mes. Evalúan hacerlo con más frecuencia. Me contacté con 092 663 361"
+horario: "(LUN-DOM)"
+aclaraciones: "De noche"
 cuenta_bancaria: ""
 
 ---

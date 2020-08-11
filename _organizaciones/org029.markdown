@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Resistencias de la Costa"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Merendero Los conquistadores Apoya Grupo Misericordia"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Canelones"
-barrio: "Costa de Oro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "098 067 805 099 301 228 099 472 132 095 903 271"
-direccion: "Supermercado Kabe en El Pinar
-Los Robles entre Coronilla y Av. Del Parque.  En las cumbres de Neptunia.
-"
+barrio: "Villa la Colina"
+actividades: "Merienda"
+donaciones: ""
+necesidades: "Alimentos y donaciones"
+telefono_contacto: "091292894"
+direccion: "Polideportivo: \"La Colina\" R8, km24"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

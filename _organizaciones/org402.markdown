@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Solidarios Unidos seis barrios"
-date: 2020-05-26 20:22:32 -0300
+title: "Colectivo Elepé y Vecinxs"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Piedras Blancas"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092927150 María"
-direccion: "Rafael y Teniente Galeano (frente a la barraca)"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Carne, pollo, alitas, gallina, etc"
+telefono_contacto: "099239735"
+direccion: "Flores y Ecuador"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - 17 hs."
-aclaraciones: "También reparten cena. Llevar Tupper"
+horario: "(LUN-VIE)00:00-23:59"
+aclaraciones: "Placita barrial"
 cuenta_bancaria: ""
 
 ---

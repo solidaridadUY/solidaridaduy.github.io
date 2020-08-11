@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "SUNCA"
-date: 2020-05-26 20:22:32 -0300
+title: "Comisión vecinal Asociación Civil La Tablada"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Maldonado"
-barrio: "Maldonado"
+departamento: "Montevideo"
+barrio: "Nuevo Verdisol"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098301517"
-direccion: "Batlle y Ordoñez entre Lavalleja y Támaro"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Cristian Rocha)092120727
+"
+direccion: "Continuación Cornelio Guerra 1294 bis"
 
 otros_contactos: ""
-horario: " - "
+horario: "(LUN-DOM)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

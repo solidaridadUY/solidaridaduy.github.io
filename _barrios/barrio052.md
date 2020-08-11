@@ -1,7 +1,7 @@
 ---
-nombre: "Abayubá"
-departamento: "Montevideo"
+nombre: "Punta Negra"
+departamento: "Maldonado"
 ---
 
-Barrio Abayubá
-Departamento de Montevideo
+Barrio Punta Negra
+Departamento de Maldonado

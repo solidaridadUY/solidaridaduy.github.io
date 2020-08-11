@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-05-26 20:22:32 -0300
+title: "PIT-CNT"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Ciudad Vieja,Barrio Sur,Aguada,Centro"
-actividades: "Realización de compras"
+departamento: "Canelones"
+barrio: "Santa Lucía"
+actividades: "Otros"
+donaciones: "Alimentos no perecederos"
 necesidades: ""
-necesidades_especificas: "No corresponde"
-telefono_contacto: "093302231"
-direccion: "No corresponde"
+telefono_contacto: "098691711,092213138,092249381"
+direccion: "Ramon Irigoyen entre 18 de Julio y Julio Mitre"
 
 otros_contactos: ""
-horario: "Todos los días - Se toman pedidos de mandados hasta las 18 hs y se comienza a repartir a partir de las 19 hs."
-aclaraciones: "Realización de compras a población de riesgo"
+horario: "(LUN-DOM)17:00-20:00"
+aclaraciones: "coordinar vía telefónica para retirar viandas"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Maracaná"
+nombre: "La Teja"
 departamento: "Montevideo"
 ---
 
-Barrio Maracaná
+Barrio La Teja
 Departamento de Montevideo

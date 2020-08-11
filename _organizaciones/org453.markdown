@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Merendero Cooperativo Las Bóvedas Ciudad Vieja"
-date: 2020-05-26 20:22:32 -0300
+title: "Club Ceibal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "15/05/2020"
+departamento: "Salto"
+barrio: "Ceibal"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "099469891"
+direccion: "Juan H. Paiva 1797"
 
-departamento: "Montevideo"
-barrio: "Ciudad Vieja"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche en Polvo"
-telefono_contacto: "094610400 Bea
-097490097 Santiago
-099151141 Magdalena"
-direccion: "Rambla 25 de Agosto 566 entre Ituzaingó y Juan Carlos Gómez, COVICIVI"
-
-otros_contactos: "merenderolasbovedasciudadvieja@gmail.com"
-horario: "Sábado - 17hs"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

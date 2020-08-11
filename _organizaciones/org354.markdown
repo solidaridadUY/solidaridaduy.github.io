@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Bella Vista"
-date: 2020-05-26 20:22:32 -0300
+title: "Grupo Social"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Bella Vista"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099167275 098456226"
-direccion: "Av. Agraciada 3100 esquina Ascencio (Sede Bella Vista)"
+departamento: "Maldonado"
+barrio: "La Barra"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos,Artículos de limpieza"
+necesidades: ""
+telefono_contacto: "094436206"
+direccion: ""
 
 otros_contactos: ""
-horario: "Martes y Viernes - 12hs"
-aclaraciones: "Llevar tupper. Un sólo representante por familia"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

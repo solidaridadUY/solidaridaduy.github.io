@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Parroquia Santisima Trinidad y Organización Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Chacarita de los Padres"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Alejandra Sánchez 091997349"
-direccion: "Géminis 6370"
+departamento: "Colonia"
+barrio: "Nueva Helvecia"
+actividades: "Realización de compras"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "091471165"
+direccion: "No corresponde."
 
 otros_contactos: ""
-horario: "Todos los días - 16 hs."
-aclaraciones: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Realización de compras a población de riesgo. Tienen una olla en Gilomen 1448 a las 21 hs todos los días"
 cuenta_bancaria: ""
 
 ---

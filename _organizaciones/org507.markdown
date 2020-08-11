@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Unidos somos más"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "097744539/ 092338132"
-direccion: "Ruta 8 km 23.700 (sobre la ruta)"
+departamento: "Montevideo"
+barrio: "Cerrito de la Victoria"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Azúcar y cocoa. Materiales para aislar del frío el espacio que usan"
+telefono_contacto: "(Morena)096723863 "
+direccion: "Estanislao Vega esquina Juan Acosta"
 
 otros_contactos: ""
-horario: "Lunes Jueves y Viernes - 19hs"
-aclaraciones: ""
+horario: "(LUN-SAB)16:00"
+aclaraciones: "También brindan apoyo escolar"
 cuenta_bancaria: ""
 
 ---

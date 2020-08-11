@@ -1,22 +1,22 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Vecinas/os de la Gruta."
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Pocitos"
-actividades: "Retiro de donaciones"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Recaudación de alimentos secos, ropa, juguetes y artículos de primera necesidad"
-telefono_contacto: "098220931"
-direccion: "No corresponde"
+barrio: "Casavalle"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Granos, frutas y verduras. Salsa, carne, poroto, garbanzos y aceite."
+telefono_contacto: "(Angélica)095229074 "
+direccion: "Parroquia de la Gruta de Lourdes"
 
-otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+otros_contactos: "(Renzo)091227752"
+horario: "(MIE)11:00,(SAB-DOM)11:00"
+aclaraciones: "Se reparte a partir de las 12:00h. Se entregan números a partir de las 11:00h
+Es necesario llevar recipiente.
+"
 cuenta_bancaria: ""
 
 ---

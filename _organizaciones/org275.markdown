@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité Victor Deri"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla Popular Club Sayago"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Gimena Fernández)096778461"
+direccion: "Camino Ariel 4961 y la Vía"
 
-departamento: "Canelones"
-barrio: "Pinamar"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095639475 - 097530556"
-direccion: "No aplica"
-
-otros_contactos: ""
-horario: "Martes Jueves y Sábado - 17 a 19"
-aclaraciones: "Se van a buscar las donaciones"
+otros_contactos: "23591125"
+horario: "(LUN-VIE)09:00-13:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

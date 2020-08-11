@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Progreso - Estación Atlántida"
-date: 2020-05-26 20:22:32 -0300
+title: "Organización vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Atlántida"
+departamento: "Montevideo"
+barrio: "Cerro Norte"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098047394"
-direccion: "Avenida Monseñor José Orsali, esquina Calle 41 (frente a carnicería progreso)"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos"
+telefono_contacto: "(Gladys)096539004"
+direccion: "Vizcaya y Santa Cruz de la Sierra"
 
 otros_contactos: ""
-horario: " - 12:30 a 14hs"
-aclaraciones: "Vianda solidaria desde 12:30 hasta 14hs,  anotarse previamente por telefono, llevar recipiente"
+horario: "(SAB)12:00,(DOM)12:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

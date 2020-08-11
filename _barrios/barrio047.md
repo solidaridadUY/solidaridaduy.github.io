@@ -1,7 +1,7 @@
 ---
-nombre: "Piriápolis"
+nombre: "Maldonado"
 departamento: "Maldonado"
 ---
 
-Barrio Piriápolis
+Barrio Maldonado
 Departamento de Maldonado

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
+departamento: "Montevideo"
+barrio: "Barrio Sur"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Comida ya hecha, leche en polvo, cocoa, etc"
+telefono_contacto: "(Camila Sosa)098697902 "
+direccion: "Zelmar Michelini 993"
 
-departamento: "Salto"
-barrio: "Barrio Caballero"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091647293"
-direccion: "Nuevo Guarani 3132"
-
-otros_contactos: ""
-horario: "Consultar telefónicamente - Consultar telefónicamente"
+otros_contactos: "(Sofía Raffaelli)099005299 "
+horario: "(LUN)17:00-18:00,(MIE)17:00-18:00,(VIE)17:00-18:00,(DOM)17:00-18:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

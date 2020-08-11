@@ -2,20 +2,18 @@
 layout: organizacion
 
 title: "Ateneo Cerro"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
 barrio: "Cerro"
 actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
+donaciones: "Alimentos no perecederos"
+necesidades: ""
 telefono_contacto: "099563819"
 direccion: "Grecia esq. Perú"
 
 otros_contactos: ""
-horario: "Domingo - 13 hs"
+horario: "(DOM)13:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

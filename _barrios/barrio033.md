@@ -1,7 +1,7 @@
 ---
-nombre: "Trinidad"
+nombre: "Flores"
 departamento: "Flores"
 ---
 
-Barrio Trinidad
+Barrio Flores
 Departamento de Flores

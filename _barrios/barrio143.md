@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Caballero"
-departamento: "Salto"
+nombre: "Paysandú"
+departamento: "Paysandú"
 ---
 
-Barrio Barrio Caballero
-Departamento de Salto
+Barrio Paysandú
+Departamento de Paysandú

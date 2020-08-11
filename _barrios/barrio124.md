@@ -1,7 +1,7 @@
 ---
-nombre: "Tomkinson"
+nombre: "Pueblo Victoria"
 departamento: "Montevideo"
 ---
 
-Barrio Tomkinson
+Barrio Pueblo Victoria
 Departamento de Montevideo

@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Salón Comunal \"Para Todos\""
-date: 2020-05-26 20:22:32 -0300
+title: "Plenario Intersindical de Las Piedras (PIT-CNT)"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "5/05/2020"
-
-departamento: "Montevideo"
-barrio: "Seis de Diciembre"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras. Leche en polvo y alimentos para hacer merienda los sábados"
-telefono_contacto: "Angel Lozano
-097346881"
-direccion: "Calle 6 entre Camino Carlos María de Pena y Av Islas Canarias"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Sebastián Remedios)095211684 "
+direccion: "Leandro Gómez 589 esq. Av. Artigas"
 
 otros_contactos: ""
-horario: "Sábado - 13 a 14hs"
+horario: "(LUN-VIE)10:00-13:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

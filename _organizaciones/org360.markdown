@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Borro"
+departamento: "Maldonado"
+barrio: "Balneario Buenos Aires"
 actividades: "Olla"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "096276625, 096652675"
-direccion: "Dr. Enrique Claveaux (Plaza de Palos)"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Carne, verduras, alimentos en general, artículos de higiene y limpieza, implementos de bioseguridad"
+telefono_contacto: "(Karina)091401565"
+direccion: "Calle 25 y 54, escuelita de futbol."
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+horario: "(LUN-DOM)20:00-21:00"
+aclaraciones: "Lllevar recipiente para la vianda. Los días viernes se entregan canastas"
 cuenta_bancaria: ""
 
 ---

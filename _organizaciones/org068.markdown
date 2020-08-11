@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Capurro"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Capurro"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: ""
-necesidades_especificas: "Se reciben alimentos"
-telefono_contacto: "099202923"
-direccion: "Capurro 922"
+donaciones: "Alimentos"
+necesidades: "Carnes, morrón, cocoa "
+telefono_contacto: "(Florencia)098865307 "
+direccion: "Av de las instrucciones Esq Silva, Teatro del Barrio"
 
-otros_contactos: "096496373   091802863"
-horario: " - De lunea a viernes de 15 a 18 hs "
-aclaraciones: "La olla se hace los sábados y domingos de 11 a 15 hs"
+otros_contactos: "(Hugo)094357002 "
+horario: "(LUN-JUE)19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

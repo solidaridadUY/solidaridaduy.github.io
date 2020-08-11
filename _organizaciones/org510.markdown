@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "Plaza 5"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Pando"
-actividades: "Canasta"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "Andrea 094805086 / Emanuel 092023585"
-direccion: "Ruta 75 esq Venancio Aires. También se reciben donaciones en W.Ferreira y Ruta 8 (Salón Brillantina) y Independencia 1023 (Candela Hogar) "
+departamento: "Montevideo"
+barrio: "Barrio El Tobogán"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Patricia Gonzalez)097058562
+"
+direccion: "Manuel Oribe 4475 esq Luis Troccoli"
 
 otros_contactos: ""
-horario: " - "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

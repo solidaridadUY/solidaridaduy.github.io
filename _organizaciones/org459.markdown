@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asociación Civil Avance "
-date: 2020-05-26 20:22:32 -0300
+title: "Cooperativa de trabajo Pa Lante Caif Desde el Pie"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Las Acacias"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099251686"
-direccion: "Bernabé Michelena 4572 y Rancagua."
+departamento: "San José"
+barrio: "Ciudad del Plata"
+actividades: "Merienda"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Maxi)091756871,(Sabrina)095019279"
+direccion: " Caif Desde el Pie. Manzana 17 Calle Los Pinos Barrio Monte Grande Km 29.500 Ruta 1 Vieja"
 
 otros_contactos: ""
-horario: "Sábado - 11 a 14 hs."
-aclaraciones: "Las donaciones se reciben en la misma dirección y el mismo horario en que funciona la olla. "
+horario: "(MAR)14:00-15:00"
+aclaraciones: "Atienden 120 personas, reciben donaciones en el Caif, los  días de merienda están desde las 12.00 horas.  "
 cuenta_bancaria: ""
 
 ---

@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Popular La Cachimba"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/04/2020"
-
-departamento: "Montevideo"
-barrio: "Tres Ombúes"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: "094954016
-Deisy"
-direccion: "Gregorio Camino Esq. Heredia Vivienda 3"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "091272045"
+direccion: "Espínola 692 esq. Baltasar Brum"
 
-otros_contactos: "095580808 Banki
-091967299 Johny"
-horario: "Todos los días - 17hs"
-aclaraciones: "Llevar vianda"
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

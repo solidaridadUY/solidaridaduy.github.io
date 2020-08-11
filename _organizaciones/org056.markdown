@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "METELE QUE SON PASTELES"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "SUA (Sociedad Uruguaya de Actores)"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Canasta"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "094476451 091211765 098000052 099757609"
-direccion: "Joaquín Artigas 3326 (local de la murga)"
+barrio: "Centro"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "091381895"
+direccion: "Centro Cultural Carlos Brussa (Mercedes 931)"
 
-otros_contactos: "Municipio D"
-horario: "Consultar telefónicamente - 15 a 18 hrs "
-aclaraciones: "Se retiran las donaciones a domicilio, están armando canastas para llevar a donde se indiquen, se manejan fundamentalmente a través de los celulares."
-cuenta_bancaria: ""
+otros_contactos: "098787582"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "Brou de Caja de Socorros de SUA, Cuenta Corriente 001554456-00002 en pesos"
 
 ---

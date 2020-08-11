@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Panadería Futuro Puerto"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Organización Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Ciudad Vieja"
+barrio: "Villa Española"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Guaraní 1370"
+donaciones: "Alimentos no perecederos"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Av. José Pedro Varela 1461"
 
-otros_contactos: "094053638"
-horario: "Todos los días - 24hs"
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: "(LUN-DOM)10:00-16:00"
+aclaraciones: "Se reciben donaciónes en el auditorio para repartir canastas en la zona."
 cuenta_bancaria: ""
 
 ---

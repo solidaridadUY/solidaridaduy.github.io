@@ -1,7 +1,7 @@
 ---
-nombre: "Toledo"
+nombre: "Tala"
 departamento: "Canelones"
 ---
 
-Barrio Toledo
+Barrio Tala
 Departamento de Canelones

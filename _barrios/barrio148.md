@@ -1,7 +1,7 @@
 ---
-nombre: "La Tablada"
-departamento: "Salto"
+nombre: "Chuy"
+departamento: "Rocha"
 ---
 
-Barrio La Tablada
-Departamento de Salto
+Barrio Chuy
+Departamento de Rocha

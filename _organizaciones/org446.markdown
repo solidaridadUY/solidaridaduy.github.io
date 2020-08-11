@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Merendero Corazoncitos"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "12/05/2020"
-
-departamento: "Montevideo"
-barrio: "Maracaná"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "097628859
-Doris"
-direccion: "No corresponde, se lleva merienda a domicilio"
+departamento: "Salto"
+barrio: "Salto Nuevo Sur"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "097732521"
+direccion: "juan carlos gomez 2600 viv 1"
 
 otros_contactos: ""
-horario: "Todos los días - 17 hs"
-aclaraciones: "Llevan la merienda a la casa de los niños "
-cuenta_bancaria: ""
+horario: "(LUN-SAB)20:00"
+aclaraciones: "En situación de urgencia."
+cuenta_bancaria: "tarjeta mi dinero para recibir donaciones 3.395.167-8"
 
 ---

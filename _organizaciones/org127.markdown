@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Jóvenes del Municipio B Apoyo: Consejo Vecinal 2"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "26/04/2020"
+title: "Radio Pedal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón,Palermo,Parque Rodó,Aguada,La Comercial,Tres Cruces"
-actividades: "Realización de compras"
-necesidades: ""
-necesidades_especificas: "No corresponde"
-telefono_contacto: "099405205 (WhatsApp)"
-direccion: "No corresponde"
+barrio: "Palermo"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
+telefono_contacto: "(Florencia)099812068,(Salvador)099661182,(Sebastián)09919986,(Federica)098969618"
+direccion: "San Salvador 1510 esq. Martínez Trueba"
 
-otros_contactos: "areasocialmunicipiob@gmail.com"
-horario: "Todos los días - Se toman pedidos desde las 9 hasta las 15hs."
-aclaraciones: "Adultos mayores de 60 años, personas con enfermedades crónicas, personas con discapacidad, hogares monoparentales con niños a cargo"
+otros_contactos: ""
+horario: "(MAR)10:00-12:00,(JUE)15:00-18:00"
+aclaraciones: "Se puede coordinar retiro de donaciones telefónicamente"
 cuenta_bancaria: ""
 
 ---

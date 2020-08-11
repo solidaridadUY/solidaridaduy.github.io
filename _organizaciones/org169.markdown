@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Montevideo al Sur"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal: Club Cohami"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Reciben donaciones para ollas populares, canastas familiares, ropa, y lo que se crea pertinente"
-telefono_contacto: "099228148"
-direccion: "Paraguay 1150 esquina Maldonado"
+barrio: "Conciliación"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "094624751"
+direccion: "Club cohami - Millan y Lecoq"
 
 otros_contactos: ""
-horario: "Todos los días - 9.00 a 0.00 hs"
+horario: "(SAB-DOM)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

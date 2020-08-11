@@ -1,7 +1,7 @@
 ---
-nombre: "Brazo Oriental"
+nombre: "Barrio Sur"
 departamento: "Montevideo"
 ---
 
-Barrio Brazo Oriental
+Barrio Barrio Sur
 Departamento de Montevideo

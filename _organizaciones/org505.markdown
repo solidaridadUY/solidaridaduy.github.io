@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Nueva Esperanza (Olla de Carola)"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "21/05/2020"
-
-departamento: "Maldonado"
-barrio: "Los Eucaliptus"
+departamento: "Montevideo"
+barrio: "Santa Catalina"
 actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Adriana: 092918770"
-direccion: "Sector D"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Leche"
+telefono_contacto: "(Carola)097810908
+"
+direccion: "Las violetas 2002 entre tambor y tambera"
 
 otros_contactos: ""
-horario: "Todos los días - "
-aclaraciones: "Sábados y domingos se da almuerzo"
+horario: "(MAR-JUE)16:00-18:00,(SAB-DOM)16:00-18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

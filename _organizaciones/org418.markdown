@@ -1,25 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Brigada Crece desde el Pie"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casavalle"
+barrio: "Nuevo París"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos, guantes.
-No tiene techo para cocinar.
+donaciones: ""
+necesidades: ""
+telefono_contacto: "(Anselmo)094286063
 "
-telefono_contacto: "096746354
-Marcela
-"
-direccion: "Andrés Masali esq. Héctor Castro"
+direccion: "Romeo Gavioli esquina Minotto di Cocco "
 
 otros_contactos: ""
-horario: "Todos los días - "
+horario: "(LUN-DOM)18:30"
 aclaraciones: ""
 cuenta_bancaria: ""
 

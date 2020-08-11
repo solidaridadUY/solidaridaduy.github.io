@@ -1,7 +1,7 @@
 ---
-nombre: "Punta del Este"
+nombre: "Piriápolis"
 departamento: "Maldonado"
 ---
 
-Barrio Punta del Este
+Barrio Piriápolis
 Departamento de Maldonado

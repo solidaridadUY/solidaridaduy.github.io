@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Escuela Experimental"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "5/05/2020"
+title: "Liverpool Fútbol Club"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Malvín"
+barrio: "Paso Molino"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "094163327"
-direccion: "Decroly 4971"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Víctor Rodríguez)097374250"
+direccion: "Avenida Agraciada 4186 (Sede)"
 
 otros_contactos: ""
-horario: "Martes - 10 a 12"
-aclaraciones: "Dirigida a familias de la escuela 219 y 274"
+horario: "(LUN-SAB)20:00"
+aclaraciones: "Reciben y van a buscar donaciones"
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Chacarita de los Padres"
+nombre: "Casco del Cerro"
 departamento: "Montevideo"
 ---
 
-Barrio Chacarita de los Padres
+Barrio Casco del Cerro
 Departamento de Montevideo

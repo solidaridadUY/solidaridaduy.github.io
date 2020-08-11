@@ -2,20 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "21/05/2020"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "La Boyada"
+barrio: "Barrio Lavalleja"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos para olla"
-telefono_contacto: "094 023 609"
-direccion: "Camino de las Tropas 4776"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Mario Lanuse)094896412"
+direccion: "Los Olvidados 1 25 metros entre Silva y Edison
+"
 
 otros_contactos: ""
-horario: "Sábado - Mediodía"
+horario: "(SAB-DOM)20:00-00:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

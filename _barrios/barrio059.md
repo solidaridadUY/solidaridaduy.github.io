@@ -1,7 +1,7 @@
 ---
-nombre: "Bella Italia"
+nombre: "Barrio 23 de octubre"
 departamento: "Montevideo"
 ---
 
-Barrio Bella Italia
+Barrio Barrio 23 de octubre
 Departamento de Montevideo

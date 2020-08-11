@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal - Villa Sarandí"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Asociación Civil Nuestros Sueños"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Paso de la Arena"
+barrio: "Villa Sarandí"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "    091 881 443"
-direccion: "Romeo Gavioli y Dolores Candales S/N "
+donaciones: "Todo tipo de donaciones"
+necesidades: "alimentos, artículos de limpieza y ropa"
+telefono_contacto: "(Dahiana)091881443"
+direccion: "Romeo Gavioli esquina Dolores Candales"
 
 otros_contactos: ""
-horario: "Todos los días - 14 a 19 hs."
-aclaraciones: ""
+horario: "(LUN-VIE)13:00-18:00"
+aclaraciones: "Apoyan otras dos ollas del barrio Nuevo Sarandí y a la organización Amigos del Corazón del barrio vecino"
 cuenta_bancaria: ""
 
 ---

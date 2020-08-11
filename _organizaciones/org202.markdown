@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Suárez"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "093 687 106"
-direccion: "Calle Pérez Castellano esq.Aparicio Saravia en el costado de heladería Francolate"
+departamento: "Montevideo"
+barrio: "Villa Española"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Pulpa de tomate, lentejas, tapabocas, guantes"
+telefono_contacto: "099527443"
+direccion: "Robinson 3367"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Coordinar donaciones por mensaje de WhatsApp o llamar"
-aclaraciones: ""
+horario: "(LUN-DOM)08:00-15:00"
+aclaraciones: "Hacen Olla en Antel Arena (Centenario y Serrato)"
 cuenta_bancaria: ""
 
 ---

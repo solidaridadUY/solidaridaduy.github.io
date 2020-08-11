@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal Rayito de sol"
-date: 2020-05-26 20:22:32 -0300
+title: "COVITA"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Casavalle"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Maira 093566208"
-direccion: "Gustavo Volpe 4920 bis esquina Senda 17"
+departamento: "Salto"
+barrio: "La Tablada"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "092090339"
+direccion: "pasaje rodirguez vivienda 1"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 17 hs."
-aclaraciones: "Atienden 140 niños aprox."
+horario: "(LUN-VIE)"
+aclaraciones: "Se sirve cena"
 cuenta_bancaria: ""
 
 ---

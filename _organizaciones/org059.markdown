@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "SUA (Sociedad Uruguaya de Actores)"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Club Estudiantes de la Unión"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
+barrio: "Unión"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091 381 895"
-direccion: "Centro Cultural Carlos Brussa (Mercedes 931)"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Verduras, frutas, aceite, papas, y alimentos no perecederos"
+telefono_contacto: "094460660"
+direccion: "Cabrera y Pernas"
 
-otros_contactos: "098 787 582"
-horario: "Consultar telefónicamente - 15 a 19"
-aclaraciones: ""
-cuenta_bancaria: "Brou de Caja de Socorros de SUA, Cuenta Corriente 001554456-00002 en pesos"
+otros_contactos: ""
+horario: "(MAR)13:00,(SAB)13:00"
+aclaraciones: "Cuentan con disponibilidad horaria y locomoción para ir por las donaciones"
+cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "La Paloma"
+nombre: "Cruz de Carrasco"
 departamento: "Montevideo"
 ---
 
-Barrio La Paloma
+Barrio Cruz de Carrasco
 Departamento de Montevideo

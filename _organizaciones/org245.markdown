@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Progreso Solidario"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Centro Juvenil Coop. Tunguele"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Canelones"
-barrio: "Progreso"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099472132 - 095903271"
-direccion: "Sin espacio físico específico"
+barrio: "Montes de Solymar"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: ""
+telefono_contacto: "099668862,091785537"
+direccion: "Coordinar telefónicamente"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+horario: ""
+aclaraciones: "Se reciben alimentos y art. de limpieza para familias que los necesiten."
 cuenta_bancaria: ""
 
 ---

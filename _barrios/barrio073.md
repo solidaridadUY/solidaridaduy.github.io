@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro Norte"
+nombre: "Casavalle"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro Norte
+Barrio Casavalle
 Departamento de Montevideo

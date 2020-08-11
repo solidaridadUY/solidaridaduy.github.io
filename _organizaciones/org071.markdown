@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA - Comité Carlos Quijano"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/04/2020"
+title: "Red Solidaria Barrio Lavalleja"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros"
-actividades: "Canasta"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: ""
-telefono_contacto: "099144809"
-direccion: "Atahona esq. Celedonio Rojas"
+barrio: "Barrio Lavalleja"
+actividades: "Olla"
+donaciones: ""
+necesidades: ""
+telefono_contacto: "099709823"
+direccion: "Av de las instrucciones 1200 A, apto 2"
 
 otros_contactos: ""
-horario: "Jueves y Sábado - 10 a 12 hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

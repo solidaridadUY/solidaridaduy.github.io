@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Teatro El Galpón"
-date: 2020-05-26 20:22:32 -0300
+title: "Canasta amiga"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: "Alimentos no perecederos y artículos de limpieza"
-necesidades_especificas: ""
-telefono_contacto: "24083366"
-direccion: "18 de julio 1618"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Canasta"
+donaciones: "Alimentos no perecederos"
+necesidades: "Apoyo económico"
+telefono_contacto: "099997818,098553359,099421362"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: " - 10 a 19hs"
-aclaraciones: ""
-cuenta_bancaria: ""
+horario: ""
+aclaraciones: "Contactarse para realizar donaciones."
+cuenta_bancaria: "Colectivo Canasta Amiga en Abitab Nro 109635"
 
 ---

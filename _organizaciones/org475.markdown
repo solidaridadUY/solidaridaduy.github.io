@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "CECOED"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "097744539,092338132"
+direccion: "Ruta 8 km 23.700 (sobre la ruta)"
 
-departamento: "Salto"
-barrio: "Salto"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos no perecedores, pañales de adultos/as y niños/as"
-telefono_contacto: "092350389
-"
-direccion: "Avda. Luis Batlle Berres esq. Enrique Amorim"
-
-otros_contactos: "47327359"
-horario: "Consultar telefónicamente - Consultar telefónicamente"
+otros_contactos: ""
+horario: "(LUN)19:00,(JUE)19:00,(VIE)19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

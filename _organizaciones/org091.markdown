@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Layva"
-date: 2020-05-26 20:22:32 -0300
+title: "El abrojo"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Villa Dolores"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Alimentos no perecederos y artículos de limpieza"
-telefono_contacto: "099337003"
-direccion: "Julio César 1466"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Alimentos no perecederos"
+telefono_contacto: "099699322"
+direccion: "Wilson Ferreira Aldunate 712"
 
-otros_contactos: "099629958  094204040"
-horario: "Miércoles y Sábados - Miércoles de 17 a 18 hs y sábados de 12 a 13 hs"
-aclaraciones: "Pasan a buscar los miércoles de 16 a 18 hs y sábados de 11 a 13 hs o 16 a 18 hs"
+otros_contactos: ""
+horario: "(LUN-VIE)09:00-17:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "Villa del Cerro"
+nombre: "Santa Catalina"
 departamento: "Montevideo"
 ---
 
-Barrio Villa del Cerro
+Barrio Santa Catalina
 Departamento de Montevideo

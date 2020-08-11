@@ -1,7 +1,7 @@
 ---
-nombre: "Paso Carrasco"
+nombre: "No corresponde"
 departamento: "Montevideo"
 ---
 
-Barrio Paso Carrasco
+Barrio No corresponde
 Departamento de Montevideo

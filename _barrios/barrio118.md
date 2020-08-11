@@ -1,7 +1,7 @@
 ---
-nombre: "Puntas de Manga"
+nombre: "Peñarol"
 departamento: "Montevideo"
 ---
 
-Barrio Puntas de Manga
+Barrio Peñarol
 Departamento de Montevideo

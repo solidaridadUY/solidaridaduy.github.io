@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "C.A. Juventud de Las Piedras."
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "No corresponde"
-direccion: "Pasaje F, entre Av. Instrucciones y Gambeta (A 1 cuadra del liceo 60)"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "098729120"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
-horario: "Sábados y Domingos -  20:30 hs "
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Vecinxs de Pajas Blancas en PABLAN Baby Futbol"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Minervas Colectivo Feminista"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Pajas Blancas"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Arroz, Lentejas, Salsa de Tomate, Zanahorias, Boniatos, Zapallo, Papas, Fideos, Pollo, Carne"
-telefono_contacto: "094569111"
-direccion: "Cancha de Baby Fútbol del PABLAN "
+barrio: "Cordón"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Noelia)096129858
+"
+direccion: "Ferrer Serra 1930 esquina Democracia"
 
 otros_contactos: ""
-horario: "Martes Jueves y Viernes - Mediodía"
-aclaraciones: "Se retiran donaciones, coordinar telefónicamente"
+horario: "(SAB)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

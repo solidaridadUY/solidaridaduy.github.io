@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Jornada Solidaria"
-date: 2020-05-26 20:22:32 -0300
+title: "Viandas a domicilio"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "16/05/2020"
-
-departamento: "Maldonado"
-barrio: "Barrio 14 de Febrero"
-actividades: "Olla"
-necesidades: "Alimentos, Ropa y Artículos de Limpieza"
-necesidades_especificas: "Carne, verduras, fideos, aceite"
-telefono_contacto: "ROMINA: 095566398"
-direccion: "FRENTE A CANCHA DE BABY BARCELONA"
+departamento: "Colonia"
+barrio: "Rosario"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "099550034"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "Todos los días - 18:00"
-aclaraciones: "Llevar recipiente, bolsa para pan y algo para la leche"
+horario: ""
+aclaraciones: "Comunicarse telefónicamente por viandas a domicilio"
 cuenta_bancaria: ""
 
 ---

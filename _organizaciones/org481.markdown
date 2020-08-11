@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Malumbe"
-date: 2020-05-26 20:22:32 -0300
+title: "Centro Educativo Unidos por los Niños"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "Don Atilio"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091792945"
-direccion: "Rincon casi 17mts"
+departamento: "Montevideo"
+barrio: "Villa Española"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos para armar canastas y abrigo"
+telefono_contacto: "091203982"
+direccion: "Vazquez Cores 3247, esq. Serratosa"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - Consultar telefónicamente"
-aclaraciones: "merienda y cena"
+horario: "(LUN-DOM)"
+aclaraciones: "Atienden adolescentes, arman 80 canastas, reciben abrigo"
 cuenta_bancaria: ""
 
 ---

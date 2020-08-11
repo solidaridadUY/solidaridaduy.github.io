@@ -1,7 +1,7 @@
 ---
-nombre: "Las Torres"
+nombre: "La Boyada"
 departamento: "Montevideo"
 ---
 
-Barrio Las Torres
+Barrio La Boyada
 Departamento de Montevideo

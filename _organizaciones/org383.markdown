@@ -1,21 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité Gelós Bonilla"
-date: 2020-05-26 20:22:32 -0300
+title: "20 de julio"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Maldonado"
-barrio: "Barrio B9"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099815751"
-direccion: "Cont. Lavalleja y Las Garzas"
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Productos de limpieza, alimentos"
+telefono_contacto: "(Jonathan)097322340
+"
+direccion: "Burdeos 2911 esquina 17 Metros"
 
 otros_contactos: ""
-horario: " - "
+horario: "(JUE)19:00,(DOM)13:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

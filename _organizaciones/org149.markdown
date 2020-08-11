@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Autoservice Mediomundo"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Club Yale"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "Jacinto Vera"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne, productos sanitarios (tapabocas, guantes, alcohol en gel, detergente,etc), recipientes o tuppers"
-telefono_contacto: "098141813"
-direccion: "Durazno y Zelmar Michellini"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Alimentos no perecederos y artículos de limpieza."
+telefono_contacto: "091526172"
+direccion: "Dr. Gustavo Gallinal 1989"
 
-otros_contactos: "094053638"
-horario: "Consultar telefónicamente - Horario almacen "
-aclaraciones: "Se puede coordinar telefónicamente para ir a retirar"
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Coordinar vía telefónica."
 cuenta_bancaria: ""
 
 ---

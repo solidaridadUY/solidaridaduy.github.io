@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Comunidad Charrúa Jaguar Berá, Gremio estudiantil Liceo 9, Comisión del Castillo"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Lezica"
-actividades: "Olla"
+barrio: "Colón"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos"
 necesidades: ""
-necesidades_especificas: "Alimentos no perecederos y productos de limpieza"
-telefono_contacto: "096262917"
-direccion: "Carlos Ott 2060 Bis"
+telefono_contacto: "099761484"
+direccion: "Av Lezica 5912 esquina iturbe"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - 20:00 hrs"
-aclaraciones: "Arrimarse con la vianda. Coordinar entrega de donaciones vía movil."
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

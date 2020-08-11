@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comité Palermo"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla popular ITUZAINGO"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Palermo"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Isabel 093 739 044"
-direccion: "Maldonado 1587"
+departamento: "Canelones"
+barrio: "Pando"
+actividades: "Olla"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "(Lourdes Perera)096001040"
+direccion: "Gral Artigas entre Treinta y Tres y Champagnat (Salón Parroquial)"
 
 otros_contactos: ""
-horario: "Martes - 15 a 19 hs"
+horario: "(LUN-VIE)19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

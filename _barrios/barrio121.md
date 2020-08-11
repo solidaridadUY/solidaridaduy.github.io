@@ -1,7 +1,7 @@
 ---
-nombre: "Santa Catalina"
+nombre: "Plácido Ellauri"
 departamento: "Montevideo"
 ---
 
-Barrio Santa Catalina
+Barrio Plácido Ellauri
 Departamento de Montevideo

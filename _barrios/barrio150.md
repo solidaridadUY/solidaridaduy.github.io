@@ -1,7 +1,7 @@
 ---
-nombre: "Puentes Blancos"
-departamento: "Salto"
+nombre: "Lascano"
+departamento: "Rocha"
 ---
 
-Barrio Puentes Blancos
-Departamento de Salto
+Barrio Lascano
+Departamento de Rocha

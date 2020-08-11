@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Brandi"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Aute"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Conciliación"
+barrio: "Aguada"
 actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Alimentos no percederos, productos de higiene y limpieza"
-telefono_contacto: "098964527 096450004"
-direccion: "Adolfo Rodriguez 6738"
+donaciones: ""
+necesidades: "Campaña de recolección de alimentos para familias y para personal de servicios esenciales o en situación de vulnerabilidad."
+telefono_contacto: "092040449"
+direccion: "Av. Agraciada 2463"
 
 otros_contactos: ""
-horario: "Todos los días - A partir de las 13 hs"
-aclaraciones: ""
+horario: ""
+aclaraciones: "Elaboración y reparto de alimentos para personal de servicios esenciales o en situación de vulnerabilidad."
 cuenta_bancaria: ""
 
 ---

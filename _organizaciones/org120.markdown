@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Atlético Cordón"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Taller Infantil Raíces junto a vecinas y organizaciones de Barrio Sur"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cordón"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091923053"
-direccion: "Galicia 1673"
+barrio: "Barrio Sur"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Alimentos no perecederos para canastas y merienda, productos de limpieza e higiene"
+telefono_contacto: "(Camila Sosa)098697902 "
+direccion: "Zelmar Michelini 993"
 
-otros_contactos: ""
-horario: "Consultar telefónicamente - Consultar telefónicamente"
-aclaraciones: "Se pueden coordinar retiros de donaciones vía telefónica"
-cuenta_bancaria: ""
+otros_contactos: "(Sofía Raffaelli)099005299 "
+horario: "(LUN-DOM)"
+aclaraciones: ""
+cuenta_bancaria: "Raíces I BROU caja de ahorros pesos ($) 001930334-00001"
 
 ---

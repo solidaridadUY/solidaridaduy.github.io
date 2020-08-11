@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Centro Salesiano"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "13/05/2020"
+title: "Adeom"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Aires Puros"
-actividades: "Canasta"
-necesidades: "Apoyo económico"
-necesidades_especificas: ""
-telefono_contacto: "2355 5684"
-direccion: "No corresponde"
+barrio: "Centro"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Alberto Cancela)099759758 "
+direccion: "Canelones 1330"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
-cuenta_bancaria: "BBVA - CC $ 9927 19836 Centro Salesiano Aires Puros"
+horario: ""
+aclaraciones: "Campaña del Kilo para familias vulnerables. Actualmente, están haciendo ollas en los barrios: Cerro, Colón, Manga y Borro"
+cuenta_bancaria: ""
 
 ---

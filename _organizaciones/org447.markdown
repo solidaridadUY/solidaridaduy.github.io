@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Brigada Crece desde el Pie"
-date: 2020-05-26 20:22:32 -0300
+title: "Merendero Corazoncitos"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "13/05/2020"
-
-departamento: "Montevideo"
-barrio: "Nuevo París"
-actividades: "Olla"
+departamento: "Salto"
+barrio: "Salto Nuevo Sur"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
 necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: "094286063
-Anselmo"
-direccion: "Romeo Gavioli esquina Minotto di Cocco "
+telefono_contacto: "097732521"
+direccion: "juan carlos gomez 2600 viv 1"
 
 otros_contactos: ""
-horario: "Todos los días - 18.30"
-aclaraciones: ""
+horario: "(LUN-DOM)00:00-23:59"
+aclaraciones: "En situación de urgencia. Dueña de casa recibe todo el día"
 cuenta_bancaria: ""
 
 ---

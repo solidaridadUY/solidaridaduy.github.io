@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Colectivo Peñarolense"
-date: 2020-05-26 20:22:32 -0300
+title: "Cooperativa de trabajo Pa Lante. Caif Desde el Pie "
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Unión"
+departamento: "San José"
+barrio: "Ciudad del Plata"
 actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
 necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Cabrera 3606 esq. Pernas"
+telefono_contacto: "(Maxi)091756871,(Sabrina)095019279"
+direccion: " Caif Desde el Pie. Manzana 17 Calle Los Pinos Barrio Monte Grande  Km 29.500 Ruta 1 Vieja"
 
 otros_contactos: ""
-horario: "Martes Jueves y Sábado - 20hs"
-aclaraciones: ""
+horario: "(SAB)12:30-13:00"
+aclaraciones: "Se entregan 210 porciones,reciben donaciones en el Caif, los  días de olla están desde las 08.00 horas.    "
 cuenta_bancaria: ""
 
 ---

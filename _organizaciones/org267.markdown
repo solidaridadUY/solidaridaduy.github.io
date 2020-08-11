@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Club Sportivo Artigas"
-date: 2020-05-26 20:22:32 -0300
+title: "Organización vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Sauce"
+departamento: "Montevideo"
+barrio: "Casco del Cerro"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Se reciben alimentos y donaciones hasta el 03/04"
-telefono_contacto: "099240201 092487833"
-direccion: "Ruta 6 km 34.500"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Sr. Monzón)091004233
+"
+direccion: "China 2218 esquina Patagonia"
 
 otros_contactos: ""
-horario: "Sábado - 19.30 hs"
-aclaraciones: "Llevar tupper"
+horario: "(MAR)13:00,(VIE)13:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

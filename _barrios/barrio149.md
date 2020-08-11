@@ -1,7 +1,7 @@
 ---
-nombre: "Patulé"
-departamento: "Salto"
+nombre: "Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Patulé
-Departamento de Salto
+Barrio Chuy
+Departamento de Rocha

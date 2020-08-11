@@ -1,5 +1,5 @@
 ---
-nombre: "Treinta y Trés"
+nombre: "Soriano"
 ---
 
-Departamento de Treinta y Trés
+Departamento de Soriano

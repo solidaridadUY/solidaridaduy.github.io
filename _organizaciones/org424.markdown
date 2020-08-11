@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Agrupación de Ayuda Mutua Siembra y Cosecha"
-date: 2020-05-26 20:22:32 -0300
+title: "Merendero Cooperativo Las Bóvedas Ciudad Vieja"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Otros"
-necesidades: "Alimentos"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "097069405 (Virginia)
-091282021 (Mariana)
-095770714 (José)"
-direccion: "Barrios San Marcos, Razzetti y Pilarica"
+departamento: "Montevideo"
+barrio: "Ciudad Vieja"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche en Polvo"
+telefono_contacto: "(Bea)094610400,(Santiago)097490097,(Magdalena)099151141 "
+direccion: "Rambla 25 de Agosto 566 entre Ituzaingó y Juan Carlos Gómez, COVICIVI"
 
 otros_contactos: ""
-horario: "Todos los días - 20 hs"
-aclaraciones: "Grupo creado para publicar pedidos de ayuda y cosas que tengamos para donar, zona Las Piedras, La Paz, Progreso"
+horario: "(SAB)17:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

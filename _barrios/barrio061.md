@@ -1,7 +1,7 @@
 ---
-nombre: "Belvedere"
+nombre: "Barrio La Carbonera"
 departamento: "Montevideo"
 ---
 
-Barrio Belvedere
+Barrio Barrio La Carbonera
 Departamento de Montevideo

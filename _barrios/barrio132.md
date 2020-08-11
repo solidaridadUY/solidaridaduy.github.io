@@ -1,7 +1,7 @@
 ---
-nombre: "Villa Muñoz"
+nombre: "Tres Ombúes"
 departamento: "Montevideo"
 ---
 
-Barrio Villa Muñoz
+Barrio Tres Ombúes
 Departamento de Montevideo

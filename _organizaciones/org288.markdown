@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casco del Cerro"
+barrio: "Causeglia"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "096875768
-Juan Rodríguez"
-direccion: "Carlos María Ramírez esq. Chile"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(María José)093665410 "
+direccion: "Pasaje Pereda Solar 31 esquina Cuñatahí"
 
 otros_contactos: ""
-horario: "Domingo - 19 hs"
+horario: "(MAR)20:00,(JUE)20:00,(SAB)20:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

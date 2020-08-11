@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "C. A. La Blanqueada"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Popular Berro"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Larrañaga,La Blanqueada,Parque Rodó"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "099258845"
-direccion: "Emilio Frugoni 1043 esq. Isla de Flores (Brownies Luis) y Emilio Raña 2915 esq Juan Cabal (Club Paysandú)"
+barrio: "Malvín Norte"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Carne y verdura"
+telefono_contacto: "(Rosa)092630371 "
+direccion: "Enrique Ciancone esquina Roberto Berro"
 
-otros_contactos: ""
-horario: "Lunes a Viernes - En Brownies Luis martes y miércoles de 17 a 18 hs. En Club Paysandú martes y jueves de 15 a 18 hs y miércoles de 10 a 13 hs."
-aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto o por redes sociales."
+otros_contactos: "096205657"
+horario: "(SAB-DOM)20:00"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

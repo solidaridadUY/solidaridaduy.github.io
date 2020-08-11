@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Popular Cabaña Anaya"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/05/2020"
+title: "Seregnistas - FA"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Paso de la Arena"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "094762392
-Leonel Cardozo"
-direccion: "Lomas de Zamora 2512"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Avda del Libertador 1678"
 
 otros_contactos: ""
-horario: "Martes Jueves y Sábado - A partir de las 17hs"
-aclaraciones: "Contacto  para inscribirse: 099 974 499"
+horario: "(MAR)17:00-18:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

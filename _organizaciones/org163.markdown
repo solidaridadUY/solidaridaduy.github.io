@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Comité García Lorca"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092933742"
-direccion: "San Martín Esq. B.Mendez"
+barrio: "Jacinto Vera"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "099 704 126"
+direccion: "Colorado 2212 casi Cufré"
 
 otros_contactos: ""
-horario: " - Durante el día."
-aclaraciones: "En lo posible coordinar vía telefónica"
+horario: "(LUN-VIE)17:00-19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

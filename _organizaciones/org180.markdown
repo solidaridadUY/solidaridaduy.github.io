@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Agrupación Hinchas de Racing"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "SOMOS - Acción en Red"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Sayago"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Alvaro 095536444"
-direccion: "Millán y Eduardo Pondal"
+barrio: "No corresponde"
+actividades: "Retiro de donaciones"
+donaciones: ""
+necesidades: "Todo tipo de donaciones y fondos"
+telefono_contacto: ""
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
+horario: ""
+aclaraciones: "Vinculan a personas y empresas que están dispuestas a contribuir con quienes llevan adelante iniciativas solidarias. Contactar por e-mail o redes sociales."
 cuenta_bancaria: ""
 
 ---

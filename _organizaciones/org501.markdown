@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "C S y D Wanderers Pando"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "20/05/2020"
-
-departamento: "Canelones"
-barrio: "Pando"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
 actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "097976887/ 092875432/ 098129036"
-direccion: "Cancha wanderers, calle Florida al lado del Estadio Municipal, Barrio estadio. "
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Mario Lanuse)094896412"
+direccion: "Caminito Pedro Fuentes y Caminito pasaje B"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - A partir de las 16hs"
+horario: "(LUN-VIE)13:00-19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

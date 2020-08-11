@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Malumbe"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
+departamento: "Montevideo"
+barrio: "Pajas Blancas"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, frutas y verduras"
+telefono_contacto: "(Ema)099404163"
+direccion: ""
 
-departamento: "Salto"
-barrio: "Don Atilio"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091792945"
-direccion: "Diagonal 14 nº1050"
-
-otros_contactos: ""
-horario: "Todos los días - Todo el día"
-aclaraciones: "Dueño de casa recibe donaciones todo el día"
+otros_contactos: "(Aníbal Larrosa)099171729"
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

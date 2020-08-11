@@ -1,7 +1,7 @@
 ---
-nombre: "Rivera"
-departamento: "Rivera"
+nombre: "Villa Sarandí"
+departamento: "Montevideo"
 ---
 
-Barrio Rivera
-Departamento de Rivera
+Barrio Villa Sarandí
+Departamento de Montevideo

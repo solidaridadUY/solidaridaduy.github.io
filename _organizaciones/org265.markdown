@@ -1,22 +1,22 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Murallones 
+Santa Catalina"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Colonia"
-barrio: "Nueva Helvecia"
-actividades: "Realización de compras"
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
 necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: "091 471 165"
-direccion: "Av Gilomen 1448"
+telefono_contacto: "(Fabián)092726853
+"
+direccion: "Calle 26 de Octubre (Frente a la plaza)"
 
 otros_contactos: ""
-horario: "Todos los días - Consultar telefónicamente"
-aclaraciones: ""
+horario: "(MAR)20:00,(JUE)20:00"
+aclaraciones: "Llamar antes de ir"
 cuenta_bancaria: ""
 
 ---

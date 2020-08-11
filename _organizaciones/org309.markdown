@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Asentamiento Fortaleza del Cerro"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "25/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro"
+barrio: "Pajas Blancas"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "097311550 Paola"
-direccion: "Asentamiento Fortaleza del Cerro (pasaje el tanque)"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Alimentos no perecederos, frutas y verduras, productos de limpieza"
+telefono_contacto: "(Aníbal)099171729 "
+direccion: "Club Pablan Leal de Ibarra y Pajas Blancas"
 
-otros_contactos: "097545426 Carla 
-097537971 Ximena"
-horario: "Sábados y Domingos - 19hs"
-aclaraciones: "Llevar vianda"
-cuenta_bancaria: ""
+otros_contactos: ""
+horario: "(LUN)18:00,(MIE)18:00,(SAB-DOM)13:00"
+aclaraciones: ""
+cuenta_bancaria: "Caja de ahorro BROU 000665700-00001"
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "ONG EL ABROJO"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casabó"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Alimentos para olla"
-telefono_contacto: "092405789 "
-direccion: "Continuación Perú 2540 esq. Pasaje Solano"
+barrio: "Centro"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "En particular, alimentos no perecederos"
+telefono_contacto: "098575716"
+direccion: "Soriano 1153"
 
-otros_contactos: "096557454 Sonia"
-horario: "Sábados y Domingos - 13 hs"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

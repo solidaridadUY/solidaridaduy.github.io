@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Parroquia Santisima Trinidad y Organización Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Jóvenes FA-Treinta y Tres"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Montevideo"
-barrio: "Chacarita de los Padres"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Alejandra Sánchez 091997349"
-direccion: "Géminis 6370"
+departamento: "Treinta y Trés"
+barrio: "No corresponde"
+actividades: "Realización de compras"
+donaciones: ""
+necesidades: ""
+telefono_contacto: "092365306,091665164,098864387"
+direccion: ""
 
 otros_contactos: ""
-horario: "Todos los días - 16 a 19 hs"
-aclaraciones: "Donaciones para merendero y olla popular"
+horario: "(LUN-DOM)"
+aclaraciones: "Realización de compras a población de riesgo"
 cuenta_bancaria: ""
 
 ---

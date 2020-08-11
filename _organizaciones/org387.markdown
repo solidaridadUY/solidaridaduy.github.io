@@ -1,22 +1,24 @@
 ---
 layout: organizacion
 
-title: "Brigada Feminista"
-date: 2020-05-26 20:22:32 -0300
+title: "Matilde Pacheco"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
+departamento: "Montevideo"
+barrio: "Casavalle"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Artículos para olla, y limpieza.
+Leche
+"
+telefono_contacto: "(María Rosario Bitancourt)094950962,(Laura Rosande)094970039
 
-departamento: "Maldonado"
-barrio: "Maldonado"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: "Leche en polvo, cocoa, galletas, frutas, harina, azúcar, maicena, mermeladas, dulces"
-telefono_contacto: "Gabriela: 098395475"
-direccion: "Isabel de Castilla y Minas B. Kennedy"
+"
+direccion: "Matilde Pacheco Nº 36, esq. Luciano Lira."
 
 otros_contactos: ""
-horario: "Sábados y Domingos - 16:30 a 18:00"
-aclaraciones: "Llevar recipiente, termo o botella para el chocolate. Iniciativa en situación de urgencia"
+horario: "(SAB-DOM)"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

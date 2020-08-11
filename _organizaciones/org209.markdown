@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Jardines del Hipódromo"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Lo que diariamente más falta es carne, frutas/verduras y pan."
-telefono_contacto: "099734480"
-direccion: "David Chiossoni 3585"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "094637367,092327637"
+direccion: "Curva de Carlos Gardel - La Pilarica"
 
 otros_contactos: ""
-horario: " - martes y jueves 20hs"
-aclaraciones: "Llevar tupper y una persona x núcleo familiar. Pueden pasar a buscar donaciones"
-cuenta_bancaria: "Tarjeta MiDinero ci 3508072-4"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
 
 ---

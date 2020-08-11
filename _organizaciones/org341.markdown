@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Reus al Sur"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "25/04/2020"
+title: "Comité 13 de diciembre"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Barrio Sur"
+barrio: "Puntas de Manga"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "091820811"
-direccion: "Club Atlético Atenas (Cebollatí 1434 esq. Santiago de Chile)"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: ""
+direccion: "José Belloni 6032 entre Berro y Antares"
 
-otros_contactos: "098180171"
-horario: "Lunes, Martes, Jueves y Viernes - 19:00 a 20.00 hs"
-aclaraciones: "Llevar recipiente. En lo posible, usar tapabocas. Concurrir lo más temprano posible."
+otros_contactos: ""
+horario: "(SAB-DOM)20:00"
+aclaraciones: "Llevar recipiente"
 cuenta_bancaria: ""
 
 ---

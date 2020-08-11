@@ -1,7 +1,7 @@
 ---
-nombre: "Manga"
+nombre: "Las Torres"
 departamento: "Montevideo"
 ---
 
-Barrio Manga
+Barrio Las Torres
 Departamento de Montevideo

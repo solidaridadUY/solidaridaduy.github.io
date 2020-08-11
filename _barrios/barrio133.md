@@ -1,7 +1,7 @@
 ---
-nombre: "ZONA B"
+nombre: "Unión"
 departamento: "Montevideo"
 ---
 
-Barrio ZONA B
+Barrio Unión
 Departamento de Montevideo

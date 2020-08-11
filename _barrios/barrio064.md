@@ -1,7 +1,7 @@
 ---
-nombre: "Buceo"
+nombre: "Bella Italia"
 departamento: "Montevideo"
 ---
 
-Barrio Buceo
+Barrio Bella Italia
 Departamento de Montevideo

@@ -1,28 +1,20 @@
 ---
 layout: organizacion
 
-title: "Ecomité"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
-
-departamento: "Montevideo"
-barrio: "ZONA B"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Apoyo económico, Alimentos no perecederos, Artículos de Limpieza"
-telefono_contacto: "099384525
-Sofía 
-099735767
-Chantal"
-direccion: "No aplica"
+departamento: "Maldonado"
+barrio: "Barrio Benedetti"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo azúcar y cocoa"
+telefono_contacto: "(César)099751823"
+direccion: "A 200 metros del comunal del Barrio"
 
 otros_contactos: ""
-horario: "Todos los días - Consultar telefónicamente"
-aclaraciones: "Coordinar para retiro de donaciones"
-cuenta_bancaria: "BROU 
-110080467 - 00001
-
-600-0993555"
+horario: "(LUN-DOM)17:00"
+aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
+cuenta_bancaria: ""
 
 ---

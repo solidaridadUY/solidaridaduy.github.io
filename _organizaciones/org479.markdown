@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Merendero Los pitufos"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal "
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "Don Atilio"
+departamento: "Canelones"
+barrio: "Empalme Olmos"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092921893"
-direccion: "Diagonal 10 Nº1027"
+donaciones: "Todo tipo de donaciones"
+necesidades: "arroz, lentejas, carne, articulos de limpieza."
+telefono_contacto: "(Marianella)094462745"
+direccion: "Ruta 82 entre Juan Zorrilla de San Martín y Lorenzo Latorre, Club Unión de Empalme Olmos"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - Consultar telefónicamente"
-aclaraciones: "Se sirve cena"
+horario: "(LUN-SAB)13:00-19:00"
+aclaraciones: "En situación de urgencia. Hasta el 20/05 en Club Ferro pero fue robada y se quedaron sin nada, mudaron las instalaciones pero siguen necesitando articulos. "
 cuenta_bancaria: ""
 
 ---

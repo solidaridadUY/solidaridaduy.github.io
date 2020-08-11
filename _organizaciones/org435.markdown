@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Unidos"
-date: 2020-05-26 20:22:32 -0300
+title: "Colectivo Peñarolense"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Flores"
-barrio: "Barrio La Figurita"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "Juan Díaz 098817858"
-direccion: "Capilla Santa Teresita Berro y Piedras"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "094746309"
+direccion: "Torres Garcia 791 esq. Valdenegro"
 
 otros_contactos: ""
-horario: "Sábado - De 17 a 20:30 hs"
-aclaraciones: "Usan las instalaciones de la capilla"
+horario: "(JUE)21:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

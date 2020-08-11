@@ -1,7 +1,7 @@
 ---
-nombre: "Cruz de Carrasco"
+nombre: "Ciudad Vieja"
 departamento: "Montevideo"
 ---
 
-Barrio Cruz de Carrasco
+Barrio Ciudad Vieja
 Departamento de Montevideo

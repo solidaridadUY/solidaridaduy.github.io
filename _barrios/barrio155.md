@@ -1,7 +1,7 @@
 ---
-nombre: "J. E. Rodó"
-departamento: "Soriano"
+nombre: "Don Atilio"
+departamento: "Salto"
 ---
 
-Barrio J. E. Rodó
-Departamento de Soriano
+Barrio Don Atilio
+Departamento de Salto

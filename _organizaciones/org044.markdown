@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Ollas y Canastas Solidarias"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Centro Salesiano"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerrito de la Victoria"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, Artículos de limpieza, tuppers, cubiertos descartables"
-telefono_contacto: "098422915 099841142 094807175 099927956 091252622"
-direccion: ""
+barrio: "Aires Puros"
+actividades: "Canasta"
+donaciones: "Apoyo económico"
+necesidades: ""
+telefono_contacto: "23555684"
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: "Llevar tupper.                                                                                                                                   Por más información sobre las ollas que realiza esta organización, visitar sus redes sociales."
-cuenta_bancaria: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "BBVA - CC $ 9927 19836 Centro Salesiano Aires Puros"
 
 ---

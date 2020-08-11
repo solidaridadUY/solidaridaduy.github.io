@@ -1,7 +1,7 @@
 ---
-nombre: "Marconi"
+nombre: "Lezica"
 departamento: "Montevideo"
 ---
 
-Barrio Marconi
+Barrio Lezica
 Departamento de Montevideo

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Movimiento Barrial Solidario"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Organización vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Peñarol"
+barrio: "Casco del Cerro"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099783722"
-direccion: "Aparicio Saravia y Coronel Raiz"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Juan Rodríguez)096875768"
+direccion: "Carlos María Ramírez esq. Chile"
 
 otros_contactos: ""
-horario: " - Lunes 18hs Miercoles 18hs y Sábados 12hs"
-aclaraciones: "Hacen bonos de colaboración para colaborar con la compra de los artículos que más se necesitan (gas, huevo y carnes, productos de limpieza)"
+horario: "(DOM)19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

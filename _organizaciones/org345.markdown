@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité 28 de Noviembre"
-date: 2020-05-26 20:22:32 -0300
+title: "Club Atlético Atenas"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "26/04/2020"
-
-departamento: "Montevideo"
-barrio: "ZONA B"
-actividades: "Punto de Donación"
-necesidades: "Apoyo económico"
-necesidades_especificas: ""
+departamento: "Maldonado"
+barrio: "San Carlos"
+actividades: "Otros"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
 telefono_contacto: ""
-direccion: "No aplica"
+direccion: "SEDE SOCIAL CLUB ATENAS"
 
 otros_contactos: ""
-horario: "Todos los días - -"
-aclaraciones: ""
-cuenta_bancaria: "BROU
-001126179-0004"
+horario: "(LUN-DOM)08:30"
+aclaraciones: "Desayuno"
+cuenta_bancaria: ""
 
 ---

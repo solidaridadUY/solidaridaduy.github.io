@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Organización vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Parroquia San Alberto Hurtado"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Casco del Cerro"
+barrio: "Casabó"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "095331455
-Luis Callejas"
-direccion: "Bulgaria 2272 Local del abasto"
+donaciones: "Alimentos"
+necesidades: "Pulpa, lentejas, papa, cebolla, morrón"
+telefono_contacto: "(María y José)095683306,(Hilda)096833949
+"
+direccion: "Sierra Leona 144"
 
 otros_contactos: ""
-horario: "Lunes y Jueves - 19 hs"
+horario: "(SAB-DOM)19:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

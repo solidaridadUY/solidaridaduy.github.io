@@ -1,7 +1,7 @@
 ---
-nombre: "Larrañaga"
+nombre: "Jacinto Vera"
 departamento: "Montevideo"
 ---
 
-Barrio Larrañaga
+Barrio Jacinto Vera
 Departamento de Montevideo

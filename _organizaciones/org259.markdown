@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club los Zorzales"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Mesa de Trabajo sober Mujeres Privadas de Libertad"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Villa García"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "094649196"
-direccion: "Club los Zorzales, Ruta 8 Brigadier Gral Juan Antonio Lavalleja."
+barrio: "No corresponde"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Se necesitan frazadas para pasar el invierno y productos de higiene personal (jabón de baño, jabón de lavar, shampoo, crema de enjuage, toallas higiénicas, pañales)"
+telefono_contacto: "097546731"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 17:30"
-aclaraciones: ""
+horario: ""
+aclaraciones: "La Mesa de Trabajo sobre Mujeres Privadas de Libertad está solicitando colaboración para cubrir las necesidades de 650 mujeres, algunas de ellas con hijas e hijos, que se encuentran privadas de libertad."
 cuenta_bancaria: ""
 
 ---

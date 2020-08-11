@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Malvín Norte"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinxs y Colectivo ElePé"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "5/05/2020"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "099239735"
+direccion: "Espinola esq Av. Liber Seregni"
 
-departamento: "Montevideo"
-barrio: "Malvín Norte"
-actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
-telefono_contacto: "093301890 "
-direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
-
-otros_contactos: "095628133"
-horario: "Lunes a Jueves - 11:00 a 17:00"
-aclaraciones: ""
+otros_contactos: ""
+horario: "(LUN-DOM)15:00-18:00"
+aclaraciones: "Iniciativa en situación de urgencia"
 cuenta_bancaria: ""
 
 ---

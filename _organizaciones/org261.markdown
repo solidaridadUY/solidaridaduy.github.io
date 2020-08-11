@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "A la olla con los profes"
-date: 2020-05-26 20:22:32 -0300
+title: "AFUTU Regional Colonia"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "San José"
-barrio: "Playa Pascual"
+departamento: "Colonia"
+barrio: "Juan Lacaze"
 actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Reciben donaciones de Alimentos no perecederos y ropa de abrigo"
-telefono_contacto: "Sophia Bellotti 092983301"
-direccion: "Domicilio Avda Río de la Plata 2 y 1/2 Playa Pascual "
+donaciones: "Todo tipo de donaciones"
+necesidades: "Canasta básica: Arroz, Aceite, Fideos, Azúcar, Cocoa, Salsa de Tomates, Harina, Grasa, Ph, Hipoclorito, Jabón neutro o antibacterial."
+telefono_contacto: "092252890,098942914"
+direccion: "Comunicarse telefónicamente y pasan a retirar la donación"
 
 otros_contactos: ""
-horario: "Lunes Miércoles y Viernes - 08.30 a 14:00hs"
-aclaraciones: "Coordinar telefóncamente antes de ir al punto de donación"
+horario: ""
+aclaraciones: "Donaciones para repartir a las familias de estudiantes en situación más vulnerable."
 cuenta_bancaria: ""
 
 ---

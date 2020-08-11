@@ -1,5 +1,5 @@
 ---
-nombre: "Montevideo"
+nombre: "Lavalleja"
 ---
 
-Departamento de Montevideo
+Departamento de Lavalleja

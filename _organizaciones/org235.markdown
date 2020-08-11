@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "AFUC"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "096104551 - 091036615"
-direccion: "Leandro Gómez y Canelones"
+departamento: "Maldonado"
+barrio: "Centro"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "094500851"
+direccion: "AFUC SANTA TERESA CASI 3 DE FEBRERO"
 
 otros_contactos: ""
-horario: "Viernes - 15 a 21"
-aclaraciones: "También arman canastas"
+horario: "(LUN)08:00-14:00,(MIE)08:00-14:00,(VIE)08:00-14:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

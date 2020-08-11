@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Proyecto Tío Julio"
-date: 2020-05-26 20:22:32 -0300
+title: "Oratorio y Centro Juvenil El Carmen (Salesianos)"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Barrio Lavalleja"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "Julio"
-direccion: "Pasaje 121 1178"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Higiene personal y limpieza. Escasez de alimentos enlatados, fideos, etc"
+telefono_contacto: "096101665,098942185"
+direccion: "Treinta y Tres esq. Wilson Ferreira Aldunate"
 
 otros_contactos: ""
-horario: "Todos los días - "
-aclaraciones: ""
+horario: ""
+aclaraciones: "Durante la semana hacen un listado, ven núcleo familiar, cantidad de niños, etc. El sábado juntan donaciones, en base a eso organizan el reparto de canastas. Siempre han podido atender las necesidades."
 cuenta_bancaria: ""
 
 ---

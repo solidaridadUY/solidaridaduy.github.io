@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Solidario Unido Seis Barrios"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: "Productos para celíacos"
-telefono_contacto: "092927150"
-direccion: "Calle Rafael solar 43 esq Dunant"
+barrio: "Belvedere"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo"
+telefono_contacto: "095626343"
+direccion: "Esmeralda frente a la vía esq. Emancipación"
 
-otros_contactos: "094360368"
-horario: "Consultar telefónicamente - 11 a 19hs"
-aclaraciones: "Además de organizar ollas también organizan canastas y meriendas"
+otros_contactos: ""
+horario: "(LUN)16:30-19:00,(MIE)16:30-19:00,(VIE)16:30-19:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

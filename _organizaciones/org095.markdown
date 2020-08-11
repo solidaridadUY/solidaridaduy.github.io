@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "El abrojo"
-date: 2020-05-26 20:22:32 -0300
+title: "Mides e Intendencia de Rivera"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos no perecederos"
-telefono_contacto: "099699322"
-direccion: "Wilson Ferreira Aldunate 712"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Empresa que dona"
+donaciones: ""
+necesidades: "No corresponde"
+telefono_contacto: "46231900,46234917"
+direccion: "Barrios: Rivera Chico, Misiones, La Arenera, Colegio Don Bosco"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 9 a 15 hs"
-aclaraciones: ""
+horario: "(LUN-DOM)11:00-13:00"
+aclaraciones: "Comedores departamentales. Llevar cédula y recipiente."
 cuenta_bancaria: ""
 
 ---

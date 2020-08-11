@@ -1,7 +1,7 @@
 ---
-nombre: "Prado"
+nombre: "Paso de las Duranas"
 departamento: "Montevideo"
 ---
 
-Barrio Prado
+Barrio Paso de las Duranas
 Departamento de Montevideo

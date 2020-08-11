@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Lista 939 FA"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "094345006"
-direccion: "Ruta 8 Km. 25.500 - Calle Las Magnolias entre Caputti y Las Violetas"
+departamento: "Montevideo"
+barrio: "Lezica"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "096262971,096021742 "
+direccion: "Colman y Pororó"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Coordinar por teléfono"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

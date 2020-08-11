@@ -1,23 +1,21 @@
 ---
 layout: organizacion
 
-title: "Grupo de jóvenes Castores y Horneros"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Zonal Prado"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Canasta"
-necesidades: "Alimentos y Artículos de Higiene Personal"
-necesidades_especificas: "Los alimentos que se reciben son no perecederos"
-telefono_contacto: "096 444 222 
-097 447 728 
-098 745 042"
-direccion: ""
+barrio: "Prado"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: ""
+direccion: "En las ferias, en las esquinas:
+Millán y Larrañaga
+Asencio y Zapicán"
 
 otros_contactos: ""
-horario: " - "
+horario: "(SAB)10:00-12:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

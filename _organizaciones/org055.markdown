@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club FiatLux"
-date: 2020-05-26 20:22:32 -0300
+title: "Brigada Solidaria, FANCAP-Susana Pintos"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Tacuarembó"
-barrio: "Tacuarembó"
+departamento: "Montevideo"
+barrio: "Arroyo Seco"
 actividades: "Punto de Donación"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "46320615"
-direccion: "Sarandí 354"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Todo tipo de alimentos (para ollas y meriendas) y artículos de higiene y limpieza."
+telefono_contacto: ""
+direccion: "Av. Agraciada 2522"
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: "Hacen ollas a veces pero no tienen día ni horario fijo"
+horario: ""
+aclaraciones: "Reciben para donar a ollas populares y merenderos"
 cuenta_bancaria: ""
 
 ---

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Liga universitaria, Paysandú"
-date: 2020-05-26 20:22:32 -0300
+title: "Modistas"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Paysandú"
-barrio: "Paysandú"
-actividades: "Canasta"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091401964"
-direccion: "No corresponde, donaciones a coordinar"
+departamento: "Rivera"
+barrio: "Rivera"
+actividades: "Empresa que dona"
+donaciones: ""
+necesidades: ""
+telefono_contacto: ""
+direccion: ""
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - "
-aclaraciones: ""
-cuenta_bancaria: "BROU, CA$ 001409166-00002"
+horario: ""
+aclaraciones: "Donan tapabocas hechos a mano. Comunicarse por Facebook"
+cuenta_bancaria: ""
 
 ---

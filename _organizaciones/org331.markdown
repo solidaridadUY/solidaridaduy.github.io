@@ -1,22 +1,19 @@
 ---
 layout: organizacion
 
-title: "Cooperativa COVI 30 de Setiembre"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Olla Vecinas Aguada"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Tomkinson"
-actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "098565224
-Carlos"
-direccion: "Cno Buffa 2531 entre Servidumbre y 5 de Enero"
+barrio: "Aguada"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Precisan ayuda con garrafa o dinero para gas. Salsa de tomate, verduras, carne, arroz, fideos, polenta, lentejas, sal. Artículos de limpieza, tapabocas, guantes."
+telefono_contacto: "(Viky)099466670 "
+direccion: "Marcelino Berthelot y Ramón del Valle Inclán."
 
 otros_contactos: ""
-horario: "Sábado - 19:30hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

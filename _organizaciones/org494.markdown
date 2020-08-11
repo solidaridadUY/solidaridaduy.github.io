@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Jóvenes FA-Treinta y Tres"
-date: 2020-05-26 20:22:32 -0300
+title: "Red de ollas y merenderos Teatro Barrio Lavalleja"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: "Leche, carne, morrones, cebollas, lentejas"
+telefono_contacto: "(Mario Lanuse)094896412"
+direccion: "Teatro Barrio Lavalleja Instrucciones esquina Edinson"
 
-departamento: "Treinta y Trés"
-barrio: "No corresponde"
-actividades: "Realización de compras"
-necesidades: ""
-necesidades_especificas: ""
-telefono_contacto: "092365306  091665164  098864387"
-direccion: ""
-
-otros_contactos: "No corresponde"
-horario: "Todos los días - "
-aclaraciones: "Realización de compras a población de riesgo"
+otros_contactos: ""
+horario: "(MAR)14:00-17:00,(JUE)14:00-17:00,(SAB)14:00-17:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

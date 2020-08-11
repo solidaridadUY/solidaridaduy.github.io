@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Merendero Corazoncitos"
-date: 2020-05-26 20:22:32 -0300
+title: "Olla popular Gustavo Rodríguez"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "19/05/2020"
-
-departamento: "Salto"
-barrio: "Salto Nuevo Sur"
+departamento: "Canelones"
+barrio: "Suárez"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "097732521"
-direccion: "juan carlos gomez 2600 viv 1"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "097129897"
+direccion: "Jose Enrique Rodó 1975, a una cuadra de plaza de las madres."
 
 otros_contactos: ""
-horario: "Lunes a Sábado - 20hs"
-aclaraciones: "En situación de urgencia."
-cuenta_bancaria: "tarjeta mi dinero para recibir donaciones 3.395.167-8"
+horario: "(MIE),(DOM)"
+aclaraciones: ""
+cuenta_bancaria: "Colectivo Abitab nombre \"Olla Popular Gustavo Rodríguez\" Nro de cuenta: 109883"
 
 ---

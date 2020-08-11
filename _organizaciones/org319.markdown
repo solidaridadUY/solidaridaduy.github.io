@@ -1,23 +1,19 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Grupo de jóvenes Castores y Horneros"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Cerro Norte"
-actividades: "Merienda"
-necesidades: "Alimentos"
-necesidades_especificas: ""
-telefono_contacto: "095051344
-Allison"
-direccion: "Camino Cibils y Fco Siti (al lado de la Gomería)"
+barrio: "Centro"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: "Los alimentos que se reciben son no perecederos"
+telefono_contacto: "096444222,097447728,098745042"
+direccion: ""
 
-otros_contactos: "096933066
-Milka"
-horario: "Lunes a Jueves - 16:30hs"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

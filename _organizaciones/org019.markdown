@@ -1,22 +1,21 @@
 ---
 layout: organizacion
 
-title: "Brigada Zapicán"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Punta de Rieles"
-actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, carne. Productos de limpieza."
-telefono_contacto: "098635050 093381094"
-direccion: "Centauro 6845 entre Leo y Virgo."
+barrio: "Casabó"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "carne; verduras, salsa de tomate, aceite; DONACIONES JUGUETES, ROPA (DIA DEL NIÑO); Garrafa (carga)"
+telefono_contacto: "(Sonia)096557454
+"
+direccion: "Continuación Perú 2540 esq. Pasaje Solano"
 
-otros_contactos: ""
-horario: "Todos los días - 19:30hs"
-aclaraciones: ""
+otros_contactos: "092405789"
+horario: "(LUN-VIE)16:30"
+aclaraciones: "En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

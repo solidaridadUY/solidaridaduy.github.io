@@ -1,7 +1,7 @@
 ---
-nombre: "Juan Lacaze"
-departamento: "Colonia"
+nombre: "Villa Alegría"
+departamento: "Canelones"
 ---
 
-Barrio Juan Lacaze
-Departamento de Colonia
+Barrio Villa Alegría
+Departamento de Canelones

@@ -1,7 +1,7 @@
 ---
-nombre: "Casabó"
+nombre: "Belvedere"
 departamento: "Montevideo"
 ---
 
-Barrio Casabó
+Barrio Belvedere
 Departamento de Montevideo

@@ -1,24 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité Funcional de Ingeniería"
-date: 2020-05-26 20:22:32 -0300
+title: "Grupo Social"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "28/04/2020"
-
-departamento: "Montevideo"
-barrio: "ZONA B"
+departamento: "Maldonado"
+barrio: "Piriápolis"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "099938856 Ignacio"
+donaciones: "Alimentos no perecederos,Artículos de limpieza"
+necesidades: ""
+telefono_contacto: "099612647"
 direccion: ""
 
-otros_contactos: "comitefing@gmail.com"
-horario: "Consultar telefónicamente - Se coordina telefónicamente"
+otros_contactos: ""
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: "BROU
-001275000-00003
-referencia: olla"
+cuenta_bancaria: ""
 
 ---

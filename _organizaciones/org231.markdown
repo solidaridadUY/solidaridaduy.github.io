@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "C.A. Juventud de Las Piedras."
-date: 2020-05-26 20:22:32 -0300
+title: "Frente Amplio Casa Central "
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098729120"
-direccion: "Sin espacio físico específico"
+departamento: "Maldonado"
+barrio: "Centro"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: ""
+telefono_contacto: "(Daniela)098995491"
+direccion: "AV. LUIS BATLLE Y ORDOÑEZ 1213"
 
 otros_contactos: ""
-horario: " - "
+horario: "(LUN-VIE)13:00-17:00"
 aclaraciones: ""
 cuenta_bancaria: ""
 

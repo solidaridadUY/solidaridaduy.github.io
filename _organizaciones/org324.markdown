@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Almacén \"El Nogal\""
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Vecinxs en Club Aguada"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Los Bulevares"
+barrio: "Aguada"
 actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: ""
-direccion: "Cimarrones 7655"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
+telefono_contacto: "098520925"
+direccion: "Casa particular en Aguada. Contactarse al teléfono para coordinar."
 
 otros_contactos: ""
-horario: "Consultar telefónicamente - Consultar telefónicamente"
-aclaraciones: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Están decayendo en donaciones y materiales de embalaje, etc. Precisan vehiculos de vez en cuando para arrimar canastas."
 cuenta_bancaria: ""
 
 ---

@@ -1,7 +1,7 @@
 ---
-nombre: "La Boyada"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio La Boyada
+Barrio Cordón
 Departamento de Montevideo

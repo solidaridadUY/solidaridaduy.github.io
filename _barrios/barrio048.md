@@ -1,7 +1,7 @@
 ---
-nombre: "Playa Grande"
+nombre: "Pan de Azúcar"
 departamento: "Maldonado"
 ---
 
-Barrio Playa Grande
+Barrio Pan de Azúcar
 Departamento de Maldonado

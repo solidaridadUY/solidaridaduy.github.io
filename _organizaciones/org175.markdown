@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Comité García Lorca"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Pequeños Gigantes"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Jacinto Vera"
+barrio: "Larrañaga,La Blanqueada,Parque Rodó"
 actividades: "Punto de Donación"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: ""
-telefono_contacto: "099 704 126"
-direccion: "Colorado 2212 casi Cufré"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Ropa de cama/abrigo; artìculos de limpieza como hipoclorito (por inundaciones, hongos); comida: cocoa, salsa de tomate, azùcar "
+telefono_contacto: "(Teresa)094550448 "
+direccion: "Emilio Raña 2915 esq. Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: "Lunes a Viernes - 17 a 19 hs."
-aclaraciones: ""
+horario: "(JUE)16:00-21:00,(SAB)16:00-21:00"
+aclaraciones: "Coordinar telefónicamente. Se retiran canastas en Club Paysandú. Otras necesidades: campaña por el dìa del niño: NECESITAN JUGUETES. Van a llevar al asentamiento en el barrio 22 de Mayo que se quedaron sin Plan Juntos."
 cuenta_bancaria: ""
 
 ---

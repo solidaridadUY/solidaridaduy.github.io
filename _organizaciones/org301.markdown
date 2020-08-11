@@ -1,24 +1,21 @@
 ---
 layout: organizacion
 
-title: "Liverpool Fútbol Club"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "22/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
+barrio: "Cerro Norte"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Fruta, proteínas, carne, pollo, pescado, salsa de tomate, verdura"
-telefono_contacto: "099641831"
-direccion: "Avenida Agraciada 4186 (Sede)"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Fabiana)095599303
+"
+direccion: "Joaquín Martori 9990"
 
-otros_contactos: "099687490
-098429091"
-horario: "Lunes a Sábado - 20:00 a 21:00"
-aclaraciones: "Asistir con recipiente
-1 persona por familia"
+otros_contactos: ""
+horario: "(LUN-DOM)20:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

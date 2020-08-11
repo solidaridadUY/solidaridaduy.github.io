@@ -1,7 +1,7 @@
 ---
-nombre: "Cerrito de la Victoria"
+nombre: "Carrasco Norte"
 departamento: "Montevideo"
 ---
 
-Barrio Cerrito de la Victoria
+Barrio Carrasco Norte
 Departamento de Montevideo

@@ -1,7 +1,7 @@
 ---
-nombre: "Don Atilio"
-departamento: "Salto"
+nombre: "Barra de Chuy"
+departamento: "Rocha"
 ---
 
-Barrio Don Atilio
-Departamento de Salto
+Barrio Barra de Chuy
+Departamento de Rocha

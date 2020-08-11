@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal: Plaza Inve 17"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "C. A. La Blanqueada"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Colón"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "Paula 094999829"
-direccion: "Inve 17 y La Quinta"
+barrio: "Larrañaga,La Blanqueada,Parque Rodó"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "099258845"
+direccion: "Emilio Frugoni 1043 esq. Isla de Flores (Brownies Luis) y Emilio Raña 2915 esq Juan Cabal (Club Paysandú)"
 
 otros_contactos: ""
-horario: "Sábados y Domingos - Consultar telefónicamente"
-aclaraciones: ""
+horario: "(LUN-VIE),(MAR-MIE)17:00-18:00,(MAR)15:00-18:00,(JUE)15:00-18:00,(MIE)10:00-13:00"
+aclaraciones: "También retiran donaciones a domicilio, coordinar con el número de contacto o por redes sociales."
 cuenta_bancaria: ""
 
 ---

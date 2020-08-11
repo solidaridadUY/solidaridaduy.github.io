@@ -1,7 +1,7 @@
 ---
-nombre: "Lezica"
+nombre: "La Comercial"
 departamento: "Montevideo"
 ---
 
-Barrio Lezica
+Barrio La Comercial
 Departamento de Montevideo

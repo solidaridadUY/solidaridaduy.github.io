@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
+title: "Comité Victor Deri"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Rocha"
-barrio: "Barra de Chuy"
-actividades: "Olla"
-necesidades: "Alimentos no perecederos"
-necesidades_especificas: ""
-telefono_contacto: "091 362 750"
-direccion: "No corresponde"
+departamento: "Canelones"
+barrio: "Pinamar"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "095639475,097530556"
+direccion: "No aplica"
 
 otros_contactos: ""
-horario: " - Durante el día"
-aclaraciones: "Contactar vía telefónica para solicitar apoyo."
+horario: "(MAR)17:00-19:00,(JUE)17:00-19:00,(SAB)17:00-19:00"
+aclaraciones: "Se van a buscar las donaciones"
 cuenta_bancaria: ""
 
 ---

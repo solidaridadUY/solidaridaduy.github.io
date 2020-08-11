@@ -1,7 +1,7 @@
 ---
-nombre: "La Comercial"
+nombre: "Cordón"
 departamento: "Montevideo"
 ---
 
-Barrio La Comercial
+Barrio Cordón
 Departamento de Montevideo

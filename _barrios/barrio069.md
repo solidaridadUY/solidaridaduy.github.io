@@ -1,7 +1,7 @@
 ---
-nombre: "Causeglia"
+nombre: "Buceo"
 departamento: "Montevideo"
 ---
 
-Barrio Causeglia
+Barrio Buceo
 Departamento de Montevideo

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Inter Sindical PIT-CNT"
-date: 2020-05-26 20:22:32 -0300
+title: "Club Brandi"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Santa Lucía"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "098691711        092213138  092249381"
-direccion: "Ramón Irigoyen entre 18 de Julio y Mitre"
+departamento: "Montevideo"
+barrio: "Conciliación"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Productos para guiso, especialmente cebolla, morron y pulpa de tómate"
+telefono_contacto: "098964527,096450004"
+direccion: "Adolfo Rodriguez 6738"
 
 otros_contactos: ""
-horario: "Todos los días - "
-aclaraciones: "Se reciben las donaciones en el horario de 17.00 a 20.00 hs en el local de la Inter Sindical del PIT-CNT. Sábados y domingos también merienda."
+horario: "(LUN-DOM)13:00"
+aclaraciones: "En situación de urgencia"
 cuenta_bancaria: ""
 
 ---

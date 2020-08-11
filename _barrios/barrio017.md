@@ -1,7 +1,7 @@
 ---
-nombre: "Progreso"
+nombre: "Pinamar Norte"
 departamento: "Canelones"
 ---
 
-Barrio Progreso
+Barrio Pinamar Norte
 Departamento de Canelones

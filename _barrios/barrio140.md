@@ -1,7 +1,7 @@
 ---
-nombre: "Barra de Chuy"
-departamento: "Rocha"
+nombre: "ZONA B"
+departamento: "Montevideo"
 ---
 
-Barrio Barra de Chuy
-Departamento de Rocha
+Barrio ZONA B
+Departamento de Montevideo

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Iniciativa ciudadana: CANASTAS UY"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Brigada 1958"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "No corresponde"
-actividades: "Canasta"
-necesidades: ""
-necesidades_especificas: "Ofrecer trabajo voluntario en el armado de las canastas."
-telefono_contacto: "No corresponde"
-direccion: "No corresponde"
+barrio: "Aguada"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Sal, salsa de tomate, fideos, arroz y lentejas"
+telefono_contacto: "091894724"
+direccion: "Cuareim 2301 Esq. Tajes"
 
-otros_contactos: "@CanastasUy en IG"
-horario: " - "
-aclaraciones: "Están entregando canastas en Municipio A, Colonia Nicolich y Paso Carrasco.  Audita Guyer&Regules"
+otros_contactos: "098651506"
+horario: "(LUN-DOM)13:00-15:00"
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

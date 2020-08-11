@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "SUAP"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Centro"
-actividades: "Punto de Donación"
-necesidades: ""
-necesidades_especificas: "Jabón líquido, alcohol en gel, tapabocas, guantes descartables"
-telefono_contacto: "29011982"
-direccion: "Local Fuecys (Río Negro 1210)"
+barrio: "Cerro"
+actividades: "Merienda"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Leche en polvo, Cocoa, Azúcar,Bizcochos, Pan, Galletas, Dulces y Mermeladas, Fruta"
+telefono_contacto: "099834255"
+direccion: "Asentamiento Fortaleza"
 
-otros_contactos: ""
-horario: "Lunes a Jueves - 10 a 17 hs"
-aclaraciones: ""
+otros_contactos: "092728754"
+horario: ""
+aclaraciones: "Se están realizando meriendas para ayudar a lxs niñxs del asentamiento Fortaleza brindándoles una merienda diaria."
 cuenta_bancaria: ""
 
 ---

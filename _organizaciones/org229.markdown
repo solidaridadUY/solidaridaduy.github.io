@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "JFA"
-date: 2020-05-26 20:22:32 -0300
+title: "REDALCO"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Canelones"
-barrio: "Las Piedras"
-actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "092150814 - 092056943"
-direccion: "Sin espacio físico específico"
+departamento: "Montevideo"
+barrio: "No corresponde"
+actividades: "Punto de Donación"
+donaciones: "Apoyo económico"
+necesidades: "Dinero para entregar canastas de verduras y frutas"
+telefono_contacto: ""
+direccion: "No corresponde"
 
 otros_contactos: ""
-horario: " - "
-aclaraciones: ""
-cuenta_bancaria: ""
+horario: ""
+aclaraciones: "Con cada donación de $500 se colabora con 18 kg de frutas y verduras aportando 50 platos sanos y nutritivos para llevar a aquellas familias que en este contexto de emergencia necesitan."
+cuenta_bancaria: "BROU 00178550600001"
 
 ---

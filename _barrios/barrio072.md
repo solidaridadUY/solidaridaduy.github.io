@@ -1,7 +1,7 @@
 ---
-nombre: "Cerro"
+nombre: "Casabó"
 departamento: "Montevideo"
 ---
 
-Barrio Cerro
+Barrio Casabó
 Departamento de Montevideo

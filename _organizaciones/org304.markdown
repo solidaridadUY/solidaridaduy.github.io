@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Club Social y Deportivo Iriarte"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "24/04/2020"
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Belvedere"
+barrio: "La Teja"
 actividades: "Olla"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Verduras y Carne"
-telefono_contacto: "095109490
-Walter"
-direccion: "Tampico esquina Emancipación"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Paola)091775583
+"
+direccion: "Carlos Teller 5063"
 
 otros_contactos: ""
-horario: " - A partir de 12hs"
+horario: ""
 aclaraciones: ""
 cuenta_bancaria: ""
 

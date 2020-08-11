@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Merendero Nuevo Amanecer"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "6/04/2020"
+title: "Brigada José Artigas"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Piedras Blancas"
+barrio: "Bella Italia"
 actividades: "Olla"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: ""
-telefono_contacto: "095286057 Ana"
-direccion: "San Cono 3981 esq César Batlle Pacheco y Francisca Barroso"
+donaciones: "Alimentos,Artículos de Limpieza,Artículos de Higiene Personal"
+necesidades: "Carne y Verdura, Alcohol en Gel"
+telefono_contacto: "(Adrián)095775335 "
+direccion: "Carlomagno esq. Victor Manuel. Mercadito Bella Italia"
 
 otros_contactos: ""
-horario: " - 20hs"
-aclaraciones: "Llevar tupper"
-cuenta_bancaria: ""
+horario: "(LUN-VIE)08:00-13:30"
+aclaraciones: "Necesitan personas para colaborar en la olla"
+cuenta_bancaria: "BROU Caja de ahorro en pesos Nº 110171769-00001"
 
 ---

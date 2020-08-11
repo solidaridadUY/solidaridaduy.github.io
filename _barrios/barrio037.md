@@ -1,7 +1,7 @@
 ---
-nombre: "Barrio Benedetti"
+nombre: "Barrio 14 de Febrero"
 departamento: "Maldonado"
 ---
 
-Barrio Barrio Benedetti
+Barrio Barrio 14 de Febrero
 Departamento de Maldonado

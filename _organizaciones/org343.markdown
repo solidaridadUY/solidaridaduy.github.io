@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Vecinxs en Club Aguada"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "25/04/2020"
-
-departamento: "Montevideo"
-barrio: "Aguada"
-actividades: "Punto de Donación"
-necesidades: "Alimentos Artículos de Limpieza y Artículos de Higiene Personal"
-necesidades_especificas: "Alimentos no perecederos. Leche en polvo, azucar, cocoa en lo posible en paquetitos de 100grs. y alimentos elaborados para meriendas. Tambien bandejas, bolsas, cajas, film."
-telefono_contacto: "098520925"
-direccion: "Casa particular en Aguada. Contactarse al teléfono para coordinar."
+departamento: "Maldonado"
+barrio: "Barrio Benedetti"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Verduras especialmente cebolla y zanahoria"
+telefono_contacto: "(César)099751823"
+direccion: "Comunal del Barrio"
 
 otros_contactos: ""
-horario: "Todos los días - Consultar telefónicamente"
-aclaraciones: "Están decayendo en donaciones y materiales de embalaje, etc. Precisan vehiculos de vez en cuando para arrimar canastas."
+horario: "(LUN-SAB)20:00"
+aclaraciones: "Retiran donaciones a domicilio. Es una iniciativa barrial que atiende a 300 personas. Ese cupo está colmado y no pueden brindar ayuda a más personas."
 cuenta_bancaria: ""
 
 ---

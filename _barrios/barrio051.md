@@ -1,7 +1,7 @@
 ---
-nombre: "San Carlos"
+nombre: "Punta del Este"
 departamento: "Maldonado"
 ---
 
-Barrio San Carlos
+Barrio Punta del Este
 Departamento de Maldonado

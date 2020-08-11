@@ -2,21 +2,19 @@
 layout: organizacion
 
 title: "Iniciativa vecinal"
-date: 2020-05-26 20:22:32 -0300
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Villa Española"
-actividades: "Punto de Donación"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: "Pulpa de tomate, lentejas, tapabocas, guantes"
-telefono_contacto: "099527443"
-direccion: "Robinson 3367"
+departamento: "Canelones"
+barrio: "Las Piedras"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "095610063,093763288"
+direccion: "Sin espacio físico específico"
 
 otros_contactos: ""
-horario: "Todos los días - 8 a 15 hs"
-aclaraciones: "Hacen Olla en Antel Arena (Centenario y Serrato)"
+horario: "(SAB-DOM)"
+aclaraciones: "Lunes a Viernes:meriendas. Iniciativa incluida en la categoría \"merienda\" de esta página. También arman canastas"
 cuenta_bancaria: ""
 
 ---

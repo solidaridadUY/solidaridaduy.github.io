@@ -1,23 +1,21 @@
 ---
 layout: organizacion
 
-title: "Iniciativa Vecinal"
-date: 2020-05-26 20:22:32 -0300
-
-fecha_actualizacion: "20/05/2020"
+title: "Minervas Colectivo Feminista"
+date: 2020-08-10 23:30:45 -0300
 
 departamento: "Montevideo"
-barrio: "Pajas Blancas"
-actividades: "Olla"
-necesidades: "Alimentos y Artículos de Limpieza"
-necesidades_especificas: "Alimentos no perecederos, frutas y verduras, productos de limpieza"
-telefono_contacto: "099171729 Aníbal"
-direccion: "Club Pablan Leal de Ibarra y Pajas Blancas"
+barrio: "Cordón"
+actividades: "Punto de Donación"
+donaciones: "Alimentos,Artículos de Higiene Personal"
+necesidades: ""
+telefono_contacto: "(Noelia)096129858
+"
+direccion: "Ferrer Serra 1930 esquina Democracia"
 
 otros_contactos: ""
-horario: "Lunes Miércoles Sábados y Domingos - Lunes y Miércoles:18hs.
-Sábados y Domingos:13hs"
+horario: ""
 aclaraciones: ""
-cuenta_bancaria: "Caja de ahorro BROU 000665700-00001"
+cuenta_bancaria: ""
 
 ---

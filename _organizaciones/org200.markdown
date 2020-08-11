@@ -1,21 +1,19 @@
 ---
 layout: organizacion
 
-title: "Comisión de Jóvenes de Barros Blancos y Murga la Mascarada"
-date: 2020-05-26 20:22:32 -0300
+title: "Vecinos Euskalerría"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "22/05/2020"
-
-departamento: "Canelones"
-barrio: "Barros Blancos"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "091959275 Verónica"
-direccion: "Ruta 8 km 26.500"
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Olla"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Alimentos no perecederos y verduras"
+telefono_contacto: "095425068,093301890,095628133"
+direccion: "Costanera Euskalerría"
 
 otros_contactos: ""
-horario: "Jueves - 17:00"
+horario: "(SAB-DOM)"
 aclaraciones: ""
 cuenta_bancaria: ""
 

@@ -1,22 +1,20 @@
 ---
 layout: organizacion
 
-title: "Olla Malvín Norte"
-date: 2020-05-26 20:22:32 -0300
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "6/04/2020"
-
-departamento: "Montevideo"
-barrio: "Malvín Norte"
+departamento: "Canelones"
+barrio: "Las Piedras"
 actividades: "Olla"
-necesidades: "Alimentos"
-necesidades_especificas: "Lo que más escasea en este momento es aceite, salsa de tomate y leche."
-telefono_contacto: "093301890 "
-direccion: "Salón CH INVE 16, Calle 121 esquina Iguá"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Sheila Rodríguez)096117341 "
+direccion: "Frente al Castillo de La Pilarica"
 
-otros_contactos: "095628133"
-horario: "Viernes Sábado y Domingo - 17:00"
-aclaraciones: "Las donaciones se reciben de lunes a jueves de 11:00 a 17:00. Dependiendo de las donaciones, también se arman canastas y se preparan meriendas."
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
 cuenta_bancaria: ""
 
 ---

@@ -1,23 +1,20 @@
 ---
 layout: organizacion
 
-title: "Barrio Nuevo Comienzo"
-date: 2020-05-26 20:22:32 -0300
+title: "Malumbe"
+date: 2020-08-10 23:30:45 -0300
 
-fecha_actualizacion: "12/05/2020"
-
-departamento: "Montevideo"
-barrio: "Santa Catalina"
-actividades: "Merienda"
-necesidades: "Todo tipo de donaciones"
-necesidades_especificas: ""
-telefono_contacto: "096287379
-Leandro"
-direccion: "     Camino DellaZoppa atrás del Complejo de Cerro entre Burdeos y San Fuentes"
+departamento: "Salto"
+barrio: "Don Atilio"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "091792945"
+direccion: "Rincon casi 17mts"
 
 otros_contactos: ""
-horario: "Todos los días - 10 hs"
-aclaraciones: ""
+horario: "(LUN-VIE)"
+aclaraciones: "merienda y cena"
 cuenta_bancaria: ""
 
 ---
