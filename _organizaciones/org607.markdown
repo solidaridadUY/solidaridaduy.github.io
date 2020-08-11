@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Hijos de la Alquimia"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Capitan Florencio 4057 "
+
+otros_contactos: ""
+horario: "(LUN-VIE)09:00-19:00,(SAB)09:00-13:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

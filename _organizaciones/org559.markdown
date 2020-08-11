@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "COVICENOVA Baby Fútbol "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "leña, alimentos no perecederos, verduras, carne, pulpa de tomate,"
+telefono_contacto: "(Pablo)094671612"
+direccion: "Cno. Buffa 12800 entre Cno. Cibils y Surinam"
+
+otros_contactos: "(Nicolás)091329229"
+horario: "(MIE)14:00"
+aclaraciones: "Lo que más se les complica conseguir es la verdura"
+cuenta_bancaria: ""
+
+---

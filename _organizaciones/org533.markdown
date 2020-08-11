@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "COTRAVI"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Maracaná"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Carne, lentejas, aceite"
+telefono_contacto: "(Laura Guimaraens)095185218"
+direccion: "Justo Paez 303 esq Mártires de la Industria"
+
+otros_contactos: ""
+horario: "(JUE-DOM)14:00"
+aclaraciones: "En situación de urgencia"
+cuenta_bancaria: ""
+
+---

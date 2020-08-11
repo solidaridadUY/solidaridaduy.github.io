@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Maracaná"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "verduras y leña"
+telefono_contacto: "(Mónica)094710759,(Cristian)095346944"
+direccion: "Manuel Oribe 022 esq Congreso de Avalos frente a Ruta 1 Nueva"
+
+otros_contactos: "(Cristian)095889398"
+horario: "(LUN-VIE)20:00"
+aclaraciones: "En situación de urgencia. traer tupper y tapaboca"
+cuenta_bancaria: "PREX: 4.076.391-5"
+
+---

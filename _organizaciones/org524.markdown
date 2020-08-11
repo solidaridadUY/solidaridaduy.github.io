@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Cooperativa COVINFU"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Camila)096853938,(Alberto)093906995 "
+direccion: "San Fuentes 2682 esq Calle Plata"
+
+otros_contactos: ""
+horario: "(LUN)19:30,(MIE)19:30,(VIE)19:30"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

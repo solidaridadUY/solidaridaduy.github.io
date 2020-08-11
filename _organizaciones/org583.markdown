@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla Corazón"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Carnes,  lentejas, salsa de tomate, sal  "
+telefono_contacto: "(Shirley Medina)094415339"
+direccion: "Calle 6 y pasaje C Boix y Merino "
+
+otros_contactos: ""
+horario: "(LUN)17:30-18:00,(MIE)17:30-18:00,(VIE-SAB)17:30-18:00"
+aclaraciones: "En situación de urgencia"
+cuenta_bancaria: ""
+
+---

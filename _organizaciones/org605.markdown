@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "La Poderosa"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Punta de Rieles"
+actividades: "Olla"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "vegetales, guantes (de limpieza), ropa y calzado para la realización de ventas para mantener la olla, tickets para la recarga de la garrafa de 13 kg. Ropa para vender en las ventas económicas para el mantenimiento de la olla"
+telefono_contacto: "(Jenifer)092201574,(Valentina)098028848,(Guadalupe)098513952"
+direccion: "Aparicio Saravia y Aguerre"
+
+otros_contactos: ""
+horario: "(SAB-DOM)14:00"
+aclaraciones: "En situación de urgencia. Aceptan voluntarios para cocinar, cocinan desde las 9hs. "
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Coviecuador "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Lucía Acuña)095626586
+"
+direccion: "Norteamerica 2012 esq Polonia"
+
+otros_contactos: ""
+horario: "(DOM)13:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

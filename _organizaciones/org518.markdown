@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Playa del Cerro - Parroquia"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Patricia)097348085
+"
+direccion: "Inglaterra y Polonia - Parroquia"
+
+otros_contactos: ""
+horario: "(LUN)18:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

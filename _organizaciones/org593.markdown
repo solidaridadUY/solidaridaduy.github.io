@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Sindicato Iname"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Bella Vista"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Verdura y carne "
+telefono_contacto: "(Andrés)099167275 "
+direccion: ""
+
+otros_contactos: ""
+horario: "(MAR)12:00,(JUE)12:00"
+aclaraciones: "Misma iniciativa que la del club bella vista solo que funciona en otra dirección martes y jueves"
+cuenta_bancaria: ""
+
+---

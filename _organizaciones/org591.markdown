@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Club Auriblanco"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Bella Vista"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos, carne, frutas, y verduras. Abrigos"
+telefono_contacto: "(Andrés)099167275 "
+direccion: "Carlos Princivalle & San Juan"
+
+otros_contactos: ""
+horario: "(DOM)12:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal - al costado de Salón Cotravi"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Maracaná"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Oscar)095416206 "
+direccion: "Mártires de la Industria y Humberto Franco"
+
+otros_contactos: ""
+horario: "(LUN-VIE)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

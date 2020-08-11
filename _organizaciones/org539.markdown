@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Asentamiento Santa Catalina"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Adrián)096894000"
+direccion: "Bajo La Petiza entrada por cartel del Cerro"
+
+otros_contactos: ""
+horario: "(MAR),(JUE),(SAB)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

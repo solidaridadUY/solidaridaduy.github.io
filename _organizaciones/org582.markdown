@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "La olla del K12"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Bella Italia"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Salsa de tomate, carnes, lentejas y sal"
+telefono_contacto: "(Shirley Medina)094415339"
+direccion: "Camino Maldonado y Rosario K12"
+
+otros_contactos: ""
+horario: "(MAR)18:00,(VIE)18:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

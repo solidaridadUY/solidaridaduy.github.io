@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla Solidaria"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Florida"
+barrio: "Florida"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Gabriela Rodriguez)091407870"
+direccion: "Baltasar Brum (Sede de La vascongada)"
+
+otros_contactos: ""
+horario: "(SAB-DOM)12:00"
+aclaraciones: "La olla comienza a funcionar en Julio"
+cuenta_bancaria: ""
+
+---

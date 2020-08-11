@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Barrio Lavalleja"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Florencia)098865307 "
+direccion: "Asunción Pasaje A y continuación Jenner (Asunción)"
+
+otros_contactos: "(Hugo)094357002"
+horario: "(LUN-JUE)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

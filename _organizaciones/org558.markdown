@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Tres Ombúes"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: " "
+telefono_contacto: "(Sandro)098672953"
+direccion: "Pedro Giralt 5037 esquina Alagoa frente al Centro Cívico Tres Ombúes"
+
+otros_contactos: ""
+horario: "(VIE)19:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

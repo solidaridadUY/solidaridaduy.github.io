@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "La Madriguera"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Jacinto Vera"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Se necesitan ropa de todo tipo, en especial de niños"
+telefono_contacto: "(Gastón)095588004,097977933"
+direccion: "Se arregla telefònicamente y se recibe y dona en la casa de Gaston: Gustavo Gallinal 1917"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Donan la ropa a las familias que recibían las canastas o personas de la zona"
+cuenta_bancaria: ""
+
+---

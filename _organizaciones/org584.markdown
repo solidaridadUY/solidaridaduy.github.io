@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Los Realojados de Islas"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Malvín Norte"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Carnes,  lentejas, salsa de tomate, sal  "
+telefono_contacto: "(Shirley Medina)094415339"
+direccion: "Luis Cluzeau Mortet 5097 y Maria Rubéns"
+
+otros_contactos: ""
+horario: "(MAR)17:30-18:00,(JUE)17:30-18:00,(SAB-DOM)17:30-18:00"
+aclaraciones: " "
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "motivArte"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Neptunia Norte"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Aceite, harina, salsa de tomate, frutas y verduras"
+telefono_contacto: "(Sharon)094176370"
+direccion: "Los Horneros casi Av Los Pinos. Neptunia N"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "CANASTAS Sociales"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Maldonado"
+barrio: "San Carlos"
+actividades: "Canasta"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Leche en polvo, fideos, arroz, polenta"
+telefono_contacto: "(Leonardo)099502341"
+direccion: "SAN CARLOS AVDA MONTENEGRO"
+
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

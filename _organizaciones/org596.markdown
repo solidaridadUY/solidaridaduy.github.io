@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Olla"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Leche en polvo y cocoa"
+telefono_contacto: "(Viviana Olivera)095922462 "
+direccion: "Ruta 8 km 27 Barrio Nuevo Tajamar Calle 1A Vivienda 14"
+
+otros_contactos: ""
+horario: "(LUN-VIE)17:00"
+aclaraciones: "En situación de urgencia. Recibieron donación mediados de junio"
+cuenta_bancaria: ""
+
+---

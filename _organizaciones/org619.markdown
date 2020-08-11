@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Club Brandi"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Sayago"
+actividades: "Canasta"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "096450004"
+direccion: "Adolfo Rodriguez 6664"
+
+otros_contactos: "098964527"
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: "8163380002"
+
+---

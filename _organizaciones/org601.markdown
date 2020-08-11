@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Sede Comision de Fomento Marindia"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Salinas"
+actividades: "Canasta"
+donaciones: "Alimentos"
+necesidades: "Azucar Lentejas Fideos Enlatados"
+telefono_contacto: "098394463"
+direccion: "Avda del Mar esq Ibari"
+
+otros_contactos: "098821650"
+horario: "(LUN-DOM)"
+aclaraciones: "Entregan canastas cada 15 días"
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Tala"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "093633217,092089840"
+direccion: "Gral Artigas entre I de León y 25 de agosto, Centro Parroquial Tala"
+
+otros_contactos: ""
+horario: "(MIE)14:00-17:00,(SAB)14:00-17:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

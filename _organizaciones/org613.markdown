@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Almacen de Tomi"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Canelones"
+actividades: "Olla"
+donaciones: "Alimentos no perecederos"
+necesidades: ""
+telefono_contacto: "(Jonathan Artigas)099216829"
+direccion: "Consultar teléfonicamente"
+
+otros_contactos: ""
+horario: "(SAB-DOM)"
+aclaraciones: "En situación de urgencia"
+cuenta_bancaria: ""
+
+---

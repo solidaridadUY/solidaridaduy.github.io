@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Punto de Donación"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Daniel Calegary)099588447"
+direccion: "Grecia 3432 entre República Argentina y Centro América"
+
+otros_contactos: ""
+horario: "(LUN-DOM)08:00-12:00"
+aclaraciones: "El grupo cuenta con un vecino que tiene vehículo recorren las ollas de la zona repartiendo donaciones que reciben"
+cuenta_bancaria: ""
+
+---

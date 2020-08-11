@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla Popular Pérez Castellanos"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Pérez Castellanos"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Alimentos no perecederos, verduras, agua y pan"
+telefono_contacto: "098646237,095905232"
+direccion: "José Serrato 3528 (Club Industria)"
+
+otros_contactos: ""
+horario: "(LUN)12:30"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

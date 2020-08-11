@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Germán)094759920
+"
+direccion: "Dinamarca 4115 esq Burdeos"
+
+otros_contactos: ""
+horario: "(LUN)12:00-13:30,(MIE)12:00-13:30,(VIE)12:00-13:30"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

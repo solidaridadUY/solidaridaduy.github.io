@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla y Merendero Villa Sara"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Treinta y Trés"
+barrio: "Villa Sara"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Ropa (abrigo)"
+telefono_contacto: "(María Fernández)093435194"
+direccion: "Pública I, detrás de Centro Barrio 5 Villa Sara (chatarrería al frente)"
+
+otros_contactos: ""
+horario: "(SAB-DOM)12:00,(SAB-DOM)17:00"
+aclaraciones: "En situación de urgencia"
+cuenta_bancaria: ""
+
+---

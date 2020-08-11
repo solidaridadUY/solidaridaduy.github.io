@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla popular \"Contagiando solidaridad\""
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Lavalleja"
+barrio: "Minas"
+actividades: "Olla"
+donaciones: ""
+necesidades: ""
+telefono_contacto: "(Nicolás Ferreyra)098393965"
+direccion: "18 de Julio entre Otegui y Arostegui"
+
+otros_contactos: ""
+horario: "(MIE)19:00,(VIE)19:00"
+aclaraciones: "Llevar tupper"
+cuenta_bancaria: ""
+
+---

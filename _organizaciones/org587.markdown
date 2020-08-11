@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Florida"
+barrio: "Florida"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Carnes"
+telefono_contacto: "(Oscar)092379653"
+direccion: " Sierra 2482 (dpto.Florida)"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "Los días en que funciona la olla dependen de los recursos que se tengan"
+cuenta_bancaria: ""
+
+---

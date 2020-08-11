@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Alimentos no perecederos, carne, pulpa de tomate"
+telefono_contacto: "(Alejandra Cabrera)095274560"
+direccion: "Juan Bomesadri 2090"
+
+otros_contactos: ""
+horario: "(SAB)19:00,(DOM)13:30"
+aclaraciones: "400 a 450 viandas. Les donan la verdura en la feria vecinal del barrio"
+cuenta_bancaria: ""
+
+---

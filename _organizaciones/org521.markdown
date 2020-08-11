@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Terminal del Cerro"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Susi)097041286
+"
+direccion: "Pedro Castelino 1531"
+
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

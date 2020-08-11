@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "El ranchi Menú Solidario"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "La Teja"
+actividades: "Olla"
+donaciones: ""
+necesidades: ""
+telefono_contacto: "(Gilberto Nieves)094524282 "
+direccion: "Heredia 4065 entre Emilio Romero y Martin Berinduague"
+
+otros_contactos: ""
+horario: "(VIE-LUN)18:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

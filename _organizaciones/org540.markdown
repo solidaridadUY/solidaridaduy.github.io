@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Barrio San Martin"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Santa Catalina"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Mario)093529459"
+direccion: "Ruben Darío al lado de la Cancha"
+
+otros_contactos: ""
+horario: "(LUN-VIE)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

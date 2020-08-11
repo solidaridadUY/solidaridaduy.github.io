@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Colectivo Feminista de Treinta y y Tres"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Treinta y Trés"
+barrio: "Ciudad de Treinta y Tres"
+actividades: "Punto de Donación"
+donaciones: "Alimentos no perecederos, Artículos de Higiene Personal"
+necesidades: "Leche en polvo, cocoa, azúcar, harina y aceite."
+telefono_contacto: "(Ana Lucía)091524279 "
+direccion: " Juan Ortiz 1444 (rueque solidario cada 2 semanas)"
+
+otros_contactos: "(Manuela)099492132"
+horario: ""
+aclaraciones: "Recaudan a través de actividades que organizan dinero para ollas."
+cuenta_bancaria: ""
+
+---

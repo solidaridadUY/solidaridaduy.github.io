@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Hijos de la Alquimia"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: ""
+direccion: "Eduardo Raiz entre Carve y 19 de Junio "
+
+otros_contactos: ""
+horario: "(DOM)12:30"
+aclaraciones: "Llevar tupper"
+cuenta_bancaria: ""
+
+---

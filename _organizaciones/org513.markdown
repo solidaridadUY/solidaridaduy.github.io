@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Adrián)099829888
+"
+direccion: "Pasaje Tala 2478 esq Costa de Marfil"
+
+otros_contactos: ""
+horario: "(SAB-DOM)"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

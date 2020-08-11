@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Villa García"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Alex)095473617,(Romina)095892772"
+direccion: "Km 19 Ruta 8, en la torre de Antel pegado a la políclinica"
+
+otros_contactos: ""
+horario: "(MAR)18:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

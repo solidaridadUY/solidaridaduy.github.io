@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla Camino San Fuentes"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Fátima)097614203,(Shirley)094193744 "
+direccion: "San fuente 3236 esq Adolfo pastor"
+
+otros_contactos: ""
+horario: "(MAR)20:00,(JUE)20:00,(SAB)20:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla Vecines Block Tres Ombúes"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Tres Ombúes"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "Alejandra"
+direccion: "Batlle Berres 5067 block H apto 004"
+
+otros_contactos: ""
+horario: "(DOM)12:00"
+aclaraciones: "En situación de urgencia Ir directo - no pasan celulares"
+cuenta_bancaria: ""
+
+---

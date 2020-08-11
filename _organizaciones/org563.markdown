@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Merendero solidario Cordón"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cordón"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo, cocoa, azùzar, carne, lentejas, porotos, garbanazos"
+telefono_contacto: "(Javier)094317267"
+direccion: "Entregan en Rivera y Pablo de María (Plaza)"
+
+otros_contactos: ""
+horario: "(LUN-VIE)10:00-12:00"
+aclaraciones: "En situación de urgencia. Atienden a personas en situación de calle. Elaboran desayuno y almuerzo, en Yaguaron 1459 entre Uruguay y Mercedes. La semana pasada les robaron este local por lo que tuvieron que suspender las entregas esta semana hasta que terminen de reparar roturas del edificio, retoman semana que viene."
+cuenta_bancaria: ""
+
+---

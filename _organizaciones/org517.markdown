@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Club Las Flores"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Mónica)092080715 "
+direccion: "Patagonia 4232 entre Suecia y Rusia"
+
+otros_contactos: ""
+horario: "(SAB)13:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

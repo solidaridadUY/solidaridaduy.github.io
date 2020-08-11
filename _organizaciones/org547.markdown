@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal merendero"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Maracaná"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Articulos de limpieza, ropa, leche, carne, alimentos en general"
+telefono_contacto: "(Viviana Espinel)093553316 "
+direccion: "Peatonal El Ombú al terminar"
+
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: "En situación de urgencia. Funciona en la tarde-noche. Es un merendero que funciona hace años y abrió olla recientemente."
+cuenta_bancaria: ""
+
+---

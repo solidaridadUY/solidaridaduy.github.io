@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Vecinas Palermo"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Palermo"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Carne (preferentemente bondiola, picada, chorizo, panceta), pulpa de tomate, cebolla, morrón, latas de conserva"
+telefono_contacto: ""
+direccion: "Lorenzo Carnelli esquina Cebollatí"
+
+otros_contactos: ""
+horario: "(LUN),(JUE-VIE)"
+aclaraciones: "En situación de urgencia"
+cuenta_bancaria: ""
+
+---

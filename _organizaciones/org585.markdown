@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla Popular Esperanza "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Carrasco Norte"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: "Papas,boniatos,zapallo, fideos, salsa de tomate"
+telefono_contacto: "(Andrea Rodriguez)093633739"
+direccion: "Acosta y Lara 7129"
+
+otros_contactos: ""
+horario: "(LUN)19:00,(MIE)19:00,(VIE-SAB)19:00"
+aclaraciones: "Se necesitan ropa y juguetes"
+cuenta_bancaria: ""
+
+---

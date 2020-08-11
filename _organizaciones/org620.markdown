@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa vecinal"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Colón"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "(Robert Sierra)093732418"
+direccion: "Barrio 11(estrella del Norte) - Pablo Pittini 6252 esq. Alfredo Massa"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

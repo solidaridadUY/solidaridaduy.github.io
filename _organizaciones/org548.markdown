@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Olla y merendero El Tapir"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Paso de la Arena"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Marcela  López)094449996"
+direccion: "Camino del Tranvía a La Barra 8656 entre Orientales y Camalotes"
+
+otros_contactos: ""
+horario: "(MAR-JUE)20:00,(SAB-LUN)13:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "COVICENOVA Baby Fútbol "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Cerro"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "leche, azúcar, cocoa, harina, grasa"
+telefono_contacto: "(Nicolás)091329229"
+direccion: "Cno. Buffa 12800 entre Cno. Cibils y Surinam"
+
+otros_contactos: "(Daniel)091089689"
+horario: "(VIE)15:00"
+aclaraciones: "85 a 95 litros de leche y 200 a 250 tortas fritas, las hacen en un medio tanque en el momento de la merienda"
+cuenta_bancaria: ""
+
+---

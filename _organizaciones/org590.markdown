@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "CoviYaguarón"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Aguada"
+actividades: "Olla"
+donaciones: "Alimentos no perecederos"
+necesidades: "Carne y verduras"
+telefono_contacto: "097494131"
+direccion: "La Paz y Yaguarón"
+
+otros_contactos: ""
+horario: "(SAB)12:00"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

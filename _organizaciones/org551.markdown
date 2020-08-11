@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Merendero La vaca Lola"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Casabó"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche en polvo principalmente, harina, cocoa, azúcar. "
+telefono_contacto: "(Sintia Méndez)097814307"
+direccion: "Pasaje ombú 3861 esquina continuación Austria y Pasaje Los Paraísos (a la altura del cementerio del Cerro)"
+
+otros_contactos: ""
+horario: "(LUN)16:00,(MIE)16:00,(VIE-SAB)16:00,(DOM)10:00"
+aclaraciones: "En situación de urgencia. Reciben mucho menos donaciones, están evaluando dejar de atender días domingos porque no les alcanzan los insumos. Reciben donaciones todos los días en la misma dirección de 9 a19 hs."
+cuenta_bancaria: ""
+
+---

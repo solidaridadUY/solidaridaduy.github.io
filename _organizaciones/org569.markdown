@@ -1,0 +1,23 @@
+---
+layout: organizacion
+
+title: "Olla Asociación Civil Esperanza"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Carrasco Norte"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: "Insumos para brindar los siguientes menués:                                         Lunes: Guiso-Postre: Fruta
+Miércoles: Polenta con tuco-Postre: crema o arroz con leche
+Viernes: Guiso o casuela del lenteja-- Postre: torta dulce
+Sábado: Fideos o arroz con tuco- Postre:Fruta"
+telefono_contacto: "(Andrea)093633739"
+direccion: "Acosta y Lara 7129"
+
+otros_contactos: ""
+horario: "(LUN),(MIE),(VIE-SAB)"
+aclaraciones: "En situación de urgencia."
+cuenta_bancaria: ""
+
+---

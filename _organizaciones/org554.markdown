@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Club de Baby fútbol Jardinero DD Manga"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Manga"
+actividades: "Punto de Donación"
+donaciones: "Alimentos"
+necesidades: "Leña, fideos, lentejas, aceite, orégano, pimentón, caldos de gallina o carne, pulpa de tomate, cebollas, papas, boniatos, zapallos, morrones, arvejas,choclos, zanahorias, porotos "
+telefono_contacto: "(Óscar)098929650"
+direccion: "Carlos A. López 4006"
+
+otros_contactos: ""
+horario: "(LUN-DOM)12:00"
+aclaraciones: "En situación de urgencia. Falta de recursos pone en riesgo la continuidad de la olla realizada en este punto."
+cuenta_bancaria: ""
+
+---

@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Asociación Civil Nuestros Sueños"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Villa Sarandí"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Leche"
+telefono_contacto: "(Dahiana)091881443"
+direccion: "Romeo Gavioli esquina Dolores Candales"
+
+otros_contactos: ""
+horario: "(LUN-VIE)17:00"
+aclaraciones: "235 personas por día"
+cuenta_bancaria: ""
+
+---

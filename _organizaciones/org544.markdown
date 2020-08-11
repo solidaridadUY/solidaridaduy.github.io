@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Mano Solidaria - Olla Hungría"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "Ituzaingó"
+actividades: "Olla"
+donaciones: "Todo tipo de donaciones"
+necesidades: ""
+telefono_contacto: "Damián(096171583),(Carina)091351300,(Brigitte)094226322,(Rosmary)096192143"
+direccion: "Hungría esq Belloni 3729"
+
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: "También se da merienda de Lunes a Domingo de 15 a 16:30hs"
+cuenta_bancaria: ""
+
+---

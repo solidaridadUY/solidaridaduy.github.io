@@ -1,0 +1,21 @@
+---
+layout: organizacion
+
+title: "Merendero Barrio Nelsa Gómez "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Treinta y Trés"
+barrio: "Ciudad de Treinta y Tres"
+actividades: "Merienda"
+donaciones: "Alimentos"
+necesidades: "Lentejas, porotos, alimentos no percederos y para comidas calientes. Buscan hacer comidas altamente calóricas. Polenta"
+telefono_contacto: "(Mary Segovia)094323560
+"
+direccion: "Ortelio Méndez, casi Santiago Nieva"
+
+otros_contactos: ""
+horario: "(LUN-DOM)17:00"
+aclaraciones: "Sábado y Domingo hacen almuerzo a las 12.30 hs."
+cuenta_bancaria: ""
+
+---

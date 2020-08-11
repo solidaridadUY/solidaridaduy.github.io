@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Docentes de UTU  Solymar"
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Ciudad de la Costa"
+actividades: "Canasta"
+donaciones: "Alimentos"
+necesidades: "Alimentos no perecederos. Leche en polvo"
+telefono_contacto: "(Claudia)098157893 "
+direccion: "Avda Los Aromos entre 34 "
+
+otros_contactos: ""
+horario: "(LUN-DOM)"
+aclaraciones: "Entrega de Canastas a estudiantes de UTU"
+cuenta_bancaria: ""
+
+---

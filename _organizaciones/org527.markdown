@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Iniciativa Vecinal "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Montevideo"
+barrio: "La Boyada"
+actividades: "Olla"
+donaciones: "Alimentos"
+necesidades: ""
+telefono_contacto: "(Sandra Magallanes)096031360 "
+direccion: "Pasaje 21 de Noviembre Solar 18 entre José Vidal y Ramón Piedras"
+
+otros_contactos: ""
+horario: "(SAB-DOM)13:30"
+aclaraciones: ""
+cuenta_bancaria: ""
+
+---

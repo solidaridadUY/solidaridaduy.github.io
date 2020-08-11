@@ -1,0 +1,20 @@
+---
+layout: organizacion
+
+title: "Políclinica El Remanso "
+date: 2020-08-10 23:30:45 -0300
+
+departamento: "Canelones"
+barrio: "Barros Blancos"
+actividades: "Merienda"
+donaciones: "Alimentos,Artículos de Limpieza"
+necesidades: "Leche en polvo  y cocoa"
+telefono_contacto: "(Marcos)092417225"
+direccion: "Ruta 8 Km 22 Calle Bañado de Oro Esq. Arroyo Yerbal"
+
+otros_contactos: ""
+horario: ""
+aclaraciones: "En situación de urgencia"
+cuenta_bancaria: ""
+
+---
